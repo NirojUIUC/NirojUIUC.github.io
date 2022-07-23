@@ -1,0 +1,629 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+argentina,2015,hidrotecwater,mechanical or industrial engineering,linkedin.com/company/hidrotecwater,pinamar,hidrotecwater,buenos aires,1-10,hidrotecwater.com
+argentina,2002,desarrollopage,design,linkedin.com/company/desarrollopage,"",desarrollopage,buenos aires,1-10,desarrollopage.com.ar
+argentina,1992,lopezhnos,wholesale,linkedin.com/company/lopezhnos,resistencia,grupo lopez hnos,chaco,51-200,lopezhnos.com.ar
+argentina,1932,mll-propiedades,real estate,linkedin.com/company/mll-propiedades,"",mll propiedades,buenos aires,11-50,mll.com.ar
+argentina,2014,ci-consultoría-y-auditoría-externa,management consulting,linkedin.com/company/ci-consultoría-y-auditoría-externa,roldan,ci - consultoría y auditoría externa,santa fe,1-10,""
+argentina,2018,ferini-capital,venture capital & private equity,linkedin.com/company/ferini-capital,"",ferini capital,buenos aires,1-10,ferinicapital.com
+argentina,2018,quinto-inversiones,financial services,linkedin.com/company/quinto-inversiones,"",quinto inversiones,buenos aires,11-50,quintoinversiones.com
+argentina,2010,otraidea,marketing and advertising,linkedin.com/company/otraidea,"",otraidea,buenos aires,1-10,otraidea.com.ar
+argentina,2006,matcomsa,telecommunications,linkedin.com/company/matcomsa,"",matcom,buenos aires,1-10,matcomsa.com.ar
+argentina,2011,la-tribu-del-arte,performing arts,linkedin.com/company/la-tribu-del-arte,martinez,la tribu del arte,buenos aires,11-50,latribudelarte.com.ar
+argentina,2009,neex,marketing and advertising,linkedin.com/company/neex,"",neex corp,buenos aires,1-10,neex.com.ar
+argentina,"",drogueria-charata,"",linkedin.com/company/drogueria-charata,"",drogueria charata,"",1-10,drogueriacharata.com.ar
+argentina,2004,solarpool,renewables & environment,linkedin.com/company/solarpool,"",solarpool,"",1-10,solarpool.com.ar
+argentina,1945,vasile-y-cia,mechanical or industrial engineering,linkedin.com/company/vasile-y-cia,"",vasile y cia,buenos aires,51-200,vasile.com.ar
+argentina,2004,katpa-producciones-audiovisuales,broadcast media,linkedin.com/company/katpa-producciones-audiovisuales,federal,katpa producciones audiovisuales,entre rios,1-10,""
+argentina,"",mirayre,construction,linkedin.com/company/mirayre,rosario,miray,santa fe,1-10,mirayre.com
+argentina,1991,mh-instrumentación-y-pesaje-srl,mechanical or industrial engineering,linkedin.com/company/mh-instrumentación-y-pesaje-srl,bahía blanca,mh instrumentación y pesaje srl,buenos aires,11-50,mh-balanzas.com.ar
+argentina,2003,cio-consultora-integral-operativa,management consulting,linkedin.com/company/cio-consultora-integral-operativa,"",cio consultora integral operativa,buenos aires,11-50,cioconsultora.com.ar
+argentina,1978,ahorabek,human resources,linkedin.com/company/ahorabek,"",bek,buenos aires,1-10,bek.com.ar
+argentina,1997,sqt-argentina,hospitality,linkedin.com/company/sqt-argentina,florida,sqt argentina,buenos aires,1-10,sqt.com.ar
+argentina,"",the-beauty-within,"health, wellness and fitness",linkedin.com/company/the-beauty-within,federal,the beauty within,entre rios,1-10,thebeautywithin.com.ar
+argentina,2012,sustentable-digital,management consulting,linkedin.com/company/sustentable-digital,"",sustentable digital,buenos aires,1-10,sustentabledigital.com
+argentina,"",t-maider,medical devices,linkedin.com/company/t-maider,neuquén,t-maider,neuquen,1-10,tmaider.com
+argentina,2014,mad-socks,design,linkedin.com/company/mad-socks,federal,mad socks,entre rios,1-10,lasmad.com
+argentina,1989,intech-conicet-unsam,research,linkedin.com/company/intech-conicet-unsam,chascomus,instituto tecnológico de chascomús,buenos aires,51-200,""
+argentina,2006,algeiba-s-a-,information technology and services,linkedin.com/company/algeiba-s-a-,"",algeiba s.a.,buenos aires,51-200,algeiba.com
+argentina,2002,axum-sistemas-inteligentes-srl,information technology and services,linkedin.com/company/axum-sistemas-inteligentes-srl,villa madero,axum sistemas inteligentes srl,buenos aires,1-10,axum.com.ar
+argentina,2009,msc-technology,information technology and services,linkedin.com/company/msc-technology,belen de escobar,msc technology,buenos aires,1-10,msctech.com.ar
+argentina,2005,guau-,environmental services,linkedin.com/company/guau-,tucuman,guau!,tucuman,1-10,""
+argentina,2012,bme-diseño,design,linkedin.com/company/bme-diseño,"",bme diseño,buenos aires,1-10,bmediseno.com
+argentina,2007,concepto-q---agencia-de-medios-&-comunicaci-n,marketing and advertising,linkedin.com/company/concepto-q---agencia-de-medios-&-comunicaci-n,"",concepto q - agencia de medios & comunicación,buenos aires,1-10,""
+argentina,2014,garufa-estudio,online media,linkedin.com/company/garufa-estudio,"",garufa estudio,buenos aires,1-10,garufaestudio.com
+argentina,2007,capne-l-conciencia-ambiental-para-la-preservaci-n-de-nuestro-entorno,civic & social organization,linkedin.com/company/capne-l-conciencia-ambiental-para-la-preservaci-n-de-nuestro-entorno,"",capne l conciencia ambiental para la preservación de nuestro entorno,"",1-10,capne.org
+argentina,2009,anthem-box,computer games,linkedin.com/company/anthem-box,"",anthem box,"",1-10,anthembox.com
+argentina,2012,tecsia,environmental services,linkedin.com/company/tecsia,"",tecsia,buenos aires,1-10,tecsia.com.ar
+argentina,"",ppr-solution,marketing and advertising,linkedin.com/company/ppr-solution,vicente lopez,ppr solution,buenos aires,51-200,pprsolution.com
+argentina,2014,wavebi,information technology and services,linkedin.com/company/wavebi,la plata,wavebi - business intelligence,buenos aires,1-10,wavebi.com.ar
+argentina,"",proxicom-srl,"",linkedin.com/company/proxicom-srl,"",proxicom srl,"",11-50,proxicom.com.ar
+argentina,2004,una-idea,photography,linkedin.com/company/una-idea,florida,una idea producciones multimedia,buenos aires,1-10,unaidea.com.ar
+argentina,2016,efectivo-ahora,financial services,linkedin.com/company/efectivo-ahora,"",efectivo ahora,buenos aires,51-200,efectivoahora.com
+argentina,2013,remax-puerto-argentina-real-estate-inmobiliarios-comercial-negocios-agentes-emprendimiento-clientes,real estate,linkedin.com/company/remax-puerto-argentina-real-estate-inmobiliarios-comercial-negocios-agentes-emprendimiento-clientes,"",remax puerto,buenos aires,11-50,""
+argentina,2012,ingenieriaerb,telecommunications,linkedin.com/company/ingenieriaerb,"",erb,buenos aires,51-200,igenieriaerb.com
+argentina,2017,hatecharg,information technology and services,linkedin.com/company/hatecharg,"",ha tech,buenos aires,1-10,hatech.com.ar
+argentina,"",lavicor-fabrica-de-cortinas-y-carpinteria-de-aluminio,construction,linkedin.com/company/lavicor-fabrica-de-cortinas-y-carpinteria-de-aluminio,salta,lavicor-fabrica de cortinas y carpinteria de aluminio,salta,11-50,lavicor.com.ar
+argentina,2009,netpointargentina,computer hardware,linkedin.com/company/netpointargentina,martinez,netpoint argentina,buenos aires,11-50,netpointar.com
+argentina,1993,edvsa,oil & energy,linkedin.com/company/edvsa,neuquén,edvsa,neuquen,1001-5000,edvsa.com
+argentina,"",zagas-profesional-s.a.,machinery,linkedin.com/company/zagas-profesional-s.a.,"",zagas profesional s.a.,buenos aires,11-50,zagas.com.ar
+argentina,2017,la-turbina-coworking,venture capital & private equity,linkedin.com/company/la-turbina-coworking,resistencia,la turbina ventures,chaco,11-50,incutexnea.com.ar
+argentina,2017,mega-energías,renewables & environment,linkedin.com/company/mega-energías,lincoln,mega energías,buenos aires,11-50,megaenergias.com
+argentina,"",la-rocchetta,"leisure, travel & tourism",linkedin.com/company/la-rocchetta,mar del plata,la rocchetta,buenos aires,11-50,larocchetta.com.ar
+argentina,"",escuela-superior-de-bellas-artes-dr.-josé-figueroa-alcorta,higher education,linkedin.com/company/escuela-superior-de-bellas-artes-dr.-josé-figueroa-alcorta,"",escuela superior de bellas artes dr. josé figueroa alcorta,cordoba,11-50,figueroalcorta.blogspot.com.ar
+argentina,"",jaos-sa,"",linkedin.com/company/jaos-sa,"",jaos sa,"",11-50,jaos.com.ar
+argentina,"",c-mara-de-turismo-de-la-provincia-de-c-rdoba,public relations and communications,linkedin.com/company/c-mara-de-turismo-de-la-provincia-de-c-rdoba,"",cámara de turismo de la provincia de córdoba,cordoba,1-10,""
+argentina,2007,ctl-information-technology,information technology and services,linkedin.com/company/ctl-information-technology,"",ctl information technology,buenos aires,51-200,ctl.com.ar
+argentina,"",la-seleccion,marketing and advertising,linkedin.com/company/la-seleccion,rosario,la seleccion,santa fe,1-10,laseleccion.net
+argentina,"",gerdau-argentina,mining & metals,linkedin.com/company/gerdau-argentina,perez,gerdau argentina,santa fe,501-1000,sipargerdau.com.ar
+argentina,"",extraceleste,design,linkedin.com/company/extraceleste,san fernando,extraceleste,buenos aires,1-10,extraceleste.com.ar
+argentina,2008,fundaciondebraargentina,non-profit organization management,linkedin.com/company/fundaciondebraargentina,"",fundación debra argentina,buenos aires,11-50,debraargentina.org
+argentina,2009,amacom-ar,marketing and advertising,linkedin.com/company/amacom-ar,"",amacom,buenos aires,1-10,""
+argentina,"",corporate-channel,media production,linkedin.com/company/corporate-channel,"",corporate channel,"",1-10,corporatechannel.tv
+argentina,"",laboratorios-northia,pharmaceuticals,linkedin.com/company/laboratorios-northia,"",laboratorios northia,buenos aires,51-200,northia.com.ar
+argentina,"",naci-n-seguros-s.a.,insurance,linkedin.com/company/naci-n-seguros-s.a.,"",nación seguros s.a.,buenos aires,1001-5000,""
+argentina,"",arteba,arts and crafts,linkedin.com/company/arteba,"",arteba,"",1-10,arteba.org.ar
+argentina,2017,autotigre,automotive,linkedin.com/company/autotigre,"",autotigre - concesionario oficial chevrolet,buenos aires,1-10,""
+argentina,2013,red-arte,fine art,linkedin.com/company/red-arte,"",red arte,buenos aires,1-10,redarte.com.ar
+argentina,2009,fundaci-n-sadosky,information technology and services,linkedin.com/company/fundaci-n-sadosky,"",fundación sadosky,buenos aires,11-50,fundacionsadosky.org.ar
+argentina,1967,universidad-caece,higher education,linkedin.com/company/universidad-caece,"",universidad caece,buenos aires,201-500,ucaece.edu.ar
+argentina,"",sportiatech-s-a-s,information technology and services,linkedin.com/company/sportiatech-s-a-s,federal,sportmanager,entre rios,11-50,sportmanager.com.ar
+argentina,"",la-sonoteca,"",linkedin.com/company/la-sonoteca,"",la sonoteca,buenos aires,1-10,""
+argentina,2010,alto-silicon,research,linkedin.com/company/alto-silicon,san salvador de jujuy,alto silicon,jujuy,11-50,altosilicon.com
+argentina,"",multicommerce-s.a.,information technology and services,linkedin.com/company/multicommerce-s.a.,"",multicommerce s.a.,"",11-50,multicommerce.com.ar
+argentina,2016,pmleaders,management consulting,linkedin.com/company/pmleaders,"",pm leaders ltd,buenos aires,1-10,pmleaders.com.ar
+argentina,2008,republica-libre,marketing and advertising,linkedin.com/company/republica-libre,"",republica libre,"",1-10,republicalibre.com.ar
+argentina,2017,leverbox,internet,linkedin.com/company/leverbox,"",leverbox,buenos aires,11-50,leverbox.com
+argentina,2010,yapa-estudio,graphic design,linkedin.com/company/yapa-estudio,"",yapaestudio,buenos aires,1-10,yapaestudio.com.ar
+argentina,"",quintans-tours,"leisure, travel & tourism",linkedin.com/company/quintans-tours,"",quintans tours,buenos aires,11-50,quintanstours.com.ar
+argentina,"",gramy-s.a.,electrical/electronic manufacturing,linkedin.com/company/gramy-s.a.,"",gramy s.a.,buenos aires,51-200,gramysa.com
+argentina,1989,parigi-consulting-projects,human resources,linkedin.com/company/parigi-consulting-projects,"",parigi consulting projects,buenos aires,1-10,parigicp.com.ar
+argentina,"",forestadora-tapebicua-s-a-,paper & forest products,linkedin.com/company/forestadora-tapebicua-s-a-,"",forestadora tapebicua s.a.,misiones,11-50,tapebicua.com.ar
+argentina,"",ayres-clinica,hospital & health care,linkedin.com/company/ayres-clinica,"",clínica ayres,buenos aires,51-200,clinicaayres.com.ar
+argentina,"",comercializadora-de-medios-del-interior-sa,marketing and advertising,linkedin.com/company/comercializadora-de-medios-del-interior-sa,"",cmi medios regionales,buenos aires,51-200,cmimediosregionales.com
+argentina,2014,maxit-consulting,information technology and services,linkedin.com/company/maxit-consulting,"",maxit consulting - performance services s.r.l.,buenos aires,11-50,maxit-consulting.net
+argentina,"",d-viaje-destinos,"",linkedin.com/company/d-viaje-destinos,"",d viaje destinos,"",1-10,deviajedestinos.com.ar
+argentina,2005,layunta,ranching,linkedin.com/company/layunta,galvez,cabaña la yunta. genética hereford,santa fe,1-10,xn--cabaalayunta-dhb.com.ar
+argentina,2015,fecive,motion pictures and film,linkedin.com/company/fecive,"",fecive. festival de cine venezolano,buenos aires,11-50,fecive.com
+argentina,2011,arkconsultores,human resources,linkedin.com/company/arkconsultores,federal,arkconsultores,entre rios,1-10,arkconsultores.com.ar
+argentina,"",fowey,program development,linkedin.com/company/fowey,"",fowey,"",1-10,fowey.com.ar
+argentina,2002,scud-time,textiles,linkedin.com/company/scud-time,carlos pellegrini,scud time,santa fe,1-10,scudtime.com
+argentina,"",farmacia-san-pedro,cosmetics,linkedin.com/company/farmacia-san-pedro,cabildo,farmacia san pedro,buenos aires,51-200,""
+argentina,1993,megaflex-s-a-,chemicals,linkedin.com/company/megaflex-s-a-,burzaco,megaflex s.a.,buenos aires,51-200,megaflex.com.ar
+argentina,"",vivero-productora,"",linkedin.com/company/vivero-productora,"",vivero productora,"",11-50,viveroproductora.com.ar
+argentina,2003,qsp-cordoba-s-a-,computer hardware,linkedin.com/company/qsp-cordoba-s-a-,córdoba,qsp cordoba s.a.,cordoba,1-10,qspcba.com.ar
+argentina,"",colorjet-s.r.l.,graphic design,linkedin.com/company/colorjet-s.r.l.,resistencia,colorjet s.r.l.,chaco,11-50,colorjet.com.ar
+argentina,1977,valmecs.a.,oil & energy,linkedin.com/company/valmecs.a.,tortuguitas,valmec s.a.,buenos aires,51-200,valmec.com.ar
+argentina,2015,brignone-solutions,information technology and services,linkedin.com/company/brignone-solutions,alta gracia,brignone solutions,cordoba,1-10,brignonesolutions.com
+argentina,1989,grupo-madero-rosario,architecture & planning,linkedin.com/company/grupo-madero-rosario,rosario,grupo madero rosario,santa fe,1-10,grupomadero.com.ar
+argentina,"",el-holandes,"",linkedin.com/company/el-holandes,"",el holandes,"",11-50,elholandes.com.ar
+argentina,2016,coldwellbankerpuertonortegroup,real estate,linkedin.com/company/coldwellbankerpuertonortegroup,tigre,coldwell banker puerto norte group,buenos aires,11-50,puertonortegroup.com.ar
+argentina,1988,synthesis-retail-solutions,computer software,linkedin.com/company/synthesis-retail-solutions,florida,grupo synthesis,buenos aires,1001-5000,gruposynthesis.com
+argentina,2001,isgh-de-la-patagonia,education management,linkedin.com/company/isgh-de-la-patagonia,comodoro rivadavia,isgh de la patagonia,chubut,11-50,isghpatagonia.com.ar
+argentina,"",minirobots-ar,computer software,linkedin.com/company/minirobots-ar,tandil,minirobots,buenos aires,1-10,minirobots.com.ar
+argentina,2005,coya-comunicación-visual,design,linkedin.com/company/coya-comunicación-visual,necochea,coya | comunicación visual,buenos aires,1-10,coyaestudio.com
+argentina,2013,queruza,music,linkedin.com/company/queruza,"",queruza,buenos aires,1-10,queruza.com
+argentina,"",hanford-s-a-,"",linkedin.com/company/hanford-s-a-,"",hanford s.a.,"",11-50,hanfordesign.com.ar
+argentina,"",copasfn,real estate,linkedin.com/company/copasfn,santa fe,colegio de profesionales de la agrimensura de la provincia de santa fe distrito norte,santa fe,1-10,copasfn.org.ar
+argentina,"",farmarecord-s.a.,pharmaceuticals,linkedin.com/company/farmarecord-s.a.,"",farmarecord s.a.,buenos aires,11-50,farmarecord.com.ar
+argentina,2014,agudurante,design,linkedin.com/company/agudurante,"",agudurante,buenos aires,1-10,agudurante.com
+argentina,"",scan-latam,law enforcement,linkedin.com/company/scan-latam,"",scan ehs latam,buenos aires,1-10,scanambiental.com
+argentina,2011,bendjouya-rasore-consultores,management consulting,linkedin.com/company/bendjouya-rasore-consultores,"",bendjouya + rasore consultores,"",1-10,brconsultores.com.ar
+argentina,"",carnipol,restaurants,linkedin.com/company/carnipol,triunvirato,carnipol,buenos aires,11-50,""
+argentina,2012,ambas-estudio,architecture & planning,linkedin.com/company/ambas-estudio,"",ambas estudio,buenos aires,1-10,ambasestudio.com
+argentina,2018,abuntu,professional training & coaching,linkedin.com/company/abuntu,"",abuntu,buenos aires,1-10,abuntu.com.ar
+argentina,"",gestam-s-a,consumer services,linkedin.com/company/gestam-s-a,"",gestam s.a,"",1001-5000,gestam.com.ar
+argentina,1989,hoster-a-los-notros,hospitality,linkedin.com/company/hoster-a-los-notros,"",hostería los notros,buenos aires,1-10,losnotros.com
+argentina,1982,rolls-s-r-l,chemicals,linkedin.com/company/rolls-s-r-l,beccar,rolls srl,buenos aires,11-50,rolls.com.ar
+argentina,1998,magma-comunicación,marketing and advertising,linkedin.com/company/magma-comunicación,caseros,magma comunicación,buenos aires,1-10,magmacomunicacion.com.ar
+argentina,2007,telerecargas,telecommunications,linkedin.com/company/telerecargas,"",telerecargas,"",11-50,telerecargas.com.ar
+argentina,1996,latinsec,security and investigations,linkedin.com/company/latinsec,"",latinsec,buenos aires,51-200,latinsec.com
+argentina,"",uptitud,design,linkedin.com/company/uptitud,"",uptitud,"",1-10,uptitud.com.ar
+argentina,"",vida-coworking,executive office,linkedin.com/company/vida-coworking,córdoba,vida cowork,cordoba,1-10,vidacowork.com
+argentina,"",el-trebol,oil & energy,linkedin.com/company/el-trebol,"",el trebol,"",11-50,trefoil-limited.com
+argentina,1997,makerit,computer software,linkedin.com/company/makerit,mar del plata,maker - desarrollos tecnológicos,buenos aires,11-50,makerelectronica.com.ar
+argentina,1969,odfjell-terminals-tagsa-sa,chemicals,linkedin.com/company/odfjell-terminals-tagsa-sa,"",odfjell terminals tagsa sa,buenos aires,201-500,odfjellterminals.com.ar
+argentina,2019,ld-consultancy,marketing and advertising,linkedin.com/company/ld-consultancy,"",ld consultores,buenos aires,1-10,ldconsultores.com.ar
+argentina,2010,centro-de-emprendedores-utn-regional-rafaela,education management,linkedin.com/company/centro-de-emprendedores-utn-regional-rafaela,rafaela,centro de emprendedores utn regional rafaela,santa fe,1-10,""
+argentina,"",papelera-mauger-s.a.,paper & forest products,linkedin.com/company/papelera-mauger-s.a.,"",papelera mauger s.a.,"",11-50,papeleramauger.com.ar
+argentina,"",monsanto-argentina-s.a.i.c.,chemicals,linkedin.com/company/monsanto-argentina-s.a.i.c.,"",monsanto argentina s.a.i.c.,buenos aires,11-50,monsanto.com.ar
+argentina,2015,proyectocultivarte,environmental services,linkedin.com/company/proyectocultivarte,"",proyecto cultivarte,buenos aires,1-10,cultivarte.com.ar
+argentina,2011,dag-s,construction,linkedin.com/company/dag-s,san justo,dag-s,buenos aires,1-10,dag-s.com.ar
+argentina,2003,buenos-aires-sonora,music,linkedin.com/company/buenos-aires-sonora,"",buenos aires sonora,buenos aires,1-10,buenosairessonora.com.ar
+argentina,"",entelequia,publishing,linkedin.com/company/entelequia,"",entelequia,"",1-10,revistaentelequia.com
+argentina,2016,gemba-consultora-organizacional,management consulting,linkedin.com/company/gemba-consultora-organizacional,puerto madryn,gemba consultora organizacional,chubut,1-10,gembaconsultora.com.ar
+argentina,"",martinez-y-staneck-s.a.,business supplies and equipment,linkedin.com/company/martinez-y-staneck-s.a.,tandil,martinez y staneck s.a.,buenos aires,11-50,martinezystaneck.com.ar
+argentina,2004,miradas-foto-y-video,media production,linkedin.com/company/miradas-foto-y-video,olivos,miradas foto y video,buenos aires,1-10,miradasfotoyvideo.com.ar
+argentina,2007,internet-para-vos,internet,linkedin.com/company/internet-para-vos,"",internet para vos,buenos aires,1-10,internetparavos.com.ar
+argentina,1936,grupo-brugnoli,farming,linkedin.com/company/grupo-brugnoli,pampa del infierno,grupo brugnoli,chaco,51-200,grupobrugnoli.com
+argentina,1983,centro-de-estudios-en-ginecolog-a-y-reproducci-n-cegyr-,medical practice,linkedin.com/company/centro-de-estudios-en-ginecolog-a-y-reproducci-n-cegyr-,"",centro de estudios en ginecología y reproducción (cegyr),"",11-50,cegyr.com
+argentina,1998,warlet-s.a.-construcciones,construction,linkedin.com/company/warlet-s.a.-construcciones,"",warlet s.a. construcciones,buenos aires,51-200,warlet.com.ar
+argentina,"",terminal-6-s.-a.,food production,linkedin.com/company/terminal-6-s.-a.,"",terminal 6 s. a.,"",201-500,terminal6.com
+argentina,"",cmetech,"",linkedin.com/company/cmetech,"",cmetech,"",1-10,cmetech.com.ar
+argentina,2005,webmaster-en-merlo.com.ar,computer software,linkedin.com/company/webmaster-en-merlo.com.ar,merlo,webmaster en merlo.com.ar,buenos aires,1-10,webmasterenmerlo.com.ar
+argentina,2012,biblioteca-popular-la-carcova,libraries,linkedin.com/company/biblioteca-popular-la-carcova,"",biblioteca popular la carcova,buenos aires,11-50,""
+argentina,2013,fiducia-consulting,financial services,linkedin.com/company/fiducia-consulting,"",fiducia consulting,tucuman,1-10,fiduciaconsulting.com.ar
+argentina,"",raices-propiedades,real estate,linkedin.com/company/raices-propiedades,"",raices propiedades,"",11-50,raicesonline.com.ar
+argentina,"",pilotes-y-anclajes-srl,construction,linkedin.com/company/pilotes-y-anclajes-srl,"",pilotes y anclajes srl,buenos aires,11-50,pilotesyanclajes.com.ar
+argentina,"",sofi-martire,computer software,linkedin.com/company/sofi-martire,"",sofi martire,cordoba,51-200,""
+argentina,1999,caesba,security and investigations,linkedin.com/company/caesba,la plata,caesba - cámara de empresas de seguridad de buenos aires,buenos aires,1-10,caesba.org.ar
+argentina,"",diaz-s-a-,"",linkedin.com/company/diaz-s-a-,"",diaz s.a.,"",11-50,diazsa.net
+argentina,2017,el-ateneo-ac,civic & social organization,linkedin.com/company/el-ateneo-ac,"",el ateneo - asociación civil,buenos aires,1-10,elateneo.org.ar
+argentina,2007,ensol-nutrición-animal,farming,linkedin.com/company/ensol-nutrición-animal,"",ensol nutrición animal,buenos aires,201-500,""
+argentina,"",choferes-de-camiones-obra-social-de,hospital & health care,linkedin.com/company/choferes-de-camiones-obra-social-de,"",choferes de camiones-obra social de,buenos aires,11-50,camioneros-ba.org.ar
+argentina,"",the-language-company-argentina,education management,linkedin.com/company/the-language-company-argentina,"",the language company argentina,buenos aires,51-200,thelanguagecompany.com.ar
+argentina,"",dominguezlab,pharmaceuticals,linkedin.com/company/dominguezlab,paraná,dominguezlab,entre rios,11-50,dominguezlab.com
+argentina,2010,roskus,computer software,linkedin.com/company/roskus,"",roskus,buenos aires,1-10,roskus.com
+argentina,2005,xinergia---tecnolog-a-creatividad,information technology and services,linkedin.com/company/xinergia---tecnolog-a-creatividad,"",xinergia - tecnología + creatividad,santa fe,1-10,e-xinergia.com
+argentina,"",worknow-consultores,management consulting,linkedin.com/company/worknow-consultores,"",worknow,santa fe,1-10,""
+argentina,"",emsade-s-a-,environmental services,linkedin.com/company/emsade-s-a-,"",emsade s.a.,buenos aires,11-50,emsade.com.ar
+argentina,2014,wisboo,e-learning,linkedin.com/company/wisboo,"",wisboo.com,buenos aires,1-10,wisboo.com
+argentina,"",chocorisimo,restaurants,linkedin.com/company/chocorisimo,"",chocorisimo,buenos aires,11-50,chocorisimo.com
+argentina,"",kids-and-toys,consumer goods,linkedin.com/company/kids-and-toys,federal,kids and toys,entre rios,11-50,""
+argentina,2005,alpafabricaciónymontajesindustriales,construction,linkedin.com/company/alpafabricaciónymontajesindustriales,rosario,alpa fabricación y montajes industriales,santa fe,11-50,decro.com.ar
+argentina,1990,jb-srur-s.a.,real estate,linkedin.com/company/jb-srur-s.a.,córdoba,jb srur s.a.,cordoba,51-200,jbsrur.com.ar
+argentina,2017,des-cubrir,market research,linkedin.com/company/des-cubrir,córdoba,des/cubrir,cordoba,1-10,descubrir.info
+argentina,"",estudio-contable-ariel-reynoso,accounting,linkedin.com/company/estudio-contable-ariel-reynoso,tucuman,estudio contable ariel reynoso,tucuman,1-10,""
+argentina,"",flamia,"",linkedin.com/company/flamia,"",flamia,"",51-200,flamia.com
+argentina,2015,digital-house-argentina,education management,linkedin.com/company/digital-house-argentina,"",digital house - coding school,buenos aires,201-500,digitalhouse.com
+argentina,"",semillero-digital,marketing and advertising,linkedin.com/company/semillero-digital,"",semillero digital,buenos aires,1-10,""
+argentina,2013,nortam,packaging and containers,linkedin.com/company/nortam,benavidez,nortam,buenos aires,11-50,nortam.com.ar
+argentina,"",san-eliseo-country-golf-hotel-&-spa,real estate,linkedin.com/company/san-eliseo-country-golf-hotel-&-spa,san vicente,san eliseo country golf hotel & spa,buenos aires,1-10,saneliseo.com
+argentina,1960,alovero-garcia,construction,linkedin.com/company/alovero-garcia,merlo,alovero garcia,san luis,11-50,aloverogarcia.com
+argentina,1998,grid-marketing,events services,linkedin.com/company/grid-marketing,"",grid marketing,buenos aires,1-10,gridmarketing.com.ar
+argentina,1999,baplanning,architecture & planning,linkedin.com/company/baplanning,"",buenos aires planning,buenos aires,11-50,baplanning.com
+argentina,2019,esbranding,public relations and communications,linkedin.com/company/esbranding,tandil,esbranding consultora,buenos aires,1-10,esbrandingconsultora.com.ar
+argentina,2011,connectedar,marketing and advertising,linkedin.com/company/connectedar,"",connected group s.r.l,buenos aires,1-10,connectedgroup.com.ar
+argentina,2007,rb-mantenimiento-instrumental,facilities services,linkedin.com/company/rb-mantenimiento-instrumental,"",rb mantenimiento instrumental,buenos aires,1-10,rbmantenimiento.com
+argentina,1968,mutualriocuarto,medical devices,linkedin.com/company/mutualriocuarto,río cuarto,mutual médica río cuarto,cordoba,1001-5000,mutualmedica.org.ar
+argentina,1986,euroamerican-group,education management,linkedin.com/company/euroamerican-group,"",euroamerican educational group,buenos aires,11-50,euroamericangroup.net
+argentina,2019,owl-agencia-de-comunicación-creativa,marketing and advertising,linkedin.com/company/owl-agencia-de-comunicación-creativa,"",owl - agencia de comunicación creativa,buenos aires,1-10,agenciaowl.com.ar
+argentina,2013,gesintec,information technology and services,linkedin.com/company/gesintec,"",gesintec,"",1-10,gesintec.net
+argentina,2010,itparty-com-ar,information technology and services,linkedin.com/company/itparty-com-ar,"",itparty.com.ar,buenos aires,1-10,itparty.com.ar
+argentina,1996,the-capita-corporation,financial services,linkedin.com/company/the-capita-corporation,vicente lopez,the capita corporation,buenos aires,11-50,thecapita.com
+argentina,"",nuka-design,design,linkedin.com/company/nuka-design,"",nuka,buenos aires,1-10,nukaweb.com
+argentina,"",smile-broker,insurance,linkedin.com/company/smile-broker,"",smile broker,buenos aires,11-50,smilebroker.com.ar
+argentina,"",intraoffice-s-r-l-,architecture & planning,linkedin.com/company/intraoffice-s-r-l-,del viso,intraoffice s.r.l.,buenos aires,11-50,intraoffice.com.ar
+argentina,"",taad-sa,consumer electronics,linkedin.com/company/taad-sa,tablada,taad s.a.,buenos aires,51-200,taadargentina.com.ar
+argentina,2009,cbnutrici-n,sporting goods,linkedin.com/company/cbnutrici-n,"",cbdeportes,"",1-10,cbdeportes.com
+argentina,"",pez-comunicaci-n-visual,graphic design,linkedin.com/company/pez-comunicaci-n-visual,florencio varela,pez comunicación visual,buenos aires,1-10,pezdisenio.com.ar
+argentina,1993,colombo-prensa-comunicaci-n,public relations and communications,linkedin.com/company/colombo-prensa-comunicaci-n,"",colombo prensa-comunicación,buenos aires,11-50,""
+argentina,"",focasfilms,media production,linkedin.com/company/focasfilms,"",focas,buenos aires,11-50,""
+argentina,"",endomedical-group-srl,medical devices,linkedin.com/company/endomedical-group-srl,san isidro,endomedical group srl,buenos aires,11-50,gard-decouvertes.fr
+argentina,2013,latitud-45,oil & energy,linkedin.com/company/latitud-45,"",latitud 45,buenos aires,51-200,latitud-45.com
+argentina,2008,bbsconsultores,management consulting,linkedin.com/company/bbsconsultores,"",bbsconsultores,buenos aires,1-10,bbsconsultores.com
+argentina,"",estudio-itinerante,architecture & planning,linkedin.com/company/estudio-itinerante,córdoba,estudio itinerante,cordoba,1-10,estudioitinerante.com.ar
+argentina,"",sargantana-projects,internet,linkedin.com/company/sargantana-projects,"",sargantana projects,"",1-10,martincabana.com
+argentina,2010,red-katana,computer games,linkedin.com/company/red-katana,"",red katana,buenos aires,11-50,redkatana.com
+argentina,1992,grupo-salvatore,construction,linkedin.com/company/grupo-salvatore,san isidro,grupo salvatore,buenos aires,201-500,grupo-salvatore.com
+argentina,2009,ag-sustentable,management consulting,linkedin.com/company/ag-sustentable,"",ag sustentable,buenos aires,11-50,agsustentable.com
+argentina,2011,minimal-web,internet,linkedin.com/company/minimal-web,"",minimal web,buenos aires,1-10,minimalweb.com.ar
+argentina,"",bodega-y-finca-la-abeja,wine and spirits,linkedin.com/company/bodega-y-finca-la-abeja,san rafael,bodega y finca la abeja,mendoza,1-10,bodegalaabeja.com.ar
+argentina,2003,doxa-consultoria,human resources,linkedin.com/company/doxa-consultoria,córdoba,doxa consultores organizacionales,cordoba,1-10,campoanalitico.org
+argentina,"",tuteur-sacifia,pharmaceuticals,linkedin.com/company/tuteur-sacifia,"",www.com,"",201-500,wwww.com.ar
+argentina,2004,accesoya,civic & social organization,linkedin.com/company/accesoya,"",fundación acceso ya,buenos aires,1-10,""
+argentina,2000,alkemydiagnostico,individual & family services,linkedin.com/company/alkemydiagnostico,santa fe,alkemy diagnóstico,santa fe,11-50,alkemydiagnostico.com
+argentina,"",vip-seguridad-srl,security and investigations,linkedin.com/company/vip-seguridad-srl,"",vip seguridad srl,buenos aires,51-200,vipseguridad.com.ar
+argentina,2011,bg-advisors,investment management,linkedin.com/company/bg-advisors,"",bg advisors,buenos aires,1-10,bgadvisors.net
+argentina,"",k2b-argentina,information technology and services,linkedin.com/company/k2b-argentina,"",k2b argentina,"",1-10,k2bargentina.com.ar
+argentina,"",estudioe-enblanco,graphic design,linkedin.com/company/estudioe-enblanco,"",estudioe enblanco,"",1-10,estudioenblanco.com.ar
+argentina,2018,belén-balbi-recursos-humanos,human resources,linkedin.com/company/belén-balbi-recursos-humanos,pergamino,belén balbi recursos humanos,buenos aires,1-10,belenbalbi.com.ar
+argentina,"",a-sg-agencia-digital,management consulting,linkedin.com/company/a-sg-agencia-digital,"",a+sg agencia digital,"",1-10,agenciasg.com.ar
+argentina,2009,infoprof.com.ar,internet,linkedin.com/company/infoprof.com.ar,"",infoprof.com.ar,"",1-10,infoprof.com.ar
+argentina,1979,diagnóstico-médico-dr-occhiuzzi,"health, wellness and fitness",linkedin.com/company/diagnóstico-médico-dr-occhiuzzi,san miguel,diagnóstico médico dr. occhiuzzi,buenos aires,11-50,drocchiuzzi.com.ar
+argentina,"",pellacani-s.r.l.,automotive,linkedin.com/company/pellacani-s.r.l.,córdoba,pellacani s.r.l.,cordoba,51-200,pellacani.com.ar
+argentina,"",kaffir-thai,restaurants,linkedin.com/company/kaffir-thai,tres sargentos,kaffir thai,buenos aires,1-10,""
+argentina,2017,mindhub-la,higher education,linkedin.com/company/mindhub-la,"",mindhub la,buenos aires,1-10,mindhubweb.com
+argentina,"",holaveggie,food & beverages,linkedin.com/company/holaveggie,"",holaveggie,buenos aires,1-10,holaveggie.com.ar
+argentina,2000,dell-acquila-colombres-srl,events services,linkedin.com/company/dell-acquila-colombres-srl,"",dell´acquila-colombres srl,buenos aires,1-10,delco.com.ar
+argentina,2018,rapidcashx,individual & family services,linkedin.com/company/rapidcashx,"",rapidcash,buenos aires,1-10,""
+argentina,1985,rainbow-idiomas,education management,linkedin.com/company/rainbow-idiomas,"",rainbow idiomas,buenos aires,11-50,rainbowidiomas.com.ar
+argentina,"",habitacion-1520-produccion,motion pictures and film,linkedin.com/company/habitacion-1520-produccion,"",habitacion 1520 produccion,"",1-10,habitacion1520.com
+argentina,"",colegio-piaget,"",linkedin.com/company/colegio-piaget,"",colegio piaget,"",51-200,piaget.com.ar
+argentina,2012,gege-it,information technology and services,linkedin.com/company/gege-it,"",gege it,cordoba,1-10,gege.com.ar
+argentina,2003,braycom,information services,linkedin.com/company/braycom,"",braycom,buenos aires,11-50,braycom.com
+argentina,2015,socialcenter,marketing and advertising,linkedin.com/company/socialcenter,"",socialcenter,salta,1-10,socialcenter.com.ar
+argentina,2016,macher-it,internet,linkedin.com/company/macher-it,neuquén,macher it,neuquen,11-50,macherit.com
+argentina,"",museodelturismocarretera,museums and institutions,linkedin.com/company/museodelturismocarretera,la plata,museodelturismocarretera,buenos aires,1-10,museodelturismocarretera.com
+argentina,1989,topgroup-s.a.,information technology and services,linkedin.com/company/topgroup-s.a.,"",topgroup s.a.,buenos aires,51-200,topgroup.com.ar
+argentina,2003,lumicity-de-tesape-sa,retail,linkedin.com/company/lumicity-de-tesape-sa,posadas,lumicity de tesape sa,misiones,11-50,lumicity.com.ar
+argentina,"",instituto-odontologico-integral,hospital & health care,linkedin.com/company/instituto-odontologico-integral,"",instituto odontologico integral,buenos aires,11-50,ioideavanzada.com.ar
+argentina,"",petit-muebles-gacela-s.r.l.,furniture,linkedin.com/company/petit-muebles-gacela-s.r.l.,río cuarto,petit muebles gacela s.r.l.,cordoba,1-10,pmgacela.com.ar
+argentina,2017,termomochila,wholesale,linkedin.com/company/termomochila,"",delinova supplies,cordoba,11-50,delinovasupplies.com
+argentina,2011,fanwards,internet,linkedin.com/company/fanwards,"",fanwards,buenos aires,1-10,fanwards.com
+argentina,2018,newbitcrew,computer software,linkedin.com/company/newbitcrew,federal,newbitcrew,entre rios,1-10,newbitcrew.com
+argentina,"",soulenergy,renewables & environment,linkedin.com/company/soulenergy,"",soul-energy,buenos aires,11-50,soul-energy.com.ar
+argentina,2018,coctel-marketing-digital,marketing and advertising,linkedin.com/company/coctel-marketing-digital,"",coctel - marketing digital,buenos aires,1-10,""
+argentina,1923,federacion-argentina-de-pesas,sports,linkedin.com/company/federacion-argentina-de-pesas,"",federacion argentina de pesas,buenos aires,1-10,fap.org.ar
+argentina,1988,bodega-piedra-negra,wine and spirits,linkedin.com/company/bodega-piedra-negra,vista flores,bodega piedra negra,mendoza,11-50,bodegapiedranegra.com
+argentina,"",the-temple-bar---argentina,entertainment,linkedin.com/company/the-temple-bar---argentina,pilar,the temple bar - argentina,buenos aires,51-200,thetemplebar.com.ar
+argentina,"",estudio-kaplan-profesionales-&-asociados,accounting,linkedin.com/company/estudio-kaplan-profesionales-&-asociados,"",estudio kaplan profesionales & asociados,buenos aires,1-10,kaplanprofesionales.com.ar
+argentina,"",www.arielsabatella.com,photography,linkedin.com/company/www.arielsabatella.com,"",www.arielsabatella.com,"",1-10,arielsabatella.com
+argentina,2008,salta-ip-sa,investment management,linkedin.com/company/salta-ip-sa,salta,salta ip sa,salta,1-10,tgdeargentina.com.ar
+argentina,1978,estudio-vald,law practice,linkedin.com/company/estudio-vald,"",estudio vald,buenos aires,1-10,estudiovald.com.ar
+argentina,2018,ikiwi-argentina,financial services,linkedin.com/company/ikiwi-argentina,"",ikiwi argentina,buenos aires,1-10,ikiwi.net.ar
+argentina,2018,tgs-bsas,primary/secondary education,linkedin.com/company/tgs-bsas,"",the global school,buenos aires,11-50,theglobalschool.com.ar
+argentina,2017,viavantraslados,transportation/trucking/railroad,linkedin.com/company/viavantraslados,zárate,via van,buenos aires,1-10,""
+argentina,2009,mucha-ropa-y-pocas-perchas,apparel & fashion,linkedin.com/company/mucha-ropa-y-pocas-perchas,"",mucha ropa y pocas perchas,"",1-10,mucharopaypocasperchas.com
+argentina,2011,wedo-brokers,real estate,linkedin.com/company/wedo-brokers,vicente lopez,wedo  /brokers,buenos aires,1-10,wedo.com.ar
+argentina,1998,hellermanntyton-argentina,plastics,linkedin.com/company/hellermanntyton-argentina,"",hellermanntyton argentina,buenos aires,11-50,hellermanntyton.com.ar
+argentina,2006,centro-de-investigaciones-médicas-mar-del-plata,research,linkedin.com/company/centro-de-investigaciones-médicas-mar-del-plata,mar del plata,centro de investigaciones médicas mar del plata,buenos aires,11-50,cimmdp.com.ar
+argentina,2007,pilagá-s.a.,ranching,linkedin.com/company/pilagá-s.a.,martinez,pilagá s.a.,buenos aires,11-50,pilaga.com.ar
+argentina,2000,ramak-soft,program development,linkedin.com/company/ramak-soft,santiago del estero,ramak software y rrhh,santiago del estero,1-10,ramaksoft.com
+argentina,2012,latpower,telecommunications,linkedin.com/company/latpower,"",latpower srl,buenos aires,11-50,latpower.com
+argentina,2016,syncro-vr,computer software,linkedin.com/company/syncro-vr,"",syncro vr,buenos aires,1-10,syncrovr.com
+argentina,2006,dynamic-studio,design,linkedin.com/company/dynamic-studio,ramos mejia,dynamic studio,buenos aires,1-10,dynamic-studio.com
+argentina,2013,arcg,hospitality,linkedin.com/company/arcg,"",arcg,buenos aires,1-10,arcg.com.ar
+argentina,2019,fm-quality-solutions,management consulting,linkedin.com/company/fm-quality-solutions,"",fm quality solutions,buenos aires,1-10,fmqualitysolutions.com
+argentina,"",expreso-magnone,transportation/trucking/railroad,linkedin.com/company/expreso-magnone,"",expreso magnone,buenos aires,11-50,expresomagnone.com.ar
+argentina,1990,tecem-sa,machinery,linkedin.com/company/tecem-sa,"",tecem sa,buenos aires,51-200,tecemsa.com.ar
+argentina,2010,libus,public safety,linkedin.com/company/libus,"",libus,buenos aires,201-500,libus.com
+argentina,1978,eisenhardt-ar,construction,linkedin.com/company/eisenhardt-ar,"",eisenhardt®,buenos aires,11-50,eisenhardt.com.ar
+argentina,2001,finder-arg-s.a.,mechanical or industrial engineering,linkedin.com/company/finder-arg-s.a.,burzaco,finder arg s.a.,buenos aires,11-50,finderarg.com.ar
+argentina,2013,voulez-vous-caf-&-bistr-,food & beverages,linkedin.com/company/voulez-vous-caf-&-bistr-,"",voulez vous café & bistró,buenos aires,11-50,""
+argentina,"",camara-de-exploracion-y-produccion-de-hi,oil & energy,linkedin.com/company/camara-de-exploracion-y-produccion-de-hi,"",camara de exploracion y produccion de hi,buenos aires,51-200,ceph.com.ar
+argentina,1993,ipe-neuquen-s-a,oil & energy,linkedin.com/company/ipe-neuquen-s-a,neuquén,ipe neuquen s.a.,neuquen,201-500,ipeneuquen.com
+argentina,"",serylab-srl,"",linkedin.com/company/serylab-srl,lomas del mirador,serylab srl,buenos aires,1-10,""
+argentina,2019,mujeres-que-dejan-huellas,professional training & coaching,linkedin.com/company/mujeres-que-dejan-huellas,"",mujeres que dejan huellas,salta,1-10,""
+argentina,1987,indusgrafs.a.,printing,linkedin.com/company/indusgrafs.a.,"",indusgraf s.a.,buenos aires,1-10,indusgraf.com.ar
+argentina,2007,estudioinchauspe,accounting,linkedin.com/company/estudioinchauspe,santa rosa,estudio inchauspe,la pampa,1-10,cpninchauspe.blogspot.com.ar
+argentina,2010,my-own-office_4,law practice,linkedin.com/company/my-own-office_4,"",my own office,buenos aires,1-10,chr-abogados.com.ar
+argentina,1988,amrra-electromédicina,electrical/electronic manufacturing,linkedin.com/company/amrra-electromédicina,"",amrra electromedicina,buenos aires,1-10,amrra.com
+argentina,"",coolbeats-srl,events services,linkedin.com/company/coolbeats-srl,"",coolbeats srl,buenos aires,11-50,coolbeats.com.ar
+argentina,2013,indeleble,marketing and advertising,linkedin.com/company/indeleble,san isidro,indeleble,buenos aires,1-10,indeleble.com.ar
+argentina,"",el-sol-de-galicia-s.a.,food production,linkedin.com/company/el-sol-de-galicia-s.a.,villa martelli,el sol de galicia s.a.,buenos aires,11-50,elsoldegalicia.com.ar
+argentina,"",agemprendimientos,construction,linkedin.com/company/agemprendimientos,"",ag emprendimientos,buenos aires,11-50,agemprendimientos.com.ar
+argentina,2005,consultora-créeser,human resources,linkedin.com/company/consultora-créeser,los polvorines,consultora créeser,buenos aires,1-10,institutoscai.com
+argentina,2007,crawpic,marketing and advertising,linkedin.com/company/crawpic,vicente lopez,crawpic,buenos aires,11-50,crawpic.com
+argentina,2006,bangh-,consumer electronics,linkedin.com/company/bangh-,provincia de buenos aires,banghó,buenos aires,51-200,bangho.com.ar
+argentina,"",telebit-s.a.,oil & energy,linkedin.com/company/telebit-s.a.,godoy cruz,telebit s.a.,mendoza,51-200,telebitsa.com.ar
+argentina,2010,marketing-&-trade-services-sa,marketing and advertising,linkedin.com/company/marketing-&-trade-services-sa,"",marketing & trade services sa,"",51-200,marketingtrade.com.ar
+argentina,2001,mpheng,biotechnology,linkedin.com/company/mpheng,martinez,mph eng. s.r.l.,buenos aires,1-10,mpheng.com.ar
+argentina,2001,ittl-information-technology-transport-logistics,information technology and services,linkedin.com/company/ittl-information-technology-transport-logistics,"",ittl,buenos aires,11-50,ittl.com.ar
+argentina,"",hotel-waldorf,hospitality,linkedin.com/company/hotel-waldorf,"",hotel waldorf,buenos aires,11-50,waldorf-hotel.com.ar
+argentina,2013,patxa,information technology and services,linkedin.com/company/patxa,tucuman,patxa,tucuman,1-10,patxa.com
+argentina,2007,omnipresentes,design,linkedin.com/company/omnipresentes,federal,omnipresentes - creative gifts,entre rios,1-10,omnipresentes.com
+argentina,2012,grow-latam,marketing and advertising,linkedin.com/company/grow-latam,federal,grow latam,entre rios,11-50,growlatam.com
+argentina,"",marble-tree-group,management consulting,linkedin.com/company/marble-tree-group,"",marble tree group,"",1-10,marbletreegroup.com
+argentina,2016,informaticadelmar,computer & network security,linkedin.com/company/informaticadelmar,"",informatica del mar,buenos aires,1-10,informaticadelmar.com
+argentina,1968,arnaldo-chapini-s-r-l,wholesale,linkedin.com/company/arnaldo-chapini-s-r-l,godoy cruz,arnaldo chapini s.r.l,mendoza,51-200,chapini.com
+argentina,2014,o-kinesio,"health, wellness and fitness",linkedin.com/company/o-kinesio,rosario,o kinesio,santa fe,1-10,""
+argentina,2006,midom,marketing and advertising,linkedin.com/company/midom,san isidro,midom,buenos aires,11-50,midom.com.ar
+argentina,1992,consultoracrear,human resources,linkedin.com/company/consultoracrear,la plata,consultora crear,buenos aires,1-10,consultoracrear.com.ar
+argentina,2005,megahml,medical devices,linkedin.com/company/megahml,"",megah - medicina laboral,buenos aires,11-50,megah.com.ar
+argentina,2009,dale-hosting,internet,linkedin.com/company/dale-hosting,"",dale hosting,buenos aires,1-10,dalehosting.com
+argentina,2011,startmeapp,marketing and advertising,linkedin.com/company/startmeapp,"",startmeapp,buenos aires,11-50,startmeapp.com
+argentina,2017,treolab,management consulting,linkedin.com/company/treolab,"",treo laboratorio de proyectos,"",1-10,treolab.net
+argentina,"",precintos-el-lazo,"",linkedin.com/company/precintos-el-lazo,"",precintos el lazo,buenos aires,11-50,precintosellazo.com.ar
+argentina,2014,cc-group-comunicación,marketing and advertising,linkedin.com/company/cc-group-comunicación,"",cc-group comunicación,buenos aires,1-10,cc-group.com.ar
+argentina,"",transportadora-de-gas-del-norte,utilities,linkedin.com/company/transportadora-de-gas-del-norte,"",transportadora de gas del norte,buenos aires,501-1000,tgn.com.ar
+argentina,1946,cámara-de-comercio-industria-y-producción-comodoro-rivadavia,civic & social organization,linkedin.com/company/cámara-de-comercio-industria-y-producción-comodoro-rivadavia,comodoro rivadavia,"cámara de comercio, industria y producción comodoro rivadavia de comodoro rivadavia y rada tilly",chubut,1-10,cacipcr.org.ar
+argentina,1993,grupo-daq,industrial automation,linkedin.com/company/grupo-daq,villa carlos paz,grupo daq,cordoba,11-50,grupodaq.com
+argentina,2010,vientros,animation,linkedin.com/company/vientros,bahía blanca,vientros,buenos aires,1-10,vientros.com.ar
+argentina,"",arpenta-sociedad-de-bolsa-s.a.,capital markets,linkedin.com/company/arpenta-sociedad-de-bolsa-s.a.,"",arpenta sociedad de bolsa s.a.,buenos aires,51-200,arpenta.com.ar
+argentina,2003,panarea,computer software,linkedin.com/company/panarea,"",panarea,buenos aires,11-50,panarea.com.ar
+argentina,2016,gazzottiagro,farming,linkedin.com/company/gazzottiagro,junin,gazzottiagro-agricultura sustentable,buenos aires,1-10,""
+argentina,2012,energy-mercosur-sa,renewables & environment,linkedin.com/company/energy-mercosur-sa,"",energy mercosur sa,buenos aires,1-10,""
+argentina,1979,levitex,textiles,linkedin.com/company/levitex,"",levitex,buenos aires,11-50,levitex.com.ar
+argentina,2004,distecna,information technology and services,linkedin.com/company/distecna,irala,distecna,buenos aires,201-500,distecna.com
+argentina,"",mipol-repuestos,"",linkedin.com/company/mipol-repuestos,"",mipol repuestos,"",51-200,mipolrepuestos.com
+argentina,"",nueva-imagen---centro-de-est-tica,"health, wellness and fitness",linkedin.com/company/nueva-imagen---centro-de-est-tica,olavarría,nueva imagen - centro de estética,buenos aires,1-10,nuevaimagenspa.com
+argentina,2014,mercados-y-finanzas,management consulting,linkedin.com/company/mercados-y-finanzas,san salvador de jujuy,mercados y finanzas,jujuy,1-10,mercadosyfinanzasjujuy.com
+argentina,"",tcc-sociedad-de-bolsa,financial services,linkedin.com/company/tcc-sociedad-de-bolsa,"",tcc sociedad de bolsa,"",1-10,tccc.com.ar
+argentina,"",formacion-utn,professional training & coaching,linkedin.com/company/formacion-utn,"",formacion ipm,buenos aires,11-50,formacionipm.com
+argentina,2015,kiwe,graphic design,linkedin.com/company/kiwe,"",kiwe,buenos aires,1-10,estudiokiwe.com
+argentina,2012,nuevatraslasierra,"leisure, travel & tourism",linkedin.com/company/nuevatraslasierra,la paz,nuevatraslasierra | turismo y hospitalidad en la provincia de cordoba,cordoba,1-10,nuevatraslasierra.com.ar
+argentina,2017,autogen-nissan,automotive,linkedin.com/company/autogen-nissan,"",autogen - concesionario oficial nissan,buenos aires,51-200,autogen.com.ar
+argentina,2013,ventaja-tenis,sports,linkedin.com/company/ventaja-tenis,"",ventaja tenis,buenos aires,1-10,ventajatenis.com
+argentina,2017,consultoracuidar,management consulting,linkedin.com/company/consultoracuidar,"",cuidar,buenos aires,1-10,consultoracuidar.com.ar
+argentina,1989,serviflex-sa,packaging and containers,linkedin.com/company/serviflex-sa,haedo,serviflex sa,buenos aires,51-200,serviflex.com.ar
+argentina,2008,rmp-comunicaci-n,public relations and communications,linkedin.com/company/rmp-comunicaci-n,"",rmp comunicación,"",1-10,rmpcom.com.ar
+argentina,"",silcheck-sa,"",linkedin.com/company/silcheck-sa,"",silcheck sa,"",1-10,silcheck.com
+argentina,"",dyter,"health, wellness and fitness",linkedin.com/company/dyter,mendoza,dyter oftalmología especializada,mendoza,11-50,dyter.com.ar
+argentina,2018,appchem,chemicals,linkedin.com/company/appchem,"",appchem,buenos aires,1-10,appchem.com.ar
+argentina,"",san-gotardo,food & beverages,linkedin.com/company/san-gotardo,trenque lauquen,san gotardo,buenos aires,51-200,sangotardo.com.ar
+argentina,"",positive-consulting-internacional,management consulting,linkedin.com/company/positive-consulting-internacional,adrogue,positive consulting,buenos aires,1-10,""
+argentina,2008,pronovo-nutricion-animal-s-a,veterinary,linkedin.com/company/pronovo-nutricion-animal-s-a,río cuarto,pronovo nutrición animal s. a.,cordoba,1-10,pronovosa.com.ar
+argentina,2007,mtb-aventura-salta,"leisure, travel & tourism",linkedin.com/company/mtb-aventura-salta,salta,mtb aventura salta,salta,1-10,mtbsalta.com
+argentina,2014,e-campo,farming,linkedin.com/company/e-campo,"",e-campo,buenos aires,1-10,e-campored.com
+argentina,2007,igno-software,computer software,linkedin.com/company/igno-software,federal,igno software,entre rios,11-50,ignosoftware.com
+argentina,1997,dia-argentina,food & beverages,linkedin.com/company/dia-argentina,"",dia argentina,buenos aires,1001-5000,supermercadosdia.com.ar
+argentina,1964,electricidad-san-martin-s-a-,industrial automation,linkedin.com/company/electricidad-san-martin-s-a-,ramos mejia,electricidad san martin s.a.,buenos aires,51-200,elecsanmartin.com
+argentina,2010,go-management,management consulting,linkedin.com/company/go-management,"",gomc | argentina,buenos aires,1-10,gomc.com.ar
+argentina,2008,net-innova,e-learning,linkedin.com/company/net-innova,"",net-innova,buenos aires,1-10,net-innova.com.ar
+argentina,2017,llk-tech,wireless,linkedin.com/company/llk-tech,"",llk tech,buenos aires,1-10,llktech.com.ar
+argentina,"",a.c.o.f.a.r.-coop.farm.ltda.,pharmaceuticals,linkedin.com/company/a.c.o.f.a.r.-coop.farm.ltda.,azul,a.c.o.f.a.r. coop.farm.ltda.,buenos aires,51-200,acofar.com
+argentina,"",servilaq,"",linkedin.com/company/servilaq,"",servilaq,"",1-10,servilaq.com.ar
+argentina,2000,alfredo-bracaccini-&-asociados,human resources,linkedin.com/company/alfredo-bracaccini-&-asociados,"",alfredo bracaccini & asociados,buenos aires,1-10,bracaccini-eventos.com.ar
+argentina,"",indexport-messe-frankfurt,graphic design,linkedin.com/company/indexport-messe-frankfurt,"",indexport messe frankfurt,"",11-50,indexport.com.ar
+argentina,"",el-gran-vidrio,restaurants,linkedin.com/company/el-gran-vidrio,"",el gran vidrio,cordoba,1-10,elgranvidrio.com.ar
+argentina,"",fag-sistems,computer hardware,linkedin.com/company/fag-sistems,"",fag sistems,buenos aires,51-200,fagsistems.com.ar
+argentina,1958,clínica-abrines,mental health care,linkedin.com/company/clínica-abrines,"",clínica abrines,buenos aires,51-200,abrines.com.ar
+argentina,"",mladineo-&-asociados,accounting,linkedin.com/company/mladineo-&-asociados,"",mladineo & asociados,"",1-10,mladineo.com.ar
+argentina,2015,shg-support-hospitality-group,management consulting,linkedin.com/company/shg-support-hospitality-group,general pacheco,shg support hospitality group,buenos aires,11-50,shgsolutions.com
+argentina,"",pferd-latinoamerica,machinery,linkedin.com/company/pferd-latinoamerica,"",pferd latinoamerica,buenos aires,11-50,pferdla.com
+argentina,2018,debugitsrl,computer & network security,linkedin.com/company/debugitsrl,"",debugit,buenos aires,1-10,debugit.com.ar
+argentina,1980,transporte-coba-sa,mining & metals,linkedin.com/company/transporte-coba-sa,mar del plata,transporte coba sa,buenos aires,51-200,transportecoba.com.ar
+argentina,"",ajedrez-hoy,"",linkedin.com/company/ajedrez-hoy,"",ajedrez hoy,"",1-10,ajedrezhoy.com
+argentina,2019,imagencia-agencia,marketing and advertising,linkedin.com/company/imagencia-agencia,"",imagencia agencia,buenos aires,1-10,imagencia.com.ar
+argentina,2017,wannabecomunicación,marketing and advertising,linkedin.com/company/wannabecomunicación,rosario,wannabe visual arts,santa fe,1-10,holawannabe.com
+argentina,2000,thema-red-médica,"health, wellness and fitness",linkedin.com/company/thema-red-médica,mar del plata,thema red médica,buenos aires,11-50,themaredmedica.com.ar
+argentina,"",prospray-srl,"",linkedin.com/company/prospray-srl,"",prospray srl,"",11-50,prospray.com.ar
+argentina,2013,dooh-agency,marketing and advertising,linkedin.com/company/dooh-agency,san isidro,dooh agency,buenos aires,1-10,dooh.com.ar
+argentina,1999,casta-o-dise-o,internet,linkedin.com/company/casta-o-dise-o,paraná,castaño diseño,entre rios,1-10,estudiocastano.com
+argentina,"",las-oreiro,textiles,linkedin.com/company/las-oreiro,"",las oreiro,buenos aires,11-50,lasoreiro.com
+argentina,2012,vuelta-de-rozka,retail,linkedin.com/company/vuelta-de-rozka,"",vuelta de rozka,"",1-10,vueltaderozka.com.ar
+argentina,"",foxpro,marketing and advertising,linkedin.com/company/foxpro,"",foxpro,"",1-10,foxproline.com
+argentina,2018,geopetrol-plus-s-a,oil & energy,linkedin.com/company/geopetrol-plus-s-a,del viso,geopetrol plus s.a.,buenos aires,11-50,geopetrol.co
+argentina,2010,luis-rovira,design,linkedin.com/company/luis-rovira,"",luis rovira,buenos aires,1-10,luisrovira.com.ar
+argentina,"",sdiconsultora,professional training & coaching,linkedin.com/company/sdiconsultora,federal,sdiconsultora,entre rios,1-10,serviciosdeidiomas.com
+argentina,"",eurofrancia-s-a,"",linkedin.com/company/eurofrancia-s-a,"",eurofrancia s.a,"",51-200,eurofrancia.com.ar
+argentina,2017,talentos-en-red,human resources,linkedin.com/company/talentos-en-red,san isidro,talentos en red,buenos aires,1-10,talentosenred.net
+argentina,2006,magnaverum,e-learning,linkedin.com/company/magnaverum,"",magnaverum,buenos aires,11-50,magnaverum.com
+argentina,2013,o'conor-&-power-abogados-propiedad-industrial,law practice,linkedin.com/company/o'conor-&-power-abogados-propiedad-industrial,"",o'conor & power abogados propiedad industrial,buenos aires,11-50,oconorpower.com.ar
+argentina,2004,okhenita,alternative medicine,linkedin.com/company/okhenita,"",okhenita,"",1-10,okhenita.com.ar
+argentina,"",mr-urbina-llc,information technology and services,linkedin.com/company/mr-urbina-llc,"",mr urbina ®,buenos aires,11-50,mrurbina.com
+argentina,"",papelera-bariloche,retail,linkedin.com/company/papelera-bariloche,"",papelera bariloche - mayorista de librería,buenos aires,11-50,papelerabariloche.com.ar
+argentina,2008,kyt-love,internet,linkedin.com/company/kyt-love,argentina,kyt-love,santiago del estero,1-10,kyt-love.com
+argentina,1989,carpascasablancaargentina,events services,linkedin.com/company/carpascasablancaargentina,"",carpas casablanca,buenos aires,11-50,carpascasablanca.com.ar
+argentina,"",derechocudes,law practice,linkedin.com/company/derechocudes,"",instituto de investigación y estudios superiores del cudes,buenos aires,11-50,cudes.org.ar
+argentina,"",raul-ambrogi,"",linkedin.com/company/raul-ambrogi,"",raul ambrogi,"",1-10,raulambrogi.com.ar
+argentina,2014,lisboa-ind.,apparel & fashion,linkedin.com/company/lisboa-ind.,rosario,lisboa ind.,santa fe,1-10,lisboaind.com
+argentina,1913,municipio-esteban-echeverría,government administration,linkedin.com/company/municipio-esteban-echeverría,esteban echeverria,municipio esteban echeverría,buenos aires,1001-5000,estebanecheverria.gob.ar
+argentina,2014,at---dise-o,graphic design,linkedin.com/company/at---dise-o,federal,aeronave visual,entre rios,1-10,aeronavevisual.com
+argentina,2010,steel-and-concrete-engineering-services-s.h.,mechanical or industrial engineering,linkedin.com/company/steel-and-concrete-engineering-services-s.h.,santa fe,steel and concrete engineering services s.h.,santa fe,1-10,sces.com.ar
+argentina,2003,noticiaspositivas,media production,linkedin.com/company/noticiaspositivas,"",noticias positivas,buenos aires,1-10,noticiaspositivas.org
+argentina,2013,fundaciondac,motion pictures and film,linkedin.com/company/fundaciondac,"",fundación dac,buenos aires,11-50,fundaciondac.org.ar
+argentina,1897,grupo-murchison,logistics and supply chain,linkedin.com/company/grupo-murchison,"",grupo murchison,buenos aires,11-50,""
+argentina,1990,agrosprayargentina,farming,linkedin.com/company/agrosprayargentina,rosario,agrospray,santa fe,11-50,agrospray.com.ar
+argentina,1995,winers,information technology and services,linkedin.com/company/winers,mendoza,winers,mendoza,1-10,winers.com.ar
+argentina,1990,libreriausados,retail,linkedin.com/company/libreriausados,"",libreriausados.com.ar,buenos aires,1-10,libreriausados.com.ar
+argentina,2007,todomicro,consumer electronics,linkedin.com/company/todomicro,federal,todomicro,entre rios,1-10,todomicro.com.ar
+argentina,2019,wetekio,information technology and services,linkedin.com/company/wetekio,"",wetekio,buenos aires,11-50,wetek.io
+argentina,2004,induarte,management consulting,linkedin.com/company/induarte,"",induarte srl,buenos aires,1-10,induarte.com.ar
+argentina,2014,sytexpm,telecommunications,linkedin.com/company/sytexpm,córdoba,siteplan engineering,cordoba,11-50,siteplaneng.com
+argentina,"",loqueva.com,broadcast media,linkedin.com/company/loqueva.com,"",loqueva.com,"",1-10,loqueva.com
+argentina,2010,pht-fashion-mkt,management consulting,linkedin.com/company/pht-fashion-mkt,"",pht latam,buenos aires,1-10,phtlatam.com
+argentina,"",librería-el-aleph,publishing,linkedin.com/company/librería-el-aleph,"",librería el aleph,buenos aires,1-10,elaleph.com
+argentina,"",eduardo-graziani--gráfica,printing,linkedin.com/company/eduardo-graziani--gráfica,córdoba,eduardo graziani- gráfica,cordoba,11-50,egraziani.com.ar
+argentina,1955,rgv-consultora-argentina,accounting,linkedin.com/company/rgv-consultora-argentina,moron,rgv consultora argentina,buenos aires,11-50,rgvconsultora.com.ar
+argentina,"",minera-jose-cholino,"",linkedin.com/company/minera-jose-cholino,"",minera jose cholino,"",11-50,mineracholino.com.ar
+argentina,1998,foro-de-seguridad,security and investigations,linkedin.com/company/foro-de-seguridad,federal,foro de seguridad •  foro de profesionales latinoamericanos de seguridad,entre rios,11-50,forodeseguridad.com
+argentina,1915,casa-gallo,"",linkedin.com/company/casa-gallo,"",casa gallo,buenos aires,1-10,""
+argentina,1980,oficina-nielsen,accounting,linkedin.com/company/oficina-nielsen,"",oficina nielsen,"",1-10,oficinanielsen.com.ar
+argentina,"",brain-way-research-latin-america,insurance,linkedin.com/company/brain-way-research-latin-america,"",brain way research latin america,"",1-10,brainway.com.ar
+argentina,"",mercator-sa,"",linkedin.com/company/mercator-sa,"",mercator sa,"",51-200,mercator.com.ar
+argentina,2018,smart-trade-company,investment banking,linkedin.com/company/smart-trade-company,"",smart trade company,buenos aires,11-50,smarttradecompany.com
+argentina,2007,hand-selection,human resources,linkedin.com/company/hand-selection,córdoba,hand selection,cordoba,11-50,handselection.net
+argentina,2002,waynepharma,pharmaceuticals,linkedin.com/company/waynepharma,"",wayne pharma,buenos aires,1-10,waynepharma.com
+argentina,"",tienda-libero,retail,linkedin.com/company/tienda-libero,"",tienda libero,cordoba,1-10,tiendalibero.com.ar
+argentina,2001,garfin-agro-s-a-,farming,linkedin.com/company/garfin-agro-s-a-,"",garfin agro s.a.,buenos aires,51-200,garfinagro.com
+argentina,1986,motortrac-s.r.l.,machinery,linkedin.com/company/motortrac-s.r.l.,salta,motortrac s.r.l.,salta,11-50,motortrac.com.ar
+argentina,"",bm-licenciados,environmental services,linkedin.com/company/bm-licenciados,"",bm licenciados,buenos aires,1-10,""
+argentina,2001,star-group---seguridad-privada,security and investigations,linkedin.com/company/star-group---seguridad-privada,san isidro,star group - seguridad privada,buenos aires,201-500,stargroupsa.com.ar
+argentina,"",molino-matilde-s.a.,food production,linkedin.com/company/molino-matilde-s.a.,matilde,molino matilde s.a.,santa fe,11-50,molinomatilde.com.ar
+argentina,2015,lemonstudioinc,marketing and advertising,linkedin.com/company/lemonstudioinc,castelar,lemon studio inc,buenos aires,1-10,lemonstudioinc.com
+argentina,2005,maxcode-web-developers,internet,linkedin.com/company/maxcode-web-developers,paraná,maxcode web developers,entre rios,1-10,maxcode.com.ar
+argentina,2016,roboclean-srl,consumer services,linkedin.com/company/roboclean-srl,"",roboclean srl,buenos aires,1-10,roboclean.com.ar
+argentina,2005,drg-traducciones,translation and localization,linkedin.com/company/drg-traducciones,"",liftvalue,"",1-10,liftvalue.com
+argentina,2010,capital-humano-consulting,management consulting,linkedin.com/company/capital-humano-consulting,el palomar,red latina coaching estratégico,buenos aires,1-10,redlatinacoaching.com
+argentina,2000,tecnonexo,e-learning,linkedin.com/company/tecnonexo,"",tecnonexo,buenos aires,11-50,tecnonexo.com
+argentina,"",eseka-s.a.,human resources,linkedin.com/company/eseka-s.a.,"",eseka s.a.,"",501-1000,""
+argentina,"",talleres-trama-s.a.,graphic design,linkedin.com/company/talleres-trama-s.a.,"",talleres trama s.a.,"",11-50,tallerestrama.com.ar
+argentina,"",novocart,packaging and containers,linkedin.com/company/novocart,"",novocart,buenos aires,1-10,novocart.com.ar
+argentina,2017,lupa-ediciones-&-contenidos,information services,linkedin.com/company/lupa-ediciones-&-contenidos,"",lupa ediciones & contenidos,buenos aires,1-10,lupaediciones.com
+argentina,"",centro-de-ojos-martinez,"",linkedin.com/company/centro-de-ojos-martinez,"",centro de ojos martinez,"",11-50,comartinez.com.ar
+argentina,2017,pellenero,arts and crafts,linkedin.com/company/pellenero,"",pellenero by florencia nero,buenos aires,1-10,pellenero.com
+argentina,"",stematix-argentina,biotechnology,linkedin.com/company/stematix-argentina,"",stematix argentina,buenos aires,1-10,stematix.com
+argentina,2018,cramos,marketing and advertising,linkedin.com/company/cramos,"",cramos,buenos aires,1-10,cramos.com.ar
+argentina,1971,estudio-fortin,law practice,linkedin.com/company/estudio-fortin,resistencia,estudio jurídico fortin & asociados,chaco,1-10,estudiofortin.com.ar
+argentina,2003,nuthost-srl,internet,linkedin.com/company/nuthost-srl,"",nuthost srl,"",11-50,""
+argentina,2008,collaborative-s-r-l-,information technology and services,linkedin.com/company/collaborative-s-r-l-,rosario,collaborative s.r.l.,santa fe,11-50,collaborative.com.ar
+argentina,"",enrique-g.-felice-&-asociados-asesores-de-seguros,insurance,linkedin.com/company/enrique-g.-felice-&-asociados-asesores-de-seguros,"",enrique g. felice & asociados asesores de seguros,buenos aires,1-10,egfelice.com.ar
+argentina,"",impaqting,environmental services,linkedin.com/company/impaqting,"",impaqting,buenos aires,1-10,impaqting.com
+argentina,"",jcaberturasaluminioypvc,facilities services,linkedin.com/company/jcaberturasaluminioypvc,"",jc aberturas,buenos aires,11-50,jcaberturas.com
+argentina,"",hospital-de-balcarce,"",linkedin.com/company/hospital-de-balcarce,"",hospital de balcarce,"",51-200,telefax.com.ar
+argentina,"",consutecniche,management consulting,linkedin.com/company/consutecniche,villa carlos paz,consu,cordoba,1-10,consu.it
+argentina,"",lemiro-pablo-pietroboni-s.a.,construction,linkedin.com/company/lemiro-pablo-pietroboni-s.a.,"",lemiro pablo pietroboni s.a.,"",201-500,lemiropietroboni.com.ar
+argentina,"",jefe-de-recursos-humanos,construction,linkedin.com/company/jefe-de-recursos-humanos,"",jefe de recursos humanos,"",51-200,catfer.com.ar
+argentina,2003,detalles-de-moda-srl,apparel & fashion,linkedin.com/company/detalles-de-moda-srl,"",detalles de moda srl,buenos aires,11-50,uxia.com.ar
+argentina,"",consorcio-edificio-n-39,design,linkedin.com/company/consorcio-edificio-n-39,"",consorcio edificio n 39,buenos aires,1-10,""
+argentina,2010,sinergia-contact-center-sa,retail,linkedin.com/company/sinergia-contact-center-sa,"",sinergia contact center sa,buenos aires,51-200,sinergia-cc.com
+argentina,2011,ficic,motion pictures and film,linkedin.com/company/ficic,cosquin,ficic . festival internacional de cine independiente de cosquín,cordoba,11-50,ficic.com.ar
+argentina,2005,hd-lab-de-hugo-javier-díaz-marilena-díaz-sh,oil & energy,linkedin.com/company/hd-lab-de-hugo-javier-díaz-marilena-díaz-sh,cipolletti,hd lab de hugo javier díaz marilena díaz sh,rio negro,1-10,hdlaboratorio.com
+argentina,"",mas-visual-media,marketing and advertising,linkedin.com/company/mas-visual-media,"",mas visual media,buenos aires,11-50,masvisualmedia.com
+argentina,"",estudio-mg-obras,construction,linkedin.com/company/estudio-mg-obras,"",estudio mg obras,buenos aires,1-10,mgobras.com.ar
+argentina,2003,dnastudio,design,linkedin.com/company/dnastudio,"",dna design studio,buenos aires,1-10,wearedna.studio
+argentina,1977,sistran-consultores,computer software,linkedin.com/company/sistran-consultores,"",sistran consultores,buenos aires,501-1000,sistran.com
+argentina,2000,vissual-tv,motion pictures and film,linkedin.com/company/vissual-tv,"",vissual,buenos aires,11-50,vissual.tv
+argentina,"",eh-objetos,design,linkedin.com/company/eh-objetos,"",eh! objetos,buenos aires,1-10,ehobjetos.com.ar
+argentina,"",proveedor-para-industrias,machinery,linkedin.com/company/proveedor-para-industrias,ramos mejia,proveedor para industrias,buenos aires,1-10,ppindustrias.com.ar
+argentina,"",estudio-gerlero,"",linkedin.com/company/estudio-gerlero,"",estudio gerlero,"",11-50,estudiogerlero.com
+argentina,2007,estetica-buenos,cosmetics,linkedin.com/company/estetica-buenos,"",estetica buenos,buenos aires,11-50,esteticabsas.com
+argentina,2000,atefi,banking,linkedin.com/company/atefi,"",atefi,buenos aires,201-500,atefi.org
+argentina,2018,ideararteyeducacion,professional training & coaching,linkedin.com/company/ideararteyeducacion,la plata,idear - consultora de arte y educación,buenos aires,11-50,ideararteyeducacion.com.ar
+argentina,"",parnor,food & beverages,linkedin.com/company/parnor,"",parnor,"",51-200,parnor.com.ar
+argentina,1974,o-keefe-real-estate,real estate,linkedin.com/company/o-keefe-real-estate,quilmes,o´keefe inmobiliaria,buenos aires,11-50,okeefe.com.ar
+argentina,"",ace_3,information technology and services,linkedin.com/company/ace_3,"",ace,"",1-10,ricchards.com.ar
+argentina,1989,libertad-s-a-,supermarkets,linkedin.com/company/libertad-s-a-,"",libertad s.a.,cordoba,1001-5000,libertadsa.com.ar
+argentina,2019,chakana-investment,venture capital & private equity,linkedin.com/company/chakana-investment,"",chakana investment,buenos aires,1-10,chakana.com.ar
+argentina,"",wci-de-argentina-s.a.,management consulting,linkedin.com/company/wci-de-argentina-s.a.,"",wci de argentina s.a.,"",51-200,wciargentina.com.ar
+argentina,2009,labem,mechanical or industrial engineering,linkedin.com/company/labem,lujan,labem - laboratorio de ensayos de materiales,buenos aires,1-10,labem.com.ar
+argentina,"",technology-bureau-s.a.,telecommunications,linkedin.com/company/technology-bureau-s.a.,"",technology bureau s.a.,"",51-200,""
+argentina,2008,area7g,internet,linkedin.com/company/area7g,rosario,area 7g,santa fe,1-10,area7g.com
+argentina,2009,lostualdos,ranching,linkedin.com/company/lostualdos,zárate,los tualdos s.a.,buenos aires,1-10,lostualdos.com.ar
+argentina,"",centrales-termicas-mendoza-sa,utilities,linkedin.com/company/centrales-termicas-mendoza-sa,"",centrales termicas mendoza sa,"",201-500,sadesa.com.ar
+argentina,2018,novis-argentina,logistics and supply chain,linkedin.com/company/novis-argentina,salto,novis argentina,buenos aires,11-50,novis.com.ar
+argentina,2009,latam-agro-s-a-,investment management,linkedin.com/company/latam-agro-s-a-,provincia de buenos aires,latam agro s.a.,buenos aires,11-50,latamagro.com
+argentina,"",dobrozamac,mining & metals,linkedin.com/company/dobrozamac,ciudadela,"dobro - servicio de diseño, matricería e inyección en zamac",buenos aires,1-10,dobro.com.ar
+argentina,2012,high-impact-learning,education management,linkedin.com/company/high-impact-learning,tigre,high impact learning,buenos aires,1-10,hilearning.org
+argentina,"",hermida-propiedades,real estate,linkedin.com/company/hermida-propiedades,pilar,hermida propiedades,buenos aires,1-10,hermidapropiedades.com.ar
+argentina,1973,chungo,food & beverages,linkedin.com/company/chungo,"",chungo,buenos aires,51-200,chungo.com.ar
+argentina,2019,viva-la-tierra,farming,linkedin.com/company/viva-la-tierra,"",viva la tierra,buenos aires,1-10,vivalatierra.com.ar
+argentina,"",gea-,construction,linkedin.com/company/gea-,"",gea+,buenos aires,51-200,quantumedical.com.br
+argentina,1992,etilen-abarkar-s-a-,hospital & health care,linkedin.com/company/etilen-abarkar-s-a-,"",etilen® abarkar s.a.,buenos aires,11-50,etilen.com.ar
+argentina,"",fk-electromecanica,electrical/electronic manufacturing,linkedin.com/company/fk-electromecanica,"",fk electromecanica,"",11-50,transformadores-fk.com.ar
+argentina,"",sooft-technology,outsourcing/offshoring,linkedin.com/company/sooft-technology,córdoba,sooft technology,cordoba,51-200,sooft.com.ar
+argentina,1962,bahia-automotores-s-a,automotive,linkedin.com/company/bahia-automotores-s-a,bahía blanca,bahia automotores s.a,buenos aires,51-200,bahiaautomotores.com.ar
+argentina,1999,cardinal-servicios-integrales-s.a.,individual & family services,linkedin.com/company/cardinal-servicios-integrales-s.a.,"",cardinal worldwide services,buenos aires,201-500,cardinalsisa.com
+argentina,1966,asociación-de-hockey-litoral,sports,linkedin.com/company/asociación-de-hockey-litoral,rosario,asociación de hockey del litoral,santa fe,1-10,ahl.com.ar
+argentina,1988,integral-servicios-ingenier-a,mechanical or industrial engineering,linkedin.com/company/integral-servicios-ingenier-a,mar del plata,integral servicios ingeniería,buenos aires,1-10,integral-servicios.com
+argentina,1994,consultora-de-arquitectura-cda,architecture & planning,linkedin.com/company/consultora-de-arquitectura-cda,"",consultora de arquitectura cda,buenos aires,1-10,consultoracda.com
+argentina,1998,instituto-madero,higher education,linkedin.com/company/instituto-madero,argentina,instituto madero,santiago del estero,11-50,madero.org
+argentina,"",obra-social-del-personal-de-la-actividad-del-turf-ospat-,"health, wellness and fitness",linkedin.com/company/obra-social-del-personal-de-la-actividad-del-turf-ospat-,"",obra social del personal de la actividad del turf (ospat),buenos aires,51-200,ospat.com.ar
+argentina,2004,damasimport,retail,linkedin.com/company/damasimport,"",damasimport,"",1-10,damasimport.com
+argentina,1998,grupogo-agencia-de-medios,marketing and advertising,linkedin.com/company/grupogo-agencia-de-medios,"",grupo go agencia de medios,buenos aires,1-10,grupogo.com.ar
+argentina,1785,municipio-de-tigre,government administration,linkedin.com/company/municipio-de-tigre,provincia de buenos aires,municipio de tigre,buenos aires,1001-5000,tigre.gob.ar
+argentina,1963,universidad-cat-lica-de-salta,higher education,linkedin.com/company/universidad-cat-lica-de-salta,salta,universidad católica de salta,salta,1001-5000,ucasal.net
+argentina,2003,960-print,printing,linkedin.com/company/960-print,córdoba,960 print,cordoba,11-50,960sa.com.ar
+argentina,1977,estudio-contable-raposo-y-asociados,accounting,linkedin.com/company/estudio-contable-raposo-y-asociados,"",estudio contable raposo y asociados,"",11-50,estudioraposo.com.ar
+argentina,"",idiomanet,"",linkedin.com/company/idiomanet,"",idiomanet,"",51-200,idiomanet.com.ar
+argentina,2017,cloudworksglobal-srl,information technology and services,linkedin.com/company/cloudworksglobal-srl,"",cloudworks global,buenos aires,1-10,cloudworks.global
+argentina,2012,wide-argentina,textiles,linkedin.com/company/wide-argentina,tigre,wide argentina,buenos aires,11-50,widearg.com
+argentina,2007,isparg-s.a.,telecommunications,linkedin.com/company/isparg-s.a.,corrientes,isparg s.a.,corrientes,1-10,isparg.com.ar
+argentina,"",alquimaq,"",linkedin.com/company/alquimaq,"",alquimaq,"",51-200,alquimaq.com
+argentina,"",camara-argentina-de-fondos-comunes-de-in,non-profit organization management,linkedin.com/company/camara-argentina-de-fondos-comunes-de-in,"",camara argentina de fondos comunes de in,buenos aires,11-50,cafci.org.ar
+argentina,"",serin-s-a,"",linkedin.com/company/serin-s-a,"",serin s.a,"",51-200,serinplasticos.com.ar
+argentina,2010,accis-srl,industrial automation,linkedin.com/company/accis-srl,lomas de zamora,accis srl,buenos aires,1-10,accis-srl.com.ar
+argentina,"",kokue,civic & social organization,linkedin.com/company/kokue,"",kokue,tucuman,1-10,""
+argentina,"",idp-aparatos,oil & energy,linkedin.com/company/idp-aparatos,"",idp aparatos,"",1-10,idpaparatos.com
+argentina,2005,isft199,higher education,linkedin.com/company/isft199,el talar,instituto superior de formación técnica nº 199,buenos aires,11-50,""
+argentina,2012,panzapeople,apparel & fashion,linkedin.com/company/panzapeople,"",panzapeople,buenos aires,1-10,panzapeople.com
+argentina,"",vivero-medialunita,farming,linkedin.com/company/vivero-medialunita,marcos paz,vivero medialunita,buenos aires,1-10,viveromedialunita.com.ar
+argentina,2011,t&e-express,financial services,linkedin.com/company/t&e-express,"",t&e express,buenos aires,11-50,tyeexpress.com
+argentina,1987,desnac-sa,computer software,linkedin.com/company/desnac-sa,córdoba,desnac sa,cordoba,11-50,desnac.com.ar
+argentina,1999,biobyte-comunicacion---estrategia,marketing and advertising,linkedin.com/company/biobyte-comunicacion---estrategia,"",biobyte agencia,tucuman,1-10,biobyte.com.ar
+argentina,2009,le-cirque-dukuan,marketing and advertising,linkedin.com/company/le-cirque-dukuan,"",le cirque dukuan,"",1-10,lecirquedukuan.com
+argentina,1917,bonafidesaic,food & beverages,linkedin.com/company/bonafidesaic,villa ballester,bonafide saic,buenos aires,201-500,bonafide.com.ar
+argentina,"",sipromet-srl,"",linkedin.com/company/sipromet-srl,"",sipromet srl,"",11-50,sipromet.com.ar
+argentina,2017,chiliagencia,marketing and advertising,linkedin.com/company/chiliagencia,"",chili nuevas ideas,"",1-10,chilinuevasideas.com
+argentina,2014,prisset,investment banking,linkedin.com/company/prisset,"",prisset advisory,buenos aires,1-10,prisset.com
+argentina,1930,just-international-rrhh,cosmetics,linkedin.com/company/just-international-rrhh,general rodriguez,just international latam s.a.,buenos aires,51-200,""
+argentina,"",fundaci-n-aristas-discapacitados,fine art,linkedin.com/company/fundaci-n-aristas-discapacitados,federal,fundación aristas discapacitados,entre rios,11-50,artistas.org.ar
+argentina,2009,fdf-ventures-ltd,management consulting,linkedin.com/company/fdf-ventures-ltd,"",fdf ventures,buenos aires,1-10,""
+argentina,"",laserclic---332,graphic design,linkedin.com/company/laserclic---332,"",laserclic - 332,"",1-10,trestresdos.com.ar
+argentina,1999,fundacion-hospital-materno-infantil,non-profit organization management,linkedin.com/company/fundacion-hospital-materno-infantil,mar del plata,fundacion hospital materno infantil,buenos aires,1-10,fundami.com.ar
+argentina,1989,garcia-fernandez-turismo,"leisure, travel & tourism",linkedin.com/company/garcia-fernandez-turismo,"",garcia fernandez turismo,buenos aires,11-50,gft.tur.ar
+argentina,2003,tumbao-cuba-producciones.,performing arts,linkedin.com/company/tumbao-cuba-producciones.,"",tumbao cuba danzas & espectáculos.,buenos aires,11-50,tumbaodanzas.com.ar
+argentina,2010,dynamium-s.a.,information technology and services,linkedin.com/company/dynamium-s.a.,"",dynamium s.a.,buenos aires,1-10,dynamium-tech.com
+argentina,"",havanna,food & beverages,linkedin.com/company/havanna,"",havanna,"",1001-5000,""
+argentina,2018,nutrite,food & beverages,linkedin.com/company/nutrite,"",nutrite,buenos aires,1-10,nutrite.com.ar
+argentina,"",alianza-francesa,professional training & coaching,linkedin.com/company/alianza-francesa,"",alianza francesa,buenos aires,11-50,alianzafrancesa.org.ar
+argentina,2009,dicomo,design,linkedin.com/company/dicomo,"",dicomo,buenos aires,1-10,dicomodesign.com
+argentina,1979,incompany-languagetraining,professional training & coaching,linkedin.com/company/incompany-languagetraining,"",incompany language training,buenos aires,51-200,iclt.com.ar
+argentina,"",true-logistic,import and export,linkedin.com/company/true-logistic,"",true logistic,"",1-10,truelogistic.biz
+argentina,2016,wortise,internet,linkedin.com/company/wortise,nordelta,wortise,buenos aires,11-50,wortise.com
+argentina,2011,el-sitio-de-los-altos-de-podesta,internet,linkedin.com/company/el-sitio-de-los-altos-de-podesta,"",el sitio de los altos de podesta,"",1-10,losaltosdepodesta.com.ar
+argentina,1979,mazzeipropiedades,real estate,linkedin.com/company/mazzeipropiedades,ezeiza,mazzei propiedades,buenos aires,11-50,mazzeipropiedades.com.ar
+argentina,2009,grupo-subliminal,marketing and advertising,linkedin.com/company/grupo-subliminal,"",grupo subliminal,"",1-10,gruposubliminal.com
+argentina,2011,celplaza-store,consumer electronics,linkedin.com/company/celplaza-store,rosario,celplaza store,santa fe,1-10,celplazastore.com
+argentina,"",brumont-sa-santa-fe,construction,linkedin.com/company/brumont-sa-santa-fe,santa fe,brumont sa,santa fe,11-50,""
+argentina,1982,chinni-seleme-bugner-y-asociados,accounting,linkedin.com/company/chinni-seleme-bugner-y-asociados,neuquén,chinni seleme bugner y asociados,neuquen,11-50,csbya.com.ar
+argentina,1998,tecno-ingenieria-hvac-s.a.,mechanical or industrial engineering,linkedin.com/company/tecno-ingenieria-hvac-s.a.,"",tecno ingeniería hvac s.a.,buenos aires,11-50,tecnoingenieria.com.ar
+argentina,2019,arrow-ads,marketing and advertising,linkedin.com/company/arrow-ads,caleta olivia,arrow ads,santa cruz,1-10,arrowempresarial.com
+argentina,1994,ecoplasargentina,plastics,linkedin.com/company/ecoplasargentina,"",ecoplas,buenos aires,1-10,ecoplas.org.ar
+argentina,2012,zanni-fabril-srl,mechanical or industrial engineering,linkedin.com/company/zanni-fabril-srl,venado tuerto,zanni fabril srl,santa fe,11-50,zannifabril.com.ar
+argentina,2009,renacimiento-de-imagen,marketing and advertising,linkedin.com/company/renacimiento-de-imagen,"",renacimiento de imagen,buenos aires,1-10,renacimientodeimagen.com
+argentina,2003,fundaci-n-reciduca,civic & social organization,linkedin.com/company/fundaci-n-reciduca,san isidro,fundación reciduca,buenos aires,11-50,fundacionreciduca.org.ar
+argentina,"",blockstudio-co,information technology and services,linkedin.com/company/blockstudio-co,"",block studio,buenos aires,1-10,blockstudio.co
+argentina,"",ropal-s-a-,"",linkedin.com/company/ropal-s-a-,"",ropal s.a.,"",11-50,ropalsa.com.ar
+argentina,2017,mut-arquitectos,architecture & planning,linkedin.com/company/mut-arquitectos,"",mut arquitectos,cordoba,1-10,mut-arq.com.ar
+argentina,1995,totalquality,consumer services,linkedin.com/company/totalquality,quilmes,total quality service s.a - limpieza profesional,buenos aires,1001-5000,tquality.com.ar
+argentina,2012,foto-feijoo,photography,linkedin.com/company/foto-feijoo,"",foto feijóo,buenos aires,1-10,fotofeijoo.com
+argentina,2010,palletec-srl,logistics and supply chain,linkedin.com/company/palletec-srl,benavidez,palletec srl,buenos aires,11-50,palletec.com.ar
+argentina,2000,crsjdhurlingham,"health, wellness and fitness",linkedin.com/company/crsjdhurlingham,hurlingham,centro de rehabilitación san juan de dios,buenos aires,51-200,hsjd.org
+argentina,"",club-harrods-gath-&-chaves,"health, wellness and fitness",linkedin.com/company/club-harrods-gath-&-chaves,"",club harrods gath & chaves,buenos aires,11-50,clubharrods.com.ar
+argentina,1982,grupo3turismo,"leisure, travel & tourism",linkedin.com/company/grupo3turismo,rosario,grupo 3 de turismo srl,santa fe,51-200,grupo3turismo.com.ar
+argentina,2011,editorial-alégrense,design,linkedin.com/company/editorial-alégrense,mar del plata,editorial alégrense,buenos aires,1-10,""
+argentina,2011,pluma-roja,motion pictures and film,linkedin.com/company/pluma-roja,"",pluma roja vfx,buenos aires,1-10,plumaroja.com
+argentina,"",el-cronista,newspapers,linkedin.com/company/el-cronista,"",el cronista,"",51-200,""
+argentina,"",caecopaz,"",linkedin.com/company/caecopaz,"",caecopaz,"",11-50,caecopaz.mil.ar
+argentina,2003,ediciones-lea,publishing,linkedin.com/company/ediciones-lea,federal,ediciones lea,entre rios,11-50,edicioneslea.com
+argentina,"",carf-cil,financial services,linkedin.com/company/carf-cil,martinez,carfácil,buenos aires,11-50,carfacil.com.ar
+argentina,1970,mc-ingenieria-metalurgica-colla-s.a.,machinery,linkedin.com/company/mc-ingenieria-metalurgica-colla-s.a.,"",mc ingenieria / metalurgica colla s.a.,buenos aires,11-50,calzadoensueno.com.mx
+argentina,"",instituto-del-corazon,hospital & health care,linkedin.com/company/instituto-del-corazon,"",instituto del corazon,buenos aires,51-200,""
+argentina,"",bcm-s.a.,gambling & casinos,linkedin.com/company/bcm-s.a.,"",bcm s.a.,buenos aires,11-50,bcmsa.com
+argentina,2000,grupo-vip-work,human resources,linkedin.com/company/grupo-vip-work,posadas,grupo vip work,misiones,11-50,vipwork.com.ar
+argentina,"",neoda,"",linkedin.com/company/neoda,"",neoda,"",11-50,neoda.com
+argentina,2008,traduxi,translation and localization,linkedin.com/company/traduxi,castelar,traduxi,buenos aires,1-10,traduxi.com.ar
+argentina,1922,lindabell-s-a,cosmetics,linkedin.com/company/lindabell-s-a,"",lindabell s.a,buenos aires,51-200,inecto.com.ar
+argentina,2010,proyecto-pura-vida,non-profit organization management,linkedin.com/company/proyecto-pura-vida,federal,proyecto pura vida,entre rios,11-50,proyectopuravida.org.ar
+argentina,"",estudio-xlnt,"",linkedin.com/company/estudio-xlnt,"",estudio xlnt,"",1-10,estudioxlnt.com.ar
+argentina,"",escuela-tecnica-otto-krause,"",linkedin.com/company/escuela-tecnica-otto-krause,"",escuela tecnica otto krause,"",51-200,ottokrause.edu.ar
+argentina,2019,logisticaelsoldado,logistics and supply chain,linkedin.com/company/logisticaelsoldado,córdoba,logística integral el soldado,cordoba,1-10,logisticaelsoldado.com
+argentina,1983,atucha,pharmaceuticals,linkedin.com/company/atucha,"",atucha,"",11-50,atuchaweb.com.ar
+argentina,2016,union-consultoría-&-capacitación,construction,linkedin.com/company/union-consultoría-&-capacitación,córdoba,union consultoría & capacitación,cordoba,11-50,consultoraunion.com
+argentina,"",brokers-trading-srl,import and export,linkedin.com/company/brokers-trading-srl,"",brokers & trading srl,buenos aires,1-10,brokers-trading.com
+argentina,1997,lasermed,"health, wellness and fitness",linkedin.com/company/lasermed,"",lasermed,buenos aires,11-50,lasermed.com.ar
+argentina,"",legacy_2,design,linkedin.com/company/legacy_2,martinez,legacy,buenos aires,201-500,legacy.com.ar
+argentina,1982,lai---línea-de-agronomía-independiente,political organization,linkedin.com/company/lai---línea-de-agronomía-independiente,"",lai - línea de agronomía independiente,buenos aires,11-50,laiagro.com.ar
+argentina,"",la-tribu-creativa,"",linkedin.com/company/la-tribu-creativa,"",la tribu creativa,"",11-50,latribucreativa.com
+argentina,"",enlaces-efectivos-s.a.,market research,linkedin.com/company/enlaces-efectivos-s.a.,"",enlaces efectivos s.a.,buenos aires,1-10,ee.com.ar
+argentina,2011,diario-digital-el-comahue-online,broadcast media,linkedin.com/company/diario-digital-el-comahue-online,neuquén,el comahue online,neuquen,1-10,elcomahueonline.com.ar
+argentina,2017,grupo-kairos-consultora,management consulting,linkedin.com/company/grupo-kairos-consultora,federal,consultora grupo kairos s.r.l,entre rios,11-50,grupo-kairos.com
+argentina,2011,ars---automotive-regional-services-srl,management consulting,linkedin.com/company/ars---automotive-regional-services-srl,esquel,ars - automotive regional services,chubut,11-50,sitioars.com
+argentina,1984,laboratorios-biagro-s.a.,chemicals,linkedin.com/company/laboratorios-biagro-s.a.,las heras,laboratorios biagro s.a.,mendoza,11-50,biagrosa.com.ar
+argentina,"",instituto-tecnológico-philips-argentina,primary/secondary education,linkedin.com/company/instituto-tecnológico-philips-argentina,"",instituto tecnológico philips argentina,buenos aires,51-200,""
+argentina,"",colegio-tecnologico-del-sur,"",linkedin.com/company/colegio-tecnologico-del-sur,"",colegio tecnologico del sur,"",51-200,cts.edu.ar
+argentina,2003,laminacion-paulista-argentina-srl,mining & metals,linkedin.com/company/laminacion-paulista-argentina-srl,general san martin,laminacion paulista argentina srl,buenos aires,11-50,laminacionpaulista.com.ar
+argentina,2020,5waysco,textiles,linkedin.com/company/5waysco,"",5ways,buenos aires,11-50,5ways.co
+argentina,1993,metler-srl,construction,linkedin.com/company/metler-srl,belen de escobar,metler srl,buenos aires,11-50,metlersrl.com.ar
+argentina,1992,bairesanalitica,environmental services,linkedin.com/company/bairesanalitica,saenz pena,baires analitica s.r.l.,buenos aires,11-50,bairesanalitica.com
+argentina,"",polizul,"",linkedin.com/company/polizul,"",polizul,"",1-10,polizul.com.ar
+argentina,"",memcap-sa,"",linkedin.com/company/memcap-sa,"",memcap sa,"",11-50,memcapsa.com.ar
+argentina,1997,arquidry,construction,linkedin.com/company/arquidry,"",arquidry,buenos aires,201-500,arquidryweb.com.ar
+argentina,"",daniel-hechter-argentina,wholesale,linkedin.com/company/daniel-hechter-argentina,"",daniel hechter argentina,"",51-200,danielhechter.com.ar
+argentina,1999,laboratorios-wasser,environmental services,linkedin.com/company/laboratorios-wasser,"",wasser servicios industriales sa,buenos aires,11-50,laboratoriowasser.com.ar
+argentina,"",syn-misiones,"",linkedin.com/company/syn-misiones,"",syn misiones,"",1-10,synmisiones.com
+argentina,2012,inarsoft,information technology and services,linkedin.com/company/inarsoft,"",inarsoft,"",1-10,inarsoft.com
+argentina,2007,abaspro,management consulting,linkedin.com/company/abaspro,pilar,abaspro procurement partners,buenos aires,1-10,abaspro.com.ar
+argentina,"",gobierno-de-la-provincia-de-san-luis,government administration,linkedin.com/company/gobierno-de-la-provincia-de-san-luis,san luis,gobierno de la provincia de san luis,san luis,10001+,sanluis.gov.ar
+argentina,"",don-juan-resto,restaurants,linkedin.com/company/don-juan-resto,"",don juan resto,buenos aires,11-50,donjuanresto.com
+argentina,1997,asociación-mutual-red-solidaria,financial services,linkedin.com/company/asociación-mutual-red-solidaria,"",asociación mutual red solidaria,mendoza,11-50,mutualredsolidaria.com.ar
+argentina,2013,netitsoluciones,information technology and services,linkedin.com/company/netitsoluciones,"",net it soluciones s.r.l,buenos aires,1-10,netitsoluciones.com.ar
+argentina,"",malvón,food production,linkedin.com/company/malvón,"",malvón,buenos aires,11-50,malvonba.com.ar
+argentina,"",logisatautos,transportation/trucking/railroad,linkedin.com/company/logisatautos,"",logisat,buenos aires,11-50,logisat.com.ar
+argentina,"",news-entertainment,marketing and advertising,linkedin.com/company/news-entertainment,"",news entertainment,buenos aires,1-10,newsentertainment.com.ar
+argentina,1963,medias-apogeo,apparel & fashion,linkedin.com/company/medias-apogeo,avellaneda,medias apogeo,buenos aires,51-200,apogeo.com.ar
+argentina,"",redes-privadas-s.a.,telecommunications,linkedin.com/company/redes-privadas-s.a.,"",redes privadas s.a.,"",1-10,redesprivadas.la
+argentina,2013,rentalugar-alquileres-temporarios,"leisure, travel & tourism",linkedin.com/company/rentalugar-alquileres-temporarios,"",rentalugar.com alquiler alojamientos turísticos,buenos aires,1-10,rentalugar.com
+argentina,"",escena-catorce-producciones,entertainment,linkedin.com/company/escena-catorce-producciones,"",escena catorce producciones,"",1-10,escenacatorce.com.ar
+argentina,1995,sergio-villella-bienes-inmuebles,furniture,linkedin.com/company/sergio-villella-bienes-inmuebles,córdoba,sergio villella bienes inmuebles,cordoba,11-50,sergiovillella.com
+argentina,"",consultoría-e-ingeniería-arrays,computer hardware,linkedin.com/company/consultoría-e-ingeniería-arrays,"",arrays,buenos aires,11-50,arrays.com.ar
+argentina,2009,te-ordeno-las-cosas,management consulting,linkedin.com/company/te-ordeno-las-cosas,"",te ordeno las cosas,"",1-10,teordenolascosas.com.ar
+argentina,"",construcciones-aba-s-a-,construction,linkedin.com/company/construcciones-aba-s-a-,"",construcciones aba s.a.,"",1-10,""
+argentina,2014,jasmine-market-venta-on-line,retail,linkedin.com/company/jasmine-market-venta-on-line,san isidro,jasmine market venta on line,buenos aires,1-10,jasminemarket.com.ar
+argentina,2012,overload---web-&-graphic-design,design,linkedin.com/company/overload---web-&-graphic-design,"",overload - web & graphic design,buenos aires,1-10,overloadesign.com
+argentina,1998,icr-cursos-profesionalizantes,professional training & coaching,linkedin.com/company/icr-cursos-profesionalizantes,rosario,icr cursos profesionalizantes,santa fe,51-200,institutoicr.com.ar
+argentina,1991,team-quality,computer software,linkedin.com/company/team-quality,"",team quality,buenos aires,51-200,tqcorp.com
+argentina,"",red-asistencial-de-buenos-aires,"",linkedin.com/company/red-asistencial-de-buenos-aires,"",red asistencial de buenos aires,buenos aires,11-50,""
+argentina,1964,universidad-kennedy,higher education,linkedin.com/company/universidad-kennedy,"",universidad kennedy,buenos aires,501-1000,kennedy.edu.ar
+argentina,2017,amazing-pastry,food & beverages,linkedin.com/company/amazing-pastry,"",amazing pastry,buenos aires,1-10,amazingpastry.com
+argentina,"",bodega-del-fin-del-mundo,wine and spirits,linkedin.com/company/bodega-del-fin-del-mundo,argentina,bodega del fin del mundo,santiago del estero,201-500,bodegadelfindelmundo.com
+argentina,2009,asociacion-argentina-de-medicina-estetica,higher education,linkedin.com/company/asociacion-argentina-de-medicina-estetica,federal,asociacion argentina de medicina estetica,entre rios,11-50,medicinaenestetica.com
+argentina,"",prebecon,"",linkedin.com/company/prebecon,"",prebecon,"",11-50,prebecon.com.ar
+argentina,2017,blue-blood-apps,information technology and services,linkedin.com/company/blue-blood-apps,"",blue blood apps,buenos aires,1-10,blueblooodapps.com
+argentina,"",msu-agro,farming,linkedin.com/company/msu-agro,"",msu agro,"",201-500,msuagro.com.ar
+argentina,"",maho-virtual-store,"",linkedin.com/company/maho-virtual-store,"",maho group,buenos aires,1-10,""
+argentina,"",grupohl-arg,business supplies and equipment,linkedin.com/company/grupohl-arg,alvear,grupo hl,santa fe,201-500,grupohl.com.ar
+argentina,2003,abaco-gases-comprimidos,industrial automation,linkedin.com/company/abaco-gases-comprimidos,"",abaco gases comprimidos,"",1-10,abacogc.com.ar
+argentina,2009,legion-creativa,marketing and advertising,linkedin.com/company/legion-creativa,martinez,legion creativa,buenos aires,1-10,legioncreativa.com.ar
+argentina,2010,marketing-3bmarketing-3b,marketing and advertising,linkedin.com/company/marketing-3bmarketing-3b,"",marketing 3b,"",1-10,marketing3b.com
+argentina,2004,alejandro-levy-branding-studio,graphic design,linkedin.com/company/alejandro-levy-branding-studio,"",alejandro levy branding studio,buenos aires,1-10,alejandrolevy.com.ar
+argentina,"",pcr-sas,program development,linkedin.com/company/pcr-sas,"",pcr sas,buenos aires,11-50,""
+argentina,2019,casmont-sas,chemicals,linkedin.com/company/casmont-sas,"",casmont sas,buenos aires,1-10,casmontsas.com
+argentina,"",río-shop-deco,retail,linkedin.com/company/río-shop-deco,"",río shop deco,cordoba,11-50,rioshopdeco.com.ar
+argentina,"",start-consultora-en-rrhh,human resources,linkedin.com/company/start-consultora-en-rrhh,"",start consultora en rrhh,"",1-10,startconsultora.com.ar
+argentina,2017,bondistudio,animation,linkedin.com/company/bondistudio,federal,bondi | motion design & art direction,entre rios,1-10,bondistudio.com
+argentina,1970,button-company,apparel & fashion,linkedin.com/company/button-company,"",button company,buenos aires,51-200,buttoncompany.com.ar
+argentina,1969,quiksilver-argentina,sports,linkedin.com/company/quiksilver-argentina,martinez,quiksilver argentina,buenos aires,51-200,""
+argentina,"",bp-graphic-design,design,linkedin.com/company/bp-graphic-design,"",bp graphic design,"",1-10,bpgraphicdesign.com.ar
+argentina,2018,agencia316,marketing and advertising,linkedin.com/company/agencia316,mendoza,316 agencia estratégica,mendoza,11-50,316agencia.com
+argentina,1964,dim-cl-nica-privada,medical practice,linkedin.com/company/dim-cl-nica-privada,"",dim clínica privada,buenos aires,201-500,clinicadim.com.ar
+argentina,"",jaureguy-s-a,"",linkedin.com/company/jaureguy-s-a,"",jaureguy s.a,"",11-50,jaureguy.com.ar
+argentina,"",ferroroggi-srl,"",linkedin.com/company/ferroroggi-srl,"",ferroroggi srl,"",1-10,ferroroggi.com.ar
+argentina,2002,pool-economico,insurance,linkedin.com/company/pool-economico,"",pool economico,buenos aires,1-10,pool-economico.com.ar
+argentina,2000,invertironline-com,financial services,linkedin.com/company/invertironline-com,"",invertironline.com,buenos aires,11-50,""
+argentina,"",carla-di-si,retail,linkedin.com/company/carla-di-si,"",carla di si,buenos aires,1-10,""
+argentina,1992,enter-tecnolog-a-dise-o-y-construcci-n,architecture & planning,linkedin.com/company/enter-tecnolog-a-dise-o-y-construcci-n,córdoba,"enter | tecnología, diseño y construcción",cordoba,1-10,enter-net.com.ar
+argentina,1998,consulplan-argentina-s-a-,environmental services,linkedin.com/company/consulplan-argentina-s-a-,comodoro rivadavia,consulplan argentina s.a.,chubut,1-10,consulplanargentina.com.ar
+argentina,2013,garc-a-&-vergara,human resources,linkedin.com/company/garc-a-&-vergara,córdoba,garcía & vergara,cordoba,1-10,garcia-vergara.com

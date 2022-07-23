@@ -1,0 +1,907 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+south africa,"",kuluvuyo-consultancy-and-wellness,"",linkedin.com/company/kuluvuyo-consultancy-and-wellness,"",kuluvuyo consultancy and wellness,"",11-50,kuluvuyo.co.za
+south africa,"",sivtek-holdings,"",linkedin.com/company/sivtek-holdings,johannesburg,sivtek holdings,gauteng,11-50,""
+south africa,"",buddymed,"",linkedin.com/company/buddymed,"",buddymed,"",11-50,buddymed.co.za
+south africa,2019,zero1-creations,marketing and advertising,linkedin.com/company/zero1-creations,cape town,zero1 creations,western cape,1-10,zero1creations.com
+south africa,"",athens-finance,"",linkedin.com/company/athens-finance,"",athens finance,"",1-10,athensfinance.co.za
+south africa,"",emerging-search-consultants-pty-ltd-,human resources,linkedin.com/company/emerging-search-consultants-pty-ltd-,johannesburg,emerging search consultants,gauteng,1-10,emergingsc.com
+south africa,1992,midcompofficial,printing,linkedin.com/company/midcompofficial,johannesburg,midcomp – pty ltd.,gauteng,51-200,midcomp.co.za
+south africa,"",reece-recruitment-agency-pty-ltd,staffing and recruiting,linkedin.com/company/reece-recruitment-agency-pty-ltd,johannesburg,reece recruitment agency pty ltd,gauteng,1-10,""
+south africa,2020,woegroup,management consulting,linkedin.com/company/woegroup,bryanston,world of ethics,gauteng,1-10,woegroup.org
+south africa,2002,breinstorm-brand-architects,design,linkedin.com/company/breinstorm-brand-architects,johannesburg,breinstorm brand architects,gauteng,1-10,breinstorm.co.za
+south africa,2002,traditional-healer,alternative medicine,linkedin.com/company/traditional-healer,johannesburg,traditional healer,gauteng,51-200,traditional-healer.net
+south africa,2014,rm-tucker-attorneys,law practice,linkedin.com/company/rm-tucker-attorneys,johannesburg,rm tucker attorneys,gauteng,1-10,rmtucker.co.za
+south africa,1998,yale-engineering-products-pty-ltd,mechanical or industrial engineering,linkedin.com/company/yale-engineering-products-pty-ltd,honeydew,yale engineering products (pty) ltd,gauteng,11-50,yalejhb.co.za
+south africa,2005,ditshaba-management-holdings-pty-ltd,human resources,linkedin.com/company/ditshaba-management-holdings-pty-ltd,johannesburg,ditshaba human capital,gauteng,51-200,ditshaba.co.za
+south africa,1978,the-specialists-group-pty-ltd,consumer services,linkedin.com/company/the-specialists-group-pty-ltd,verwoerdburg,the specialists group pty ltd,gauteng,1-10,""
+south africa,2014,clockwork-acorn,computer games,linkedin.com/company/clockwork-acorn,"",clockwork acorn,"",1-10,clockworkacorn.com
+south africa,"",stratisq-africa,professional training & coaching,linkedin.com/company/stratisq-africa,johannesburg,stratisq africa group,gauteng,11-50,stratisq.africa
+south africa,1969,lorenziniclothing,apparel & fashion,linkedin.com/company/lorenziniclothing,durban,lorenzini clothing manufacturers (pty) ltd,kwazulu-natal,51-200,lorenziniclothing.co.za
+south africa,"",k-b-group-of-companies,"",linkedin.com/company/k-b-group-of-companies,esikhawini,k b group of companies,kwazulu-natal,11-50,""
+south africa,"",olex-systems-cc,printing,linkedin.com/company/olex-systems-cc,"",olex systems cc,"",1-10,olex.co.za
+south africa,1930,fruitways,farming,linkedin.com/company/fruitways,somerset west,fruitways,western cape,501-1000,fruitways.co.za
+south africa,2020,trendsalonza,cosmetics,linkedin.com/company/trendsalonza,johannesburg,trendsalonza,gauteng,1-10,trendsalon.co.za
+south africa,"",meyer-ventures,"",linkedin.com/company/meyer-ventures,cape town,meyer ventures,western cape,1-10,""
+south africa,"",prevision-3d,animation,linkedin.com/company/prevision-3d,"",prevision 3d,"",1-10,prevision3d.co.za
+south africa,2005,profica,construction,linkedin.com/company/profica,rivonia,profica,gauteng,51-200,profica.com
+south africa,"",simply-juiced,"",linkedin.com/company/simply-juiced,midrand,simply juiced,gauteng,1-10,""
+south africa,1990,vivit-foods,food & beverages,linkedin.com/company/vivit-foods,edenvale,vivit foods,gauteng,51-200,vivit.co.za
+south africa,"",vico-group,"",linkedin.com/company/vico-group,durban,vico group,kwazulu-natal,11-50,""
+south africa,"",seven-cubes,"",linkedin.com/company/seven-cubes,umlazi,seven cubes,kwazulu-natal,1-10,""
+south africa,2013,gigawatt-energy,renewables & environment,linkedin.com/company/gigawatt-energy,johannesburg,gigawatt energy (pty) ltd,gauteng,11-50,""
+south africa,2012,ion-exchange-safic-pty-ltd,environmental services,linkedin.com/company/ion-exchange-safic-pty-ltd,johannesburg,ion exchange safic (pty) ltd,gauteng,11-50,ionexchangesafic.co.za
+south africa,2010,devineur,telecommunications,linkedin.com/company/devineur,pretoria,devineur,gauteng,1-10,devineur.com
+south africa,2014,casting-101,motion pictures and film,linkedin.com/company/casting-101,cape town,casting 101,western cape,1-10,casting101.co.za
+south africa,"",lusa-community-chest,non-profit organization management,linkedin.com/company/lusa-community-chest,"",lusa community chest,"",11-50,lusavaal.co.za
+south africa,1999,cardilogix,human resources,linkedin.com/company/cardilogix,johannesburg,cardilogix,gauteng,1-10,cardilogix.co.za
+south africa,2009,we-can-leadership-institute,non-profit organization management,linkedin.com/company/we-can-leadership-institute,"",we can leadership institute,"",1-10,we-can-leadershipinstitute.com
+south africa,2007,veri-com,management consulting,linkedin.com/company/veri-com,johannesburg,veri-com,gauteng,11-50,vericom.co.za
+south africa,2008,forte-medicalsolutions,medical practice,linkedin.com/company/forte-medicalsolutions,midrand,forte-medical solutions,gauteng,11-50,forte-medical.co.za
+south africa,1936,terry-mcdonogh-pty-ltd,insurance,linkedin.com/company/terry-mcdonogh-pty-ltd,pretoria,terry mcdonogh (pty) ltd,gauteng,1-10,tmcdh.co.za
+south africa,2010,windsor-homes-south-africa,construction,linkedin.com/company/windsor-homes-south-africa,"",windsor homes south africa,"",1-10,windsorhomes.co.za
+south africa,2003,partner-at-seco-project-managers,construction,linkedin.com/company/partner-at-seco-project-managers,johannesburg,partner at seco project managers,gauteng,11-50,seco.co.za
+south africa,"",hsesolutionsza,wholesale,linkedin.com/company/hsesolutionsza,germiston,hse solutions south africa,gauteng,11-50,hsesolutions.co.za
+south africa,1989,a4e-group,accounting,linkedin.com/company/a4e-group,pretoria,a4e group,gauteng,1-10,a4e.bz
+south africa,2008,repsly-south-africa,computer software,linkedin.com/company/repsly-south-africa,johannesburg,repsly south africa,gauteng,1-10,""
+south africa,2006,columbus-consulting-sa,information technology and services,linkedin.com/company/columbus-consulting-sa,"",columbus consulting sa,gauteng,201-500,""
+south africa,2012,blucube-design-and-brand-activations,design,linkedin.com/company/blucube-design-and-brand-activations,johannesburg,blucube below the line agency,gauteng,11-50,blu3.co.za
+south africa,2018,club-real-estate,real estate,linkedin.com/company/club-real-estate,johannesburg,club real estate,gauteng,11-50,clubrealestate.co.za
+south africa,2012,relight-energy,construction,linkedin.com/company/relight-energy,johannesburg,relight energy,gauteng,11-50,relight.co.za
+south africa,"",rh-matjhabeng-private-hospital,"",linkedin.com/company/rh-matjhabeng-private-hospital,pretoria,rh matjhabeng private hospital,gauteng,11-50,""
+south africa,1991,in-detail-advertising-and-design,graphic design,linkedin.com/company/in-detail-advertising-and-design,johannesburg,in-detail advertising and design,gauteng,1-10,in-detail.com
+south africa,"",anti-drug-alliance,public policy,linkedin.com/company/anti-drug-alliance,johannesburg,anti drug alliance,gauteng,11-50,ada.za.org
+south africa,2011,mint-accounting-sa,accounting,linkedin.com/company/mint-accounting-sa,cape town,mint accounting sa,western cape,1-10,mintaccounting.co.za
+south africa,2005,thandulwazi-maths-and-science-academy,non-profit organization management,linkedin.com/company/thandulwazi-maths-and-science-academy,bryanston,thandulwazi maths and science academy,gauteng,51-200,thandulwazi.com
+south africa,"",united-retreading,"",linkedin.com/company/united-retreading,johannesburg,united retreading,gauteng,1-10,""
+south africa,2000,rocketscienceza,information technology and services,linkedin.com/company/rocketscienceza,johannesburg,rocket science media solutions,gauteng,11-50,rocketscience.co.za
+south africa,2004,the-hub-sa,online media,linkedin.com/company/the-hub-sa,cape town,bike hub,western cape,1-10,bikehub.co.za
+south africa,"",icfsa,"",linkedin.com/company/icfsa,johannesburg,icfsa,gauteng,11-50,""
+south africa,"",excelebrate-pty-ltd,professional training & coaching,linkedin.com/company/excelebrate-pty-ltd,cape town,excelebrate (pty) ltd,western cape,1-10,excelebrate.co.za
+south africa,2014,african-youth-in-ict,e-learning,linkedin.com/company/african-youth-in-ict,"",african youth in ict,"",201-500,africanyouthinict.org
+south africa,"",eco-compounds,"",linkedin.com/company/eco-compounds,nigel,eco compounds,gauteng,1-10,""
+south africa,1999,tsedo-commercial-investigators-pty-ltd,security and investigations,linkedin.com/company/tsedo-commercial-investigators-pty-ltd,mogale city,tsedo commercial investigators (pty) ltd,gauteng,1-10,tsedo.co.za
+south africa,"",top-line-furniture-manufacturers,"",linkedin.com/company/top-line-furniture-manufacturers,lenasia,top line furniture manufacturers,gauteng,1-10,""
+south africa,2010,borutho-group-of-companies,oil & energy,linkedin.com/company/borutho-group-of-companies,johannesburg,borutho group of companies,gauteng,11-50,boruthogroup.net
+south africa,1995,ipmg,information technology and services,linkedin.com/company/ipmg,cape town,ipmg,western cape,11-50,ipmg.co.za
+south africa,"",algoa-steel,construction,linkedin.com/company/algoa-steel,"",algoa steel,"",11-50,algoasteel.co.za
+south africa,2001,leadership-platform,management consulting,linkedin.com/company/leadership-platform,verwoerdburg,leadership platform,gauteng,1-10,leadershipplatform.com
+south africa,"",atlas-readymix,"",linkedin.com/company/atlas-readymix,boksburg,atlas readymix,gauteng,11-50,""
+south africa,"",red-man-technologies,information technology and services,linkedin.com/company/red-man-technologies,"",red man technologies,"",51-200,red-man.co.za
+south africa,2003,phezulu-business-management,accounting,linkedin.com/company/phezulu-business-management,randburg,phezulu virtual back office,gauteng,11-50,phezulu.net
+south africa,2000,sse-linkworld,telecommunications,linkedin.com/company/sse-linkworld,pretoria,sse linkworld,gauteng,11-50,linkworld.co.za
+south africa,2005,indigo-moon-marketing,marketing and advertising,linkedin.com/company/indigo-moon-marketing,"",indigo moon marketing,"",1-10,indigomoon.co.za
+south africa,"",acuity-verification-services,professional training & coaching,linkedin.com/company/acuity-verification-services,cape town,acuity verification services,western cape,1-10,acvs.co.za
+south africa,"",j&m-oosthuizen-financial-services-pty-ltd,accounting,linkedin.com/company/j&m-oosthuizen-financial-services-pty-ltd,"",j&m oosthuizen financial services pty ltd,"",11-50,jmoosthuizen.co.za
+south africa,"",lampoon-holdings,accounting,linkedin.com/company/lampoon-holdings,"",lampoon holdings,"",1-10,lampoon.co.za
+south africa,2007,new-link-career-skills-and-skills-training,professional training & coaching,linkedin.com/company/new-link-career-skills-and-skills-training,"",new link career skills and skills training,gauteng,11-50,newlink.co.za
+south africa,"",bka_2,professional training & coaching,linkedin.com/company/bka_2,"",bka,"",1-10,bkasa.co.za
+south africa,1985,gauteng-refinery-pty-ltd,mining & metals,linkedin.com/company/gauteng-refinery-pty-ltd,modderfontein,gauteng refinery pty ltd.,gauteng,11-50,gautengrefinery.co.za
+south africa,2007,digital-fire,online media,linkedin.com/company/digital-fire,cape town,digital fire,western cape,1-10,digitalfire.co.za
+south africa,2020,freestyle-saturdays,music,linkedin.com/company/freestyle-saturdays,cape town,freestyle saturdays,western cape,1-10,freestylesaturdays.co.za
+south africa,"",africasif,international trade and development,linkedin.com/company/africasif,"",africasif,"",11-50,africasif.org
+south africa,"",new-vaal-enterprises,"",linkedin.com/company/new-vaal-enterprises,vaalpark,new vaal enterprises,free state,1-10,""
+south africa,2012,netpromotions,textiles,linkedin.com/company/netpromotions,pretoria,netpromotions,gauteng,1-10,netpromotions.co.za
+south africa,"",ukheshe,financial services,linkedin.com/company/ukheshe,johannesburg,ukheshe,gauteng,11-50,ukheshe.co.za
+south africa,"",scaniasouthafrica,transportation/trucking/railroad,linkedin.com/company/scaniasouthafrica,johannesburg,scania south africa,gauteng,1001-5000,""
+south africa,"",gibraltar-corporate-capital,real estate,linkedin.com/company/gibraltar-corporate-capital,midrand,gibraltar corporate capital,gauteng,1-10,""
+south africa,1998,mandatemolefi,human resources,linkedin.com/company/mandatemolefi,johannesburg,mandate molefi human resources consultants,gauteng,11-50,""
+south africa,1972,mcc-group_2,mining & metals,linkedin.com/company/mcc-group_2,"",mcc group,"",1001-5000,mccgroup.co.za
+south africa,"",architecture-co-op,architecture & planning,linkedin.com/company/architecture-co-op,"",architecture co-op,"",1-10,architecturecoop.co.za
+south africa,"",aseda-consulting-engineers,"",linkedin.com/company/aseda-consulting-engineers,midrand,aseda consulting engineers,gauteng,11-50,""
+south africa,1986,amalooloo,facilities services,linkedin.com/company/amalooloo,pretoria,amalooloo,gauteng,51-200,amalooloo.co.za
+south africa,2016,hartzer-coetzee-inc.---commercial-attorneys,law practice,linkedin.com/company/hartzer-coetzee-inc.---commercial-attorneys,pretoria,hartzer bissett coetzee inc. - commercial attorneys,gauteng,1-10,hartzerandassociates.co.za
+south africa,"",guncrete-geotechnical,"",linkedin.com/company/guncrete-geotechnical,port elizabeth,guncrete geotechnical,eastern cape,1-10,""
+south africa,"",cadac-uk,consumer goods,linkedin.com/company/cadac-uk,"",cadac uk,"",1-10,"www,cadaceurope.com"
+south africa,2016,-work,"health, wellness and fitness",linkedin.com/company/-work,cape town,@work,western cape,1-10,id3.co.za
+south africa,"",polydigitalmarketing,marketing and advertising,linkedin.com/company/polydigitalmarketing,cape town,poly digital marketing - международное агенство интернет маркетинга,western cape,1-10,polydigitalmarketing.com
+south africa,1996,parachute-people-solutions,staffing and recruiting,linkedin.com/company/parachute-people-solutions,"",parachute people solutions,"",1-10,parachutepeoplesolutions.co.za
+south africa,2008,catman-services,marketing and advertising,linkedin.com/company/catman-services,steelpoort,catman services,mpumalanga,11-50,catmanservices.com
+south africa,2018,worth-marketing-solutions,marketing and advertising,linkedin.com/company/worth-marketing-solutions,ekurhuleni,worth marketing solutions,gauteng,1-10,""
+south africa,2007,straight-twisted,marketing and advertising,linkedin.com/company/straight-twisted,johannesburg,straight twisted,gauteng,11-50,straighttwisted.co.za
+south africa,2017,oyi,financial services,linkedin.com/company/oyi,sandton,oyi medical card,gauteng,1-10,oyi.co.za
+south africa,2019,fremar-projects-pty-ltd,construction,linkedin.com/company/fremar-projects-pty-ltd,durban,fremar projects (pty) ltd,kwazulu-natal,1-10,""
+south africa,1993,living-dynamics,professional training & coaching,linkedin.com/company/living-dynamics,"",living dynamics,gauteng,1-10,livingdynamics.co.za
+south africa,2009,asem---advent-sport-entertainment-and-media,events services,linkedin.com/company/asem---advent-sport-entertainment-and-media,cape town,advent sport entertainment and media - asem,western cape,51-200,asem.tv
+south africa,"",apd-electronic-systems,computer hardware,linkedin.com/company/apd-electronic-systems,boksburg,apd electronic systems,gauteng,11-50,apdcentral.com
+south africa,"",industrial-urethanes-chemical-services-,chemicals,linkedin.com/company/industrial-urethanes-chemical-services-,"",industrial urethanes (chemical services),"",51-200,indur.co.za
+south africa,2017,prefrontal,executive office,linkedin.com/company/prefrontal,johannesburg,prefrontal constructs,gauteng,1-10,prefrontalconstructs.com
+south africa,2009,bi-xpress-couriers,logistics and supply chain,linkedin.com/company/bi-xpress-couriers,sandton,bi xpress couriers,gauteng,11-50,bixpress.co.za
+south africa,2003,translation-lingua-communications,translation and localization,linkedin.com/company/translation-lingua-communications,johannesburg,translation lingua communications,gauteng,1-10,""
+south africa,"",bigview-protection-serveces-,"",linkedin.com/company/bigview-protection-serveces-,"",bigview protection serveces,"",1-10,bigview.co.za
+south africa,2007,toxzen,information technology and services,linkedin.com/company/toxzen,johannesburg,toxzen,gauteng,1-10,toxzen.co.za
+south africa,1988,a&b-movers,transportation/trucking/railroad,linkedin.com/company/a&b-movers,johannesburg,a&b movers,gauteng,1-10,abmovers.co.za
+south africa,1988,mining-consultancy-services,mining & metals,linkedin.com/company/mining-consultancy-services,bryanston,mining consultancy services,gauteng,11-50,mcsza.com
+south africa,2009,kgothatso-innovations,information services,linkedin.com/company/kgothatso-innovations,bryanston,kgothatso innovations,gauteng,1-10,kgothatsoinnovations.co.za
+south africa,"",wrapt-objet,retail,linkedin.com/company/wrapt-objet,"",wrapt objet,"",1-10,wraptobjet.co.za
+south africa,"",clfs,"",linkedin.com/company/clfs,"",clfs,"",11-50,clfs.co.za
+south africa,2010,sandbox-mining-pty-ltd-,mining & metals,linkedin.com/company/sandbox-mining-pty-ltd-,kempton park,sandbox mining (pty) ltd.,gauteng,1-10,sandboxmining.co.za
+south africa,1997,alliance-media,marketing and advertising,linkedin.com/company/alliance-media,johannesburg,alliance media - billboard & airport advertising,gauteng,201-500,alliancemedia.com
+south africa,1966,mbona-saunders-wium,civil engineering,linkedin.com/company/mbona-saunders-wium,"",msw consulting,"",11-50,mswconsulting.co.za
+south africa,1989,ph-projects-holdings-pty-ltd,mining & metals,linkedin.com/company/ph-projects-holdings-pty-ltd,"",ph projects holdings (pty) ltd,gauteng,51-200,phprojects.co.za
+south africa,"",clanfin,insurance,linkedin.com/company/clanfin,"",clanfin,"",11-50,clanfin.co.za
+south africa,2017,bråuteseth-baasch,real estate,linkedin.com/company/bråuteseth-baasch,"",bråuteseth & baasch,"",1-10,brauteseth-baasch.com
+south africa,"",m3-construction-projects,"",linkedin.com/company/m3-construction-projects,benoni,m3 construction projects,gauteng,11-50,""
+south africa,1990,the-munro-boutique-hotel,hospitality,linkedin.com/company/the-munro-boutique-hotel,johannesburg,the munro boutique hotel,gauteng,11-50,themunrohotel.com
+south africa,1984,nico-van-der-meulen-architects,architecture & planning,linkedin.com/company/nico-van-der-meulen-architects,randburg,nico van der meulen architects,gauteng,11-50,nicovdmeulen.com
+south africa,"",mbts,marketing and advertising,linkedin.com/company/mbts,"",mbts,"",1-10,mbts1.com
+south africa,"",liaka,"",linkedin.com/company/liaka,soweto,liaka,gauteng,11-50,""
+south africa,2013,vulcanlabs,computer software,linkedin.com/company/vulcanlabs,cape town,vulcan labs,western cape,11-50,vulcanlabs.com
+south africa,2016,noble-brothers-consult-pty-ltd,banking,linkedin.com/company/noble-brothers-consult-pty-ltd,"",noble brothers consult (pty) ltd,"",1-10,noblebrothers.co.za
+south africa,1983,metrofile,facilities services,linkedin.com/company/metrofile,johannesburg,metrofile,gauteng,501-1000,metrofileholdings.com
+south africa,1988,med-medical,medical devices,linkedin.com/company/med-medical,johannesburg,med medical,gauteng,11-50,""
+south africa,2011,peoplesmart-consulting-sa,professional training & coaching,linkedin.com/company/peoplesmart-consulting-sa,"",peoplesmart consulting sa,"",11-50,peoplesmartconsulting.co.za
+south africa,"",midrand-medical-centre,hospital & health care,linkedin.com/company/midrand-medical-centre,midrand,midrand medical centre,gauteng,11-50,midrandmedicalcentre.co.za
+south africa,"",pitter-patter-playhouse-daycare,"",linkedin.com/company/pitter-patter-playhouse-daycare,robertson,pitter patter playhouse daycare,western cape,1-10,""
+south africa,"",african-sun-hotel-group,hospitality,linkedin.com/company/african-sun-hotel-group,"",african sun hotel group,"",1001-5000,africasunhotels.com
+south africa,2016,wellcapital,executive office,linkedin.com/company/wellcapital,pretoria,wellcapital,gauteng,1-10,wellcapital.co.za
+south africa,2005,matildas-lifestyle,consumer goods,linkedin.com/company/matildas-lifestyle,"",matildas lifestyle,"",1-10,matildas.co.za
+south africa,1994,hipporoller,environmental services,linkedin.com/company/hipporoller,fourways,hippo roller,gauteng,11-50,hipporoller.org
+south africa,1993,fruit-and-veg-city-holdings,retail,linkedin.com/company/fruit-and-veg-city-holdings,"",fruit and veg city holdings (pty) ltd,"",11-50,""
+south africa,2010,mytcg-technologies-pty-ltd-,information technology and services,linkedin.com/company/mytcg-technologies-pty-ltd-,bellville,mytcg technologies (pty) ltd.,western cape,11-50,mytcgtech.com
+south africa,"",teke-africa,arts and crafts,linkedin.com/company/teke-africa,"",teke africa,"",1-10,tekeafrica.com
+south africa,2003,mega-volt-loden-electrical-pty-ltd,electrical/electronic manufacturing,linkedin.com/company/mega-volt-loden-electrical-pty-ltd,pretoria,mega volt loden electrical (pty) ltd,gauteng,11-50,megavoltloden.co.za
+south africa,"",choppers-4-africa,aviation & aerospace,linkedin.com/company/choppers-4-africa,"",choppers 4 africa,"",1-10,choppers4africa.com
+south africa,2016,riskhouse-africa,management consulting,linkedin.com/company/riskhouse-africa,johannesburg,riskhouse africa,gauteng,1-10,riskhouse.co.za
+south africa,"",siyavuyisa-township-networks,telecommunications,linkedin.com/company/siyavuyisa-township-networks,"",siyavuyisa township networks,"",1-10,siyavuyisa.com
+south africa,2016,rescue-rehab-south-africa,non-profit organization management,linkedin.com/company/rescue-rehab-south-africa,cape town,rescue rehab south africa,western cape,1-10,rrsa.org.za
+south africa,1995,radio-786,broadcast media,linkedin.com/company/radio-786,cape town,radio 786,western cape,11-50,radio786.co.za
+south africa,2013,kite-za,information technology and services,linkedin.com/company/kite-za,bedfordview,kite capital,gauteng,1-10,kite.org.za
+south africa,1979,dovecor-cc,business supplies and equipment,linkedin.com/company/dovecor-cc,johannesburg,dovecor cc,gauteng,11-50,dovecor.co.za
+south africa,2006,interflex-print-group,printing,linkedin.com/company/interflex-print-group,johannesburg,interflex print group,gauteng,51-200,interflexsa.co.za
+south africa,"",ivan-sasman-architects-&-urban-planners,architecture & planning,linkedin.com/company/ivan-sasman-architects-&-urban-planners,"",ivan sasman architects & urban planners,"",11-50,isarch.co.za
+south africa,"",primolitos,"",linkedin.com/company/primolitos,"",primolitos,"",11-50,primolitos.com
+south africa,2010,ingoma-telecom,information technology and services,linkedin.com/company/ingoma-telecom,fourways,ingoma telecom,gauteng,1-10,ingoma-telecom.com
+south africa,2015,48software,computer software,linkedin.com/company/48software,cape town,48software,western cape,11-50,48software.com
+south africa,2001,nettek-networking-cc,computer networking,linkedin.com/company/nettek-networking-cc,montague gardens,nettek,western cape,11-50,nettek.co.za
+south africa,2017,thebusinessbookclub,education management,linkedin.com/company/thebusinessbookclub,johannesburg,the business book club,gauteng,1-10,centred.co.za
+south africa,"",fubitech,"",linkedin.com/company/fubitech,"",fubitech,"",1-10,fubitech.co.za
+south africa,"",proccy.com,information technology and services,linkedin.com/company/proccy.com,cape town,proccy.com,western cape,1-10,proccy.com
+south africa,2002,voltex-sa,retail,linkedin.com/company/voltex-sa,germiston,voltex sa,gauteng,1001-5000,voltex.co.za
+south africa,"",buildnat,construction,linkedin.com/company/buildnat,"",buildnat,"",11-50,buildnat.co.za
+south africa,"",battery-cabin-cc-head-office-kempton-park,"",linkedin.com/company/battery-cabin-cc-head-office-kempton-park,"",battery cabin cc head office kempton park,"",1-10,battery-cabin.co.za
+south africa,"",loriel-trading,"",linkedin.com/company/loriel-trading,johannesburg,loriel trading,gauteng,1-10,""
+south africa,"",unique-welding-alloys,"",linkedin.com/company/unique-welding-alloys,"",unique welding alloys,"",51-200,uniquewelding.co.za
+south africa,2016,cynosure-affiliated-broker-support,insurance,linkedin.com/company/cynosure-affiliated-broker-support,"",cynosure affiliated broker support,"",11-50,cynosure.co.za
+south africa,2018,alpenglowconsulting,management consulting,linkedin.com/company/alpenglowconsulting,johannesburg,alpenglow consulting,gauteng,1-10,alpenglowconsulting.co.za
+south africa,2002,esight-cc,information technology and services,linkedin.com/company/esight-cc,cape town,esight cc,western cape,1-10,esight.co.za
+south africa,"",jvz-builders,construction,linkedin.com/company/jvz-builders,centurion,jvz builders,gauteng,1-10,centurionrenovations.co.za
+south africa,"",estuary-country-hotel,hospitality,linkedin.com/company/estuary-country-hotel,"",estuary country hotel,"",11-50,estuaryhotel.co.za
+south africa,2009,secure-logistics-cargo-protection-specialists,security and investigations,linkedin.com/company/secure-logistics-cargo-protection-specialists,paarl,secure logistics cargo protection specialists,western cape,11-50,securelogistics.co.za
+south africa,2008,amr-mining,mining & metals,linkedin.com/company/amr-mining,"",amr mining,"",1-10,avanteminerals.co.za
+south africa,"",equity-medical-technologies,"",linkedin.com/company/equity-medical-technologies,irene,equity medical technologies,gauteng,11-50,""
+south africa,"",fine-print-consulting,"",linkedin.com/company/fine-print-consulting,midrand,fine print consulting,gauteng,1-10,""
+south africa,2009,light-be-construction-and-maintenance-pty-ltd-,photography,linkedin.com/company/light-be-construction-and-maintenance-pty-ltd-,cape town,juiciness productions,western cape,11-50,juiciness.co.za
+south africa,1994,heuer-&-associates,law practice,linkedin.com/company/heuer-&-associates,claremont,heuer & associates,western cape,1-10,heuer-attorneys.co.za
+south africa,"",modular-construction-systems,"",linkedin.com/company/modular-construction-systems,durbanville,modular construction systems,western cape,1-10,""
+south africa,2008,saligna-patio-furniture,furniture,linkedin.com/company/saligna-patio-furniture,"",saligna patio furniture,"",1-10,saligna.co.za
+south africa,2016,helloafricatravel,"leisure, travel & tourism",linkedin.com/company/helloafricatravel,johannesburg,hello africa travel,gauteng,1-10,helloafricatravel.com
+south africa,2004,tx-motionmedia,animation,linkedin.com/company/tx-motionmedia,johannesburg,tx vfx®,gauteng,11-50,tx.co.za
+south africa,1984,matt-rubber,mining & metals,linkedin.com/company/matt-rubber,mogale city,matt rubber mouldings (pty) ltd,gauteng,11-50,mattrubber.com
+south africa,2016,ronco-business-solutions,outsourcing/offshoring,linkedin.com/company/ronco-business-solutions,"",ronco business solutions,"",1-10,roncosolutions.com
+south africa,2018,digsconnect,computer software,linkedin.com/company/digsconnect,cape town,digsconnect.com,western cape,11-50,digsconnect.com
+south africa,"",cmc-property-group,financial services,linkedin.com/company/cmc-property-group,"",cmc property group,"",1-10,cmcgroup.co.za
+south africa,"",ematics,"",linkedin.com/company/ematics,pretoria,ematics,gauteng,11-50,""
+south africa,1993,tgs-south-africa-auditors,financial services,linkedin.com/company/tgs-south-africa-auditors,johannesburg,tgs south africa,gauteng,201-500,tgssouthafrica.co.za
+south africa,2007,oopsie-daisy-flowers,events services,linkedin.com/company/oopsie-daisy-flowers,ekurhuleni,oopsie daisy flowers,gauteng,1-10,oopsiedaisyflowers.co.za
+south africa,2010,leomarketingsa,marketing and advertising,linkedin.com/company/leomarketingsa,pretoria,leo marketing,gauteng,1-10,leomarketing.co.za
+south africa,2017,binary-beach,information technology and services,linkedin.com/company/binary-beach,sandton,binary beach,gauteng,1-10,binarybeach.co.za
+south africa,2001,honda-motor-southern-africa,automotive,linkedin.com/company/honda-motor-southern-africa,midrand,honda motor southern africa,gauteng,51-200,honda.co.za
+south africa,"",life-evangelism-international,non-profit organization management,linkedin.com/company/life-evangelism-international,"",life evangelism international,"",1-10,""
+south africa,2000,thekweni-reinforcing-pty-ltd,construction,linkedin.com/company/thekweni-reinforcing-pty-ltd,"",thekweni reinforcing pty ltd,"",51-200,thekweni.co.za
+south africa,1947,south-african-bureau-of-standards,government administration,linkedin.com/company/south-african-bureau-of-standards,pretoria,south african bureau of standards,gauteng,1001-5000,sabs.co.za
+south africa,"",lantern-school,primary/secondary education,linkedin.com/company/lantern-school,roodepoort,lantern school,gauteng,11-50,lanternschool.co.za
+south africa,1953,salt-employee-benefits,financial services,linkedin.com/company/salt-employee-benefits,midrand,salt employee benefits,gauteng,201-500,salt-eb.co.za
+south africa,"",q-electrical-industries,"",linkedin.com/company/q-electrical-industries,elandsfontein,q electrical industries,gauteng,11-50,""
+south africa,"",go-pro-reng,mining & metals,linkedin.com/company/go-pro-reng,"",gopro/reng-a part of torre industries,"",1-10,nwgopro.co.za
+south africa,2017,mahafha-holdings-pty-ltd,investment management,linkedin.com/company/mahafha-holdings-pty-ltd,krugersdorp,mahafha holdings(pty)ltd,gauteng,1-10,""
+south africa,"",capasity-pty-ltd,"",linkedin.com/company/capasity-pty-ltd,pretoria,capasity (pty) ltd,gauteng,1-10,""
+south africa,2018,sky-tutor,education management,linkedin.com/company/sky-tutor,johannesburg,sky tutor- assisting school learners online,gauteng,1-10,skytutor.co.za
+south africa,2007,spring-forest-trading-cc476,furniture,linkedin.com/company/spring-forest-trading-cc476,honeydew,spring forest trading 476cc,gauteng,1-10,""
+south africa,"",the-south-african-breweries-maltings,"",linkedin.com/company/the-south-african-breweries-maltings,caledon,the south african breweries maltings,western cape,1-10,""
+south africa,"",prestige-day-care,"",linkedin.com/company/prestige-day-care,centurion,prestige day care,gauteng,1-10,""
+south africa,"",tiny-bubbles-swim-school,"",linkedin.com/company/tiny-bubbles-swim-school,"",tiny bubbles swim school,"",11-50,""
+south africa,1974,grass-master,civil engineering,linkedin.com/company/grass-master,port elizabeth,grass master,eastern cape,11-50,grassmaster.co.za
+south africa,"",al-habib-college,"",linkedin.com/company/al-habib-college,durban,al habib college,kwazulu-natal,11-50,""
+south africa,"",sunshine-finance-and-loans,"",linkedin.com/company/sunshine-finance-and-loans,middelburg,sunshine finance and loans,mpumalanga,1-10,""
+south africa,2006,clear-view-balustrades-cc,"glass, ceramics & concrete",linkedin.com/company/clear-view-balustrades-cc,cape town,clear view balustrades cc,western cape,1-10,clearviewbalustrades.co.za
+south africa,2020,nuance-editing-writing,writing and editing,linkedin.com/company/nuance-editing-writing,pretoria,nuance editing & writing,gauteng,1-10,nuanced.co.za
+south africa,"",we-sell-cars,automotive,linkedin.com/company/we-sell-cars,centurion,we sell cars,gauteng,201-500,wesellcars.co.za
+south africa,"",rand-safety,"",linkedin.com/company/rand-safety,"",rand safety,"",11-50,randsafety.co.za
+south africa,"",boost-security,"",linkedin.com/company/boost-security,cape town,boost security,western cape,1-10,""
+south africa,"",inveritas-global-holdings-limited,management consulting,linkedin.com/company/inveritas-global-holdings-limited,sandton,inveritas global holdings limited,gauteng,11-50,""
+south africa,2017,empowered-analytics-za,information technology and services,linkedin.com/company/empowered-analytics-za,johannesburg,empowered analytics (pty) ltd,gauteng,1-10,empoweredanalytics.co.za
+south africa,"",dupont-de-nemours-sa,executive office,linkedin.com/company/dupont-de-nemours-sa,"",dupont de nemours sa,"",1-10,""
+south africa,"",ak-promotions,"",linkedin.com/company/ak-promotions,east london,ak promotions,eastern cape,11-50,""
+south africa,2018,fast-fluency-africa,recreational facilities and services,linkedin.com/company/fast-fluency-africa,pretoria,fast fluency africa,gauteng,1-10,fastfluencyafrica.co.za
+south africa,"",alula-group,"",linkedin.com/company/alula-group,randburg,alula group,gauteng,1-10,""
+south africa,1969,metal-badge-and-button,mining & metals,linkedin.com/company/metal-badge-and-button,pretoria,metal badge and button,gauteng,51-200,metalbadgeandbutton.com
+south africa,"",sf-plastics,"",linkedin.com/company/sf-plastics,athlone,sf plastics,western cape,1-10,""
+south africa,"",wildlife-security-consultants,"",linkedin.com/company/wildlife-security-consultants,wellington,wildlife security consultants,western cape,1-10,""
+south africa,1995,herbex-pty-ltd,"health, wellness and fitness",linkedin.com/company/herbex-pty-ltd,"",herbex pty ltd,western cape,51-200,herbexhealth.com
+south africa,"",legazy,investment management,linkedin.com/company/legazy,johannesburg,legazy technology,gauteng,1-10,legazy.co.za
+south africa,"",drive-direct,"",linkedin.com/company/drive-direct,"",drive direct,"",11-50,drivedirect.co.za
+south africa,"",trispen-technologies,computer software,linkedin.com/company/trispen-technologies,"",trispen technologies,"",11-50,""
+south africa,2003,parachute-training-enterprises,defense & space,linkedin.com/company/parachute-training-enterprises,bloemfontein,parachute training enterprises,free state,1-10,chutesyst.co.za
+south africa,2012,stellenbosch-academy-of-sport,sports,linkedin.com/company/stellenbosch-academy-of-sport,stellenbosch,stellenbosch academy of sport,western cape,11-50,sastraining.co.za
+south africa,1991,dalucon-refrigeration,mechanical or industrial engineering,linkedin.com/company/dalucon-refrigeration,centurion,dalucon refrigeration,gauteng,51-200,dalucon.co.za
+south africa,"",chefs-recruit,hospitality,linkedin.com/company/chefs-recruit,"",chefs recruit,"",1-10,chefsrecruit.co.za
+south africa,2015,trysome,market research,linkedin.com/company/trysome,"",trysome,"",1-10,gotrysome.com
+south africa,"",gc-mouldings,"",linkedin.com/company/gc-mouldings,"",gc mouldings,"",1-10,gcmouldings.co.za
+south africa,2007,4akid,wholesale,linkedin.com/company/4akid,johannesburg,4akid,gauteng,1-10,4akid.co.za
+south africa,"",ozzys-eco-decor,furniture,linkedin.com/company/ozzys-eco-decor,"",ozzys eco decor,"",1-10,ozzydecor.co.za
+south africa,"",c-pac-pumps-&-valves,"",linkedin.com/company/c-pac-pumps-&-valves,"",c-pac pumps & valves,"",11-50,c-pac.co.za
+south africa,2016,mikeandmandylt,"health, wellness and fitness",linkedin.com/company/mikeandmandylt,durban,mike and mandy lifestyle transformation,kwazulu-natal,1-10,mikeandmandy.co.za
+south africa,2004,siluloulutho-technologies-sut-,internet,linkedin.com/company/siluloulutho-technologies-sut-,"",silulo ulutho technologies(sut),"",51-200,""
+south africa,2008,asglo-logistics,logistics and supply chain,linkedin.com/company/asglo-logistics,pretoria,asglo logistics,gauteng,51-200,asglo.co.za
+south africa,2011,mzansi-auto-glass,"glass, ceramics & concrete",linkedin.com/company/mzansi-auto-glass,"",mzansi auto glass,"",1-10,mzansiglass.co.za
+south africa,"",togo-business-solutions,"",linkedin.com/company/togo-business-solutions,ferndale,togo business solutions,gauteng,1-10,""
+south africa,2009,the-spacestation,online media,linkedin.com/company/the-spacestation,cape town,the spacestation,western cape,11-50,thespacestation.co.za
+south africa,"",highbury-safika-media,publishing,linkedin.com/company/highbury-safika-media,cape town,highbury safika media,western cape,201-500,hsm.co.za
+south africa,2014,digiblu,financial services,linkedin.com/company/digiblu,cape town,digiblu,western cape,51-200,digiblu.co.za
+south africa,2000,aquilla-advisors-&-aquilla-financial-solutions,management consulting,linkedin.com/company/aquilla-advisors-&-aquilla-financial-solutions,pretoria,aquilla advisors & aquilla financial solutions,gauteng,1-10,aquillaadvisors.co.za
+south africa,"",zfj-investment,"",linkedin.com/company/zfj-investment,pietermaritzburg,zfj investment,kwazulu-natal,11-50,""
+south africa,1996,r-&-w-debt-collecting-&-related-legal-services,consumer services,linkedin.com/company/r-&-w-debt-collecting-&-related-legal-services,port elizabeth,r & w credit solutions,eastern cape,11-50,randw.co.za
+south africa,2014,jumping-fox-schools,information technology and services,linkedin.com/company/jumping-fox-schools,paarl,jumping fox software,western cape,1-10,jumpingfoxsoftware.com
+south africa,2009,dilingua-language-services,translation and localization,linkedin.com/company/dilingua-language-services,cape town,dilingua language services,western cape,1-10,dilingua.com
+south africa,"",mantella,mining & metals,linkedin.com/company/mantella,witbank,mantella trading 310 (pty)ltd,mpumalanga,201-500,mantella310.co.za
+south africa,1975,gripper-and-co-pty-ltd,electrical/electronic manufacturing,linkedin.com/company/gripper-and-co-pty-ltd,cape town,gripper & co (pty) ltd,western cape,11-50,gripper.co.za
+south africa,"",clique-technical,staffing and recruiting,linkedin.com/company/clique-technical,johannesburg,clique technical,gauteng,1-10,cliquetechnical.com
+south africa,1997,inovision-distributors-pty-ltd,building materials,linkedin.com/company/inovision-distributors-pty-ltd,cape town,inovision distributors (pty) ltd,western cape,51-200,inovision.biz
+south africa,2006,the-silver-flair-cc,hospitality,linkedin.com/company/the-silver-flair-cc,johannesburg,the silver flair,gauteng,1-10,thesilverflair.co.za
+south africa,2013,bassalt-contracting,construction,linkedin.com/company/bassalt-contracting,pretoria,bassalt contracting,gauteng,11-50,bassalt.co.za
+south africa,"",polla&pop,"",linkedin.com/company/polla&pop,"",polla&pop,"",11-50,pollapop.co.za
+south africa,"",st-dominics-academy,"",linkedin.com/company/st-dominics-academy,"",st dominics academy,"",11-50,stdoms.co.za
+south africa,"",gospel-workers-ministries,religious institutions,linkedin.com/company/gospel-workers-ministries,"",gospel workers ministries,"",1-10,gospelworkers.co.za
+south africa,"",tms-property-management,real estate,linkedin.com/company/tms-property-management,"",tms property management,"",1-10,""
+south africa,"",malibo-food-enterprises,food production,linkedin.com/company/malibo-food-enterprises,johannesburg,malibo food enterprises,gauteng,11-50,malibofoodenterprises.com
+south africa,2006,instant-mobile-solutions,computer software,linkedin.com/company/instant-mobile-solutions,kempton park,instant mobile solutions,gauteng,1-10,ingoodhands-uk.com
+south africa,2018,tlt-turbo-africa,mechanical or industrial engineering,linkedin.com/company/tlt-turbo-africa,pretoria,tlt-turbo africa,gauteng,51-200,tlt-turbo.africa
+south africa,2014,custom-apps-sa-pty-ltd,information technology and services,linkedin.com/company/custom-apps-sa-pty-ltd,"",custom apps sa(pty)ltd,"",1-10,customappssa.co.za
+south africa,2013,samsung-aircon-installations,construction,linkedin.com/company/samsung-aircon-installations,randburg,samsung aircon installations,gauteng,1-10,airconinstallations.co.za
+south africa,"",nuform-formwork-and-scaffolding,construction,linkedin.com/company/nuform-formwork-and-scaffolding,"",nuform formwork and scaffolding,"",51-200,nuform.net
+south africa,2017,mycloudafrica,internet,linkedin.com/company/mycloudafrica,sandton,cloudafrica,gauteng,1-10,coudafrica.biz
+south africa,"",saica-ca-sa-,accounting,linkedin.com/company/saica-ca-sa-,johannesburg,saica ca(sa),gauteng,51-200,saica.co.za
+south africa,"",rallinca-media,"",linkedin.com/company/rallinca-media,johannesburg,rallinca media,gauteng,11-50,""
+south africa,2010,forrester-pharma-&-consulting,pharmaceuticals,linkedin.com/company/forrester-pharma-&-consulting,"",forrester pharma,"",11-50,forresterpharma.com
+south africa,2018,leadmaxco,marketing and advertising,linkedin.com/company/leadmaxco,"",leadmax,gauteng,1-10,leadmaxco.com
+south africa,"",picture-tree-television-production-company,media production,linkedin.com/company/picture-tree-television-production-company,johannesburg,picture tree television production company,gauteng,1-10,picturetree.co.za
+south africa,2007,callguard-security-services,security and investigations,linkedin.com/company/callguard-security-services,johannesburg,callguard security services (pty) ltd,gauteng,51-200,callguard.net
+south africa,"",just-property-n1-city,real estate,linkedin.com/company/just-property-n1-city,cape town,just property n1 city,western cape,11-50,justpropertyn1city.co.za
+south africa,"",ng-kerk-moorreesburg,"",linkedin.com/company/ng-kerk-moorreesburg,"",ng kerk moorreesburg,"",11-50,moorreesburg.co.za
+south africa,"",century-21-south-africa,real estate,linkedin.com/company/century-21-south-africa,bedfordview,century 21 south africa,gauteng,1001-5000,century21.co.za
+south africa,2008,baketechptyltd-southafrica,food production,linkedin.com/company/baketechptyltd-southafrica,cape town,baketech (pty) ltd - south africa,western cape,51-200,baketech.co.za
+south africa,2001,barloworld-logistics,logistics and supply chain,linkedin.com/company/barloworld-logistics,johannesburg,barloworld logistics,gauteng,1001-5000,barloworld-logistics.com
+south africa,2018,livconsult,management consulting,linkedin.com/company/livconsult,cape town,liv consulting,western cape,1-10,livconsulting.co.za
+south africa,2009,student-brands-pty-ltd-,marketing and advertising,linkedin.com/company/student-brands-pty-ltd-,johannesburg,student brands pty (ltd),gauteng,11-50,studentbrands.co.za
+south africa,1998,c2-digital-print,printing,linkedin.com/company/c2-digital-print,"",c2 digital print,"",11-50,c2digital.co.za
+south africa,1999,nester-technologies-pty-ltd,information technology and services,linkedin.com/company/nester-technologies-pty-ltd,white river,nester technologies (pty) ltd,mpumalanga,1-10,nestertechnologies.co.za
+south africa,"",thc---the-holding-company,"",linkedin.com/company/thc---the-holding-company,johannesburg,thc - the holding company,gauteng,1-10,""
+south africa,2016,lake-productions,media production,linkedin.com/company/lake-productions,cape town,lake productions,western cape,1-10,lakeproductions.co
+south africa,2016,kinsey-resources-pty-ltd,oil & energy,linkedin.com/company/kinsey-resources-pty-ltd,cape town,kinsey resources (pty) ltd,western cape,1-10,kinseyresources.co.za
+south africa,1947,zimalco,mining & metals,linkedin.com/company/zimalco,benoni,zimco aluminium company a division of zimco group (pty) ltd,gauteng,51-200,zimalco.co.za
+south africa,2004,epic-signs-south-africa,marketing and advertising,linkedin.com/company/epic-signs-south-africa,cape town,epic signs south africa,western cape,1-10,epicsigns.co.za
+south africa,2019,goodgovernanceacademy,information services,linkedin.com/company/goodgovernanceacademy,johannesburg,good governance academy,gauteng,1-10,goodgovernance.academy
+south africa,"",rnm-group,"",linkedin.com/company/rnm-group,soweto,rnm group,gauteng,11-50,""
+south africa,"",amanuenses,"",linkedin.com/company/amanuenses,randburg,amanuenses,gauteng,1-10,""
+south africa,2017,umhlahlandlela-chartered-accountants-inc,accounting,linkedin.com/company/umhlahlandlela-chartered-accountants-inc,johannesburg,umhlahlandlela chartered accountants inc.,gauteng,1-10,umhlahlandlela.co.za
+south africa,2011,twin-rivers-addiction-recovery-and-self-development-centre,mental health care,linkedin.com/company/twin-rivers-addiction-recovery-and-self-development-centre,plettenberg bay,twin rivers rehab,western cape,11-50,twinriversrehab.co.za
+south africa,"",the-art-of-more-group,"",linkedin.com/company/the-art-of-more-group,johannesburg,the art of more group,gauteng,1-10,""
+south africa,1992,the-human-resource-practice,human resources,linkedin.com/company/the-human-resource-practice,johannesburg,the human resource practice,gauteng,1-10,hrpractice.co.za
+south africa,2007,smudge-web-design,internet,linkedin.com/company/smudge-web-design,johannesburg,smudge web design,gauteng,1-10,smudge.co.za
+south africa,2000,insource-ict,staffing and recruiting,linkedin.com/company/insource-ict,johannesburg,insource it edge,gauteng,51-200,insource.co.za
+south africa,2018,whytoyz,education management,linkedin.com/company/whytoyz,johannesburg,why toyz,gauteng,1-10,whytoyz.com
+south africa,2005,wireless-alarm-models-and-all,wireless,linkedin.com/company/wireless-alarm-models-and-all,pretoria,wireless alarm/models and all,gauteng,1-10,securitywireless.co.za
+south africa,2002,qgo,information technology and services,linkedin.com/company/qgo,verwoerdburg,qgo,gauteng,1-10,qgo.co.za
+south africa,2015,cherryrepublik,marketing and advertising,linkedin.com/company/cherryrepublik,johannesburg,cherry republik,gauteng,1-10,cherryrepublik.com
+south africa,2009,brandnew-creative-agency,marketing and advertising,linkedin.com/company/brandnew-creative-agency,cape town,brandnew creative agency,western cape,1-10,brandnewcreative.co.za
+south africa,"",printing-sa,printing,linkedin.com/company/printing-sa,"",printing sa,"",11-50,""
+south africa,"",gibbsteel-kzn,"",linkedin.com/company/gibbsteel-kzn,johannesburg,gibbsteel kzn,gauteng,1-10,""
+south africa,2001,analytix-academy,education management,linkedin.com/company/analytix-academy,"",analytix academy (pty) ltd,gauteng,1-10,""
+south africa,2001,isologic,management consulting,linkedin.com/company/isologic,"",iso-logic,"",1-10,isologic.co.za
+south africa,2010,pozi-rentals,real estate,linkedin.com/company/pozi-rentals,edenvale,pozi rentals,gauteng,1-10,pozi.co.za
+south africa,2015,catalystmo,design,linkedin.com/company/catalystmo,"",catalystmo,"",1-10,catalystmo.co.za
+south africa,2006,trink-group-holdings-pty-ltd,wholesale,linkedin.com/company/trink-group-holdings-pty-ltd,port elizabeth,trink group holdings(pty)ltd,eastern cape,51-200,trink.co.za
+south africa,"",tl-&-cs-consulting-t-a-braveheart,professional training & coaching,linkedin.com/company/tl-&-cs-consulting-t-a-braveheart,"",tl & cs consulting t/a braveheart,"",1-10,""
+south africa,"",beaulieu-country-estate,civic & social organization,linkedin.com/company/beaulieu-country-estate,"",beaulieu country estate,"",11-50,beaulieu-estate.co.za
+south africa,"",ct-consulting,management consulting,linkedin.com/company/ct-consulting,"",ct consulting,"",201-500,compensation.co.za
+south africa,2012,krs-fire-pty-ltd,mechanical or industrial engineering,linkedin.com/company/krs-fire-pty-ltd,boksburg,krs fire (pty) ltd,gauteng,11-50,krsfire.com
+south africa,2014,v8it-solutions,information technology and services,linkedin.com/company/v8it-solutions,cape town,v8it solutions,western cape,11-50,v8it.com
+south africa,"",phungo-it-solutions-pty-ltd,information technology and services,linkedin.com/company/phungo-it-solutions-pty-ltd,"",phungo it solutions (pty)ltd,"",1-10,phungo.com
+south africa,1966,pyrotec-packmark,machinery,linkedin.com/company/pyrotec-packmark,cape town,pyrotec packmark,western cape,51-200,packmark.co.za
+south africa,"",gavin-simpson-attorneys,"",linkedin.com/company/gavin-simpson-attorneys,"",gavin simpson attorneys,gauteng,11-50,""
+south africa,"",hts-witbank,"",linkedin.com/company/hts-witbank,"",hts witbank,"",51-200,htswitbank.co.za
+south africa,2015,pint-size-media,broadcast media,linkedin.com/company/pint-size-media,johannesburg,pint size media,gauteng,1-10,pintsizemedia.co.za
+south africa,"",farmfeed,"",linkedin.com/company/farmfeed,barberton,farmfeed,mpumalanga,11-50,""
+south africa,2015,silicium-pty-ltd-,consumer services,linkedin.com/company/silicium-pty-ltd-,paarl,silicium pty(ltd),western cape,1-10,silicium.co.za
+south africa,2003,real-world-productions,media production,linkedin.com/company/real-world-productions,pretoria,real world productions,gauteng,1-10,realworldtv.co.za
+south africa,2015,waste-equipment-distributors,renewables & environment,linkedin.com/company/waste-equipment-distributors,johannesburg,waste equipment distributors,gauteng,1-10,wasteequipmentdistributors.co.za
+south africa,2013,giddy-photo-worx,photography,linkedin.com/company/giddy-photo-worx,johannesburg,giddy photo worx,gauteng,1-10,giddyphotoworx.yolasite.com
+south africa,2015,concaten8-mobile-technologies-pty-ltd,information technology and services,linkedin.com/company/concaten8-mobile-technologies-pty-ltd,noordheuwel,concaten8 mobile technologies (pty) ltd,gauteng,1-10,concaten8.co.za
+south africa,"",majestic-weddings,publishing,linkedin.com/company/majestic-weddings,"",majestic weddings,"",11-50,majesticweddings.co.za
+south africa,"",revov,renewables & environment,linkedin.com/company/revov,ferndale,revov,gauteng,1-10,revov.co.za
+south africa,"",magdel-hougaard-accounting-services,"",linkedin.com/company/magdel-hougaard-accounting-services,cape town,magdel hougaard accounting services,western cape,1-10,""
+south africa,2008,hurter-spies,legal services,linkedin.com/company/hurter-spies,pretoria,hurter spies,gauteng,11-50,hurterspies.co.za
+south africa,2009,zealot-it,information technology and services,linkedin.com/company/zealot-it,"",zealot it,gauteng,1-10,zealotit.co.za
+south africa,"",petrolium-95,"",linkedin.com/company/petrolium-95,pretoria,petrolium 95,gauteng,1-10,""
+south africa,2003,reatilegroupptylimited,investment management,linkedin.com/company/reatilegroupptylimited,bryanston,reatile group (pty) limited,gauteng,201-500,reatile.co.za
+south africa,2005,tyson-properties,real estate,linkedin.com/company/tyson-properties,"",tyson properties,"",201-500,tysonprop.co.za
+south africa,"",italoven,"",linkedin.com/company/italoven,"",italoven,"",11-50,italoven.co.za
+south africa,"",inscon-insurance-brokers---southern-cape-rsa,insurance,linkedin.com/company/inscon-insurance-brokers---southern-cape-rsa,"",inscon insurance brokers - southern cape rsa,"",1-10,""
+south africa,"",rare-breed-studios,"",linkedin.com/company/rare-breed-studios,east london,rare breed studios,eastern cape,1-10,""
+south africa,2007,it-evolution-cc,information technology and services,linkedin.com/company/it-evolution-cc,johannesburg,it evolution cc,gauteng,11-50,itevolution.co.za
+south africa,2002,globetom,information technology and services,linkedin.com/company/globetom,centurion,globetom,gauteng,11-50,globetom.com
+south africa,2017,liesen-bitumen,building materials,linkedin.com/company/liesen-bitumen,buffalo city,liesen,eastern cape,1-10,liesen.co.za
+south africa,"",ads-africa,"",linkedin.com/company/ads-africa,middelburg,ads africa,mpumalanga,11-50,""
+south africa,2005,ledimo-solutions,marketing and advertising,linkedin.com/company/ledimo-solutions,johannesburg,ledimo solutions,gauteng,1-10,ledimo.co.za
+south africa,2008,data-sp,information technology and services,linkedin.com/company/data-sp,sandton,datasp,gauteng,11-50,datasp.co.za
+south africa,"",the-natural-way-network,"health, wellness and fitness",linkedin.com/company/the-natural-way-network,"",the natural way network,"",11-50,naturalwaynetwork.net
+south africa,"",wela-empowerment-holdings,information technology and services,linkedin.com/company/wela-empowerment-holdings,johannesburg,wela empowerment holdings,gauteng,51-200,weh.co.za
+south africa,2020,simplylocal,information technology and services,linkedin.com/company/simplylocal,langebaan,hbx,western cape,1-10,hbx.co.za
+south africa,"",emabhele-financial-accountants,accounting,linkedin.com/company/emabhele-financial-accountants,"",emabhele financial accountants,"",1-10,efacc.co.za
+south africa,2008,advanced-structural-mechanics-pty-ltd,mechanical or industrial engineering,linkedin.com/company/advanced-structural-mechanics-pty-ltd,pretoria,advanced structural mechanics (pty) ltd,gauteng,1-10,asmsa.co.za
+south africa,"",permark-supply-network,consumer goods,linkedin.com/company/permark-supply-network,"",permark supply network,"",11-50,permark.co.za
+south africa,"",pin-point-productions,"",linkedin.com/company/pin-point-productions,roodepoort,pin point productions,gauteng,1-10,""
+south africa,2001,majprojects,oil & energy,linkedin.com/company/majprojects,cape town,maj projects - consulting engineers and project managers,western cape,11-50,maj.co.za
+south africa,"",cormiru-investments,architecture & planning,linkedin.com/company/cormiru-investments,umhalnga rocks,cormiru investments,kwazulu-natal,1-10,cormiru.co.za
+south africa,2010,contentmachine,motion pictures and film,linkedin.com/company/contentmachine,cape town,contentmachine ltd.,western cape,1-10,contentmachine.co.za
+south africa,"",virtual-print,"",linkedin.com/company/virtual-print,edenvale,virtual print,gauteng,1-10,""
+south africa,"",zebediela-bricks,"",linkedin.com/company/zebediela-bricks,"",zebediela bricks,"",51-200,zebbrick.co.za
+south africa,"",designed-engineering-solutions,civil engineering,linkedin.com/company/designed-engineering-solutions,pretoria,designed engineering solutions,gauteng,1-10,designedes.co.za
+south africa,"",sonnekus-&-toerien-cc,"",linkedin.com/company/sonnekus-&-toerien-cc,"",sonnekus & toerien cc,"",1-10,stcon.co.za
+south africa,"",bb-motors-tzaneen,"",linkedin.com/company/bb-motors-tzaneen,polokwane,bb motors tzaneen,limpopo,11-50,""
+south africa,2012,drawfour,design,linkedin.com/company/drawfour,cape town,drawfour,western cape,1-10,drawfour.co.za
+south africa,2000,dancing-light-productions,motion pictures and film,linkedin.com/company/dancing-light-productions,cape town,dancing light productions,western cape,1-10,dancinglight.co.za
+south africa,2000,joint-prosperity,human resources,linkedin.com/company/joint-prosperity,johannesburg,joint prosperity,gauteng,11-50,jointprosperity.com
+south africa,1997,knowledge-factory_3,information services,linkedin.com/company/knowledge-factory_3,sandton,knowledge factory,gauteng,11-50,knowledgefactory.co.za
+south africa,2018,complete-orthopaedic-innovation,medical devices,linkedin.com/company/complete-orthopaedic-innovation,fourways,complete orthopaedic innovation,gauteng,11-50,coi-sa.com
+south africa,2008,the-farm-&-garden-national-trust,farming,linkedin.com/company/the-farm-&-garden-national-trust,cape town,the farm & garden national trust,western cape,1-10,farmgardentrust.org
+south africa,2012,the-audio-room,music,linkedin.com/company/the-audio-room,johannesburg,the audio room,gauteng,1-10,audioroom.co.za
+south africa,"",contest,information technology and services,linkedin.com/company/contest,randburg,cognition holdings,gauteng,11-50,cognitionholdings.co.za
+south africa,"",jsp-tax-and-business-solutions,"",linkedin.com/company/jsp-tax-and-business-solutions,boksburg,jsp tax and business solutions,gauteng,1-10,""
+south africa,2009,polka-spot-early-intervention-centre,hospital & health care,linkedin.com/company/polka-spot-early-intervention-centre,"",polka spot early intervention centre,"",1-10,polkaspot.co.za
+south africa,"",bioart-fertility-centre-saxonwold,"",linkedin.com/company/bioart-fertility-centre-saxonwold,johannesburg,bioart fertility  centre saxonwold,gauteng,1-10,""
+south africa,"",readira-projects,"",linkedin.com/company/readira-projects,"",readira projects,"",51-200,readira.com
+south africa,2000,interface-network-technology,information technology and services,linkedin.com/company/interface-network-technology,centurion,interface network technology,gauteng,51-200,intafrica.co.za
+south africa,1991,ammonia-refrigeration-engineering-a.r.e.-,mechanical or industrial engineering,linkedin.com/company/ammonia-refrigeration-engineering-a.r.e.-,cape town,ammonia refrigeration engineering (a.r.e.),western cape,11-50,e.co.za
+south africa,2007,munelo-technologies-&-emerge-first,construction,linkedin.com/company/munelo-technologies-&-emerge-first,johannesburg,munelo group,gauteng,1-10,munelogroup.com
+south africa,2014,voguelish,design,linkedin.com/company/voguelish,"",voguelish,western cape,1-10,voguelish.co.za
+south africa,2005,exclsuivelogisticssolutions,logistics and supply chain,linkedin.com/company/exclsuivelogisticssolutions,johannesburg,exclusive logistics solutions,gauteng,51-200,pronet.co.za
+south africa,"",forever-new,internet,linkedin.com/company/forever-new,cape town,forever new,western cape,201-500,forevernew.com.tr
+south africa,"",highground-holdings,"",linkedin.com/company/highground-holdings,pretoria,highground holdings,gauteng,11-50,""
+south africa,2002,civilworks-group,construction,linkedin.com/company/civilworks-group,johannesburg,civilworks group,gauteng,201-500,civilworksgroup.co.za
+south africa,"",tren-tyre-holdings,"",linkedin.com/company/tren-tyre-holdings,uitenhage,tren tyre holdings,eastern cape,1-10,""
+south africa,"",alloyd-group,"",linkedin.com/company/alloyd-group,germiston,alloyd group,gauteng,1-10,""
+south africa,"",wavecrest-capital,"",linkedin.com/company/wavecrest-capital,tokai,wavecrest capital,western cape,1-10,""
+south africa,"",xfuel-southern-africa,"",linkedin.com/company/xfuel-southern-africa,"",xfuel southern africa,gauteng,1-10,""
+south africa,"",studio18---online-marketing,marketing and advertising,linkedin.com/company/studio18---online-marketing,bedfordview,studio18 - online marketing,gauteng,11-50,studio18.biz
+south africa,2018,sdc-wealth-management-private-pty-ltd,financial services,linkedin.com/company/sdc-wealth-management-private-pty-ltd,johannesburg,sdc wealth management-private (pty) ltd,gauteng,1-10,sdcwealth.co.za
+south africa,"",explore-creative-self,mental health care,linkedin.com/company/explore-creative-self,"",explore creative self,"",1-10,explorecreativeself.co.za
+south africa,"",kruger-mpumalanga-international-airport,facilities services,linkedin.com/company/kruger-mpumalanga-international-airport,"",kruger mpumalanga international airport,"",11-50,kmiairport.co.za
+south africa,2017,rad-resources-sa,staffing and recruiting,linkedin.com/company/rad-resources-sa,pretoria,rad resources sa,gauteng,1-10,radresources.co.za
+south africa,1999,qfs---quality-filtration-systems,mechanical or industrial engineering,linkedin.com/company/qfs---quality-filtration-systems,cape town,qfs - quality filtration systems,western cape,11-50,qualityfilters.co.za
+south africa,1998,b4-hospitality,hospitality,linkedin.com/company/b4-hospitality,verwoerdburg,b4 hospitality,gauteng,1-10,b4h.co.za
+south africa,2012,bredenkamp-attorneys,law practice,linkedin.com/company/bredenkamp-attorneys,pretoria,bredenkamp attorneys,gauteng,1-10,ip-lawyer.co.za
+south africa,2003,the-biovac-institute,pharmaceuticals,linkedin.com/company/the-biovac-institute,cape town,the biovac institute,western cape,201-500,biovac.co.za
+south africa,"",zd-construction,"",linkedin.com/company/zd-construction,khayelitsha,zd construction,western cape,1-10,""
+south africa,"",cantoni-lounge,furniture,linkedin.com/company/cantoni-lounge,"",cantoni lounge,"",1-10,cantonilounge.co.za
+south africa,2004,sa-classifieds,marketing and advertising,linkedin.com/company/sa-classifieds,johannesburg,sa-classifieds,gauteng,11-50,sa-classifieds.co.za
+south africa,"",sunny-side-solar,"",linkedin.com/company/sunny-side-solar,darling,sunny side solar,western cape,1-10,""
+south africa,1965,conlog,electrical/electronic manufacturing,linkedin.com/company/conlog,"",conlog (pty) ltd,"",201-500,conlog.co.za
+south africa,"",bloudruk-media,"",linkedin.com/company/bloudruk-media,parow,bloudruk media,western cape,11-50,""
+south africa,2014,homelistic,construction,linkedin.com/company/homelistic,cape town,homelistic,western cape,1-10,homelistic.co.za
+south africa,2013,refractory-and-metallurgical-solution-pty-ltd,mining & metals,linkedin.com/company/refractory-and-metallurgical-solution-pty-ltd,vereeniging,refractory and metallurgical solution (pty) ltd,gauteng,51-200,""
+south africa,2015,argon-securities,"",linkedin.com/company/argon-securities,johannesburg,argon securities,gauteng,1-10,argonsecurities.co.za
+south africa,1999,delter-it-services,information technology and services,linkedin.com/company/delter-it-services,pretoria,delter it,gauteng,11-50,delter.co.za
+south africa,"",regalert,"",linkedin.com/company/regalert,"",regalert,"",11-50,regalert.co.za
+south africa,2016,tape-pty-ltd,retail,linkedin.com/company/tape-pty-ltd,pretoria,tape pty ltd,gauteng,51-200,officiallytape.com
+south africa,1998,futures-alchemist,program development,linkedin.com/company/futures-alchemist,"",futures alchemist,western cape,1-10,charlottekemp.co.za
+south africa,"",codeware-co-za,computer software,linkedin.com/company/codeware-co-za,johannesburg,codeware.,gauteng,1-10,codeware.co.za
+south africa,2014,ldr-engines-and-gearboxes,automotive,linkedin.com/company/ldr-engines-and-gearboxes,cape town,ldr engines and gearboxes,western cape,51-200,ldrengines.co.za
+south africa,"",curtain-palace-and-projects,"",linkedin.com/company/curtain-palace-and-projects,empumalanga,curtain palace and projects,mpumalanga,1-10,""
+south africa,2008,woermann-automation,industrial automation,linkedin.com/company/woermann-automation,stellenbosch,woermann automation,western cape,1-10,""
+south africa,"",sitholess-ca-sa-,accounting,linkedin.com/company/sitholess-ca-sa-,johannesburg,sitholess ca (sa),gauteng,11-50,sitholesa.co.za
+south africa,"",execulinked,"",linkedin.com/company/execulinked,johannesburg,execulinked,gauteng,1-10,""
+south africa,2017,ramslaw,legal services,linkedin.com/company/ramslaw,sandton,rams incorporated,gauteng,1-10,ramslaw.co.za
+south africa,1983,waterlab-pty-ltd,chemicals,linkedin.com/company/waterlab-pty-ltd,pretoria,waterlab (pty) ltd,gauteng,11-50,waterlab.co.za
+south africa,2015,firehorse-media,media production,linkedin.com/company/firehorse-media,cape town,firehorse media,western cape,1-10,firehorsemedia.co.za
+south africa,2016,ppc-specialist,marketing and advertising,linkedin.com/company/ppc-specialist,cape town,ppc specialist,western cape,1-10,""
+south africa,2003,m-five-consulting,financial services,linkedin.com/company/m-five-consulting,johannesburg,m five consulting,gauteng,1-10,mfive.co.za
+south africa,"",nsp-unsgaard,"",linkedin.com/company/nsp-unsgaard,durban,nsp unsgaard,kwazulu-natal,11-50,""
+south africa,"",cpe-mixing-technologies-africa-pty-ltd,mechanical or industrial engineering,linkedin.com/company/cpe-mixing-technologies-africa-pty-ltd,johannesburg,cpe mixing technologies africa (pty) ltd,gauteng,11-50,cpemix.co.za
+south africa,"",arkaios-services,"",linkedin.com/company/arkaios-services,doornpoort,arkaios services,gauteng,1-10,""
+south africa,"",afgri---grocat-commodities,"",linkedin.com/company/afgri---grocat-commodities,"",afgri - grocat commodities,"",1-10,grocat.com
+south africa,2001,eq-fin-kzn,financial services,linkedin.com/company/eq-fin-kzn,"",eq.fin kzn,"",1-10,""
+south africa,"",crestcapital,financial services,linkedin.com/company/crestcapital,johannesburg,crest capital,gauteng,1-10,crestcapital.co.za
+south africa,"",siyafundisa-training-specialists,"",linkedin.com/company/siyafundisa-training-specialists,durban,siyafundisa training specialists,kwazulu-natal,1-10,""
+south africa,"",spilhaus-montagu,farming,linkedin.com/company/spilhaus-montagu,"",spilhaus montagu,"",1-10,wmspilhaus.co.za
+south africa,2000,bomax-architects,architecture & planning,linkedin.com/company/bomax-architects,cape town,bomax architects,western cape,1-10,bomax.co.za
+south africa,2006,magic-displays-pty-ltd,printing,linkedin.com/company/magic-displays-pty-ltd,"",magic displays (pty) ltd,"",11-50,magicdisplays.co.za
+south africa,"",mutiplex,"",linkedin.com/company/mutiplex,crawford,mutiplex,western cape,11-50,""
+south africa,"",oceanic-capital-pty-ltd-south-africa,education management,linkedin.com/company/oceanic-capital-pty-ltd-south-africa,johannesburg,oceanic capital pty ltd south africa,gauteng,1-10,""
+south africa,1995,pinnacle-instruments-sa,industrial automation,linkedin.com/company/pinnacle-instruments-sa,germiston,pinnacle instruments sa,gauteng,11-50,pinnacle-ice.com
+south africa,2000,water-analytical-services,chemicals,linkedin.com/company/water-analytical-services,"",water analytical services,mpumalanga,51-200,wateras.co.za
+south africa,"",trend-tap-n-tile,building materials,linkedin.com/company/trend-tap-n-tile,"",trend tap n tile,"",11-50,trendtapntile.co.za
+south africa,1996,cape-care,individual & family services,linkedin.com/company/cape-care,cape town,cape care,western cape,51-200,capecareagency.co.za
+south africa,2008,endee-warehousing-solutions,warehousing,linkedin.com/company/endee-warehousing-solutions,"",endee warehousing solutions,"",1-10,endee.co.za
+south africa,1994,solutions-group-events,events services,linkedin.com/company/solutions-group-events,bryanston,solutions group events,gauteng,1-10,solutionsgroup.co.za
+south africa,"",intellect-direct,financial services,linkedin.com/company/intellect-direct,"",intellect direct,"",1-10,intellect-direct.com
+south africa,"",megait-solutions,"",linkedin.com/company/megait-solutions,kempton park,megait solutions,gauteng,11-50,""
+south africa,"",research-ict-africa,information technology and services,linkedin.com/company/research-ict-africa,cape town,research ict africa,western cape,1-10,researchictafrica.net
+south africa,"",barimo,"",linkedin.com/company/barimo,"",barimo,"",11-50,barimo.co.za
+south africa,2017,bafokeng-town-planners,architecture & planning,linkedin.com/company/bafokeng-town-planners,vanderbijlpark,bafokeng town planners,gauteng,1-10,""
+south africa,2017,pro-ink-cartridges,wholesale,linkedin.com/company/pro-ink-cartridges,hatfield,pro-ink cartridges,gauteng,1-10,pro-inkcartridges.com
+south africa,"",margate-engineering,"",linkedin.com/company/margate-engineering,"",margate engineering,"",11-50,margateengineering.co.za
+south africa,"",rntmanagement-services,management consulting,linkedin.com/company/rntmanagement-services,"",rntmanagement services,"",11-50,rntmanagement.co.za
+south africa,"",u-break-i-fix-professional-cell-phone-repair-clinic,"",linkedin.com/company/u-break-i-fix-professional-cell-phone-repair-clinic,kempton park,u break i fix professional cell phone repair clinic,gauteng,1-10,""
+south africa,"",envirocool-cc,"",linkedin.com/company/envirocool-cc,"",envirocool cc,"",11-50,envirocool.co.za
+south africa,2016,bee-parks-trust,food production,linkedin.com/company/bee-parks-trust,"",bee parks trust,"",1-10,beeparkstrust.org
+south africa,"",the-new-blyde-adventure-camp,"",linkedin.com/company/the-new-blyde-adventure-camp,hoedspruit,the new blyde adventure camp,limpopo,1-10,""
+south africa,2018,solar-brilliance-pty-ltd,renewables & environment,linkedin.com/company/solar-brilliance-pty-ltd,pretoria,solar brilliance (pty) ltd.,gauteng,1-10,solarbrilliance.co.za
+south africa,"",power-team-sa,marketing and advertising,linkedin.com/company/power-team-sa,"",power team sa,"",11-50,powerteam.com.gr
+south africa,2011,kenter-group,mining & metals,linkedin.com/company/kenter-group,montague gardens,kenter group,western cape,1-10,kentermetals.com
+south africa,2012,s-i-m-turning-limitless,design,linkedin.com/company/s-i-m-turning-limitless,brakpan,s.i.m turning limitless,gauteng,1-10,simturninglimitless.co.za
+south africa,2015,decimal-point,accounting,linkedin.com/company/decimal-point,"",decimal point,"",11-50,decimalpoint.co.za
+south africa,2018,rebirth-visualization,design,linkedin.com/company/rebirth-visualization,cape town,rebirth visualization,western cape,1-10,rebirthviz.com
+south africa,2007,black-business-women's-association,non-profit organization management,linkedin.com/company/black-business-women's-association,johannesburg,black business women's association,gauteng,1-10,bbwa.co.za
+south africa,2005,safari-online,"leisure, travel & tourism",linkedin.com/company/safari-online,cape town,safari online,western cape,1-10,safari-online.com
+south africa,1996,fairfieldtours,"leisure, travel & tourism",linkedin.com/company/fairfieldtours,cape town,fairfield tours,western cape,51-200,""
+south africa,"",empirestate-trading-ptyltd,real estate,linkedin.com/company/empirestate-trading-ptyltd,"",empirestate trading ptyltd,"",1-10,empirestatetrading.com
+south africa,1997,signforce,printing,linkedin.com/company/signforce,"",signforce,"",11-50,signforcerbay.co.za
+south africa,2004,the-elgin-group,mechanical or industrial engineering,linkedin.com/company/the-elgin-group,"",the elgin group,"",1001-5000,elgingroup.co.za
+south africa,2003,swallow15,music,linkedin.com/company/swallow15,roodepoort,swallow15 music school,gauteng,11-50,swallow15.co.za
+south africa,2018,forest-io,environmental services,linkedin.com/company/forest-io,johannesburg,forest.io,gauteng,11-50,""
+south africa,2013,amberwealth,management consulting,linkedin.com/company/amberwealth,johannesburg,amber wealth creation (pty) ltd,gauteng,1-10,""
+south africa,1982,bilnor-labour-gauteng,mining & metals,linkedin.com/company/bilnor-labour-gauteng,pretoria,bilnor labour gauteng,gauteng,51-200,bilnorgauteng.co.za
+south africa,2017,brightyoungbrains,education management,linkedin.com/company/brightyoungbrains,pretoria,bright young brains,gauteng,11-50,brightyoungbrains.com
+south africa,1968,becon-watertech,environmental services,linkedin.com/company/becon-watertech,westonaria,becon watertech,gauteng,51-200,beconwateretch.com
+south africa,2018,generators-sa,retail,linkedin.com/company/generators-sa,johannesburg,generators sa,gauteng,1-10,generatorssa.co.za
+south africa,2015,touch-me-xpert-pty-ltd,information technology and services,linkedin.com/company/touch-me-xpert-pty-ltd,pretoria,touch me xpert (pty) ltd,gauteng,1-10,touchmexpert.com
+south africa,2016,ebla-architects,architecture & planning,linkedin.com/company/ebla-architects,sandton,ebla architects,gauteng,11-50,eblaarchitects.com
+south africa,2016,sprinthive-sa,computer software,linkedin.com/company/sprinthive-sa,cape town,sprinthive - digital automation made easy,western cape,1-10,sprinthive.com
+south africa,2002,vitam-international,farming,linkedin.com/company/vitam-international,pretoria,vitam international (pty) ltd,gauteng,11-50,vitam.co.za
+south africa,2010,earth-probiotic-recycling-solutions-pty-ltd-,environmental services,linkedin.com/company/earth-probiotic-recycling-solutions-pty-ltd-,johannesburg,earth probiotic recycling solutions (pty) ltd.,gauteng,1-10,earthprobiotic.com
+south africa,2005,filter-and-hose-solutions-pty-ltd-,retail,linkedin.com/company/filter-and-hose-solutions-pty-ltd-,"",filter and hose solutions (pty) ltd.,gauteng,51-200,fhs.co.za
+south africa,"",jetworx,airlines/aviation,linkedin.com/company/jetworx,"",jetworx,"",51-200,"www,saftech.co.za"
+south africa,"",bfc-recruitment-pty-ltd,staffing and recruiting,linkedin.com/company/bfc-recruitment-pty-ltd,cape town,bfc staffing,western cape,11-50,bfcstaffing.co.za
+south africa,1981,delta-chemicals,chemicals,linkedin.com/company/delta-chemicals,meyerton,delta chemicals,gauteng,201-500,deltachemicals.co.za
+south africa,"",savvi-digital-marketing,marketing and advertising,linkedin.com/company/savvi-digital-marketing,cape town,savvi digital marketing,western cape,1-10,""
+south africa,"",jordache-engineering,mechanical or industrial engineering,linkedin.com/company/jordache-engineering,"",jordache engineering,"",11-50,jordache.co.za
+south africa,2007,rebels-playground-pty-ltd-,marketing and advertising,linkedin.com/company/rebels-playground-pty-ltd-,johannesburg,rebels playground pty ltd,gauteng,11-50,rebelsplayground.co.za
+south africa,2009,mardelev,human resources,linkedin.com/company/mardelev,johannesburg,mardelev financial and hr solutions,gauteng,1-10,mardelev.co.za
+south africa,"",mahle-holdings,"",linkedin.com/company/mahle-holdings,king william's town,mahle holdings,eastern cape,1-10,""
+south africa,2012,fabaton-engineering-and-construction,mining & metals,linkedin.com/company/fabaton-engineering-and-construction,phalaborwa,fabaton engineering and construction,limpopo,11-50,fabaton.co.za
+south africa,2012,uafrica-com,internet,linkedin.com/company/uafrica-com,pretoria,uafrica.com,gauteng,11-50,uafrica.com
+south africa,"",oce-south-africa,printing,linkedin.com/company/oce-south-africa,"",oce south africa,"",51-200,oce.co.za
+south africa,1966,soudal-south-africa,building materials,linkedin.com/company/soudal-south-africa,edenvale,soudal south africa,gauteng,1001-5000,""
+south africa,"",m-salam-trading-enterprise,"",linkedin.com/company/m-salam-trading-enterprise,johannesburg,m salam trading enterprise,gauteng,1-10,""
+south africa,2007,vas-holdings,internet,linkedin.com/company/vas-holdings,johannesburg,vas holdings,gauteng,51-200,vasholdings.com
+south africa,1999,hands-on-entertainment-agents,entertainment,linkedin.com/company/hands-on-entertainment-agents,boksburg,hands on entertainment agents,gauteng,1-10,hands-on.co.za
+south africa,2011,corporate-axtion,management consulting,linkedin.com/company/corporate-axtion,paarl,corporate axtion,western cape,1-10,corporateaxtion.com
+south africa,1989,bigfoot-express-freight,transportation/trucking/railroad,linkedin.com/company/bigfoot-express-freight,johannesburg,bigfoot express freight pty (ltd),gauteng,201-500,""
+south africa,2016,yourcfo,financial services,linkedin.com/company/yourcfo,johannesburg,yourcfo,gauteng,1-10,yourcfo.co.za
+south africa,2005,newclearenergy,professional training & coaching,linkedin.com/company/newclearenergy,"",newclearenergy,"",1-10,newclearenergy.co.za
+south africa,2001,smg-africa,marketing and advertising,linkedin.com/company/smg-africa,east london,smg africa,eastern cape,11-50,smgafrica.com
+south africa,2012,tjc-mechanical-engineering-pty-ltd,mechanical or industrial engineering,linkedin.com/company/tjc-mechanical-engineering-pty-ltd,cape town,tjc maintenance engineering (pty) ltd,western cape,11-50,tjcengineering.co.za
+south africa,2006,gaussian-engineering,management consulting,linkedin.com/company/gaussian-engineering,tokai,gaussian engineering,western cape,11-50,gauseng.com
+south africa,2012,xinixinsurancebrokers,insurance,linkedin.com/company/xinixinsurancebrokers,johannesburg,xinix insurance brokers,gauteng,11-50,xinixinsurance.co.za
+south africa,2013,the-brand-&-beverage-company,consumer goods,linkedin.com/company/the-brand-&-beverage-company,johannesburg,the brand & beverage company,gauteng,501-1000,tbbc.co.za
+south africa,"",alternative-route,"",linkedin.com/company/alternative-route,"",alternative route,"",1-10,alternativeroute.net
+south africa,"",isuzu-truck-centre-cape-town,automotive,linkedin.com/company/isuzu-truck-centre-cape-town,cape town,isuzu truck centre cape town,western cape,201-500,""
+south africa,"",reho-communications-cc,telecommunications,linkedin.com/company/reho-communications-cc,"",reho communications cc,"",11-50,rehocommunications.co.za
+south africa,"",dee-import-and-export,"",linkedin.com/company/dee-import-and-export,cape town,dee import and export,western cape,1-10,""
+south africa,1998,classic-seminars,management consulting,linkedin.com/company/classic-seminars,pretoria,classic seminars,gauteng,11-50,classic-sa.co.za
+south africa,"",the-werehouse,"",linkedin.com/company/the-werehouse,durban,the werehouse,kwazulu-natal,201-500,""
+south africa,2017,bulatelecoms,internet,linkedin.com/company/bulatelecoms,cape town,bulatelecoms,western cape,11-50,bulatelecoms.com
+south africa,"",rothco-pty-ltd,mechanical or industrial engineering,linkedin.com/company/rothco-pty-ltd,"",rothco pty ltd,"",11-50,rothco.co.za
+south africa,"",specpack-sales-and-marketing,"",linkedin.com/company/specpack-sales-and-marketing,rivonia,specpack sales and marketing,gauteng,11-50,""
+south africa,"",explora-travel,"",linkedin.com/company/explora-travel,pretoria,explora travel,gauteng,11-50,""
+south africa,2002,digital-dynamite,marketing and advertising,linkedin.com/company/digital-dynamite,johannesburg,digital dynamite,gauteng,1-10,digitaldynamite.co.za
+south africa,"",picompany-south-africa,human resources,linkedin.com/company/picompany-south-africa,johannesburg,picompany south africa,gauteng,1-10,picompany.co.za
+south africa,2002,kirk-marketing-sa-pty-ltd,building materials,linkedin.com/company/kirk-marketing-sa-pty-ltd,nelson mandela bay,kirk marketing sa (pty) ltd,eastern cape,51-200,kirk.co.za
+south africa,2020,eclipdechambers,non-profit organization management,linkedin.com/company/eclipdechambers,cape town,eclipde business chambers of commerce,western cape,51-200,eclipde.com
+south africa,"",dormehl-property-group-south-africa,real estate,linkedin.com/company/dormehl-property-group-south-africa,pretoria,remax-jowic.,gauteng,51-200,remax-jowic.co.za
+south africa,2014,birth'nidea,marketing and advertising,linkedin.com/company/birth'nidea,midrand,birth'nidea pty (ltd),gauteng,1-10,birthnidea.co.za
+south africa,2016,sdp-software-solutions-pty-ltd,information technology and services,linkedin.com/company/sdp-software-solutions-pty-ltd,cape town,sdp software solutions (pty) ltd,western cape,1-10,sdpss.co.za
+south africa,"",penflex,consumer goods,linkedin.com/company/penflex,cape town,penflex,western cape,51-200,penflex.co.za
+south africa,1979,business-connexion,information technology and services,linkedin.com/company/business-connexion,centurion,business connexion,gauteng,5001-10000,bcx.co.za
+south africa,"",the-fishermans-deli,"",linkedin.com/company/the-fishermans-deli,"",the fishermans deli,"",11-50,fishermansdeli.co.za
+south africa,2018,rack-up-solutions-sa,business supplies and equipment,linkedin.com/company/rack-up-solutions-sa,ekurhuleni,rack up solutions sa,gauteng,1-10,rackup.co.za
+south africa,2012,joyride-inc,computer software,linkedin.com/company/joyride-inc,"","joyride, inc","",1-10,getjoyride.com
+south africa,"",mca-energy,"",linkedin.com/company/mca-energy,eerste river,mca energy,western cape,1-10,""
+south africa,"",orchard-on-25,public relations and communications,linkedin.com/company/orchard-on-25,sandton,orchard on 25,gauteng,11-50,""
+south africa,2019,dss-fire-systems,public safety,linkedin.com/company/dss-fire-systems,randburg,dss fire systems,gauteng,1-10,dssfire.co.za
+south africa,"",enactus-university-of-johannesburg,non-profit organization management,linkedin.com/company/enactus-university-of-johannesburg,johannesburg,enactus university of johannesburg,gauteng,1-10,""
+south africa,"",thornleys-av,media production,linkedin.com/company/thornleys-av,"",thornleys av,"",11-50,thornleysav.co.za
+south africa,"",southern-waters-ecological-research-&-consulting-cc.,environmental services,linkedin.com/company/southern-waters-ecological-research-&-consulting-cc.,cape town,southern waters ecological research & consulting cc.,western cape,11-50,southernwaters.co.za
+south africa,2015,oxyg3n,media production,linkedin.com/company/oxyg3n,johannesburg,oxyg3n media,gauteng,1-10,oxyg3n.media
+south africa,2019,cerax-pty-ltd,chemicals,linkedin.com/company/cerax-pty-ltd,ekurhuleni,cerax (pty) ltd,gauteng,51-200,cerax.co.za
+south africa,"",maxs-lifestyle,"",linkedin.com/company/maxs-lifestyle,"",maxs lifestyle,"",1-10,maxslifestyle.co.za
+south africa,2016,émotionstudios,e-learning,linkedin.com/company/émotionstudios,durban,émotion studios,kwazulu-natal,11-50,emotionstudios.co.za
+south africa,1994,nexia-sab&t,accounting,linkedin.com/company/nexia-sab&t,cape town,nexia sab&t,western cape,501-1000,nexia-sabt.co.za
+south africa,"",solidarity-trade-union,public relations and communications,linkedin.com/company/solidarity-trade-union,"",solidarity trade union,"",201-500,solidarity.co.za
+south africa,1998,afri-servicesgroup,consumer services,linkedin.com/company/afri-servicesgroup,vereeniging,afri-services,gauteng,1001-5000,afriservices.co.za
+south africa,2008,eight-senses-technologies-&-consulting,management consulting,linkedin.com/company/eight-senses-technologies-&-consulting,johannesburg,eight senses technologies & consulting,gauteng,11-50,8senses.co.za
+south africa,2003,immploy-recruitment-agency,human resources,linkedin.com/company/immploy-recruitment-agency,"",immploy recruitment agency,western cape,11-50,immploy.biz
+south africa,2005,w3o,construction,linkedin.com/company/w3o,johannesburg,washirika 3 oaks,gauteng,201-500,w3o.co.za
+south africa,"",shiny-star,"",linkedin.com/company/shiny-star,midrand,shiny star,gauteng,11-50,""
+south africa,2014,nuron-tech-pty-ltd,telecommunications,linkedin.com/company/nuron-tech-pty-ltd,pretoria,nuron tech (pty) ltd,gauteng,1-10,nurontech.co.za
+south africa,"",bowen-investment-group,"",linkedin.com/company/bowen-investment-group,durban,bowen investment group,kwazulu-natal,1-10,""
+south africa,"",janie-bay,music,linkedin.com/company/janie-bay,"",janie bay,"",1-10,janiebay.com
+south africa,2014,jb-accountants-associates,accounting,linkedin.com/company/jb-accountants-associates,johannesburg,jb accountants & associates,gauteng,11-50,jbaccountancy.co.za
+south africa,2017,360-load-testing-services-pty-ltd,construction,linkedin.com/company/360-load-testing-services-pty-ltd,"",360 load testing services (pty) ltd,gauteng,1-10,360loadtestingservices.co.za
+south africa,2013,ahle-x,education management,linkedin.com/company/ahle-x,cape town,ahle-x affiliated hospitality leadership experiences,western cape,1-10,ahle-x.com
+south africa,"",core-sports-and-wellness-medical-centre,"",linkedin.com/company/core-sports-and-wellness-medical-centre,"",core sports and wellness medical centre,"",1-10,coremedical.co.za
+south africa,"",prestons-liquors-el-,"",linkedin.com/company/prestons-liquors-el-,east london,prestons liquors (el),eastern cape,11-50,""
+south africa,2018,cape-ai,information technology and services,linkedin.com/company/cape-ai,cape town,cape ai,western cape,11-50,cape-ai.com
+south africa,2001,new-beginningz,non-profit organization management,linkedin.com/company/new-beginningz,pretoria,new beginningz,gauteng,11-50,newbeginningz.org.za
+south africa,"",platinum-wines-and-spirits,"",linkedin.com/company/platinum-wines-and-spirits,"",platinum wines and spirits,"",11-50,platinumbeverages.co.za
+south africa,2009,cape-business-connect---helderberg,marketing and advertising,linkedin.com/company/cape-business-connect---helderberg,somerset west,cape business connect,western cape,1-10,capebusinessconnect.co.za
+south africa,2000,dr-nerina-wilkinson-associates,medical practice,linkedin.com/company/dr-nerina-wilkinson-associates,cape town,dr nerina wilkinson + associates,western cape,11-50,drnerinawilkinson.co.za
+south africa,2009,kwazulu-natal-organised-agriculture-development-desk,farming,linkedin.com/company/kwazulu-natal-organised-agriculture-development-desk,"",kwazulu natal organised agriculture development desk,"",1-10,kzndae.gov.za
+south africa,1970,ubizane-wildlife-reserve,recreational facilities and services,linkedin.com/company/ubizane-wildlife-reserve,"",ubizane wildlife reserve,"",11-50,ubizane.co.za
+south africa,2013,waterfront-film-studios,motion pictures and film,linkedin.com/company/waterfront-film-studios,cape town,waterfront film studios,western cape,11-50,waterfrontfilmstudios.com
+south africa,"",sparkle-beverages,"",linkedin.com/company/sparkle-beverages,tsakane,sparkle beverages,gauteng,1-10,""
+south africa,"",people-sa,staffing and recruiting,linkedin.com/company/people-sa,"",people sa,"",1-10,peoplesa.co.za
+south africa,2014,diversity-conference-and-consultancy,education management,linkedin.com/company/diversity-conference-and-consultancy,johannesburg,diversity conference and consultancy,gauteng,1-10,diversityconsultancy.co.za
+south africa,2013,drimkoe-solutions,computer software,linkedin.com/company/drimkoe-solutions,sandton,drimkoe,gauteng,1-10,drimkoe.com
+south africa,2005,lesedi-hospice,non-profit organization management,linkedin.com/company/lesedi-hospice,hertzogville,lesedi hospice hertzogville,free state,201-500,lesedihospice.co.za
+south africa,"",mopsy-strategic-advisors,"",linkedin.com/company/mopsy-strategic-advisors,"",mopsy strategic advisors,"",1-10,mopsy.co.za
+south africa,1991,rowlin-national-brokers,insurance,linkedin.com/company/rowlin-national-brokers,benoni,rowlin national brokers,gauteng,1-10,rowlin.co.za
+south africa,"",cate-a-bake,food & beverages,linkedin.com/company/cate-a-bake,"",cate-a-bake,"",11-50,cate-a-bake.co.za
+south africa,"",contract-car-&-truck-hire,transportation/trucking/railroad,linkedin.com/company/contract-car-&-truck-hire,"",contract car & truck hire,"",51-200,contracttruckhire.co.za
+south africa,2016,compiax,computer software,linkedin.com/company/compiax,pretoria,compiax,gauteng,1-10,compiax.com
+south africa,"",movement-solutions-physiotherapy,"",linkedin.com/company/movement-solutions-physiotherapy,george,movement solutions physiotherapy,western cape,11-50,""
+south africa,"",mimirose,"",linkedin.com/company/mimirose,bronkhorstspruit,mimirose,gauteng,1-10,""
+south africa,"",setha-group,"",linkedin.com/company/setha-group,matatiele,setha group,eastern cape,1-10,""
+south africa,"",enviro-elements-biological-monitoring-services,"",linkedin.com/company/enviro-elements-biological-monitoring-services,pretoria,enviro elements biological monitoring services,gauteng,1-10,""
+south africa,"",kings-steel-welding-and-fabrication,"",linkedin.com/company/kings-steel-welding-and-fabrication,port elizabeth,kings steel welding and fabrication,eastern cape,1-10,""
+south africa,2004,collaborative-africa-budget-reform-initiative-cabri-,public policy,linkedin.com/company/collaborative-africa-budget-reform-initiative-cabri-,centurion,collaborative africa budget reform initiative - cabri,gauteng,11-50,cabri-sbo.org
+south africa,"",jnb-group,"",linkedin.com/company/jnb-group,midrand,jnb group,gauteng,11-50,""
+south africa,2005,implexlegal,legal services,linkedin.com/company/implexlegal,centurion,implex consulting and auditing - pty ltd,gauteng,11-50,implex.co.za
+south africa,"",datacore-technologies-pty-ltd,business supplies and equipment,linkedin.com/company/datacore-technologies-pty-ltd,port elizabeth,datacore technologies (pty) ltd,eastern cape,1-10,datacore.co.za
+south africa,"",africasd,computer software,linkedin.com/company/africasd,"",africasd,"",11-50,africasd.com
+south africa,2009,iolproperty,real estate,linkedin.com/company/iolproperty,cape town,iolproperty,western cape,1-10,iolproperty.co.za
+south africa,"",bowline,logistics and supply chain,linkedin.com/company/bowline,montague gardens,bowline,western cape,51-200,bowline.co.za
+south africa,2013,think-social-media-south-africa,marketing and advertising,linkedin.com/company/think-social-media-south-africa,cape town,think social media sa,western cape,1-10,thinksocialmedia.co.za
+south africa,"",sanek-trust-recovery-services,"",linkedin.com/company/sanek-trust-recovery-services,cape town,sanek trust recovery services,western cape,1-10,""
+south africa,2000,vetlink-media-solutions,publishing,linkedin.com/company/vetlink-media-solutions,pretoria,vetlink media solutions,gauteng,1-10,vetlink.co.za
+south africa,2003,omega-risk-solutions,security and investigations,linkedin.com/company/omega-risk-solutions,pretoria,omega risk solutions,gauteng,5001-10000,omegasol.com
+south africa,2013,dual-fuel-green-technologies,transportation/trucking/railroad,linkedin.com/company/dual-fuel-green-technologies,randburg,dual fuel green technologies,gauteng,1-10,dualfueltechnologies.com
+south africa,"",prima-investment-group,"",linkedin.com/company/prima-investment-group,mossel bay,prima investment group,western cape,11-50,""
+south africa,2002,tatt2-personal-health-cc,hospital & health care,linkedin.com/company/tatt2-personal-health-cc,cape town,tatt2 personal health cc,western cape,1-10,tatt2.co.za
+south africa,"",vizier-advisors,management consulting,linkedin.com/company/vizier-advisors,"",vizier advisors,"",1-10,vizieradvisors.co.za
+south africa,1990,performance-brands-pty-ltd,sporting goods,linkedin.com/company/performance-brands-pty-ltd,cape town,performance brands (pty) ltd,western cape,51-200,performancebrands.co.za
+south africa,2011,palangapublishing,publishing,linkedin.com/company/palangapublishing,sandton,palanga publishing,gauteng,1-10,mymathsbuddy.co.za
+south africa,1999,prop-data,internet,linkedin.com/company/prop-data,"",prop data,"",11-50,propdata.net
+south africa,"",bb-suzuki-hatfield,"",linkedin.com/company/bb-suzuki-hatfield,pretoria,bb suzuki hatfield,gauteng,11-50,""
+south africa,"",fine-trading,mining & metals,linkedin.com/company/fine-trading,"",fine trading,"",11-50,scrapmetalsolutions.co.za
+south africa,2016,shape-a-young-minds,non-profit organization management,linkedin.com/company/shape-a-young-minds,johannesburg,shape a young mind,gauteng,1-10,""
+south africa,"",home-of-origin-wine,"",linkedin.com/company/home-of-origin-wine,stellenbosch,home of origin wine,western cape,51-200,""
+south africa,"",geoffrey-allison-consulting,human resources,linkedin.com/company/geoffrey-allison-consulting,"",geoffrey allison consulting,"",1-10,geoffreyallison.co.za
+south africa,2013,digital-life-technologies,telecommunications,linkedin.com/company/digital-life-technologies,johannesburg,digital life technologies,gauteng,1-10,digilifetech.com
+south africa,1997,qdp-lighting-&-electrical-design,design,linkedin.com/company/qdp-lighting-&-electrical-design,bellville,qdp lighting & electrical design,western cape,1-10,qdp.co.za
+south africa,1997,ristar,telecommunications,linkedin.com/company/ristar,nelspruit,ristar,mpumalanga,11-50,ristarsa.co.za
+south africa,"",bayline-seafoods,"",linkedin.com/company/bayline-seafoods,"",bayline seafoods,"",11-50,bayline.co.za
+south africa,1983,lombard-tyres-pty-ltd,retail,linkedin.com/company/lombard-tyres-pty-ltd,"",lombard tyres pty ltd,gauteng,201-500,lombardtyres.com
+south africa,2016,synergyn-business-services,management consulting,linkedin.com/company/synergyn-business-services,randburg,synergyn business services,gauteng,1-10,synergyn.co.za
+south africa,"",tc-smelters,"",linkedin.com/company/tc-smelters,morningside,tc smelters,gauteng,11-50,""
+south africa,2007,se-advisory-pty-ltd,international trade and development,linkedin.com/company/se-advisory-pty-ltd,pretoria,se advisory (pty) ltd. enabling investment in africa,gauteng,1-10,seadvisory.co.za
+south africa,"",international-immigration-bureau,information services,linkedin.com/company/international-immigration-bureau,mossel bay,international immigration bureau,western cape,1-10,immigrationbureau.co.za
+south africa,1998,eterniti-jewellery,luxury goods & jewelry,linkedin.com/company/eterniti-jewellery,cape town,eterniti jewellery,western cape,1-10,eterniti.co.za
+south africa,1998,national-prosecuting-authority,law enforcement,linkedin.com/company/national-prosecuting-authority,pretoria,national prosecuting authority,gauteng,10001+,npa.gov.za
+south africa,2013,bits-pty-ltd-,information technology and services,linkedin.com/company/bits-pty-ltd-,pretoria,bright innovation technical solutions (bits),gauteng,11-50,bitstech.co.za
+south africa,"",eurocool-cc,wholesale,linkedin.com/company/eurocool-cc,"",eurocool cc,"",11-50,""
+south africa,"",adesign-creative,marketing and advertising,linkedin.com/company/adesign-creative,cape town,adesign creative (pty) ltd.,western cape,1-10,adesigncreative.co.za
+south africa,1997,transatlantic-medical-supplies,medical devices,linkedin.com/company/transatlantic-medical-supplies,cape town,transatlantic medical supplies,western cape,11-50,transatlanticmedical.co.za
+south africa,"",phoenix-ayre,events services,linkedin.com/company/phoenix-ayre,"",phoenix ayre,"",1-10,phoenixayre.co.za
+south africa,2003,loot-online-pty-ltd,retail,linkedin.com/company/loot-online-pty-ltd,cape town,loot online (pty) ltd,western cape,51-200,loot.co.za
+south africa,1993,5dt,electrical/electronic manufacturing,linkedin.com/company/5dt,pretoria,5dt (fifth dimension technologies),gauteng,51-200,5dt.com
+south africa,2015,ict-sas,information technology and services,linkedin.com/company/ict-sas,centurion,square one consulting,gauteng,1-10,sq1consulting.co.za
+south africa,2012,temyindustries,apparel & fashion,linkedin.com/company/temyindustries,johannesburg,temy industries,gauteng,51-200,temy.co.za
+south africa,"",diy-furniture,"",linkedin.com/company/diy-furniture,hartenbos,diy furniture,western cape,1-10,""
+south africa,"",accredited-training-services-ats-,education management,linkedin.com/company/accredited-training-services-ats-,pretoria,accredited training services (ats),gauteng,11-50,assessortrainer.co.za
+south africa,1990,multisearch,staffing and recruiting,linkedin.com/company/multisearch,"",multisearch,"",51-200,multisearch.co.za
+south africa,"",dees-group,"",linkedin.com/company/dees-group,durban,dees group,kwazulu-natal,1-10,""
+south africa,2016,thetruevine,marketing and advertising,linkedin.com/company/thetruevine,"",the true vine,western cape,1-10,thetruevine.co.za
+south africa,"",prodigious-sa,marketing and advertising,linkedin.com/company/prodigious-sa,bryanston,prodigious sa,gauteng,51-200,""
+south africa,"",blue-parrot-advertising,marketing and advertising,linkedin.com/company/blue-parrot-advertising,sandton,blue parrot advertising,gauteng,11-50,""
+south africa,2015,bim-institute-for-africa,construction,linkedin.com/company/bim-institute-for-africa,"",bim institute,"",1-10,biminstitute.org.za
+south africa,"",aquafalls,"",linkedin.com/company/aquafalls,roodepoort,aquafalls,gauteng,1-10,""
+south africa,2000,unique-hydra-pty-ltd,oil & energy,linkedin.com/company/unique-hydra-pty-ltd,cape town,unique hydra (pty) ltd,western cape,51-200,uniquehydra.com
+south africa,2010,capcubed-finance-pty-ltd,financial services,linkedin.com/company/capcubed-finance-pty-ltd,"",capcubed,"",51-200,capcubed.com
+south africa,2017,protean-business-solutions,management consulting,linkedin.com/company/protean-business-solutions,johannesburg,protean business solutions,gauteng,1-10,proteansolutions.co.za
+south africa,2017,intelligreen-farms,renewables & environment,linkedin.com/company/intelligreen-farms,johannesburg,intelligreen,gauteng,1-10,intelligreen.io
+south africa,"",the-advantage,marketing and advertising,linkedin.com/company/the-advantage,strand,the advantage,western cape,1-10,theadvantage.co.za
+south africa,2015,machine-learning-africa,market research,linkedin.com/company/machine-learning-africa,johannesburg,machine learning africa,gauteng,11-50,mlafrica.com
+south africa,2013,electrozone-power-projects,construction,linkedin.com/company/electrozone-power-projects,johannesburg,electrozone power projects,gauteng,11-50,electrozone.co.za
+south africa,"",alliance-wheel-and-tyre,"",linkedin.com/company/alliance-wheel-and-tyre,overport,alliance wheel and tyre,kwazulu-natal,1-10,""
+south africa,2009,masston,construction,linkedin.com/company/masston,pretoria,masston construction projects,gauteng,11-50,""
+south africa,2013,future-collective,marketing and advertising,linkedin.com/company/future-collective,"",future collective,"",1-10,future-collective.com
+south africa,"",hatfield-truck-and-bus,"",linkedin.com/company/hatfield-truck-and-bus,"",hatfield truck and bus,"",11-50,hatfieldman.co.za
+south africa,2014,oxygen-twenty-one,business supplies and equipment,linkedin.com/company/oxygen-twenty-one,pretoria,oxygen 21,gauteng,1-10,oxygentwentyone.com
+south africa,"",johannesburg-water,government administration,linkedin.com/company/johannesburg-water,"",johannesburg water,"",1001-5000,""
+south africa,2019,youth-evolve,non-profit organization management,linkedin.com/company/youth-evolve,thohoyandou,youth evolve,limpopo,11-50,""
+south africa,2001,school-of-construction-economics-and-management-university-of-the-witwatersrand,architecture & planning,linkedin.com/company/school-of-construction-economics-and-management-university-of-the-witwatersrand,johannesburg,"school of construction economics and management, university of the witwatersrand",gauteng,201-500,""
+south africa,1986,aquatronics-cc,mining & metals,linkedin.com/company/aquatronics-cc,middelburg,aquatronics cc,mpumalanga,11-50,aquatronics.co.za
+south africa,1996,enhance-ifa-solutions,financial services,linkedin.com/company/enhance-ifa-solutions,"",enhance ifa,"",1-10,enhanceifa.com
+south africa,1993,african-bank,banking,linkedin.com/company/african-bank,midrand,african bank,gauteng,1001-5000,africanbank.co.za
+south africa,1991,ag-computer-accounting,information technology and services,linkedin.com/company/ag-computer-accounting,cape town,ag computer accounting,western cape,1-10,""
+south africa,2018,bean-content,marketing and advertising,linkedin.com/company/bean-content,cape town,bean content,western cape,1-10,beancontent.com
+south africa,"",benetrax-machinery,"",linkedin.com/company/benetrax-machinery,bloemfontein,benetrax machinery,free state,1-10,""
+south africa,"",cape-philharmonic-orchestra,"",linkedin.com/company/cape-philharmonic-orchestra,"",cape philharmonic orchestra,"",51-200,cpo.org.za
+south africa,"",nguni-restaurant-&-catering,"",linkedin.com/company/nguni-restaurant-&-catering,"",nguni restaurant & catering,"",1-10,nguni-restaurant.co.za
+south africa,"",willowbhy-&-braithwaite,insurance,linkedin.com/company/willowbhy-&-braithwaite,"",willowbhy & braithwaite,"",11-50,firstchoicefinancial.co.za
+south africa,2009,i'mlaunching,information technology and services,linkedin.com/company/i'mlaunching,johannesburg,i'mlaunching,gauteng,1-10,imlaunching.co.za
+south africa,"",scope-oils,"",linkedin.com/company/scope-oils,"",scope oils,"",1-10,scopeoils.com
+south africa,1989,the-jupiter-drawing-room_2,marketing and advertising,linkedin.com/company/the-jupiter-drawing-room_2,johannesburg,the jupiter drawing room - johannesburg,gauteng,51-200,jupiter.co.za
+south africa,1992,forwarding-african-transport-services-t-a-fats,transportation/trucking/railroad,linkedin.com/company/forwarding-african-transport-services-t-a-fats,"",forwarding african transport services t/a fats,"",51-200,fats.co.za
+south africa,2018,the-taurus-company,management consulting,linkedin.com/company/the-taurus-company,cape town,the taurus company,western cape,1-10,taurusco.co.za
+south africa,1984,lite-glo,wholesale,linkedin.com/company/lite-glo,johannesburg,lite-glo,gauteng,11-50,liteglo.co.za
+south africa,2016,crepe-paper,arts and crafts,linkedin.com/company/crepe-paper,kempton park,crepe paper,gauteng,1-10,crepepaper.co.za
+south africa,2012,the-ocity-factor,apparel & fashion,linkedin.com/company/the-ocity-factor,"",the ocity factor,"",1-10,theocityfactor.com
+south africa,"",rcl-foods-consumer,"",linkedin.com/company/rcl-foods-consumer,westville,rcl foods consumer,kwazulu-natal,201-500,""
+south africa,1997,ben-engelbrecht-&-associates,financial services,linkedin.com/company/ben-engelbrecht-&-associates,"",ben engelbrecht & associates,"",1-10,benengelbrecht.co.za
+south africa,"",goldenchase-corp,international trade and development,linkedin.com/company/goldenchase-corp,"",goldenchase corp,"",1-10,goldenchase.com
+south africa,2015,miles-beyond-sa,logistics and supply chain,linkedin.com/company/miles-beyond-sa,montague gardens,miles beyond sa,western cape,1-10,milesbeyond.co.za
+south africa,1979,marblecast,consumer goods,linkedin.com/company/marblecast,cape town,marblecast,western cape,11-50,marblecast.co.za
+south africa,1993,enserve-engineering-services,mechanical or industrial engineering,linkedin.com/company/enserve-engineering-services,sasolburg,enserve engineering services (pty) (ltd),free state,201-500,enserveonline.com
+south africa,"",electrical-wiring-construction,"",linkedin.com/company/electrical-wiring-construction,randfontein,electrical wiring construction,gauteng,1-10,""
+south africa,2002,steve-winks-and-co.-pty-ltd,management consulting,linkedin.com/company/steve-winks-and-co.-pty-ltd,"",steve winks and co. (pty) ltd,"",1-10,swac.co.za
+south africa,2013,verishield,computer & network security,linkedin.com/company/verishield,"",verishield,gauteng,1-10,verishield360.co.za
+south africa,1999,emporium-human-capital,staffing and recruiting,linkedin.com/company/emporium-human-capital,"",emporium human capital,"",1-10,emporium.co.za
+south africa,1991,woodlam-pty-ltd,furniture,linkedin.com/company/woodlam-pty-ltd,johannesburg,woodlam (pty) ltd,gauteng,51-200,woodlam.co.za
+south africa,2015,digital-optimization,marketing and advertising,linkedin.com/company/digital-optimization,stellenbosch,digital optimization,western cape,11-50,digitaloptimization.co.za
+south africa,2005,artificial-studio-cc,design,linkedin.com/company/artificial-studio-cc,cape town,artificial.studio,western cape,1-10,artificial.studio
+south africa,2012,slashtech,information technology and services,linkedin.com/company/slashtech,centurion,slash it services (pty) ltd,gauteng,1-10,slash.co.za
+south africa,1998,altech-swisttech,information technology and services,linkedin.com/company/altech-swisttech,stellenbosch,altech swisttech,western cape,11-50,swisttech.com
+south africa,2007,scrum-sense,information technology and services,linkedin.com/company/scrum-sense,cape town,scrum sense,western cape,1-10,scrumsense.com
+south africa,"",wit-consortium,individual & family services,linkedin.com/company/wit-consortium,"",wit consortium,"",1001-5000,""
+south africa,2016,bi-lab-solutions,computer software,linkedin.com/company/bi-lab-solutions,bryanston,bi-lab solutions,gauteng,1-10,bi-lab.co.za
+south africa,2007,dow-jones-plumbing-services,construction,linkedin.com/company/dow-jones-plumbing-services,"",dow-jones plumbing services,gauteng,11-50,dowjonesplumbing.co.za
+south africa,"",spacejump,"",linkedin.com/company/spacejump,boksburg,spacejump,gauteng,1-10,""
+south africa,1997,inconsult-engineers,civil engineering,linkedin.com/company/inconsult-engineers,"",inconsult engineers,"",1-10,inconsult.co.za
+south africa,2014,applied-fire-solutions,mechanical or industrial engineering,linkedin.com/company/applied-fire-solutions,pretoria,applied fire solutions,gauteng,1-10,bimsolutions.co.za
+south africa,"",globe-recruit,human resources,linkedin.com/company/globe-recruit,"",globe recruit,"",1-10,globerecruit.com
+south africa,"",synerics,information technology and services,linkedin.com/company/synerics,"",synerics,"",11-50,synerics.com
+south africa,2016,amber-energy-pty-ltd-south-africa,renewables & environment,linkedin.com/company/amber-energy-pty-ltd-south-africa,pretoria,amber energy pty ltd. south africa,gauteng,1-10,amberenergy.co.za
+south africa,2005,jinja-outdoor-media,marketing and advertising,linkedin.com/company/jinja-outdoor-media,johannesburg,jinja outdoor media,gauteng,11-50,jinjaoutdoor.co.za
+south africa,"",protektum,"",linkedin.com/company/protektum,"",protektum,"",11-50,protektum.co.za
+south africa,"",hl-kroon-property-development,"",linkedin.com/company/hl-kroon-property-development,"",hl kroon property development,"",1-10,hlkroon.co.za
+south africa,1999,ecrsoftware,computer software,linkedin.com/company/ecrsoftware,johannesburg,ecr software,gauteng,11-50,ecrsoftware.co.za
+south africa,"",dorbyl-automotive-systems-ltd-,automotive,linkedin.com/company/dorbyl-automotive-systems-ltd-,"",dorbyl automotive systems ltd.,"",11-50,""
+south africa,"",enhanced-location-selling,"",linkedin.com/company/enhanced-location-selling,johannesburg,enhanced location selling,gauteng,11-50,""
+south africa,2014,ai-vision,automotive,linkedin.com/company/ai-vision,johannesburg,ai vision,gauteng,1-10,aivision.co.za
+south africa,"",crowie-holdings,"",linkedin.com/company/crowie-holdings,bryanston,crowie holdings,gauteng,11-50,""
+south africa,2008,vivaengineering,construction,linkedin.com/company/vivaengineering,kempton park,viva engineering,gauteng,51-200,vivaeng.co.za
+south africa,2017,neptune-design-pty-ltd,design,linkedin.com/company/neptune-design-pty-ltd,johannesburg,neptune design pty ltd,gauteng,1-10,neptunedesign.co.za
+south africa,1998,bambanani-pipes-&-fittings,construction,linkedin.com/company/bambanani-pipes-&-fittings,roodepoort,bambanani pipes & fittings (pty) ltd,gauteng,51-200,bampipe.co.za
+south africa,"",finelines-construction-projects,construction,linkedin.com/company/finelines-construction-projects,"",finelines construction projects,"",1-10,finelinesconstruction.co.za
+south africa,2004,wellness-thru-function,"health, wellness and fitness",linkedin.com/company/wellness-thru-function,port elizabeth,wellness thru function,eastern cape,1-10,wellnessthrufunction.co.za
+south africa,1960,saafost,food & beverages,linkedin.com/company/saafost,pretoria,saafost,gauteng,10001+,saafost.org.za
+south africa,"",modiro-medical,"",linkedin.com/company/modiro-medical,midrand,modiro medical,gauteng,11-50,""
+south africa,2004,sure-zorgvliet-travel,"leisure, travel & tourism",linkedin.com/company/sure-zorgvliet-travel,vereeniging,sure global travel (pty)ltd,gauteng,11-50,surezorgvliettravel.co.za
+south africa,2008,conical-technologies,telecommunications,linkedin.com/company/conical-technologies,pretoria,conical technologies,gauteng,1-10,conical.co.za
+south africa,1995,cape-property-studios,real estate,linkedin.com/company/cape-property-studios,cape town,cape property studios,western cape,1-10,capepropertystudios.com
+south africa,2017,owl-and-the-wolf,"health, wellness and fitness",linkedin.com/company/owl-and-the-wolf,cape town,owl and the wolf holistic fitness,western cape,1-10,owlandthewolf.co.za
+south africa,"",sabric,banking,linkedin.com/company/sabric,"",sabric,"",51-200,""
+south africa,2010,the-jumpstart-foundation,philanthropy,linkedin.com/company/the-jumpstart-foundation,randburg,the jumpstart project,gauteng,51-200,comejump.com
+south africa,2009,officialaym,non-profit organization management,linkedin.com/company/officialaym,pretoria,agape youth movement,gauteng,11-50,aym.org.za
+south africa,1997,rupert-&-rothschild-vignerons,farming,linkedin.com/company/rupert-&-rothschild-vignerons,"",rupert & rothschild vignerons,"",11-50,rupert-rothschildvignerons.com
+south africa,"",cbi-electric-aberdare-atc-teleco-cables,renewables & environment,linkedin.com/company/cbi-electric-aberdare-atc-teleco-cables,elandsfontein,cbi electric low voltage dc energy,gauteng,201-500,""
+south africa,2007,network-migration-services,individual & family services,linkedin.com/company/network-migration-services,fourways,network migration services,gauteng,11-50,networkmigration.co.za
+south africa,2012,fabrikaat,architecture & planning,linkedin.com/company/fabrikaat,pretoria,fabrikaat,gauteng,1-10,fabrikaat.co.za
+south africa,2014,streamline-life,design,linkedin.com/company/streamline-life,port elizabeth,streamline life,eastern cape,1-10,streamlinelife.co.za
+south africa,"",igm-holdings,"",linkedin.com/company/igm-holdings,midrand,igm holdings,gauteng,1-10,""
+south africa,2009,new-kings-hotel,hospitality,linkedin.com/company/new-kings-hotel,cape town,new kings hotel,western cape,1-10,newkingshotel.co.za
+south africa,2012,illuminate-africa-group-ltd,marketing and advertising,linkedin.com/company/illuminate-africa-group-ltd,"",illuminate africa group ltd,"",1-10,illuminate-africa.com
+south africa,2003,mgezi-consulting-services-cc-t-a-mdm-consulting,business supplies and equipment,linkedin.com/company/mgezi-consulting-services-cc-t-a-mdm-consulting,vereeniging,mgezi consulting services cc t/a mdm consulting,gauteng,1-10,mdmcon.co.za
+south africa,1997,hcv-underwriting-managers,insurance,linkedin.com/company/hcv-underwriting-managers,"",hcv underwriting managers,"",51-200,hcv.co.za
+south africa,2015,afriten,marketing and advertising,linkedin.com/company/afriten,johannesburg,afriten,gauteng,1-10,afriten.co.za
+south africa,"",eye-in-the-sky-technologies,"",linkedin.com/company/eye-in-the-sky-technologies,saulsville,eye in the sky technologies,gauteng,1-10,""
+south africa,"",wuber,"",linkedin.com/company/wuber,worcester,wuber,western cape,11-50,""
+south africa,"",african-phoenix-investments,"",linkedin.com/company/african-phoenix-investments,"",african phoenix investments,gauteng,1-10,""
+south africa,2003,burgervorster,accounting,linkedin.com/company/burgervorster,pretoria,burger and vorster inc,gauteng,1-10,""
+south africa,"",chat2cars-co-za,"",linkedin.com/company/chat2cars-co-za,johannesburg,chat2cars.co.za,gauteng,11-50,""
+south africa,1996,gijima-training-institute,telecommunications,linkedin.com/company/gijima-training-institute,johannesburg,gijima training institute,gauteng,1-10,gijimasa.co.za
+south africa,"",hub-city,"",linkedin.com/company/hub-city,midrand,hub city,gauteng,51-200,""
+south africa,2014,enterprise-solutions-africa,information technology and services,linkedin.com/company/enterprise-solutions-africa,newlands,enterprise solutions africa,western cape,1-10,esa-uk.com
+south africa,2008,leftfield---beyond-advertising,marketing and advertising,linkedin.com/company/leftfield---beyond-advertising,cape town,leftfield - beyond advertising,western cape,11-50,leftfield.co.za
+south africa,1998,universal-it-services,information technology and services,linkedin.com/company/universal-it-services,cape town,universal it services,western cape,1-10,""
+south africa,"",thistle-bakery,"",linkedin.com/company/thistle-bakery,kempton park,thistle bakery,gauteng,1-10,""
+south africa,1994,rbj-brick-&-block-pty-ltd,building materials,linkedin.com/company/rbj-brick-&-block-pty-ltd,darling,rbj brick & block pty ltd,western cape,1-10,rbjbrick.co.za
+south africa,"",brooksfield-brokers,insurance,linkedin.com/company/brooksfield-brokers,"",brooksfield brokers,"",1-10,brooksfieldbrokers.co.za
+south africa,"",chilion,"",linkedin.com/company/chilion,theunissen,chilion israel manufacturing ltd,free state,1-10,""
+south africa,2008,naledi-game-lodges,hospitality,linkedin.com/company/naledi-game-lodges,hoedspruit,naledi game lodge,limpopo,11-50,naledigamelodge.com
+south africa,1986,backup-storage-facilities,information technology and services,linkedin.com/company/backup-storage-facilities,"",backup storage facilities,"",51-200,bsf.co.za
+south africa,"",sa-online,marketing and advertising,linkedin.com/company/sa-online,"",sa online,"",11-50,makingithappen.co.za
+south africa,2010,diamond-bluestar,financial services,linkedin.com/company/diamond-bluestar,"",diamond bluestar,"",1-10,diamondbluestar.co.za
+south africa,2012,eleventh-dimension,information technology and services,linkedin.com/company/eleventh-dimension,centurion,eleventh dimension,gauteng,1-10,eleventhdimension.co.za
+south africa,"",pharmapac-south-africa,plastics,linkedin.com/company/pharmapac-south-africa,"",pharmapac south africa,"",51-200,pailpac.co.za
+south africa,"",bakermckenzie_southafrica,law practice,linkedin.com/company/bakermckenzie_southafrica,johannesburg,baker mckenzie south africa,gauteng,51-200,""
+south africa,"",astrosec-sa,security and investigations,linkedin.com/company/astrosec-sa,cape town,astrosec-sa,western cape,1-10,""
+south africa,"",red-technologies,information technology and services,linkedin.com/company/red-technologies,"",red technologies,"",1-10,rednett.co.za
+south africa,"",billy-brown,"",linkedin.com/company/billy-brown,nelspruit,billy brown,mpumalanga,1-10,""
+south africa,2003,mozzi-productions,internet,linkedin.com/company/mozzi-productions,cape town,mozzi productions,western cape,1-10,mozzi.co.za
+south africa,"",ddi-media-monitoring,"",linkedin.com/company/ddi-media-monitoring,fourways,ddi media monitoring,gauteng,11-50,""
+south africa,"",national-film-and-video-foundation-south-africa,motion pictures and film,linkedin.com/company/national-film-and-video-foundation-south-africa,johannesburg,national film and video foundation south africa,gauteng,11-50,""
+south africa,"",ldp-development,information technology and services,linkedin.com/company/ldp-development,cape town,ldp development,western cape,1-10,ldpdevelopment.co.za
+south africa,2015,surgo-hr-&-training,human resources,linkedin.com/company/surgo-hr-&-training,cape town,surgo hr & training,western cape,1-10,surgo.co.za
+south africa,"",cowhouse,"",linkedin.com/company/cowhouse,centurion,cowhouse,gauteng,1-10,""
+south africa,2015,alfa-financials,financial services,linkedin.com/company/alfa-financials,johannesburg,alfa financials,gauteng,11-50,alfafinancials.co.za
+south africa,"",dream-knysna,"",linkedin.com/company/dream-knysna,"",dream knysna,"",11-50,dreamknysna.co.za
+south africa,2006,the-corporate-hub---executive-recruitment,human resources,linkedin.com/company/the-corporate-hub---executive-recruitment,sandton,the corporate hub - executive recruitment,gauteng,1-10,thecorporatehub.co.za
+south africa,"",valostar-steel-construction,construction,linkedin.com/company/valostar-steel-construction,heidelberg,valostar steel construction,gauteng,51-200,valostarconstruction.co.za
+south africa,2017,debtorsolutions,accounting,linkedin.com/company/debtorsolutions,cape town,debtor solutions,western cape,1-10,debtorsolutions.co.za
+south africa,2013,promar-engineering-pty-ltd,mechanical or industrial engineering,linkedin.com/company/promar-engineering-pty-ltd,pretoria,promar engineering pty ltd,gauteng,11-50,""
+south africa,"",organic-aloe-pty-ltd,import and export,linkedin.com/company/organic-aloe-pty-ltd,"",organic aloe pty ltd,"",11-50,organicaloe.co.za
+south africa,"",cortexgroup,information technology and services,linkedin.com/company/cortexgroup,cape town,cortex group,western cape,11-50,cortexgroup.ai
+south africa,"",bst-properties-potchefstroom,real estate,linkedin.com/company/bst-properties-potchefstroom,centurion,bst properties,gauteng,11-50,bstproperties.co.za
+south africa,2008,pce-accountants,accounting,linkedin.com/company/pce-accountants,pretoria,pce accountants,gauteng,1-10,pceaccountants.co.za
+south africa,"",raptas-holdings,"",linkedin.com/company/raptas-holdings,sandton,raptas holdings,gauteng,1-10,""
+south africa,"",kilima-private-game-reserve-and-spa,"",linkedin.com/company/kilima-private-game-reserve-and-spa,white river,kilima private game reserve and spa,mpumalanga,11-50,""
+south africa,1995,tourplan-africa,information technology and services,linkedin.com/company/tourplan-africa,boksburg,tourplan africa,gauteng,11-50,""
+south africa,"",amalgamated-group-of-companies,"",linkedin.com/company/amalgamated-group-of-companies,kloof,amalgamated group of companies,kwazulu-natal,1-10,""
+south africa,1986,genesis-advisory-services,financial services,linkedin.com/company/genesis-advisory-services,johannesburg,genesis advisory services,gauteng,51-200,genesisadvisory.co.za
+south africa,"",geldhof-chocolatier,"",linkedin.com/company/geldhof-chocolatier,"",geldhof chocolatier,"",11-50,geldhofchocolates.co.za
+south africa,2008,jrb-solutions,information technology and services,linkedin.com/company/jrb-solutions,"",jrb solutions,"",1-10,jr-b.co.za
+south africa,1973,rand-air,business supplies and equipment,linkedin.com/company/rand-air,johannesburg,rand-air,gauteng,51-200,randair.co.za
+south africa,2005,professional-sourcing-sa,staffing and recruiting,linkedin.com/company/professional-sourcing-sa,pretoria,professional sourcing sa,gauteng,11-50,prosourcing.co.za
+south africa,"",carlpenn,commercial real estate,linkedin.com/company/carlpenn,cape town,carlpenn commercial,western cape,1-10,carlpenn.com
+south africa,2010,spoonful-of-science,entertainment,linkedin.com/company/spoonful-of-science,"",spoonful of science,"",1-10,spoonfulofscience.com
+south africa,2013,studiothinkers,marketing and advertising,linkedin.com/company/studiothinkers,"",studio thinkers,gauteng,1-10,studiothinkers.com
+south africa,2005,siza-it-solutions,information technology and services,linkedin.com/company/siza-it-solutions,"",siza it solutions,"",11-50,sizait.co.za
+south africa,2011,envalue-ag,financial services,linkedin.com/company/envalue-ag,woodmead,envalue consulting,gauteng,11-50,envalue-consulting.com
+south africa,"",saice-johannesburg-branch,civil engineering,linkedin.com/company/saice-johannesburg-branch,johannesburg,saice johannesburg branch,gauteng,1001-5000,saicejhb.co.za
+south africa,2002,m-sure,financial services,linkedin.com/company/m-sure,johannesburg,m-sure,gauteng,201-500,m-sure.co.za
+south africa,"",castle-house,hospitality,linkedin.com/company/castle-house,east london,castle house,eastern cape,11-50,castlehouse.co.za
+south africa,"",beck-trading,"",linkedin.com/company/beck-trading,east london,beck trading,eastern cape,11-50,""
+south africa,"",wcbd,"",linkedin.com/company/wcbd,johannesburg,wcbd,gauteng,11-50,""
+south africa,"",foschini-group-jewellery-tfg,luxury goods & jewelry,linkedin.com/company/foschini-group-jewellery-tfg,cape town,"foschini group jewellery, tfg",western cape,501-1000,""
+south africa,2014,mazothando,mechanical or industrial engineering,linkedin.com/company/mazothando,ekurhuleni,mazothando,gauteng,11-50,mazothando.com
+south africa,2012,-concept-coaching,human resources,linkedin.com/company/-concept-coaching,durbanville,(concept)coaching,western cape,1-10,conceptcoaching.co.za
+south africa,2012,morpheuscommerce,computer software,linkedin.com/company/morpheuscommerce,cape town,morpheuscommerce,western cape,11-50,morpheuscommerce.com
+south africa,"",tlgroup,"",linkedin.com/company/tlgroup,johannesburg,tlgroup,gauteng,11-50,""
+south africa,2011,honda-rustenburg,automotive,linkedin.com/company/honda-rustenburg,"",honda rustenburg,"",11-50,hondarustenburg.co.za
+south africa,"",executive-tactical-solutions-pty-ltd,security and investigations,linkedin.com/company/executive-tactical-solutions-pty-ltd,kempton park,executive tactical solutions (pty) ltd,gauteng,201-500,executivetacticalsolutions.co.za
+south africa,"",tactical-fitness-solutions,"",linkedin.com/company/tactical-fitness-solutions,cape town,tactical fitness solutions,western cape,1-10,""
+south africa,2014,konnektsa,marketing and advertising,linkedin.com/company/konnektsa,pretoria,konnekt,gauteng,1-10,konnektsa.co.za
+south africa,2017,ico-venture-acceleration-for-blockchain-and-crypto-ventures,financial services,linkedin.com/company/ico-venture-acceleration-for-blockchain-and-crypto-ventures,cape town,african payments & digital currency strategies,western cape,1-10,""
+south africa,2009,activated-carbon-innovations-sa,consumer goods,linkedin.com/company/activated-carbon-innovations-sa,boksburg,activated carbon innovations,gauteng,1-10,activatedcarbon.co.za
+south africa,"",khanyisa-provicial-newspaper,"",linkedin.com/company/khanyisa-provicial-newspaper,"",khanyisa provicial newspaper,"",11-50,khanyisamedia.co.za
+south africa,2019,firtech-holdings,information technology and services,linkedin.com/company/firtech-holdings,johannesburg,firtech,gauteng,11-50,firtech.co.za
+south africa,"",ultratec-services-and-maintenance,"",linkedin.com/company/ultratec-services-and-maintenance,"",ultratec services and maintenance,gauteng,1-10,""
+south africa,2009,bitcube-systems,computer software,linkedin.com/company/bitcube-systems,bloemfontein,bitcube systems,free state,11-50,bitcube.co.za
+south africa,2013,idea-hive-brand-story-tellers,online media,linkedin.com/company/idea-hive-brand-story-tellers,johannesburg,ideahivebst,gauteng,1-10,ideahive.co.za
+south africa,"",active-apps,"",linkedin.com/company/active-apps,durban,active apps,kwazulu-natal,1-10,""
+south africa,2004,detnet-south-africa-pty-ltd,mining & metals,linkedin.com/company/detnet-south-africa-pty-ltd,modderfontein,detnet south africa (pty) ltd,gauteng,51-200,detnet.com
+south africa,"",colorworx-&-design,"",linkedin.com/company/colorworx-&-design,"",colorworx & design,"",11-50,colorworx.co.za
+south africa,"",esr-holdings,"",linkedin.com/company/esr-holdings,tembisa,esr holdings,gauteng,11-50,""
+south africa,"",umt-south-africa,information technology and services,linkedin.com/company/umt-south-africa,"",umt south africa,"",51-200,umtsa.co.za
+south africa,"",laerskool-pretoria-oos,sports,linkedin.com/company/laerskool-pretoria-oos,"",laerskool pretoria-oos,"",51-200,osieland.co.za
+south africa,"",union-electrical-wholesalers,"",linkedin.com/company/union-electrical-wholesalers,germiston,union electrical wholesalers,gauteng,11-50,""
+south africa,1992,deportivo-vandyke-international-limited,sports,linkedin.com/company/deportivo-vandyke-international-limited,johannesburg,deportivo vandyke international limited,gauteng,11-50,streetballafrica.com
+south africa,"",pac-produksies,marketing and advertising,linkedin.com/company/pac-produksies,"",pac produksies,"",1-10,pacproduksies.com
+south africa,1999,tamrich-tours-pty-ltd-,"leisure, travel & tourism",linkedin.com/company/tamrich-tours-pty-ltd-,"",tamrich tours,"",11-50,tamrichtours.com
+south africa,"",gsd-trading,"",linkedin.com/company/gsd-trading,cape town,gsd trading,western cape,1-10,""
+south africa,2019,dr-robot,information technology and services,linkedin.com/company/dr-robot,johannesburg,dr. robot creatives,gauteng,1-10,drrobot.co.za
+south africa,2013,onlinebizvaluations,information technology and services,linkedin.com/company/onlinebizvaluations,cape town,onlinebizvaluations,western cape,1-10,onlinebizvaluations.com
+south africa,"",starb-chemicals,"",linkedin.com/company/starb-chemicals,giyani,starb chemicals,limpopo,1-10,""
+south africa,1979,summerhill-stud,farming,linkedin.com/company/summerhill-stud,"",summerhill stud,"",51-200,summerhill.co.za
+south africa,2004,regewall-technology,media production,linkedin.com/company/regewall-technology,pretoria,regewall technology,gauteng,1-10,regewalltechnology.co.za
+south africa,"",empire-restuarant,"",linkedin.com/company/empire-restuarant,middelburg,empire restuarant,mpumalanga,11-50,""
+south africa,"",sanaz,"",linkedin.com/company/sanaz,butterworth,sanaz,eastern cape,51-200,""
+south africa,2020,maxime-flagranti-media,media production,linkedin.com/company/maxime-flagranti-media,cape town,maxime flagranti media,western cape,1-10,maximeflagrantimedia.com
+south africa,1965,safair-pty-ltd,airlines/aviation,linkedin.com/company/safair-pty-ltd,kempton park,safair (pty) ltd,gauteng,501-1000,safair.co.za
+south africa,"",inca-concrete-products-pty-ltd,building materials,linkedin.com/company/inca-concrete-products-pty-ltd,"",inca concrete products (pty) ltd,"",11-50,incaconcrete.co.za
+south africa,1994,gaia-organics-limited,alternative medicine,linkedin.com/company/gaia-organics-limited,plettenberg bay,gaia organics,western cape,1-10,gaiaorganics.co.za
+south africa,1996,gp-motor-works,automotive,linkedin.com/company/gp-motor-works,randburg,"gp motor works, bmw and mini specialists",gauteng,11-50,gpmotorworks.co.za
+south africa,"",bigwinups,electrical/electronic manufacturing,linkedin.com/company/bigwinups,"",bigwinups - suppliers of uninterruptable power supplies,gauteng,1-10,bigwinups.com
+south africa,2011,iccssa,non-profit organization management,linkedin.com/company/iccssa,johannesburg,iccssa | institute for practicing statisticians,gauteng,1-10,iccssa.co.za
+south africa,2013,detonator-media-pty-ltd,marketing and advertising,linkedin.com/company/detonator-media-pty-ltd,wynberg,detonator media (pty) ltd,western cape,1-10,detonatormedia.co.za
+south africa,2012,the-miss-congo-sa™-pageant,performing arts,linkedin.com/company/the-miss-congo-sa™-pageant,johannesburg,the miss congo-sa™ pageant,gauteng,1-10,misscongosa.co.za
+south africa,"",timelapse-systems,information technology and services,linkedin.com/company/timelapse-systems,"",timelapse systems,"",1-10,timelapsesys.co.za
+south africa,1992,justicia-investigations,security and investigations,linkedin.com/company/justicia-investigations,johannesburg,justicia investigations,gauteng,11-50,justicia.co.za
+south africa,"",ezlend-sa,"",linkedin.com/company/ezlend-sa,sandton,ezlend sa,gauteng,11-50,""
+south africa,2013,the-golf-network,sports,linkedin.com/company/the-golf-network,cape town,the golf network,western cape,1-10,golfnet.mobi
+south africa,"",naledi-rail-engineering,"",linkedin.com/company/naledi-rail-engineering,elandsfontein,naledi rail engineering,gauteng,51-200,""
+south africa,"",afsol-public-transport,"",linkedin.com/company/afsol-public-transport,cape town,afsol public transport,western cape,11-50,""
+south africa,2015,diversity-technology-training-institute,professional training & coaching,linkedin.com/company/diversity-technology-training-institute,kempton park,diversity technology training institute,gauteng,1-10,dttraining.co.za
+south africa,2015,maxim-energy-and-advanced-technologies-enterprises,utilities,linkedin.com/company/maxim-energy-and-advanced-technologies-enterprises,"",maxim energy and advanced technologies enterprises (pty) ltd.,"",1-10,mxment.com
+south africa,"",life-&-health-skills-development,"",linkedin.com/company/life-&-health-skills-development,"",life & health skills development,"",1-10,lifehealthskillsdevelopment.com
+south africa,"",momentum-short-term-insurance-company-limited,insurance,linkedin.com/company/momentum-short-term-insurance-company-limited,verwoerdburg,momentum short term insurance company limited,gauteng,11-50,momentumstionline.co.za
+south africa,2003,c-forcecorporatesolutionsptyltd,staffing and recruiting,linkedin.com/company/c-forcecorporatesolutionsptyltd,somerset west,c-force corporate solutions pty ltd,western cape,1001-5000,""
+south africa,1995,marblegold-1051-cc-t-a-kwikchix-poultry,wholesale,linkedin.com/company/marblegold-1051-cc-t-a-kwikchix-poultry,johannesburg,marblegold 1051 cc t/a kwikchix poultry,gauteng,11-50,mostracasaviva.com.br
+south africa,"",irvine's-africa-poultry-pty-ltd,import and export,linkedin.com/company/irvine's-africa-poultry-pty-ltd,bryanston,irvine's africa (pty) ltd,gauteng,11-50,irvinesafrica.com
+south africa,1976,elgin-flameproofing,automotive,linkedin.com/company/elgin-flameproofing,ekurhuleni,elgin flameproofing,gauteng,11-50,elginflameproofing.co.za
+south africa,1998,hakuna-matata-gifts,marketing and advertising,linkedin.com/company/hakuna-matata-gifts,pretoria,hakuna matata gifts,gauteng,1-10,hakuna-matatagifts.co.za
+south africa,2002,lister-clinic-johannesburg,hospital & health care,linkedin.com/company/lister-clinic-johannesburg,"",lister clinic johannesburg | dr. maphisa & partners inc.,gauteng,51-200,listerclinic.com
+south africa,"",anssa,"",linkedin.com/company/anssa,phoenix,anssa,kwazulu-natal,11-50,""
+south africa,2020,pos-design,design,linkedin.com/company/pos-design,midvaal,pos design,gauteng,1-10,posdesign.co.za
+south africa,"",patc---professional-accountants-&-tax-consultants,accounting,linkedin.com/company/patc---professional-accountants-&-tax-consultants,pinetown,patc - professional accountants & tax consultants,kwazulu-natal,11-50,patc.co.za
+south africa,"",cami-education,computer software,linkedin.com/company/cami-education,northcliff,cami education,gauteng,51-200,camiweb.com
+south africa,2015,herotel,telecommunications,linkedin.com/company/herotel,stellenbosch,herotel,western cape,1001-5000,herotel.com
+south africa,1976,helfin-financial-services-group,financial services,linkedin.com/company/helfin-financial-services-group,pretoria,helfin financial services group,gauteng,11-50,helfin.co.za
+south africa,2013,singhson,marketing and advertising,linkedin.com/company/singhson,"",singhson digital,"",1-10,singhson.co.za
+south africa,2002,viva-formwork-scaffolding-jhb,construction,linkedin.com/company/viva-formwork-scaffolding-jhb,johannesburg,viva formwork & scaffolding jhb,gauteng,11-50,""
+south africa,2012,talent-guru-inetrnational,human resources,linkedin.com/company/talent-guru-inetrnational,johannesburg,talent guru international,gauteng,1-10,talentguru.co.za
+south africa,1997,allied-crane-llc,construction,linkedin.com/company/allied-crane-llc,rustenburg,allied crane hire,north-west,51-200,alliedcranehire.co.za
+south africa,1964,jcdecauxafrica,marketing and advertising,linkedin.com/company/jcdecauxafrica,sandton,jcdecaux africa,gauteng,501-1000,continentaloutdoor.com
+south africa,2006,ezweni-magazine-distribution,publishing,linkedin.com/company/ezweni-magazine-distribution,sandton,ezweni magazine distribution,gauteng,11-50,ezwenimags.co.za
+south africa,1999,glass-rite-south-africa,"glass, ceramics & concrete",linkedin.com/company/glass-rite-south-africa,pretoria,glass rite south africa,gauteng,51-200,glassrite.co.za
+south africa,2016,rootplatform,financial services,linkedin.com/company/rootplatform,cape town,root.co.za,western cape,11-50,root.co.za
+south africa,2010,carpediemnation,apparel & fashion,linkedin.com/company/carpediemnation,port elizabeth,carpe diem nation,eastern cape,1-10,""
+south africa,2000,warburton-gunn-attorneys,law practice,linkedin.com/company/warburton-gunn-attorneys,johannesburg,warburton attorneys,gauteng,11-50,warburtons.co.za
+south africa,"",umgeni-iron-works,mining & metals,linkedin.com/company/umgeni-iron-works,"",umgeni iron works,"",11-50,uiw.co.za
+south africa,2012,worldlanguagesolutions,translation and localization,linkedin.com/company/worldlanguagesolutions,pretoria,world language solutions (pty) ltd,gauteng,11-50,worldlanguage.co.za
+south africa,2014,libobi-group,marketing and advertising,linkedin.com/company/libobi-group,johannesburg,libobi group of companies,gauteng,11-50,libobigroup.com
+south africa,2012,xtentia,civil engineering,linkedin.com/company/xtentia,pretoria,xtentia,gauteng,1-10,xtentia.co.za
+south africa,"",stor-age-property-reit,"",linkedin.com/company/stor-age-property-reit,claremont,stor age property reit,western cape,11-50,""
+south africa,"",meleza-advisory-services-pty-ltd,management consulting,linkedin.com/company/meleza-advisory-services-pty-ltd,"",meleza advisory services pty ltd,"",1-10,""
+south africa,1996,creative-minds,information technology and services,linkedin.com/company/creative-minds,cape town,creative minds,western cape,201-500,minds.co.za
+south africa,"",a-re-shomeng-holdings,"",linkedin.com/company/a-re-shomeng-holdings,boksburg,a re shomeng holdings,gauteng,1-10,""
+south africa,"",ds-management-solutions,"",linkedin.com/company/ds-management-solutions,bloemfontein,ds management solutions,free state,1-10,""
+south africa,1997,independent-complaints-directorate,security and investigations,linkedin.com/company/independent-complaints-directorate,pretoria,independent police investigative directorate,gauteng,201-500,ipid.gov.za
+south africa,"",fps-bulk-diesel,"",linkedin.com/company/fps-bulk-diesel,volksrust,fps bulk diesel,mpumalanga,11-50,""
+south africa,2017,cloudking,information technology and services,linkedin.com/company/cloudking,johannesburg,cloudking,gauteng,1-10,cloudking.co.za
+south africa,"",ferrybridge,"",linkedin.com/company/ferrybridge,"",ferrybridge,western cape,1-10,""
+south africa,"",party-design,events services,linkedin.com/company/party-design,"",party design,"",201-500,""
+south africa,"",limitless-investments,investment management,linkedin.com/company/limitless-investments,"",limitless investments,"",1-10,limitless.co.za
+south africa,"",cape-municipal-pension-fund,"",linkedin.com/company/cape-municipal-pension-fund,"",cape municipal pension fund,"",11-50,capefund.com
+south africa,1968,specialised-exhibitions-pty-ltd,events services,linkedin.com/company/specialised-exhibitions-pty-ltd,johannesburg,specialised exhibitions (pty) ltd,gauteng,11-50,specialised.com
+south africa,2000,rooftoprecruitment,staffing and recruiting,linkedin.com/company/rooftoprecruitment,johannesburg,rooftop recruitment,gauteng,1-10,rooftoprecruitment.co.za
+south africa,2011,jwd-engineering,mechanical or industrial engineering,linkedin.com/company/jwd-engineering,"",jwd engineering,"",11-50,jwdengineering.co.za
+south africa,"",nissi-safe-manufacturers,"",linkedin.com/company/nissi-safe-manufacturers,alberton,nissi safe manufacturers,gauteng,1-10,""
+south africa,"",albertina-bay-technologies,information technology and services,linkedin.com/company/albertina-bay-technologies,"",albertina bay technologies,"",1-10,albertinabay.com
+south africa,"",triakon-engineering,"",linkedin.com/company/triakon-engineering,"",triakon engineering,gauteng,11-50,""
+south africa,2018,kri8tive-media,marketing and advertising,linkedin.com/company/kri8tive-media,pretoria,kri8tive media,gauteng,1-10,kri8tivemedia.co.za
+south africa,"",cornwall-hill-motors,"",linkedin.com/company/cornwall-hill-motors,"",cornwall hill motors,"",1-10,cornwallhillmotors.co.za
+south africa,2015,vumela,"",linkedin.com/company/vumela,"",vumela,"",11-50,vumelagroup.com
+south africa,2017,coincraft-za,information technology and services,linkedin.com/company/coincraft-za,port elizabeth,coincraft za,eastern cape,1-10,coincraft.co.za
+south africa,"",brave-orbit,information technology and services,linkedin.com/company/brave-orbit,cape town,brave orbit,western cape,1-10,braveorbit.io
+south africa,2017,attraqtiv,professional training & coaching,linkedin.com/company/attraqtiv,centurion,attraqtiv,gauteng,1-10,attraqtiv.com
+south africa,2004,gun-owners-south-africa,public policy,linkedin.com/company/gun-owners-south-africa,johannesburg,gun owners south africa,gauteng,1-10,gosaonline.co.za
+south africa,2009,dmq-trading,sporting goods,linkedin.com/company/dmq-trading,cape town,dmq trading,western cape,11-50,dmq.co.za
+south africa,2011,moore-stephens-cape-town-bee-services,management consulting,linkedin.com/company/moore-stephens-cape-town-bee-services,cape town,msct bee services,western cape,11-50,msctbee.com
+south africa,2012,secoza-npc,education management,linkedin.com/company/secoza-npc,city of tshwane,secoza npc,gauteng,11-50,""
+south africa,"",j-n-j-trading,"",linkedin.com/company/j-n-j-trading,milnerton,j n j trading,western cape,1-10,""
+south africa,2009,absolute-hr,human resources,linkedin.com/company/absolute-hr,johannesburg,absolute hr,gauteng,1-10,absolutehr.co.za
+south africa,2016,atlantic-seaboard-realty,real estate,linkedin.com/company/atlantic-seaboard-realty,cape town,atlantic seaboard realty,western cape,1-10,asrealty.co.za
+south africa,"",filter-focus,mechanical or industrial engineering,linkedin.com/company/filter-focus,"",filter focus,gauteng,1-10,""
+south africa,1996,shin-li-trading-cc,construction,linkedin.com/company/shin-li-trading-cc,kempton park,shin li trading cc,gauteng,11-50,shinlitrading.co.za
+south africa,"",transnet-port-terminals,maritime,linkedin.com/company/transnet-port-terminals,"",transnet port terminals,"",5001-10000,transnetportterminals.net
+south africa,2005,okapimedia,marketing and advertising,linkedin.com/company/okapimedia,johannesburg,okapimedia,gauteng,1-10,okapimedia.com
+south africa,2006,eclipse-managed-services,business supplies and equipment,linkedin.com/company/eclipse-managed-services,johannesburg,eclipse document solutions,gauteng,1-10,eclipse-ms.com
+south africa,2016,goya-signature-experiences,events services,linkedin.com/company/goya-signature-experiences,johannesburg,goya,gauteng,1-10,goyaexperiences.co.za
+south africa,2010,burnmediagroup,online media,linkedin.com/company/burnmediagroup,cape town,memeburn,western cape,1-10,memeburn.com
+south africa,1997,mccoysglass,wholesale,linkedin.com/company/mccoysglass,johannesburg,mccoy's glass,gauteng,201-500,mccoysglass.co.za
+south africa,"",myvictory,"",linkedin.com/company/myvictory,polokwane,myvictory,limpopo,11-50,""
+south africa,1991,william-simpson-cars,automotive,linkedin.com/company/william-simpson-cars,newlands,william simpson cars,western cape,11-50,williamsimpson.co.za
+south africa,"",isra-group,"",linkedin.com/company/isra-group,lotus river,isra group,western cape,11-50,""
+south africa,2008,sifuna-consulting,financial services,linkedin.com/company/sifuna-consulting,verwoerdburg,sifuna consulting,gauteng,1-10,sifuna.co.za
+south africa,2010,melisizwe-communications,marketing and advertising,linkedin.com/company/melisizwe-communications,johannesburg,melisizwe communications (melicom),gauteng,1-10,melicom.co.za
+south africa,2012,legacy-africa-fund-managers,investment management,linkedin.com/company/legacy-africa-fund-managers,"",legacy africa fund managers,gauteng,1-10,legacyafrica.co.za
+south africa,"",branson-centre,philanthropy,linkedin.com/company/branson-centre,"",branson centre,"",1-10,bransoncentre.com
+south africa,"",stitchmoney,financial services,linkedin.com/company/stitchmoney,cape town,stitch,western cape,1-10,stitch.money
+south africa,"",growgreat,non-profit organization management,linkedin.com/company/growgreat,johannesburg,grow great campaign,gauteng,1-10,growgreat.co.za
+south africa,2001,africa-management-communications,events services,linkedin.com/company/africa-management-communications,johannesburg,africa management communications,gauteng,11-50,""
+south africa,2005,thezanokhanyonetwork,non-profit organization management,linkedin.com/company/thezanokhanyonetwork,cape town,the zanokhanyo network,western cape,51-200,""
+south africa,"",jetcorp,"",linkedin.com/company/jetcorp,queenstown,jetcorp,eastern cape,51-200,""
+south africa,"",arriba-spa,"health, wellness and fitness",linkedin.com/company/arriba-spa,"",arriba spa,"",11-50,arribaspa.co.za
+south africa,2016,amon-technologies,telecommunications,linkedin.com/company/amon-technologies,pretoria,amon technologies (pty) ltd,gauteng,51-200,""
+south africa,2001,business-rescue-cc,legal services,linkedin.com/company/business-rescue-cc,pretoria,business rescue cc,gauteng,1-10,businessrescue.co.za
+south africa,"",fitfam-coaching,"",linkedin.com/company/fitfam-coaching,olifantsfontein,fitfam coaching,gauteng,1-10,""
+south africa,2016,jobz4afrika,information technology and services,linkedin.com/company/jobz4afrika,cape town,jobz4afrika,western cape,1-10,jobz4.com
+south africa,1972,mariswecom,civil engineering,linkedin.com/company/mariswecom,bryanston,mariswe,gauteng,201-500,mariswe.com
+south africa,"",eternally-solar,"",linkedin.com/company/eternally-solar,"",eternally solar,"",1-10,eternallysolar.com
+south africa,2002,jvattorneys,legal services,linkedin.com/company/jvattorneys,paarl,jonker vorster attorneys,western cape,11-50,jvattorneys.co.za
+south africa,2007,tailormade-solution,staffing and recruiting,linkedin.com/company/tailormade-solution,durban,tailormade solution,kwazulu-natal,11-50,tmsolution.co.za
+south africa,"",gail's-kitchen,"",linkedin.com/company/gail's-kitchen,cape town,gail's kitchen,western cape,11-50,""
+south africa,"",green-dream-projects,renewables & environment,linkedin.com/company/green-dream-projects,"",green dream projects,"",11-50,gdprojects.co.za
+south africa,2011,sa-bierfest-pty-ltd,food & beverages,linkedin.com/company/sa-bierfest-pty-ltd,cape town,sa bierfest pty ltd,western cape,11-50,bierfest.co.za
+south africa,2011,pioneer-transport,transportation/trucking/railroad,linkedin.com/company/pioneer-transport,johannesburg,pioneer transport,gauteng,201-500,pioneertransport.co.za
+south africa,"",channeltech,computer hardware,linkedin.com/company/channeltech,"",channeltech,"",1-10,channeltech.co.za
+south africa,2010,apexmedia,media production,linkedin.com/company/apexmedia,johannesburg,apexmedia,gauteng,1-10,apexmedia.co.za
+south africa,2017,shiluvah-hr,human resources,linkedin.com/company/shiluvah-hr,johannesburg,shiluvah,gauteng,1-10,shiluvah.co.za
+south africa,2004,activpro-business-solutions,management consulting,linkedin.com/company/activpro-business-solutions,cape town,activpro business solutions,western cape,1-10,activpro.co.za
+south africa,"",esmeraldo-associates,law practice,linkedin.com/company/esmeraldo-associates,cape town,esmeraldo & associates,western cape,1-10,esmlaw.co.za
+south africa,"",tobun-and-tobun,"",linkedin.com/company/tobun-and-tobun,vereeniging,tobun and tobun,gauteng,1-10,""

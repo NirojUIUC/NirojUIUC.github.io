@@ -1,0 +1,584 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+denmark,1936,bellevue-teatret,performing arts,linkedin.com/company/bellevue-teatret,klampenborg,bellevue teatret,capital region,11-50,bellevueteatret.dk
+denmark,1859,copenhagen-zoo,events services,linkedin.com/company/copenhagen-zoo,copenhagen,zoologisk have,capital region,201-500,zoo.dk
+denmark,2011,iko-dk,design,linkedin.com/company/iko-dk,"",iko.dk,"",1-10,iko.dk
+denmark,1997,mosek-aps,computer software,linkedin.com/company/mosek-aps,"",mosek aps,"",1-10,mosek.com
+denmark,2011,baresi,information technology and services,linkedin.com/company/baresi,valby,baresi,hovedstaden,1-10,baresi.dk
+denmark,2014,bot-aps,internet,linkedin.com/company/bot-aps,aalborg,bot aps,nordjylland,1-10,bot.dk
+denmark,"",win-women-s-inspiration-network,human resources,linkedin.com/company/win-women-s-inspiration-network,horsholm,win - women's inspiration network,hovedstaden,11-50,""
+denmark,"",ad-made,marketing and advertising,linkedin.com/company/ad-made,"",ad made,"",1-10,ad-made.dk
+denmark,2014,reformcph,design,linkedin.com/company/reformcph,copenhagen,reform (copenhagen),capital region,51-200,reformcph.com
+denmark,2012,biltorvet,automotive,linkedin.com/company/biltorvet,taastrup,biltorvet,hovedstaden,51-200,biltorvet.dk
+denmark,2007,dansk-overpumpning-aps,environmental services,linkedin.com/company/dansk-overpumpning-aps,slagelse,dansk overpumpning aps,sjelland,1-10,danskoverpumpning.dk
+denmark,1946,magnussen-&-speiermann-a-s,electrical/electronic manufacturing,linkedin.com/company/magnussen-&-speiermann-a-s,hvidovre,magnussen & speiermann a/s,capital region,11-50,speiermann.dk
+denmark,"",danish-transport-&-logistics,political organization,linkedin.com/company/danish-transport-&-logistics,"",danish transport and logistics (dtl),"",11-50,dtl.eu
+denmark,2009,style-crackers,design,linkedin.com/company/style-crackers,"",style crackers,"",1-10,stylecrackers.com
+denmark,2015,gelb-kommunikation,marketing and advertising,linkedin.com/company/gelb-kommunikation,kolding,gelb kommunikation,syddanmark,1-10,gelbkommunikation.dk
+denmark,2010,leanit,computer software,linkedin.com/company/leanit,frederiksvaerk,leanit,hovedstaden,1-10,leanit.be
+denmark,2018,rita-arch,architecture & planning,linkedin.com/company/rita-arch,osterbro,rita arch,capital region,1-10,ritaarch.dk
+denmark,2013,student-and-innovation-house,non-profit organization management,linkedin.com/company/student-and-innovation-house,copenhagen,student & innovation house,capital region,51-200,studenthouse.dk
+denmark,1959,arne-stubbe-automobiler-a-s,automotive,linkedin.com/company/arne-stubbe-automobiler-a-s,malov,arne stubbe automobiler a/s,hovedstaden,51-200,stubbe.dk
+denmark,2009,uiwe-culture-design,architecture & planning,linkedin.com/company/uiwe-culture-design,"",uiwe culture design,"",1-10,uiwe.dk
+denmark,2017,eproperty-group,information technology and services,linkedin.com/company/eproperty-group,horsholm,eproperty group,hovedstaden,1-10,eproperty.consulting
+denmark,1978,uhrenholt-as,food & beverages,linkedin.com/company/uhrenholt-as,middelfart,uhrenholt,syddanmark,501-1000,uhrenholt.com
+denmark,2017,replacedk,design,linkedin.com/company/replacedk,vanlose,replace,capital region,1-10,replace.dk
+denmark,2015,nordsjællands-brandvæsen,public safety,linkedin.com/company/nordsjællands-brandvæsen,kokkedal,nordsjællands brandvæsen,capital region,201-500,nsbv.dk
+denmark,2015,den-fynske-spilfabrik,education management,linkedin.com/company/den-fynske-spilfabrik,"",den fynske spilfabrik,"",1-10,denfynskespilfabrik.dk
+denmark,"",tommerup-efterskole,"",linkedin.com/company/tommerup-efterskole,"",tommerup efterskole,"",51-200,tommerup-efterskole.dk
+denmark,2010,the-danish-centre-for-environmental-assessment,environmental services,linkedin.com/company/the-danish-centre-for-environmental-assessment,aalborg,the danish centre for environmental assessment,nordjylland,11-50,dcea.dk
+denmark,2015,mundfuld---studio,graphic design,linkedin.com/company/mundfuld---studio,"",mundfuld – studio,"",1-10,mundfuld-studio.dk
+denmark,"",effect_3,management consulting,linkedin.com/company/effect_3,"",effect,"",1-10,effect.dk
+denmark,2020,circular-economy-club-eu,professional training & coaching,linkedin.com/company/circular-economy-club-eu,copenhagen,circular economy club eu,capital region,1-10,circulareconomyclub.org
+denmark,1999,alexandrainstituttet,information technology and services,linkedin.com/company/alexandrainstituttet,aarhus n,alexandra instituttet,central jutland,51-200,alexandra.dk
+denmark,"",passat-energi-a-s,mechanical or industrial engineering,linkedin.com/company/passat-energi-a-s,"",passat energi a/s,"",11-50,""
+denmark,2004,travelape.dk,professional training & coaching,linkedin.com/company/travelape.dk,"",travelape.dk,"",1-10,travelape.dk
+denmark,1990,the-projects-company,construction,linkedin.com/company/the-projects-company,"",the projects company,"",11-50,theprojectscompany.co.uk
+denmark,1882,danske-beredskaber,security and investigations,linkedin.com/company/danske-beredskaber,"",danske beredskaber,"",1-10,danskeberedskaber.dk
+denmark,2002,o2design,design,linkedin.com/company/o2design,"",o2design,"",1-10,o2design.dk
+denmark,2009,golf-connections,internet,linkedin.com/company/golf-connections,soborg,golf connections,capital region,1-10,golfconnections.dk
+denmark,1977,naga-denmark,wholesale,linkedin.com/company/naga-denmark,horsens,naga denmark,midtjylland,1-10,""
+denmark,1965,sk-lsk-r-anl-gsgartner,recreational facilities and services,linkedin.com/company/sk-lsk-r-anl-gsgartner,soro,skælskør anlægsgartner,sjelland,51-200,skag.dk
+denmark,2016,scanmore.com,information technology and services,linkedin.com/company/scanmore.com,copenhagen,scanmore.com,capital region,1-10,scanmore.com
+denmark,2017,tagion,information technology and services,linkedin.com/company/tagion,hillerod,tagion,hovedstaden,11-50,tagion.org
+denmark,2016,qsec-as,computer & network security,linkedin.com/company/qsec-as,copenhagen,qsec a/s,capital region,1-10,qsec.dk
+denmark,2010,aviation-elearning,aviation & aerospace,linkedin.com/company/aviation-elearning,kastrup,aviation elearning,capital region,1-10,ael.aero
+denmark,1996,el-grossisten-aps,retail,linkedin.com/company/el-grossisten-aps,brørup,el-grossisten aps,south denmark,1-10,el-grossisten.com
+denmark,2010,rudersdal-m-glerne,real estate,linkedin.com/company/rudersdal-m-glerne,holte,rudersdal mæglerne,hovedstaden,1-10,rudersdalmaeglerne.dk
+denmark,1960,windelev-a-s,packaging and containers,linkedin.com/company/windelev-a-s,rodovre,jørgen windelev a/s,hovedstaden,11-50,windelev.dk
+denmark,2011,intramanager,information technology and services,linkedin.com/company/intramanager,"",intramanager aps,"",1-10,intramanager.dk
+denmark,2016,weareheavy,online media,linkedin.com/company/weareheavy,"",weareheavy®,south denmark,1-10,weareheavy.com
+denmark,2014,human-target-consult,management consulting,linkedin.com/company/human-target-consult,fredericia,humanics,syddanmark,1-10,humanics.dk
+denmark,"",foldberg,human resources,linkedin.com/company/foldberg,roslev,foldberg,midtjylland,1-10,foldbergs.dk
+denmark,2016,bad-luck-brewing-company,food & beverages,linkedin.com/company/bad-luck-brewing-company,"",bad luck brewing company,"",1-10,badluckbrewing.dk
+denmark,1960,jeld-wen-danmark,building materials,linkedin.com/company/jeld-wen-danmark,logstor,swedoor danmark,nordjylland,501-1000,swedoor.dk
+denmark,1987,kementec,biotechnology,linkedin.com/company/kementec,"",kem-en-tec diagnostics a/s,"",11-50,kem-en-tec.com
+denmark,2018,cybersecurityagencycph,staffing and recruiting,linkedin.com/company/cybersecurityagencycph,copenhagen,cyber security agency,capital region,1-10,cybersecurityagency.dk
+denmark,"",kkreation,mechanical or industrial engineering,linkedin.com/company/kkreation,"",kkreation,"",1-10,kkreation.com
+denmark,"",moltke-leth,law practice,linkedin.com/company/moltke-leth,rungsted,moltke-leth,capital region,11-50,moltke-leth.dk
+denmark,2019,yardhouse-global-partners,investment management,linkedin.com/company/yardhouse-global-partners,copenhagen,yardhouse global partners,capital region,1-10,yardhousecapitalgroup.com
+denmark,2006,hestenge,professional training & coaching,linkedin.com/company/hestenge,vissenbjerg,hestenge consult,south denmark,1-10,hestenge.dk
+denmark,2012,tebico-management,writing and editing,linkedin.com/company/tebico-management,"",tebico management,hovedstaden,1-10,tebico.dk
+denmark,2019,digitalentsdk,staffing and recruiting,linkedin.com/company/digitalentsdk,lystrup,digitalents,midtjylland,1-10,digitalents.dk
+denmark,2002,unokommunikation-unokom.dk,information services,linkedin.com/company/unokommunikation-unokom.dk,gentofte,"unokommunikation, unokom.dk",hovedstaden,1-10,unokom.dk
+denmark,2016,thermonova,oil & energy,linkedin.com/company/thermonova,nibe,thermonova,nordjylland,1-10,thermonova.dk
+denmark,1974,københavns-andelskasse,banking,linkedin.com/company/københavns-andelskasse,aaso,københavns andelskasse,syddanmark,11-50,kbh-andelskasse.dk
+denmark,2009,autoc.dk,automotive,linkedin.com/company/autoc.dk,"",autoc a/s,"",1-10,autoc.dk
+denmark,1988,do-trading-aps,business supplies and equipment,linkedin.com/company/do-trading-aps,rødovre,do trading aps,capital region,1-10,bbnnordic.dk
+denmark,"",netdansk---lærdansk-online,"",linkedin.com/company/netdansk---lærdansk-online,"",netdansk - lærdansk online,"",1-10,netdansk.eu
+denmark,2014,immeo-dk,information technology and services,linkedin.com/company/immeo-dk,"",immeo p/s,"",51-200,immeo.dk
+denmark,2016,robotize-aps,industrial automation,linkedin.com/company/robotize-aps,copenhagen,robotize aps,capital region,11-50,robotize.com
+denmark,"",odin-holm-vvs,civil engineering,linkedin.com/company/odin-holm-vvs,"",odin holm vvs,"",11-50,odinholm.dk
+denmark,2020,global-office-network-aps,management consulting,linkedin.com/company/global-office-network-aps,copenhagen,global office network aps,capital region,1-10,globalofficenetwork.com
+denmark,1979,apollo-music,broadcast media,linkedin.com/company/apollo-music,"",apollo music,"",11-50,apollomusic.dk
+denmark,2013,cad-tech,mechanical or industrial engineering,linkedin.com/company/cad-tech,braedstrup,cad-tech,midtjylland,1-10,cad-tech.dk
+denmark,"",hetek-aps.,electrical/electronic manufacturing,linkedin.com/company/hetek-aps.,vejle,hetek aps.,syddanmark,11-50,hetek.dk
+denmark,"",aquilo-healthcare-consulting,management consulting,linkedin.com/company/aquilo-healthcare-consulting,copenhagen,aquilo consulting,capital region,11-50,aquiloconsulting.com
+denmark,2013,mind-moving-music,music,linkedin.com/company/mind-moving-music,svendborg,mind moving music,syddanmark,1-10,mindmovingmusic.dk
+denmark,2019,2pct,fund-raising,linkedin.com/company/2pct,copenhagen,https://www.linkedin.com/company/2pct/,capital region,1-10,2pct.org
+denmark,2016,inxo-biotechnology,biotechnology,linkedin.com/company/inxo-biotechnology,copenhagen,xnos,capital region,1-10,inxo.dk
+denmark,2018,milton-around-the-world,education management,linkedin.com/company/milton-around-the-world,hillerod,milton around the world,hovedstaden,1-10,milton-around-the-world.com
+denmark,"",danishconstructionmanagement,real estate,linkedin.com/company/danishconstructionmanagement,hojbjerg,danish construction management,central jutland,11-50,dcmgt.dk
+denmark,2016,nextup-skilte,marketing and advertising,linkedin.com/company/nextup-skilte,herning,nextup - herning skilte,midtjylland,1-10,nextup.dk
+denmark,2013,crowdio-a-s,information technology and services,linkedin.com/company/crowdio-a-s,"",crowdio a/s,"",1-10,crowdio.com
+denmark,1962,advokatfirmaet-brockstedt-rasmussen,law practice,linkedin.com/company/advokatfirmaet-brockstedt-rasmussen,silkeborg,advokatfirmaet brockstedt-rasmussen,central jutland,51-200,""
+denmark,"",ecb-koed-a-s,food & beverages,linkedin.com/company/ecb-koed-a-s,"",ecb koed a/s,"",51-200,ecb-as.dk
+denmark,1982,heinex-data-a-s---kabel-afdelingen,electrical/electronic manufacturing,linkedin.com/company/heinex-data-a-s---kabel-afdelingen,abyhoj,heinex data a/s - kabel afdelingen,central jutland,1-10,heinex.dk
+denmark,2016,neminfo,computer software,linkedin.com/company/neminfo,skjern,neminfo ivs,midtjylland,1-10,neminfo.nu
+denmark,2001,piet-photography,photography,linkedin.com/company/piet-photography,gentofte,piet photography,hovedstaden,1-10,pietsimonsen.com
+denmark,"",hunde,"",linkedin.com/company/hunde,"",hunde,"",11-50,carro-cattledog.dk
+denmark,2012,make-it---with-coaching,human resources,linkedin.com/company/make-it---with-coaching,vejle,make it - with coaching,syddanmark,1-10,makeit-withcoaching.dk
+denmark,2012,center-for-holdspil-og-sundhed,sports,linkedin.com/company/center-for-holdspil-og-sundhed,"",center for holdspil og sundhed,"",51-200,""
+denmark,"",lundberg-consulting-aps,management consulting,linkedin.com/company/lundberg-consulting-aps,"",lundberg consulting aps,"",1-10,lundberg-consulting.dk
+denmark,"",bec-business-education-college,education management,linkedin.com/company/bec-business-education-college,"",bec business education college,"",11-50,""
+denmark,2013,exometric,real estate,linkedin.com/company/exometric,"",exometric,"",1-10,exometric.com
+denmark,"",glarmester-schlæger,"",linkedin.com/company/glarmester-schlæger,"",glarmester schlæger,"",11-50,schlagerglas.dk
+denmark,1988,jysk-firmatøj-aps,wholesale,linkedin.com/company/jysk-firmatøj-aps,hjorring,jysk firmatøj aps,nordjylland,11-50,jyf.dk
+denmark,2016,bar-djus,food production,linkedin.com/company/bar-djus,hedehusene,bardjus,hovedstaden,1-10,bardjus.dk
+denmark,2001,oxygen-software-aps,internet,linkedin.com/company/oxygen-software-aps,"",oxygen - challenging and fulfilling digital potential,"",51-200,""
+denmark,1982,nippon-sport,sports,linkedin.com/company/nippon-sport,frederiksberg,nippon sport,capital region,11-50,nippon.dk
+denmark,1994,cadesign-form,marketing and advertising,linkedin.com/company/cadesign-form,"",cadesign form as,"",51-200,cadesignform.com
+denmark,2006,dansk-dynamit,broadcast media,linkedin.com/company/dansk-dynamit,copenhagen,dansk dynamit,capital region,1-10,danskdynamit.com
+denmark,"",i-love-eco-essentials,"",linkedin.com/company/i-love-eco-essentials,"",i love eco essentials,"",1-10,""
+denmark,1997,aktieselskabet-balance.as,computer software,linkedin.com/company/aktieselskabet-balance.as,kolding,aktieselskabet balance.as,syddanmark,1-10,balance.as
+denmark,1987,reick-moebler,furniture,linkedin.com/company/reick-moebler,hojer,reick møbler a/s,syddanmark,11-50,reick.dk
+denmark,1950,hotel-højgaarden,hospitality,linkedin.com/company/hotel-højgaarden,fjerritslev,hotel højgaarden,nordjylland,1-10,hojgaarden.dk
+denmark,2004,tr-shipping-denmark-aps,maritime,linkedin.com/company/tr-shipping-denmark-aps,"",tr shipping denmark aps,"",1-10,trshipping.dk
+denmark,1990,team-consult-development,education management,linkedin.com/company/team-consult-development,vinderod,team consult development a/s,hovedstaden,1-10,team-consult.dk
+denmark,"",mla-a-s,automotive,linkedin.com/company/mla-a-s,aaso,mla a/s,syddanmark,1-10,mla.dk
+denmark,"",focus-moduler-a-s,"",linkedin.com/company/focus-moduler-a-s,"",focus moduler a/s,"",1-10,""
+denmark,2010,unicom-nordic,information technology and services,linkedin.com/company/unicom-nordic,frederikssund,unicom tele og data,hovedstaden,1-10,unicom.dk
+denmark,1990,dispuk,education management,linkedin.com/company/dispuk,snekkersten,dispuk,capital region,11-50,dispuk.dk
+denmark,"",wework-a-s,publishing,linkedin.com/company/wework-a-s,"",wework a/s,"",1-10,wework.dk
+denmark,"",3dimensioner,professional training & coaching,linkedin.com/company/3dimensioner,copenhagen,3dimensioner,capital region,1-10,piastender.dk
+denmark,"",pufin-id,security and investigations,linkedin.com/company/pufin-id,copenhagen,pufin id,capital region,1-10,pufin.id
+denmark,2017,city-group-brandsikring,construction,linkedin.com/company/city-group-brandsikring,middelfart,city group brandsikring a/s,syddanmark,11-50,citygroupbrandsikring.dk
+denmark,2012,ostenfeldbaden-psykologgruppen-randers,mental health care,linkedin.com/company/ostenfeldbaden-psykologgruppen-randers,"",ostenfeldbaden psykologgruppen randers,"",1-10,psykologgruppenranders.dk
+denmark,1987,military-equipment-denmark-a-s,defense & space,linkedin.com/company/military-equipment-denmark-a-s,regstrup,military equipment denmark a/s,sjelland,11-50,med.dk
+denmark,1969,tøjeksperten-døssing,apparel & fashion,linkedin.com/company/tøjeksperten-døssing,viborg,tøjeksperten døssing,midtjylland,1-10,""
+denmark,2006,welcrosoft,information technology and services,linkedin.com/company/welcrosoft,silkeborg,welcrosoft,central jutland,1-10,welcrosoft.com
+denmark,"",bøges-bilservice-aps,"",linkedin.com/company/bøges-bilservice-aps,"",bøges bilservice aps,"",1-10,boges-bilservice.dk
+denmark,2012,videnscenter-om-spiseforstyrrelse-og-selvskade-vioss-,research,linkedin.com/company/videnscenter-om-spiseforstyrrelse-og-selvskade-vioss-,"",videnscenter om spiseforstyrrelse og selvskade (vioss),"",1-10,vioss.dk
+denmark,1997,nybolig-erhverv-jørgen-klode,commercial real estate,linkedin.com/company/nybolig-erhverv-jørgen-klode,"",nybolig erhverv jørgen klode,"",11-50,nyboligerhvervklode.dk
+denmark,2014,retsadvokaterne,legal services,linkedin.com/company/retsadvokaterne,roskilde,retsadvokaterne,sjelland,1-10,retsadvokaterne.dk
+denmark,2013,funhall,entertainment,linkedin.com/company/funhall,viborg,funhall,central jutland,1-10,funhall.dk
+denmark,2009,copenhagen-photo-festival,fine art,linkedin.com/company/copenhagen-photo-festival,copenhagen,copenhagen photo festival,capital region,1-10,""
+denmark,2002,ramsdal-executive,staffing and recruiting,linkedin.com/company/ramsdal-executive,kolding,ramsdal executive,syddanmark,51-200,""
+denmark,2014,indudoor-apd,building materials,linkedin.com/company/indudoor-apd,veflinge,indudoor aps,south denmark,1-10,indudoor.dk
+denmark,2013,my-order-aps,computer software,linkedin.com/company/my-order-aps,roskilde,my order aps,sjelland,1-10,myorderapp.dk
+denmark,2016,wilderness-illustration,graphic design,linkedin.com/company/wilderness-illustration,copenhagen,wilderness illustration,capital region,1-10,wilderness-illustration.com
+denmark,2016,emendo-design-&-engineering,mechanical or industrial engineering,linkedin.com/company/emendo-design-&-engineering,nordhavn,emendo design & engineering,capital region,1-10,emendo-design.com
+denmark,2017,wywb,marketing and advertising,linkedin.com/company/wywb,horsens,wywb,midtjylland,1-10,wywb.dk
+denmark,2016,folstedinvest,real estate,linkedin.com/company/folstedinvest,bindslev,folsted invest aps,nordjylland,1-10,""
+denmark,1973,dc-system-insulation-a-s,construction,linkedin.com/company/dc-system-insulation-a-s,aars,dc system insulation a/s,nordjylland,11-50,dc-system.dk
+denmark,2015,e-madsen-dk,public relations and communications,linkedin.com/company/e-madsen-dk,viborg,e-madsen.dk,central jutland,1-10,e-madsen.dk
+denmark,2009,joinjet,airlines/aviation,linkedin.com/company/joinjet,billund,joinjet a/s,south denmark,11-50,joinjet.com
+denmark,"",jem-corp.,alternative medicine,linkedin.com/company/jem-corp.,vejle,jem corp.,syddanmark,1-10,nadinemercey.com
+denmark,2001,bacon_2,broadcast media,linkedin.com/company/bacon_2,"",bacon,"",11-50,baconcph.com
+denmark,2016,nordjysk-specialraadgivning,individual & family services,linkedin.com/company/nordjysk-specialraadgivning,aalborg,nordjysk specialrådgivning,nordjylland,1-10,nordjyskspecialraadgivning.com
+denmark,2002,cm-network-a-s,internet,linkedin.com/company/cm-network-a-s,aalborg,cm network a/s,nordjylland,1-10,cmnetwork.dk
+denmark,"",mc-byg-a-s,"",linkedin.com/company/mc-byg-a-s,"",mc byg a/s,"",11-50,mcbyg.dk
+denmark,1980,kristelig-handicapforening,non-profit organization management,linkedin.com/company/kristelig-handicapforening,aarhus n,kristelig handicapforening,central jutland,1-10,k-h.dk
+denmark,2006,gribskov-byg-a-s,construction,linkedin.com/company/gribskov-byg-a-s,gilleleje,gribskov byg a/s,capital region,11-50,gribskovbyg.dk
+denmark,1908,kolonihaveforbundet,civic & social organization,linkedin.com/company/kolonihaveforbundet,herlev,kolonihaveforbundet,hovedstaden,1-10,kolonihave.dk
+denmark,1965,utoft-kids-group-a-s,apparel & fashion,linkedin.com/company/utoft-kids-group-a-s,give,utoft kids group a/s,south denmark,11-50,""
+denmark,2010,eye-d-marketing,marketing and advertising,linkedin.com/company/eye-d-marketing,"",eye d marketing,"",1-10,eyedm.dk
+denmark,2015,3r-kontor,furniture,linkedin.com/company/3r-kontor,hojbjerg,3r kontor,central jutland,1-10,""
+denmark,2003,pia-international-llc,import and export,linkedin.com/company/pia-international-llc,odense,"pia international, llc",syddanmark,1-10,piaintl.com
+denmark,2007,klartek-aps,chemicals,linkedin.com/company/klartek-aps,hojslev,klartek aps,midtjylland,1-10,klartek.dk
+denmark,2017,cph-foodtech-community,food production,linkedin.com/company/cph-foodtech-community,copenhagen,foodstack community,capital region,1-10,cphfoodtech.community
+denmark,2005,ole-jepsen-a-s,construction,linkedin.com/company/ole-jepsen-a-s,birkerod,ole jepsen a/s,hovedstaden,11-50,ole-jepsen.dk
+denmark,1988,ics---international-conference-services-denmark,"leisure, travel & tourism",linkedin.com/company/ics---international-conference-services-denmark,copenhagen,ics - international conference services denmark,capital region,11-50,ics.dk
+denmark,2010,noritnielsen-pharmasource,pharmaceuticals,linkedin.com/company/noritnielsen-pharmasource,nordhavn,noritnielsen pharmasource,capital region,1-10,noritnielsen.com
+denmark,1953,west-presenning-aps,plastics,linkedin.com/company/west-presenning-aps,ringsted,west presenning aps,zealand,1-10,west-presenning.dk
+denmark,2013,stratoz-visuals,marketing and advertising,linkedin.com/company/stratoz-visuals,skive,stratoz visuals,midtjylland,1-10,stratoz.dk
+denmark,"",ip-netcom-a-s,telecommunications,linkedin.com/company/ip-netcom-a-s,vejle,ip netcom a/s,south denmark,11-50,ipnetcom.dk
+denmark,2012,bimequity,architecture & planning,linkedin.com/company/bimequity,copenhagen,bim equity,capital region,1-10,bimequity.com
+denmark,2017,danalit,construction,linkedin.com/company/danalit,copenhagen,danalit,capital region,1-10,danalit.dk
+denmark,2017,badesoen,music,linkedin.com/company/badesoen,albertslund,badesøen festival,capital region,1-10,badesoen.dk
+denmark,1988,ab&co-ltd-,mechanical or industrial engineering,linkedin.com/company/ab&co-ltd-,copenhagen,ab&co group,capital region,11-50,abco.dk
+denmark,2002,scanotech,mechanical or industrial engineering,linkedin.com/company/scanotech,herfolge,scanotech,zealand,1-10,scanotech.dk
+denmark,"",expres2ion-biotechnologies,biotechnology,linkedin.com/company/expres2ion-biotechnologies,horsholm,expres2ion biotechnologies,hovedstaden,11-50,expres2ionbio.com
+denmark,"",imagine-hospitality-interiors,design,linkedin.com/company/imagine-hospitality-interiors,copenhagen,imagine hospitality interiors,capital region,1-10,imagine-hospitality.com
+denmark,2016,rosenkjær-web-ivs,information technology and services,linkedin.com/company/rosenkjær-web-ivs,herlev,rosenkjær web ivs,capital region,1-10,rosenkjaer.org
+denmark,2013,made-by-hand,design,linkedin.com/company/made-by-hand,"",made by hand,"",1-10,madebyhand.dk
+denmark,2017,ai-ratio,information technology and services,linkedin.com/company/ai-ratio,copenhagen,ai ratio,capital region,1-10,airatio.com
+denmark,2012,krab-a-s,wholesale,linkedin.com/company/krab-a-s,haderslev,krab a/s,syddanmark,1-10,krabb.dk
+denmark,1945,ramboll,civil engineering,linkedin.com/company/ramboll,"",ramboll,"",10001+,ramboll.com
+denmark,2006,nextt-management,staffing and recruiting,linkedin.com/company/nextt-management,risskov,nextt management a/s,central jutland,1-10,nextt.dk
+denmark,2009,corporate-dna_2,professional training & coaching,linkedin.com/company/corporate-dna_2,"",corporate dna,"",1-10,corporatedna.dk
+denmark,2003,ringe-tandlægehus,cosmetics,linkedin.com/company/ringe-tandlægehus,ringe,ringe tandlægehus,syddanmark,11-50,ringetsndlaegehus.dk
+denmark,1968,sabro-corporation-pvt-ltd,mechanical or industrial engineering,linkedin.com/company/sabro-corporation-pvt-ltd,hornslet,sabro corporation (pvt) ltd,midtjylland,201-500,sabrotechnologies.com
+denmark,"",capnordic-as,computer software,linkedin.com/company/capnordic-as,hellerup,capnordic a/s,capital region,1-10,""
+denmark,1971,hedensted-gruppen,machinery,linkedin.com/company/hedensted-gruppen,"",hedensted gruppen,"",51-200,hedensted-gruppen.dk
+denmark,1992,fyns-tag-&-facade,construction,linkedin.com/company/fyns-tag-&-facade,"",fyns tag & facade,"",1-10,renttag.dk
+denmark,2016,defac2,management consulting,linkedin.com/company/defac2,"",defac2,"",1-10,defac2.dk
+denmark,1991,nortex_as,textiles,linkedin.com/company/nortex_as,odense,nortex a/s,south denmark,1-10,nortex.dk
+denmark,1986,wienerberger-danmark,building materials,linkedin.com/company/wienerberger-danmark,helsinge,wienerberger danmark,hovedstaden,11-50,wienerberger.dk
+denmark,2018,reddot-media,motion pictures and film,linkedin.com/company/reddot-media,"",red-dot-media,"",1-10,reddotmedia.dk
+denmark,2005,stahlwille-nordic-a-s,wholesale,linkedin.com/company/stahlwille-nordic-a-s,copenhagen,stahlwille nordic a/s,capital region,1-10,stahlwille.dk
+denmark,"",watech-a-s,mechanical or industrial engineering,linkedin.com/company/watech-a-s,otterup,watech a.s.,syddanmark,11-50,watech.cz
+denmark,"",folkeuniversitetet-i-rhus,education management,linkedin.com/company/folkeuniversitetet-i-rhus,arhus,"folkeuniversitetet i aarhus, emdrup og herning",midtjylland,1-10,""
+denmark,2014,demovare,non-profit organization management,linkedin.com/company/demovare,"",demovare,"",1-10,demovare.dk
+denmark,2010,salgsr-dgivningen.dk,management consulting,linkedin.com/company/salgsr-dgivningen.dk,hjallerup,salgsrådgivningen.dk,nordjylland,1-10,salgsraadgivningen.dk
+denmark,2015,helenaring-dk,marketing and advertising,linkedin.com/company/helenaring-dk,viborg,midtjysk markedsføring,midtjylland,1-10,xn--midtjyskmarkedsfring-qcc.dk
+denmark,2004,capio-privathospital,hospital & health care,linkedin.com/company/capio-privathospital,hellerup,capio private hospital,capital region,201-500,capio.dk
+denmark,"",dansk-markedsforing-studerende-kobenhavn,marketing and advertising,linkedin.com/company/dansk-markedsforing-studerende-kobenhavn,frederiksberg,dansk markedsføring studerende - københavn,hovedstaden,11-50,""
+denmark,1945,dagbladet-information,newspapers,linkedin.com/company/dagbladet-information,"",dagbladet information,capital region,51-200,information.dk
+denmark,1973,am-værktøj-odense-as,industrial automation,linkedin.com/company/am-værktøj-odense-as,aaso,am værktøj odense a/s,syddanmark,51-200,amv.dk
+denmark,2015,center-for-industri,mechanical or industrial engineering,linkedin.com/company/center-for-industri,bjerringbro,center for industri,midtjylland,1-10,centerforindustri.dk
+denmark,2009,vild-med-ord,entertainment,linkedin.com/company/vild-med-ord,aarhus,vild med ord,central jutland,1-10,vildmedord.dk
+denmark,2017,coach-henriette-holmskov,professional training & coaching,linkedin.com/company/coach-henriette-holmskov,vejle,coach henriette holmskov,syddanmark,1-10,henrietteholmskov.dk
+denmark,1999,intext-dk,translation and localization,linkedin.com/company/intext-dk,hadsund,intext.dk,nordjylland,1-10,intext.dk
+denmark,1966,job-og-aktiv,government administration,linkedin.com/company/job-og-aktiv,kvaerndrup,job og aktiv,syddanmark,201-500,""
+denmark,2014,adone,marketing and advertising,linkedin.com/company/adone,aarhus,adone,central jutland,1-10,adone.dk
+denmark,1992,winfinans-aps,computer software,linkedin.com/company/winfinans-aps,roskilde,winfinans aps,sjelland,1-10,winfinans.dk
+denmark,2017,homeishdenmark,furniture,linkedin.com/company/homeishdenmark,"",homeish denmark,"",1-10,homeish.dk
+denmark,2011,cph-fashion-group-aps,apparel & fashion,linkedin.com/company/cph-fashion-group-aps,"",cph fashion group aps,"",1-10,cphfashiongroup.dk
+denmark,2016,dansk-almen-tolkeservice,translation and localization,linkedin.com/company/dansk-almen-tolkeservice,rodovre,dansk almen tolkeservice,hovedstaden,1-10,tolkbestilling.dk
+denmark,"",institute-of-medical-microbiology-and-immunology,research,linkedin.com/company/institute-of-medical-microbiology-and-immunology,"",institute of medical microbiology and immunology,"",1-10,""
+denmark,1957,stuhrsaloner,consumer services,linkedin.com/company/stuhrsaloner,horsholm,stuhr,hovedstaden,51-200,stuhr.dk
+denmark,1973,scandinaviapublishinghouse,publishing,linkedin.com/company/scandinaviapublishinghouse,copenhagen,scandinavia publishing house,capital region,11-50,sph.as
+denmark,1939,tns-gallup,market research,linkedin.com/company/tns-gallup,copenhagen,tns gallup denmark,capital region,201-500,tns-gallup.dk
+denmark,1974,dreier-co,construction,linkedin.com/company/dreier-co,odense,dreier & co.,syddanmark,51-200,dreierogco.dk
+denmark,1761,kobstaedernes-forsikring,insurance,linkedin.com/company/kobstaedernes-forsikring,"",købstædernes forsikring,"",201-500,kfforsikring.dk
+denmark,2016,armstrong-one,information technology and services,linkedin.com/company/armstrong-one,"",armstrong one,"",1-10,armstrongone.io
+denmark,"",circitnord,renewables & environment,linkedin.com/company/circitnord,lyngby,circit - circular economy integration in the nordic industry,midtjylland,1-10,circitnord.com
+denmark,1969,skanderborgpark,events services,linkedin.com/company/skanderborgpark,skanderborg,skanderborg park,midtjylland,11-50,skanderborgpark.dk
+denmark,2015,kubbafabrikkan-arkitektar,architecture & planning,linkedin.com/company/kubbafabrikkan-arkitektar,frederiksberg,kubbafabrikkan arkitektar,capital region,1-10,kubbafabrikkan.com
+denmark,2014,level-3-technologies-aps,information technology and services,linkedin.com/company/level-3-technologies-aps,odense,level 3 technologies aps,syddanmark,1-10,l3t.dk
+denmark,"",femern-business-park,business supplies and equipment,linkedin.com/company/femern-business-park,rodbyhavn,femern business park,zealand,1-10,femernbusinesspark.com
+denmark,"",race-telecom,telecommunications,linkedin.com/company/race-telecom,"",race telecom,"",1-10,wigomo.com
+denmark,2014,fønix-advokater,law practice,linkedin.com/company/fønix-advokater,"",fønix advokater,"",1-10,fønix.dk
+denmark,2007,pay-back-specialist-rekruttering,staffing and recruiting,linkedin.com/company/pay-back-specialist-rekruttering,bramming,pay-back specialist rekruttering,syddanmark,11-50,pay-back.dk
+denmark,1961,brdr-christensen-a-s,building materials,linkedin.com/company/brdr-christensen-a-s,ikast,"brdr. christensen, ikast a/s",central jutland,11-50,bcikast.dk
+denmark,1989,paranova,pharmaceuticals,linkedin.com/company/paranova,herlev,paranova,capital region,51-200,paranova.com
+denmark,1903,skagen-havn,logistics and supply chain,linkedin.com/company/skagen-havn,skagen,skagen havn,nordjylland,11-50,skagenhavn.dk
+denmark,"",lahrsten-i-s,wholesale,linkedin.com/company/lahrsten-i-s,"",lahrsten i/s,"",1-10,lahrsten.dk
+denmark,2006,editingplus.eu,publishing,linkedin.com/company/editingplus.eu,copenhagen,editingplus.eu,capital region,1-10,editingplus.eu
+denmark,2002,one2one-inhouse,marketing and advertising,linkedin.com/company/one2one-inhouse,"",one2one inhouse,"",1-10,one2one.dk
+denmark,2010,galleri-l'atelier,arts and crafts,linkedin.com/company/galleri-l'atelier,"",galleri l'atelier,capital region,1-10,latelier.dk
+denmark,2017,biites,entertainment,linkedin.com/company/biites,soborg,biites,hovedstaden,1-10,biites.com
+denmark,"",uno-duo,entertainment,linkedin.com/company/uno-duo,københavn,uno duo,capital region,1-10,""
+denmark,"",nielsen-&-partnere-erhverv,real estate,linkedin.com/company/nielsen-&-partnere-erhverv,"",nielsen & partnere | erhverv,"",1-10,npas.dk
+denmark,2010,dark-matters,design,linkedin.com/company/dark-matters,"",dark matters,"",1-10,darkmatters.dk
+denmark,"",kongeriget-danmarks-hypotekbank-&-finansforvaltning,government relations,linkedin.com/company/kongeriget-danmarks-hypotekbank-&-finansforvaltning,"",kongeriget danmarks hypotekbank & finansforvaltning,"",1-10,finansstyrelsen.dk
+denmark,"",fender-service,maritime,linkedin.com/company/fender-service,esbjerg,fender service,syddanmark,1-10,fenderservice.dk
+denmark,2007,halifax-burger-restaurant,restaurants,linkedin.com/company/halifax-burger-restaurant,copenhagen,halifax burger restaurant,capital region,201-500,halifax.dk
+denmark,2014,forevereco-dk,retail,linkedin.com/company/forevereco-dk,"",forevereco.dk,"",1-10,""
+denmark,2013,oddoozy,information technology and services,linkedin.com/company/oddoozy,fakse,oddoozy,sjelland,1-10,oddoozy.com
+denmark,2017,buildersmarket,computer software,linkedin.com/company/buildersmarket,copenhagen,builders market,hovedstaden,1-10,buildersmarket.dk
+denmark,"",powerballs-i-s,entertainment,linkedin.com/company/powerballs-i-s,"",powerballs,"",1-10,kontakt@power-balls.dk
+denmark,1997,copenhagen-catering,food production,linkedin.com/company/copenhagen-catering,kastrup,copenhagen catering,capital region,1-10,copenhagencatering.dk
+denmark,2014,hawilaproject,renewables & environment,linkedin.com/company/hawilaproject,copenhagen,hawila project,capital region,1-10,hawilaproject.org
+denmark,2015,jacob-hilmer-architecture,architecture & planning,linkedin.com/company/jacob-hilmer-architecture,frederiksberg,jacob hilmer architecture,capital region,1-10,""
+denmark,2010,insp-,civic & social organization,linkedin.com/company/insp-,roskilde,insp roskilde,zealand,11-50,insp.dk
+denmark,2017,liwa-media,marketing and advertising,linkedin.com/company/liwa-media,niva,liwa media,hovedstaden,1-10,liwamedia.dk
+denmark,1967,saxe-group,machinery,linkedin.com/company/saxe-group,vaerlose,saxe group,hovedstaden,51-200,saxe-group.com
+denmark,1998,hp-ejendomsservice,facilities services,linkedin.com/company/hp-ejendomsservice,hvidovre,hp ejendomsservice,capital region,11-50,hp-ejendomsservice.dk
+denmark,1985,hanstholm-indfrysning-a-s,food production,linkedin.com/company/hanstholm-indfrysning-a-s,hanstholm,hanstholm indfrysning a/s,north denmark,1-10,hias.dk
+denmark,"",feni-holding_2,food & beverages,linkedin.com/company/feni-holding_2,"",feni holding,"",1-10,""
+denmark,1985,flytryg,airlines/aviation,linkedin.com/company/flytryg,roskilde,flytryg,zealand,1-10,flytryg.dk
+denmark,"",silkeborg-handelsskole,education management,linkedin.com/company/silkeborg-handelsskole,"",silkeborg handelsskole,"",1-10,""
+denmark,"",gefion,financial services,linkedin.com/company/gefion,"",gefion,"",51-200,gefion.nu
+denmark,1981,freiberg-a-s,construction,linkedin.com/company/freiberg-a-s,"",freiberg gruppen,"",51-200,freiberg.as
+denmark,2015,medieselskabet-havnefronten,newspapers,linkedin.com/company/medieselskabet-havnefronten,"",medieselskabet havnefronten holding,capital region,1-10,havnefronten.nu
+denmark,2000,connery-aps,online media,linkedin.com/company/connery-aps,norresundby,connery.dk,nordjylland,1-10,connery.dk
+denmark,2007,inside-systems-a-s,computer hardware,linkedin.com/company/inside-systems-a-s,aalborg,inside systems,nordjylland,11-50,insidesystems.com
+denmark,2002,type2dialog,professional training & coaching,linkedin.com/company/type2dialog,lyngby,type2dialog,midtjylland,11-50,type2dialog.dk
+denmark,2016,sandbæk-finans,financial services,linkedin.com/company/sandbæk-finans,"",sandbæk finans,"",1-10,""
+denmark,1906,maskinmesterskolen-k-benhavn,higher education,linkedin.com/company/maskinmesterskolen-k-benhavn,kongens lyngby,maskinmesterskolen københavn,capital region,51-200,msk.dk
+denmark,2020,stait,consumer goods,linkedin.com/company/stait,odense,stait,syddanmark,1-10,stait.dk
+denmark,2011,bownty-,internet,linkedin.com/company/bownty-,copenhagen,bownty,capital region,1-10,bownty.com
+denmark,2012,oeens,construction,linkedin.com/company/oeens,kastrup,øens vvs teknik a/s,hovedstaden,51-200,oeens.dk
+denmark,2002,mammoet-wind,renewables & environment,linkedin.com/company/mammoet-wind,aalborg,mammoet wind,nordjylland,51-200,mammoetwind.com
+denmark,2018,simply-dot-tv,entertainment,linkedin.com/company/simply-dot-tv,hillerod,simply.tv,hovedstaden,11-50,simply.tv
+denmark,1987,handi-life-sport,sporting goods,linkedin.com/company/handi-life-sport,skibby,handi life sport,hovedstaden,11-50,handilifesport.com
+denmark,"",skt-annæ-skole,"",linkedin.com/company/skt-annæ-skole,"",skt. annæ skole,"",11-50,sanktannaeskole.dk
+denmark,2010,bertel-bolt-kommunikation,marketing and advertising,linkedin.com/company/bertel-bolt-kommunikation,thisted,bertel bolt kommunikation,nordjylland,1-10,bertelbolt.dk
+denmark,2010,mattimil,security and investigations,linkedin.com/company/mattimil,haslev,mattimil,sjelland,1-10,mattimil.dk
+denmark,1937,datea-as,real estate,linkedin.com/company/datea-as,lyngby,datea as,midtjylland,201-500,datea.dk
+denmark,1993,godik,"",linkedin.com/company/godik,brovst,godik,nordjylland,51-200,godik.dk
+denmark,2013,doce-aps-,education management,linkedin.com/company/doce-aps-,"",doce aps.,"",1-10,doce.dk
+denmark,"",penm-partners,investment banking,linkedin.com/company/penm-partners,"",penm partners,"",1-10,penmpartners.com
+denmark,2016,mit-renseri-ivs,textiles,linkedin.com/company/mit-renseri-ivs,sonderborg,mit renseri ivs,syddanmark,1-10,mitrenseri.dk
+denmark,1947,baby-dan-a-s,design,linkedin.com/company/baby-dan-a-s,laasby,baby dan a/s,midtjylland,51-200,babydan.com
+denmark,2004,recordit-nu,telecommunications,linkedin.com/company/recordit-nu,"",recordit.nu aps,"",1-10,recordit.nu
+denmark,1986,mercantila-advertising,marketing and advertising,linkedin.com/company/mercantila-advertising,"",mercantila advertising,"",1-10,mercantila.dk
+denmark,2013,datapult,market research,linkedin.com/company/datapult,"",datapult,"",1-10,datapult.dk
+denmark,"",jjj-invest-aps,computer software,linkedin.com/company/jjj-invest-aps,"",jjj invest aps,"",1-10,dbalive.dk
+denmark,2000,varig-teknik-&-milj-a-s,machinery,linkedin.com/company/varig-teknik-&-milj-a-s,soro,varig teknik & miljø a/s,sjelland,11-50,varigteknik.dk
+denmark,1956,danish-refugee-council,non-profit organization management,linkedin.com/company/danish-refugee-council,copenhagen,danish refugee council / dansk flygtningehjælp,capital region,5001-10000,drc.dk
+denmark,"",kongsvangrengøringsservice,facilities services,linkedin.com/company/kongsvangrengøringsservice,"",kongsvang rengøringsservice,"",11-50,""
+denmark,2014,guf-kugler,retail,linkedin.com/company/guf-kugler,nibe,guf & kugler,nordjylland,11-50,gufogkugler.dk
+denmark,"",kuben,construction,linkedin.com/company/kuben,"",kuben,"",201-500,""
+denmark,"",vvs-og-kloak,"",linkedin.com/company/vvs-og-kloak,"",vvs og kloak,"",1-10,krydal.dk
+denmark,2013,videncenter-for-folkeoplysning,non-profit organization management,linkedin.com/company/videncenter-for-folkeoplysning,aarhus,videncenter for folkeoplysning,central jutland,1-10,vifo.dk
+denmark,"",smartlaunch-systems,computer software,linkedin.com/company/smartlaunch-systems,copenhagen,smartlaunch systems,capital region,11-50,smartlaunch.com
+denmark,2002,house-of-denmark-a-s,food & beverages,linkedin.com/company/house-of-denmark-a-s,vejle,house of denmark a/s,south denmark,11-50,hodk.com
+denmark,2014,approxima-a-s,information technology and services,linkedin.com/company/approxima-a-s,lyngby,approxima a/s,midtjylland,11-50,approxima.com
+denmark,2017,launch.it,information technology and services,linkedin.com/company/launch.it,"",launch.it,"",1-10,laaaunch.it
+denmark,2006,safe-tec-,business supplies and equipment,linkedin.com/company/safe-tec-,rønnede,safe-tec (fall protection equipment),zealand,51-200,safe-tec.ru
+denmark,2015,gris-lam-&-co.,food production,linkedin.com/company/gris-lam-&-co.,hedehusene,gris lam & co.,capital region,1-10,grislamogco.dk
+denmark,2016,ginhuset,wine and spirits,linkedin.com/company/ginhuset,risskov,ginhuset,midtjylland,1-10,ginhuset.dk
+denmark,2000,ls-translation-aps,translation and localization,linkedin.com/company/ls-translation-aps,viborg,ls translation aps,central jutland,201-500,ls-translation.dk
+denmark,1928,imerco,retail,linkedin.com/company/imerco,herlev,imerco,capital region,1001-5000,imerco.dk
+denmark,1965,scancab,mechanical or industrial engineering,linkedin.com/company/scancab,aabenraa,scancab,south denmark,51-200,scancab.com
+denmark,2002,inropa-a-s,civil engineering,linkedin.com/company/inropa-a-s,aalborg,inropa a/s,nordjylland,1-10,inropa.com
+denmark,1998,alt-om-kobenhavn-aok-dk,online media,linkedin.com/company/alt-om-kobenhavn-aok-dk,"",alt om københavn - aok.dk,"",11-50,aok.dk
+denmark,"",synovate-denmark,market research,linkedin.com/company/synovate-denmark,"",synovate denmark,"",51-200,""
+denmark,2013,zazi,food & beverages,linkedin.com/company/zazi,lystrup,zazi,midtjylland,1-10,zazi.dk
+denmark,2014,infowise-aps,information technology and services,linkedin.com/company/infowise-aps,"",infowise aps,"",11-50,infowise.dk
+denmark,1998,ingleby-farms-&-forests,farming,linkedin.com/company/ingleby-farms-&-forests,"",ingleby farms & forests,"",1001-5000,inglebyfarms.com
+denmark,2016,monocular,media production,linkedin.com/company/monocular,"",the monocular,"",1-10,themonocular.com
+denmark,1960,dlr-kredit-a-s,banking,linkedin.com/company/dlr-kredit-a-s,"",dlr kredit a/s,"",51-200,dlr.dk
+denmark,1996,viuff-anlæg-a-s,construction,linkedin.com/company/viuff-anlæg-a-s,frederikssund,viuff anlæg a/s,hovedstaden,11-50,viuff.as
+denmark,1994,activcare-a-s,hospital & health care,linkedin.com/company/activcare-a-s,holte,activcare a/s,hovedstaden,1001-5000,activcare.dk
+denmark,1995,dreyer-&-kvetny,public relations and communications,linkedin.com/company/dreyer-&-kvetny,"",dreyer+kvetny,"",1-10,dreyerkvetny.dk
+denmark,1964,planova-group,furniture,linkedin.com/company/planova-group,soro,planova group,zealand,51-200,planova.com
+denmark,2008,organisationaps,management consulting,linkedin.com/company/organisationaps,"",organisation aps.,"",1-10,organisation.cc
+denmark,2014,sara-engvild,management consulting,linkedin.com/company/sara-engvild,"",sara engvild,capital region,1-10,saraengvild.dk
+denmark,"",karrierecenterkbh,government administration,linkedin.com/company/karrierecenterkbh,copenhagen,karrierecenter københavn - rådgivning til ledige akademikere,hovedstaden,11-50,""
+denmark,1978,maersktraining,oil & energy,linkedin.com/company/maersktraining,svendborg,maersk training,south denmark,201-500,maersktraining.com
+denmark,2017,regnbuefolket,political organization,linkedin.com/company/regnbuefolket,copenhagen,regnbuefolket,capital region,1-10,""
+denmark,2006,kiwi-group-inc-,information technology and services,linkedin.com/company/kiwi-group-inc-,gentofte,kiwi group inc.,hovedstaden,1-10,kiwigroupinc.com
+denmark,2008,dinesen-irhojsoft,management consulting,linkedin.com/company/dinesen-irhojsoft,herlev,dinesen:irhojsoft,capital region,1-10,irhojsoft.dk
+denmark,"",skarres-foreningen,philanthropy,linkedin.com/company/skarres-foreningen,ryomgard,foretagsomheden,midtjylland,201-500,foretagsomheden.dk
+denmark,1996,mw-data-as,computer software,linkedin.com/company/mw-data-as,viborg,mw data a/s,central jutland,1001-5000,mwdata.dk
+denmark,1987,anderberg-fugtstyring-a-s,mechanical or industrial engineering,linkedin.com/company/anderberg-fugtstyring-a-s,"",condair a/s,"",51-200,condair.dk
+denmark,2012,aarhus-air-taxi,airlines/aviation,linkedin.com/company/aarhus-air-taxi,tirstrup,aarhus air taxi,midtjylland,1-10,aaat.dk
+denmark,"",niels-petersen-automobiler-a-s,automotive,linkedin.com/company/niels-petersen-automobiler-a-s,naestved,niels petersen automobiler a/s,sjelland,11-50,niels-petersen.dk
+denmark,2015,vasolve,staffing and recruiting,linkedin.com/company/vasolve,copenhagen,vasolve,capital region,1-10,vasolve.com
+denmark,"",promus-it-dk,computer software,linkedin.com/company/promus-it-dk,aars,promus it,north denmark,1-10,promus-it.dk
+denmark,2001,international-media-support,non-profit organization management,linkedin.com/company/international-media-support,"",international media support (ims),"",51-200,mediasupport.org
+denmark,1989,nordicals-aalborg,real estate,linkedin.com/company/nordicals-aalborg,aalborg,nordicals aalborg,nordjylland,11-50,""
+denmark,1988,nyhavn-rejser,"leisure, travel & tourism",linkedin.com/company/nyhavn-rejser,"",nyhavn rejser,"",51-200,nyhavn.dk
+denmark,2013,unisense-environment,environmental services,linkedin.com/company/unisense-environment,aarhus n,unisense environment a/s,central jutland,1-10,unisense-environment.com
+denmark,"",secondcircle,renewables & environment,linkedin.com/company/secondcircle,soborg,secondcircle,capital region,1-10,secondcircle.bio
+denmark,"",tao-of-human-design,professional training & coaching,linkedin.com/company/tao-of-human-design,"",tao of human design,"",1-10,human-design.org
+denmark,2008,domestic-services-&-administration,consumer services,linkedin.com/company/domestic-services-&-administration,"",domestic services & administration,capital region,1-10,florentz.org
+denmark,2006,ajourcare,hospital & health care,linkedin.com/company/ajourcare,vordingborg,ajourcare,zealand,201-500,ajourcare.dk
+denmark,2014,agrohydrologerne-aps,environmental services,linkedin.com/company/agrohydrologerne-aps,faxe,agrohydrologerne aps,zealand,1-10,agrohydrologerne.dk
+denmark,2013,global-esourcing-pty-ltd-,information technology and services,linkedin.com/company/global-esourcing-pty-ltd-,horsens,global esourcing,midtjylland,1-10,globalesourcing.eu
+denmark,"",resen-friskole,"",linkedin.com/company/resen-friskole,"",resen friskole,"",11-50,resenfriskole.dk
+denmark,2001,orbital-express,logistics and supply chain,linkedin.com/company/orbital-express,hvidovre,orbital express,capital region,1-10,""
+denmark,1995,in-store-a-s,retail,linkedin.com/company/in-store-a-s,hinnerup,in-store a/s,central jutland,11-50,in-store.dk
+denmark,1994,vk-data-aps,information technology and services,linkedin.com/company/vk-data-aps,tonder,vk data aps,syddanmark,11-50,vkdata.dk
+denmark,1901,th-langs-hf-vuc,professional training & coaching,linkedin.com/company/th-langs-hf-vuc,silkeborg,th. langs hf & vuc,central jutland,51-200,thlangshf-vuc.dk
+denmark,"",sebdes-architecture,architecture & planning,linkedin.com/company/sebdes-architecture,"",sebdes architecture,"",1-10,sebdes.com
+denmark,"",stuhr,consumer services,linkedin.com/company/stuhr,"",stuhr,"",11-50,""
+denmark,2013,klarpris-as,information technology and services,linkedin.com/company/klarpris-as,"",klarpris aps,capital region,11-50,klarpris.dk
+denmark,2012,locotin-aps,tobacco,linkedin.com/company/locotin-aps,hadsund,locotin aps,nordjylland,11-50,locotin.com
+denmark,"",gac-denmark-a-s,maritime,linkedin.com/company/gac-denmark-a-s,"",gac denmark a/s,capital region,1-10,""
+denmark,2018,carplan-leasing-a-s,automotive,linkedin.com/company/carplan-leasing-a-s,"",carplan leasing a/s,zealand,1-10,carplanleasing.dk
+denmark,2016,vestsjaellands-brandvaesen,public safety,linkedin.com/company/vestsjaellands-brandvaesen,kalundborg,vestsjællands brandvæsen,sjelland,201-500,vsbv.dk
+denmark,2013,waternlife,consumer goods,linkedin.com/company/waternlife,juelsminde,waternlife,midtjylland,11-50,waternlife.com
+denmark,2007,12345stars-com,consumer services,linkedin.com/company/12345stars-com,copenhagen,fublife.dk,capital region,1-10,fublife.dk
+denmark,2001,e3light-group,consumer electronics,linkedin.com/company/e3light-group,lystrup,e3light group,sjelland,51-200,e3light.com
+denmark,"",lene-perez,graphic design,linkedin.com/company/lene-perez,copenhagen,leneperez.dk,capital region,1-10,leneperez.dk
+denmark,2007,dupont-lightstone,construction,linkedin.com/company/dupont-lightstone,odense,dupont lightstone,south denmark,11-50,dupontlightstone.com
+denmark,2014,hinze-management,renewables & environment,linkedin.com/company/hinze-management,"",hinze management,"",1-10,hinzemanagement.com
+denmark,2017,conaid---construction-analytics,information technology and services,linkedin.com/company/conaid---construction-analytics,svendborg,conaid - construction analytics,syddanmark,1-10,conaid.eu
+denmark,"",seob-s.a.,facilities services,linkedin.com/company/seob-s.a.,odder,seob s.a.,midtjylland,11-50,seob.com.ar
+denmark,"",pa-trykcenter,"",linkedin.com/company/pa-trykcenter,"",pa trykcenter,"",1-10,patrykcenter.dk
+denmark,1817,le34,construction,linkedin.com/company/le34,ballerup,le34,capital region,201-500,le34.dk
+denmark,"",scanray,medical practice,linkedin.com/company/scanray,"",scanray,"",1-10,scanray.dk
+denmark,2017,broelnu,food & beverages,linkedin.com/company/broelnu,copenhagen,brøl,capital region,1-10,broel.nu
+denmark,1919,frørup-andelskasse,banking,linkedin.com/company/frørup-andelskasse,frorup,frørup andelskasse,south denmark,11-50,froerupandelskasse.dk
+denmark,2017,sikkerhedscertifikatet,information technology and services,linkedin.com/company/sikkerhedscertifikatet,"",sikkerhedscertifikatet,"",1-10,sikkerhedscertifikat.dk
+denmark,2017,uxsystems,information technology and services,linkedin.com/company/uxsystems,frederiksberg,ux systems,capital region,1-10,ux.systems
+denmark,2006,retouchbrands,apparel & fashion,linkedin.com/company/retouchbrands,"",retouch brands,"",1-10,retouchbrands.com
+denmark,2010,pocketguide,apparel & fashion,linkedin.com/company/pocketguide,"",historicalgarments,"",1-10,historicalgarments.com
+denmark,2000,altinget-dk,online media,linkedin.com/company/altinget-dk,"",altinget.dk,"",51-200,altinget.dk
+denmark,2010,arcon-entreprise-a-s,construction,linkedin.com/company/arcon-entreprise-a-s,glostrup,arcon entreprise a/s,capital region,51-200,arcon-as.dk
+denmark,"",surf-og-ski-aalborg,sporting goods,linkedin.com/company/surf-og-ski-aalborg,aalborg,surf og ski aalborg,nordjylland,1-10,""
+denmark,"",den-sociale-virksomhed-region-hovedstaden,civic & social organization,linkedin.com/company/den-sociale-virksomhed-region-hovedstaden,hillerod,"den sociale virksomhed, region hovedstaden",hovedstaden,1001-5000,densocialevirksomhed.dk
+denmark,"",biral-holding-aps,telecommunications,linkedin.com/company/biral-holding-aps,"",biral holding aps,"",1-10,bkgpharma.com
+denmark,2003,monstrum-aps,architecture & planning,linkedin.com/company/monstrum-aps,brondbyvester,monstrum,hovedstaden,11-50,monstrum.dk
+denmark,2015,vi.er-akvavit,wine and spirits,linkedin.com/company/vi.er-akvavit,"",vi.er akvavit,"",1-10,vierakvavit.com
+denmark,2010,first-chair-group-a-s,management consulting,linkedin.com/company/first-chair-group-a-s,charlottenlund,first chair group a/s,capital region,201-500,firstchairgroup.com
+denmark,1998,webproof-com,computer software,linkedin.com/company/webproof-com,copenhagen,webproof.com,capital region,11-50,webproof.com
+denmark,2016,ballast-cph,design,linkedin.com/company/ballast-cph,"",ballast cph,capital region,1-10,ballastcph.dk
+denmark,"",jeppevoightchristensen,graphic design,linkedin.com/company/jeppevoightchristensen,"",jeppe voight christensen ivs,"",1-10,jeppevoight.dk
+denmark,"",greenland-travel,"leisure, travel & tourism",linkedin.com/company/greenland-travel,"",greenland travel,"",11-50,""
+denmark,1945,ulykkespatientforeningen,hospital & health care,linkedin.com/company/ulykkespatientforeningen,rodovre,ulykkespatientforeningen,hovedstaden,51-200,ulykkespatient.dk
+denmark,2004,3d-college-denmark,graphic design,linkedin.com/company/3d-college-denmark,grenaa,3d college denmark,midtjylland,201-500,multimedieanimator.dk
+denmark,"",mbml,graphic design,linkedin.com/company/mbml,risskov,mbml,central jutland,1-10,mbml.ca
+denmark,1979,nautic-surf-og-ski-a-s,sporting goods,linkedin.com/company/nautic-surf-og-ski-a-s,herning,nautic surf og ski a/s,central jutland,11-50,nautic-surfogski.dk
+denmark,2008,supsou,oil & energy,linkedin.com/company/supsou,esbjerg,workpartner aps,south denmark,1-10,workpartner.dk
+denmark,2010,mouldpro-aps,mechanical or industrial engineering,linkedin.com/company/mouldpro-aps,ballerup,mouldpro aps,capital region,11-50,mouldpro.com
+denmark,2018,minrecept-aps,pharmaceuticals,linkedin.com/company/minrecept-aps,norresundby,minrecept aps,nordjylland,1-10,minrecept.dk
+denmark,2005,itw-gse,aviation & aerospace,linkedin.com/company/itw-gse,"",itw gse,"",51-200,itwgse.com
+denmark,1959,jyske-finans,financial services,linkedin.com/company/jyske-finans,silkeborg,jyske finans,central jutland,51-200,jyskefinans.dk
+denmark,2016,skaaningmanagement,music,linkedin.com/company/skaaningmanagement,svendborg,skaaning management - music&arts,syddanmark,1-10,skaaningmanagement.dk
+denmark,"",mija-windpower-aps,renewables & environment,linkedin.com/company/mija-windpower-aps,"",mija windpower aps,"",1-10,mijawindpower.com
+denmark,"",scaffco,"",linkedin.com/company/scaffco,"",scaffco,"",51-200,scaffco.dk
+denmark,"",behumbl,design,linkedin.com/company/behumbl,kirke hvalso,behumbl®,zealand,1-10,behumbl.dk
+denmark,1979,audon,investment banking,linkedin.com/company/audon,copenhagen,audon a/s,capital region,11-50,audon.dk
+denmark,1990,ikadan-group,plastics,linkedin.com/company/ikadan-group,ikast,ikadan,midtjylland,11-50,ikadan.com
+denmark,2014,raahauge-consult,information technology and services,linkedin.com/company/raahauge-consult,copenhagen,raahauge consult,capital region,1-10,raahauge-consult.dk
+denmark,1999,danskndt,business supplies and equipment,linkedin.com/company/danskndt,roskilde,dansk ndt teknik a/s,zealand,1-10,ndtshop.dk
+denmark,2008,uniflip-a-s,online media,linkedin.com/company/uniflip-a-s,tune,uniflip a/s,sjelland,11-50,uniflip.com
+denmark,1934,a-henriksen-shipping-a-s,maritime,linkedin.com/company/a-henriksen-shipping-a-s,hundested,a. henriksen shipping a/s,capital region,11-50,henriksenshipping.dk
+denmark,1972,reamed,"health, wellness and fitness",linkedin.com/company/reamed,thisted,reamed,nordjylland,11-50,mitliv.dk
+denmark,"",statsadvokaten-i-k-benhavn,law enforcement,linkedin.com/company/statsadvokaten-i-k-benhavn,københavn,statsadvokaten i københavn,capital region,11-50,""
+denmark,"",bykier,retail,linkedin.com/company/bykier,"",bykier,"",1-10,""
+denmark,"",michael-christensen-for-european-parliament-2009,political organization,linkedin.com/company/michael-christensen-for-european-parliament-2009,"",michael christensen for european parliament 2009,"",1-10,michaelchristensen.eu
+denmark,2000,billedbyroet,photography,linkedin.com/company/billedbyroet,nyborg,billedbyroet,syddanmark,1-10,billedbyroet.dk
+denmark,2007,dao365,package/freight delivery,linkedin.com/company/dao365,vejle,dao distribution a/s,south denmark,1001-5000,dao.as
+denmark,1971,jakobsen-&-blindkilde-a-s,construction,linkedin.com/company/jakobsen-&-blindkilde-a-s,aulum,jakobsen & blindkilde a/s,midtjylland,11-50,jakobsen-blindkilde.dk
+denmark,2004,sundthus-dk,construction,linkedin.com/company/sundthus-dk,holstebro,sundthus aps,central jutland,1-10,sundthus.dk
+denmark,2011,made-design-dk,design,linkedin.com/company/made-design-dk,kolding,made design,syddanmark,1-10,madedesign.dk
+denmark,2013,dansk-produktions-univers,industrial automation,linkedin.com/company/dansk-produktions-univers,hedensted,dansk produktions univers,midtjylland,1-10,danskproduktionsunivers.dk
+denmark,2015,marketingmedicion,marketing and advertising,linkedin.com/company/marketingmedicion,kolding,marketingmedicin,syddanmark,1-10,marketingmedicin.dk
+denmark,1952,tvis-køkkener,furniture,linkedin.com/company/tvis-køkkener,holstebro,tvis køkkener,central jutland,201-500,tvis.com
+denmark,2017,nava-culture,research,linkedin.com/company/nava-culture,frederiksberg,nava culture,capital region,1-10,navaculture.dk
+denmark,"",ametek-tci,mechanical or industrial engineering,linkedin.com/company/ametek-tci,"",ametek stc,"",201-500,ametektci.com
+denmark,2015,vertical-strategy,management consulting,linkedin.com/company/vertical-strategy,"",vertical strategy,"",11-50,verticalstrategy.com
+denmark,"",kastberg-a-s,building materials,linkedin.com/company/kastberg-a-s,aars,kastberg a/s,north denmark,11-50,kastberg-as.dk
+denmark,2017,zealand-communication,translation and localization,linkedin.com/company/zealand-communication,greve,zealand communication,zealand,1-10,zeacom.dk
+denmark,2019,nordisk-glas-as,"glass, ceramics & concrete",linkedin.com/company/nordisk-glas-as,herning,nordisk glas a/s,midtjylland,11-50,nordiskglas.dk
+denmark,1973,roskilde-aftenskole,education management,linkedin.com/company/roskilde-aftenskole,roskilde,roskilde aftenskole,zealand,1-10,roskildeaftenskole.dk
+denmark,2019,cbs-real-estate-club,real estate,linkedin.com/company/cbs-real-estate-club,frederiksberg,cbs real estate club,capital region,1-10,cbsrealestateclub.com
+denmark,"",fredericiac,architecture & planning,linkedin.com/company/fredericiac,fredericia,fredericiac - kanalbyen ved lillebælt,syddanmark,1-10,fredericiac.dk
+denmark,1898,danske-byggecentre,political organization,linkedin.com/company/danske-byggecentre,"",danish building centres,"",1-10,danskebyggecentre.dk
+denmark,2006,anmeld-håndværker,internet,linkedin.com/company/anmeld-håndværker,horsholm,anmeld håndværker,hovedstaden,1-10,anmeld-haandvaerker.dk
+denmark,2016,udviklingsbureauet-beta,management consulting,linkedin.com/company/udviklingsbureauet-beta,"",udviklingsbureauet beta,"",1-10,ubeta.dk
+denmark,1946,viggo-bendz-a-s,mechanical or industrial engineering,linkedin.com/company/viggo-bendz-a-s,hong,viggo bendz a/s,sjelland,1-10,viggobendz.dk
+denmark,2010,compu-partner,computer & network security,linkedin.com/company/compu-partner,vejle,compu partner,south denmark,1-10,compupartner.dk
+denmark,"",musikteatret-holstebro,events services,linkedin.com/company/musikteatret-holstebro,holstebro,musikteatret holstebro,central jutland,51-200,musikteatret.dk
+denmark,2007,trailerpark-festival,music,linkedin.com/company/trailerpark-festival,"",trailerpark festival,"",11-50,trailerparkfestival.com
+denmark,"",lauge-jensen-a-s,automotive,linkedin.com/company/lauge-jensen-a-s,"",lauge jensen a/s,"",1-10,laugejensen.dk
+denmark,"",nordiatech,medical devices,linkedin.com/company/nordiatech,"",nordiatech,"",1-10,nordiatech.dk
+denmark,"",hamcom,telecommunications,linkedin.com/company/hamcom,pandrup,hamcom,north denmark,11-50,henrysdrive.com
+denmark,"",stemmecoach-voicecoach,education management,linkedin.com/company/stemmecoach-voicecoach,"",stemmecoach/voicecoach,"",1-10,stemmecoach.dk
+denmark,2010,wisemo-a-s,computer software,linkedin.com/company/wisemo-a-s,herlev,wisemo a/s,capital region,11-50,wisemo.com
+denmark,"",easyr-aps,information technology and services,linkedin.com/company/easyr-aps,aalborg,easyr aps,nordjylland,1-10,easyr.dk
+denmark,"",hmn-naturgas-i-s,oil & energy,linkedin.com/company/hmn-naturgas-i-s,viborg,hmn gashandel a/s,central jutland,11-50,""
+denmark,1983,autohuset-vestergaard,automotive,linkedin.com/company/autohuset-vestergaard,aaso,"autohuset vestergaard a/s, personvogne",syddanmark,501-1000,autohuset-vestergaard.dk
+denmark,2009,unlimited-performing-arts,performing arts,linkedin.com/company/unlimited-performing-arts,copenhagen,unlimited performing arts,capital region,11-50,unlimitedarts.org
+denmark,2018,jobdanmark,human resources,linkedin.com/company/jobdanmark,odense,jobdanmark,south denmark,1-10,jobdanmark.dk
+denmark,2007,kapkap-dk,design,linkedin.com/company/kapkap-dk,lystrup,kapkap.dk,midtjylland,1-10,kapkap.dk
+denmark,2017,motusapp,computer games,linkedin.com/company/motusapp,"",motusapp,capital region,1-10,motusapp.eu
+denmark,2014,we-all-search,retail,linkedin.com/company/we-all-search,kerteminde,we all search,syddanmark,1-10,weallsearch.com
+denmark,"",applimate,computer software,linkedin.com/company/applimate,klarup,applimate,nordjylland,1-10,applimate.dk
+denmark,"",lise-staubo-design,graphic design,linkedin.com/company/lise-staubo-design,"",lise staubo design,"",1-10,staubo.dk
+denmark,2013,anmasi-a-s,machinery,linkedin.com/company/anmasi-a-s,grindsted,anmasi a/s,south denmark,11-50,anmasi.dk
+denmark,1987,eurofins-biopharma-product-testing-denmark,pharmaceuticals,linkedin.com/company/eurofins-biopharma-product-testing-denmark,copenhagen,eurofins biopharma product testing denmark,capital region,51-200,eurofinspharma.dk
+denmark,2015,global-image-aps,graphic design,linkedin.com/company/global-image-aps,arhus,global image aps,midtjylland,1-10,global-image.dk
+denmark,2008,glade-chefer,human resources,linkedin.com/company/glade-chefer,fredericia,happy bosses,syddanmark,1-10,gladechefer.dk
+denmark,1989,lindgaard---pedersen-a-s,automotive,linkedin.com/company/lindgaard---pedersen-a-s,roskilde,lindgaard / pedersen a/s,zealand,1-10,lpdk.com
+denmark,1900,leman,transportation/trucking/railroad,linkedin.com/company/leman,"",leman,"",501-1000,leman.com
+denmark,2016,tiny-rhino,information technology and services,linkedin.com/company/tiny-rhino,frederiksberg,tiny rhino,capital region,1-10,tinyrhino.dk
+denmark,"",alt-i-bogholderi,accounting,linkedin.com/company/alt-i-bogholderi,"",alt-i-bogholderi,"",1-10,alt-i-bogholderi.dk
+denmark,2012,pallekoncept,import and export,linkedin.com/company/pallekoncept,gadstrup,pallekoncept aps,zealand,11-50,pallekoncept.dk
+denmark,2007,frost-it,information technology and services,linkedin.com/company/frost-it,"",frost-it,"",1-10,frost-it.com
+denmark,"",simcap,computer software,linkedin.com/company/simcap,albertslund,simcap,capital region,1-10,simcap.com
+denmark,2014,jahn-bjorn,management consulting,linkedin.com/company/jahn-bjorn,"",jahn bjørn,capital region,1-10,jahnbjorn.com
+denmark,1984,insign-as,graphic design,linkedin.com/company/insign-as,valby,insign aps,hovedstaden,1-10,insign.dk
+denmark,"",sørensen-og-lynggaard,retail,linkedin.com/company/sørensen-og-lynggaard,viborg,sørensen og lynggaard,central jutland,11-50,sogl.dk
+denmark,"",djbfakomponisterogsangskrivere,music,linkedin.com/company/djbfakomponisterogsangskrivere,o,djbfa / komponister og sangskrivere,midtjylland,11-50,djbfa.dk
+denmark,"",aljadid,"",linkedin.com/company/aljadid,"",aljadid,"",11-50,studioaljadid.com
+denmark,2006,inspekt,information technology and services,linkedin.com/company/inspekt,"",inspekt,"",1-10,inspektonline.com
+denmark,2016,n-ear,electrical/electronic manufacturing,linkedin.com/company/n-ear,"",n-ear,"",1-10,n-ear.pro
+denmark,1955,kingo-karlsen-a-s,construction,linkedin.com/company/kingo-karlsen-a-s,silkeborg,kingo karlsen a/s,central jutland,51-200,kingo.biz
+denmark,2009,solid-account-aps,accounting,linkedin.com/company/solid-account-aps,"",solid account aps,"",1-10,solidaccount.dk
+denmark,2007,byggesagkyndignu,construction,linkedin.com/company/byggesagkyndignu,voldum,byggesagkyndig.nu,midtjylland,11-50,byggesagkyndig.nu
+denmark,2014,massagekompagniet,"health, wellness and fitness",linkedin.com/company/massagekompagniet,"",massagekompagniet,capital region,11-50,massagekompagniet.dk
+denmark,1962,standard-systemer-a-s,hospital & health care,linkedin.com/company/standard-systemer-a-s,copenhagen,standard systemer a/s,capital region,51-200,standardsystem.dk
+denmark,2016,acdc.solutions,industrial automation,linkedin.com/company/acdc.solutions,stenlose,acdc.solutions,hovedstaden,1-10,acdc.solutions
+denmark,2018,cbsaid,non-profit organization management,linkedin.com/company/cbsaid,frederiksberg,cbs aid,capital region,11-50,cbsaid.org
+denmark,1993,pithegn,security and investigations,linkedin.com/company/pithegn,ringe,pit hegn a/s,syddanmark,11-50,pithegn.dk
+denmark,1989,hugin-expert-as,computer software,linkedin.com/company/hugin-expert-as,aalborg,hugin expert a/s,nordjylland,1-10,hugin.com
+denmark,1964,bec,information technology and services,linkedin.com/company/bec,roskilde,bec,sjelland,1001-5000,bec.dk
+denmark,2010,circlelounge,events services,linkedin.com/company/circlelounge,lejre,circle lounge,sjelland,1-10,circlelounge.dk
+denmark,1932,national-union-of-students,political organization,linkedin.com/company/national-union-of-students,"",danske studerendes fællesråd / national union of students in danmark,"",11-50,dsfnet.dk
+denmark,2013,dandanell-bike-rental,"leisure, travel & tourism",linkedin.com/company/dandanell-bike-rental,albertslund,dandanell bike rental,capital region,1-10,dandanellbikerental.com
+denmark,"",xdp-as,computer software,linkedin.com/company/xdp-as,"",xdp a/s,"",11-50,""
+denmark,2006,maxgruppen,printing,linkedin.com/company/maxgruppen,lyngby,maxgruppen,central jutland,1-10,maxgruppen.dk
+denmark,2009,broadway-plankegulv-aps,building materials,linkedin.com/company/broadway-plankegulv-aps,blommenslyst,broadway plankegulv aps,south denmark,1-10,broadwaygulv.dk
+denmark,2011,officielle,apparel & fashion,linkedin.com/company/officielle,charlottenlund,officielle,capital region,1-10,officielle.ca
+denmark,1985,masterdanmark,human resources,linkedin.com/company/masterdanmark,copenhagen,master danmark a/s,capital region,11-50,master.dk
+denmark,2012,fja-consult,industrial automation,linkedin.com/company/fja-consult,hinnerup,fja consult,central jutland,1-10,fjaconsult.dk
+denmark,"",gartnerhallen-aabenraa-a-s,accounting,linkedin.com/company/gartnerhallen-aabenraa-a-s,vejle,gartnerhallen aabenraa a/s,syddanmark,1-10,""
+denmark,"",gekko,marketing and advertising,linkedin.com/company/gekko,"",gekko,"",1-10,""
+denmark,2004,toyjoy,retail,linkedin.com/company/toyjoy,esbjerg,toyjoy danmark a/s,syddanmark,11-50,toyjoy.dk
+denmark,1999,bodymindcompany,"health, wellness and fitness",linkedin.com/company/bodymindcompany,fredensborg,bodymindcompany,capital region,1-10,bodymindcompany.dk
+denmark,2004,kontutto,management consulting,linkedin.com/company/kontutto,arhus,kontutto,midtjylland,1-10,kontutto.com
+denmark,1969,fyns-undervognscenter-aps,automotive,linkedin.com/company/fyns-undervognscenter-aps,odense,fyns undervognscenter aps,syddanmark,1-10,fyunce.dk
+denmark,2018,adamatics,information technology and services,linkedin.com/company/adamatics,copenhagen,adamatics aps,capital region,1-10,adamatics.com
+denmark,2008,surfstore-dk,retail,linkedin.com/company/surfstore-dk,kastrup,surfstore.dk,capital region,1-10,surfstore.dk
+denmark,"",jensen-as,machinery,linkedin.com/company/jensen-as,kastrup,jensen as,capital region,1-10,jensen.as
+denmark,"",i.k.engineering,mechanical or industrial engineering,linkedin.com/company/i.k.engineering,"",i.k.engineering,"",1-10,ik-e.dk
+denmark,2014,skandiacloud,computer & network security,linkedin.com/company/skandiacloud,herlev,skandiacloud,capital region,1-10,skandiacloud.com
+denmark,"",steenberg-architects,architecture & planning,linkedin.com/company/steenberg-architects,gentofte,steenberg architects,hovedstaden,1-10,steenbergarchitects.dk
+denmark,2015,annebillingdk,marketing and advertising,linkedin.com/company/annebillingdk,copenhagen,annebilling.dk | we are social,capital region,1-10,annebilling.dk
+denmark,2005,props-&-pearls,"health, wellness and fitness",linkedin.com/company/props-&-pearls,"",props & pearls,"",1-10,propsandperls.com
+denmark,2003,sand-spedition-a-s,transportation/trucking/railroad,linkedin.com/company/sand-spedition-a-s,herning,sand spedition a/s,central jutland,1-10,sandspedition.dk
+denmark,"",ergaconsult,information technology and services,linkedin.com/company/ergaconsult,"",ergaconsult,"",1-10,ergaconsult.com
+denmark,2015,brandknight,marketing and advertising,linkedin.com/company/brandknight,copenhagen,brandknight,capital region,11-50,""
+denmark,"",epc-technology-a-s,medical devices,linkedin.com/company/epc-technology-a-s,horsens,epc technology a/s,midtjylland,1-10,info@epct.dk
+denmark,2015,esthetic,fine art,linkedin.com/company/esthetic,"",esthetic,"",1-10,esthetic-art.dk
+denmark,2013,minplan,mental health care,linkedin.com/company/minplan,"",minplan,capital region,1-10,minplan.org
+denmark,2017,kliniksupport,"health, wellness and fitness",linkedin.com/company/kliniksupport,"",kliniksupport,capital region,1-10,kliniksupport.dk
+denmark,"",tømrermester,"",linkedin.com/company/tømrermester,"",tømrermester,"",51-200,toemrermester-ses.dk
+denmark,"",scanunderlay,building materials,linkedin.com/company/scanunderlay,galten,scan underlay,midtjylland,1-10,scanunderlay.com
+denmark,2015,danielsen-urban-landscape,architecture & planning,linkedin.com/company/danielsen-urban-landscape,"",danielsen urban landscape,"",1-10,danielsenland.com
+denmark,"",5th--floor,accounting,linkedin.com/company/5th--floor,"",5th- floor,"",1-10,fifthfloor.dk
+denmark,2014,go'​-karakter,education management,linkedin.com/company/go'​-karakter,"",go' karakter aps,"",51-200,gokarakter.dk
+denmark,1955,transport-teknik-a-s,automotive,linkedin.com/company/transport-teknik-a-s,kolding,transport-teknik a/s,syddanmark,51-200,transport-teknik.dk
+denmark,2012,zetmind,human resources,linkedin.com/company/zetmind,fredensborg,zetmind,capital region,1-10,zetmind.dk
+denmark,"",webdrive.dk,information technology and services,linkedin.com/company/webdrive.dk,"",webdrive.dk,"",1-10,grn.dk
+denmark,2012,skytte-installation-aps,electrical/electronic manufacturing,linkedin.com/company/skytte-installation-aps,"",skytte installation aps,"",1-10,skytteinstallation.dk
+denmark,2017,mattssonnielsen,food production,linkedin.com/company/mattssonnielsen,"",mattssonnielsen,capital region,1-10,mattssonnielsen.dk
+denmark,2008,university-college-sj-lland,higher education,linkedin.com/company/university-college-sj-lland,soro,university college sjælland (ucsj),sjelland,501-1000,ucsj.dk
+denmark,"",skandia-dk,insurance,linkedin.com/company/skandia-dk,"",skandia danmark,capital region,201-500,skandia.dk
+denmark,2005,kremer-online,information technology and services,linkedin.com/company/kremer-online,copenhagen,kremer online,capital region,1-10,kremer.dk
+denmark,2018,scholzand,marketing and advertising,linkedin.com/company/scholzand,copenhagen,scholz & associates,capital region,1-10,scholzand.com
+denmark,2015,jobposter,staffing and recruiting,linkedin.com/company/jobposter,"",jobposter.,"",1-10,jobposter.dk
+denmark,2013,fabricius-marketing,marketing and advertising,linkedin.com/company/fabricius-marketing,"",fabricius marketing,"",1-10,fabriciusmarketing.dk
+denmark,2011,km-telecom-danmark-a-s,telecommunications,linkedin.com/company/km-telecom-danmark-a-s,fredericia,km telecom danmark a/s,syddanmark,11-50,km-telecom.com
+denmark,"",designtalk,information technology and services,linkedin.com/company/designtalk,copenhagen,design talk,capital region,1-10,designtalk.dk
+denmark,2011,format-agency,marketing and advertising,linkedin.com/company/format-agency,"",format agency,"",11-50,format-agency.com
+denmark,"",art-concept-ca,"",linkedin.com/company/art-concept-ca,"",art concept,capital region,1-10,""
+denmark,2006,e-learning-b-visible,e-learning,linkedin.com/company/e-learning-b-visible,"",e-learning b-visible,"",1-10,b-visible.dk
+denmark,"",nature-team,"",linkedin.com/company/nature-team,"",nature team,"",11-50,natureteam.dk
+denmark,1965,henning-have-a-s,building materials,linkedin.com/company/henning-have-a-s,vejen,henning have a/s,south denmark,51-200,hhave.dk
+denmark,2001,opus-neo,information services,linkedin.com/company/opus-neo,"",opus neo,"",1-10,opusneo.com
+denmark,"",smagen-af-fyn,food production,linkedin.com/company/smagen-af-fyn,odense,smagen af fyn,south denmark,11-50,smagenaffyn.dk
+denmark,2016,wineguys,food & beverages,linkedin.com/company/wineguys,frederiksberg,wine guys co.,capital region,1-10,wineguys.dk
+denmark,"",ustrat,management consulting,linkedin.com/company/ustrat,copenhagen,ustrat,capital region,1-10,u-strat.com
+denmark,2017,walk-by-coach,professional training & coaching,linkedin.com/company/walk-by-coach,allerod,walk by coach,hovedstaden,1-10,walkbycoach.dk
+denmark,2011,detur-denmark,"leisure, travel & tourism",linkedin.com/company/detur-denmark,"",detur denmark,"",1-10,detur.dk
+denmark,"",adserving-danmark-as,graphic design,linkedin.com/company/adserving-danmark-as,"",adserving danmark a/s,"",11-50,""
+denmark,2015,din-mægler,real estate,linkedin.com/company/din-mægler,aalborg,din mægler,nordjylland,1-10,dmbolig.dk
+denmark,2016,govarde-dk,media production,linkedin.com/company/govarde-dk,varde,govarde.dk,south denmark,1-10,govarde.dk
+denmark,2011,we-kvindeligt-ledernetværk,management consulting,linkedin.com/company/we-kvindeligt-ledernetværk,valby,we kvindeligt ledernetværk,hovedstaden,11-50,we-network.com
+denmark,"",playground_2,marketing and advertising,linkedin.com/company/playground_2,copenhagen,playground,capital region,1-10,""
+denmark,2018,servicepos,information technology and services,linkedin.com/company/servicepos,odense,servicepos,syddanmark,1-10,servicepos.com
+denmark,1984,dansk-stålinstitut,civil engineering,linkedin.com/company/dansk-stålinstitut,allerod,dansk stålinstitut - danish steel institute,hovedstaden,1-10,steelinfo.dk
+denmark,2011,nordstrøm,internet,linkedin.com/company/nordstrøm,"",nordstrøm,"",1-10,nordstroem.me
+denmark,"",zonning-multimedia,telecommunications,linkedin.com/company/zonning-multimedia,hinnerup,zonning multimedia,midtjylland,11-50,zonning.com
+denmark,2010,sf-management,investment management,linkedin.com/company/sf-management,copenhagen,sf management aps,capital region,11-50,sf-management.dk
+denmark,1904,skovdyrkerne,paper & forest products,linkedin.com/company/skovdyrkerne,"",skovdyrkerne,"",51-200,skovdyrkerne.dk
+denmark,2017,complyon-1,computer software,linkedin.com/company/complyon-1,copenhagen,complyon,capital region,11-50,complyon.com
+denmark,1987,palby-marine-a-s,business supplies and equipment,linkedin.com/company/palby-marine-a-s,kolding,palby marine a/s,syddanmark,11-50,palby.dk
+denmark,2014,psycholoog-in-denemarken,mental health care,linkedin.com/company/psycholoog-in-denemarken,birkerod,psycholoog in denemarken,hovedstaden,1-10,psycholoogin.dk
+denmark,2016,bureau-kraken-ivs,marketing and advertising,linkedin.com/company/bureau-kraken-ivs,odense,bureau kraken,syddanmark,11-50,bureaukraken.dk
+denmark,2008,gamerslounge,online media,linkedin.com/company/gamerslounge,niva,gamerslounge,hovedstaden,1-10,gamerslounge.dk
+denmark,2014,smilfonden,philanthropy,linkedin.com/company/smilfonden,kongens lyngby,smilfonden,hovedstaden,1-10,smilfonden.dk
+denmark,2005,pharma-consult---e-logger,pharmaceuticals,linkedin.com/company/pharma-consult---e-logger,slangerup,pharma consult,capital region,1-10,pharma-consult.dk
+denmark,1969,lo-skolen,hospitality,linkedin.com/company/lo-skolen,"",lo-skolen,"",11-50,loskolen.dk
+denmark,"",hasen-kommunikation,online media,linkedin.com/company/hasen-kommunikation,frederiksberg,hasen kommunikation,capital region,1-10,hasen.dk
+denmark,"",maros,marketing and advertising,linkedin.com/company/maros,"",maros,"",1-10,maros.dk
+denmark,2012,danland,events services,linkedin.com/company/danland,"",danland kursus- og mødesteder,"",201-500,danlandkursus.dk
+denmark,2015,outcome-denmark,marketing and advertising,linkedin.com/company/outcome-denmark,"",outcome sales and marketing,"",1-10,outcome.dk
+denmark,2014,north-business-house,international trade and development,linkedin.com/company/north-business-house,copenhagen,adito aps - north business house,capital region,1-10,northbusinesshouse.com
+denmark,1746,kokkedal-slot-kokkedal-castle,hospitality,linkedin.com/company/kokkedal-slot-kokkedal-castle,"",kokkedal castle copenhagen,"",51-200,""
+denmark,2012,cykelpuls,publishing,linkedin.com/company/cykelpuls,"",cykelpuls,"",1-10,cykelpuls.dk
+denmark,1986,sorotodk,machinery,linkedin.com/company/sorotodk,glostrup,soroto,hovedstaden,11-50,soroto.com
+denmark,1999,freltec-aps,management consulting,linkedin.com/company/freltec-aps,"",freltec aps,"",1-10,freltec.dk
+denmark,"",ucrs-uddannelses-center,primary/secondary education,linkedin.com/company/ucrs-uddannelses-center,skjern,ucrs (tidligere uddannelsescenter ringkøbing skjern),midtjylland,201-500,ucrs.dk
+denmark,1988,picca-automation-as,industrial automation,linkedin.com/company/picca-automation-as,silkeborg,picca automation,central jutland,51-200,picca.dk
+denmark,2015,asentodigital,marketing and advertising,linkedin.com/company/asentodigital,kolding,seo-service.dk,south denmark,11-50,seo-service.dk
+denmark,"",l&h-r-rbyg-a-s,mechanical or industrial engineering,linkedin.com/company/l&h-r-rbyg-a-s,hvidovre,l&h-rørbyg a/s,capital region,1001-5000,""
+denmark,2013,halfspace,computer software,linkedin.com/company/halfspace,copenhagen,rha software group | real-time high availability software group,capital region,11-50,rhasoftware.com
+denmark,2006,kastell-holding,investment management,linkedin.com/company/kastell-holding,silkeborg,kastell holding,central jutland,1-10,kastell.dk
+denmark,2014,mikkel-ulstrup-invest,investment banking,linkedin.com/company/mikkel-ulstrup-invest,"",mikkel ulstrup invest,capital region,1-10,mikkelulstrup.com
+denmark,2016,copenx,internet,linkedin.com/company/copenx,copenhagen,copenx,capital region,11-50,copenx.com
+denmark,1991,dairy-food-denmark,dairy,linkedin.com/company/dairy-food-denmark,skanderborg,dairy food denmark,midtjylland,1-10,dairyfood.dk
+denmark,2010,tecnordic-aps,mechanical or industrial engineering,linkedin.com/company/tecnordic-aps,herlufmagle,tecnordic aps,zealand,1-10,tecnordic.dk
+denmark,2016,eybox,management consulting,linkedin.com/company/eybox,copenhagen,eybox,capital region,10001+,ey-box.com
+denmark,2012,dynniq-danmark,electrical/electronic manufacturing,linkedin.com/company/dynniq-danmark,rodovre,dynniq danmark,hovedstaden,11-50,dynniq.dk
+denmark,1949,hans-reitzels-forlag,publishing,linkedin.com/company/hans-reitzels-forlag,copenhagen,hans reitzels forlag,capital region,201-500,hansreitzel.dk
+denmark,"",dansk-fugtteknik,"",linkedin.com/company/dansk-fugtteknik,"",dansk fugtteknik,"",1-10,danskfugtteknik.dk
+denmark,2016,fandenivoldsk-forandring,management consulting,linkedin.com/company/fandenivoldsk-forandring,"",fandenivoldsk forandring,"",1-10,fandenivoldsk.nu
+denmark,2015,vaca,restaurants,linkedin.com/company/vaca,aarhus,vaca,central jutland,11-50,vaca.dk
+denmark,2017,claus-burfelt-ivs,construction,linkedin.com/company/claus-burfelt-ivs,vanlose,claus burfelt ivs,capital region,1-10,clausburfelt.dk
+denmark,"",mark-anthony-aps,education management,linkedin.com/company/mark-anthony-aps,frederiksberg,markanthony.dk,capital region,1-10,markanthony.dk
+denmark,1999,quantum-cph-a-s,information technology and services,linkedin.com/company/quantum-cph-a-s,"",quantum cph a/s,"",11-50,""
+denmark,"",around-group-aps,marketing and advertising,linkedin.com/company/around-group-aps,"",around group aps,"",1-10,aroundgroup.dk
+denmark,2014,software-syd-ivs,computer software,linkedin.com/company/software-syd-ivs,sønderborg,software syd ivs,south denmark,1-10,softwaresyd.dk
+denmark,2003,ammongas,environmental services,linkedin.com/company/ammongas,glostrup,ammongas a/s,capital region,11-50,ammongas.dk
+denmark,"",acubalance,"",linkedin.com/company/acubalance,"",acubalance,"",11-50,acubalance.dk
+denmark,1930,moe,civil engineering,linkedin.com/company/moe,soborg,moe a/s,hovedstaden,501-1000,moe.dk
+denmark,2014,uqgroup,information technology and services,linkedin.com/company/uqgroup,esbjerg,uq group,south denmark,1-10,""
+denmark,1978,bangladesh-nationalist-party,political organization,linkedin.com/company/bangladesh-nationalist-party,"",bangladesh nationalist party,"",1-10,amrabnp.com
+denmark,2012,malthesminde-bo--og-uddannelsesstøtte,education management,linkedin.com/company/malthesminde-bo--og-uddannelsesstøtte,vipperod,malthesminde bo- og uddannelsesstøtte,zealand,1-10,malthesminde.dk
+denmark,"",tele-danmark,telecommunications,linkedin.com/company/tele-danmark,"",tele danmark,"",10001+,""
+denmark,2008,cbs-prme,education management,linkedin.com/company/cbs-prme,frederiksberg,cbs prme,hovedstaden,11-50,""
+denmark,"",danmarks-ishockey-union,sports,linkedin.com/company/danmarks-ishockey-union,brondbyvester,danmarks ishockey union,hovedstaden,11-50,ishockey.dk
+denmark,"",marginalaps,marketing and advertising,linkedin.com/company/marginalaps,horsens,marginal,midtjylland,1-10,marginal.dk
+denmark,2010,humade.com,information technology and services,linkedin.com/company/humade.com,copenhagen,humade a/s,capital region,11-50,humade.com
+denmark,2002,cadovius,apparel & fashion,linkedin.com/company/cadovius,herning,cadovius,midtjylland,11-50,cadoviusshop.dk
+denmark,1993,oakhill.dk,information technology and services,linkedin.com/company/oakhill.dk,"",oakhill aps,"",1-10,oakhill.dk
+denmark,2010,olufsen,management consulting,linkedin.com/company/olufsen,struer,olufsen,midtjylland,1-10,""
+denmark,2010,ifversen.net,food & beverages,linkedin.com/company/ifversen.net,"",ifversen.net,"",1-10,ifversen.net
+denmark,2007,gnf-dk,information technology and services,linkedin.com/company/gnf-dk,frederiksberg,gnf.dk,capital region,1-10,gnf.dk
+denmark,2014,grit42,computer software,linkedin.com/company/grit42,copenhagen,grit42,capital region,1-10,grit42.com
+denmark,"",nyborg-kommune,civic & social organization,linkedin.com/company/nyborg-kommune,nyborg,nyborg kommune,south denmark,1001-5000,nyborg.dk
+denmark,"",konus-group,information technology and services,linkedin.com/company/konus-group,"",konus group,"",1-10,konus.dk
+denmark,1948,blikas-aalborg-a-s,construction,linkedin.com/company/blikas-aalborg-a-s,aalborg,blikas aalborg a/s,nordjylland,11-50,blikas.dk
+denmark,"",overbycoaching,mental health care,linkedin.com/company/overbycoaching,copenhagen,overby coaching,capital region,1-10,overbycoaching.dk
+denmark,"",infraconsult,computer software,linkedin.com/company/infraconsult,fredericia,infraconsult,syddanmark,1-10,infraconsult.dk
+denmark,2009,3kværktøjas,wholesale,linkedin.com/company/3kværktøjas,horsens,3k værktøj a/s,central jutland,11-50,""
+denmark,2012,flypenge,legal services,linkedin.com/company/flypenge,"",flypenge,"",51-200,flypenge.dk

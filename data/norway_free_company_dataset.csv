@@ -1,0 +1,486 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+norway,1917,uka,entertainment,linkedin.com/company/uka,trondheim,uka,sor-trondelag,1001-5000,uka.no
+norway,"",krødsherad-kommune-sektor-for-helse-og-omsorg,government administration,linkedin.com/company/krødsherad-kommune-sektor-for-helse-og-omsorg,noresund,krødsherad kommune sektor for helse og omsorg,buskerud,11-50,""
+norway,"",juridisk-studentutvalg-tromsø,education management,linkedin.com/company/juridisk-studentutvalg-tromsø,tromsø,juridisk studentutvalg tromsø,troms,1-10,jsutromso.org
+norway,2012,spinchip-diagnostics-as,medical devices,linkedin.com/company/spinchip-diagnostics-as,"",spinchip diagnostics as,oslo,11-50,spinchip.no
+norway,"",danish-khan,"",linkedin.com/company/danish-khan,oslo,danish khan,oslo,11-50,""
+norway,"",matpartner-as,motion pictures and film,linkedin.com/company/matpartner-as,melhus,matpartner as,sor-trondelag,11-50,matpartner1.no
+norway,"",fredrikstad-næringsforening,"",linkedin.com/company/fredrikstad-næringsforening,fredrikstad,fredrikstad næringsforening,ostfold,11-50,fredrikstad-nf.no
+norway,1957,arbor-as,building materials,linkedin.com/company/arbor-as,"",arbor as,nordland,51-200,arbor.no
+norway,"",brønnøy-havn-kf,transportation/trucking/railroad,linkedin.com/company/brønnøy-havn-kf,bronnoysund,brønnøy havn kf,nordland,11-50,""
+norway,1950,det-norske-solistkor,music,linkedin.com/company/det-norske-solistkor,oslo,det norske solistkor (the norwegian soloists´ choir),oslo,11-50,solistkoret.no
+norway,"",itmo,human resources,linkedin.com/company/itmo,vigrestad,itmo,rogaland,11-50,itmo.biz
+norway,1914,time-recorder-co-as,computer software,linkedin.com/company/time-recorder-co-as,fornebu,time recorder co as,akershus,11-50,astrow.no
+norway,2011,edatek-as,electrical/electronic manufacturing,linkedin.com/company/edatek-as,trondheim,edatek as,sor-trondelag,1-10,""
+norway,"",ålesund-symfoniorkester,performing arts,linkedin.com/company/ålesund-symfoniorkester,"",ålesund symfoniorkester,more og romsdal,1-10,""
+norway,2007,skalar-as,internet,linkedin.com/company/skalar-as,oslo,skalar as,oslo,11-50,skalar.no
+norway,2014,leypoldt-tv-&-film-music-thomas-marthinsen,motion pictures and film,linkedin.com/company/leypoldt-tv-&-film-music-thomas-marthinsen,oslo,leypoldt tv & film music thomas marthinsen,oslo,1-10,thomasleypoldt.com
+norway,"",gaular-kommune-skule-og-kultur,government administration,linkedin.com/company/gaular-kommune-skule-og-kultur,"",gaular kommune skule og kultur,sogn og fjordane,51-200,""
+norway,1989,movariks,government administration,linkedin.com/company/movariks,moss,movar iks,ostfold,51-200,movar.no
+norway,1984,sapeg-as,maritime,linkedin.com/company/sapeg-as,tiller,sapeg as,sor-trondelag fylke,11-50,sapeg.no
+norway,2010,saillogic-as,events services,linkedin.com/company/saillogic-as,"",saillogic,akershus,1-10,saillogic.no
+norway,1997,målrettet-kompetanse-as,education management,linkedin.com/company/målrettet-kompetanse-as,oslo,målrettet kompetanse as,oslo,1-10,mkompetanse.no
+norway,2015,adlevo-as,information services,linkedin.com/company/adlevo-as,tromso,adlevo as,troms,1-10,adlevo.no
+norway,2008,bqk-productions,animation,linkedin.com/company/bqk-productions,oslo,bqk productions,oslo,1-10,bqkprod.com
+norway,1995,dedicareas,staffing and recruiting,linkedin.com/company/dedicareas,"",dedicare as,oslo,201-500,dedicare.no
+norway,"",viking-pharma,pharmaceuticals,linkedin.com/company/viking-pharma,"",viking pharma,"",1-10,vikingpharma.no
+norway,"",kicks-norge-as,machinery,linkedin.com/company/kicks-norge-as,oslo,kicks norge as,oslo,1-10,kicks.no
+norway,2019,ela-analytics,computer software,linkedin.com/company/ela-analytics,"",ela analytics as,oslo,1-10,ela-analytics.com
+norway,2012,kigo-kultur-i-gamle-oslo,music,linkedin.com/company/kigo-kultur-i-gamle-oslo,oslo,kigo kultur i gamle oslo,oslo,1-10,kigo.no
+norway,"",majortrans,"",linkedin.com/company/majortrans,"",majortrans,oslo,11-50,""
+norway,1926,storm-elektro-as-oslo-og-akershus,civil engineering,linkedin.com/company/storm-elektro-as-oslo-og-akershus,oslo,"storm elektro as, oslo og akershus",oslo,11-50,stormelektro.no
+norway,1975,elpro-group,electrical/electronic manufacturing,linkedin.com/company/elpro-group,"",elpro group as,sor-trondelag,51-200,elpro.no
+norway,1989,leonberg-reklamebyr-,public relations and communications,linkedin.com/company/leonberg-reklamebyr-,sarpsborg,leonberg reklamebyrå,ostfold,1-10,leonberg.no
+norway,"",health-and-human-rights-info-hhri-,"",linkedin.com/company/health-and-human-rights-info-hhri-,oslo,health and human rights info (hhri),oslo,1-10,""
+norway,"",trygg-bedriftsr-dgivning-as,accounting,linkedin.com/company/trygg-bedriftsr-dgivning-as,"",trygg bedriftsrådgivning as,"",1-10,nettkatalogen.no
+norway,2010,adept-mobile-as,computer software,linkedin.com/company/adept-mobile-as,"",adept mobile as,oslo,1-10,adept.as
+norway,2018,fmly,individual & family services,linkedin.com/company/fmly,vollen,fmly.,akershus,11-50,""
+norway,"",spar-kastellet,"",linkedin.com/company/spar-kastellet,"",spar kastellet,oslo,11-50,""
+norway,2006,bs-undervisning-as,retail,linkedin.com/company/bs-undervisning-as,"",bs undervisning as,oslo,11-50,bsu.no
+norway,2009,markedsheltene-no,publishing,linkedin.com/company/markedsheltene-no,skjeberg,markedsheltene.no,østfold,1-10,markedsheltene.no
+norway,2014,lomundal-bygg-as,civil engineering,linkedin.com/company/lomundal-bygg-as,lysaker,lomundal bygg as,akershus,11-50,lomundalbygg.no
+norway,"",valdres-beauty-and-makup-ringstad-natalie-ringstad-hagajordet,individual & family services,linkedin.com/company/valdres-beauty-and-makup-ringstad-natalie-ringstad-hagajordet,"","valdres beauty and makup, ringstad natalie ringstad hagajordet",oppland,1-10,""
+norway,2017,kitekommunikasjonevent,events services,linkedin.com/company/kitekommunikasjonevent,"",kite kommunikasjon event,oslo,11-50,kitekom.no
+norway,2015,youwell,"health, wellness and fitness",linkedin.com/company/youwell,"",youwell as,hordaland,1-10,youwell.no
+norway,2008,fritzøe-eiendom-as,commercial real estate,linkedin.com/company/fritzøe-eiendom-as,larvik,fritzøe eiendom as,vestfold,11-50,fritzoeeiendom.no
+norway,1988,ringstad-transport-as,transportation/trucking/railroad,linkedin.com/company/ringstad-transport-as,moss,ringstad transport as,ostfold,11-50,ringstadtransport.no
+norway,"",bolia,retail,linkedin.com/company/bolia,stavanger,bolia,rogaland,11-50,""
+norway,2002,perform_2,management consulting,linkedin.com/company/perform_2,"",perform,"",1-10,perform.no
+norway,"",bomlo-hogre,"",linkedin.com/company/bomlo-hogre,"",bømlo høgre,hordaland,1-10,""
+norway,2004,nef-asset-management,financial services,linkedin.com/company/nef-asset-management,oslo,nef kapitalforvaltning as,oslo,1-10,n-ef.no
+norway,2013,m&w-engineering,mechanical or industrial engineering,linkedin.com/company/m&w-engineering,sandefjord,4-matic packaging norway as,vestfold,11-50,""
+norway,"",solid-bemanning-as,human resources,linkedin.com/company/solid-bemanning-as,"",solid bemanning as,"",11-50,solidbemanning.no
+norway,2003,abmas-elektro,electrical/electronic manufacturing,linkedin.com/company/abmas-elektro,oslo,abmas elektro,oslo,11-50,elektrikerne.no
+norway,2004,klaveness-maler-og-byggmesterforretning-as,construction,linkedin.com/company/klaveness-maler-og-byggmesterforretning-as,"",klaveness maler- og byggmesterforretning as,oslo,1-10,klavenessmaler.no
+norway,1996,tibe-t-reklamebyr-,marketing and advertising,linkedin.com/company/tibe-t-reklamebyr-,trondheim,tibe t reklamebyrå,sor-trondelag,1-10,tibe-t.no
+norway,"",arkitektkompaniet-as,architecture & planning,linkedin.com/company/arkitektkompaniet-as,drammen,arkitektkompaniet as,buskerud,11-50,arkitektkompaniet.as
+norway,"",rs-solutions,mechanical or industrial engineering,linkedin.com/company/rs-solutions,stathelle,rs solutions,telemark,1-10,rsolutions.es
+norway,2012,the-customer,marketing and advertising,linkedin.com/company/the-customer,oslo,the customer,oslo,1-10,thecustomer.no
+norway,"",fortøyningsbåtene-dan-røberg,transportation/trucking/railroad,linkedin.com/company/fortøyningsbåtene-dan-røberg,tromso,fortøyningsbåtene dan røberg,troms,1-10,""
+norway,2019,lilleby-frisch-as,management consulting,linkedin.com/company/lilleby-frisch-as,"",lilleby frisch as,oslo,1-10,lillebyfrisch.no
+norway,1988,euro-business-school-as,management consulting,linkedin.com/company/euro-business-school-as,oslo,euro business school as,oslo,51-200,ebs.no
+norway,"",sbf-skatteadvokater,legal services,linkedin.com/company/sbf-skatteadvokater,oslo,sbf skatteadvokater as,oslo,1-10,sbfskatteadvokater.no
+norway,2019,oceanfront-as,maritime,linkedin.com/company/oceanfront-as,kristiansund,oceanfront as,more og romsdal,1-10,oceanfront.no
+norway,"",tekstil-service-ans,"",linkedin.com/company/tekstil-service-ans,stavanger,tekstil service ans,rogaland,11-50,""
+norway,"",berdalen-design-lise-merethe-berdalen-dåstøl,"",linkedin.com/company/berdalen-design-lise-merethe-berdalen-dåstøl,vennesla,berdalen design lise merethe berdalen dåstøl,vest-agder,1-10,""
+norway,"",innherred-interkommunale-legevakt-iks,medical practice,linkedin.com/company/innherred-interkommunale-legevakt-iks,levanger,innherred interkommunale legevakt iks,nord-trøndelag,11-50,""
+norway,"",nor-way-bussekspress,transportation/trucking/railroad,linkedin.com/company/nor-way-bussekspress,"",nor-way bussekspress,"",11-50,nor-way.no
+norway,2004,happy-knitting,arts and crafts,linkedin.com/company/happy-knitting,trondheim,happy knitting,sor-trondelag,1-10,happyknitting.no
+norway,"",protectas-security-as,security and investigations,linkedin.com/company/protectas-security-as,oslo,protectas security as,oslo,11-50,protectas.no
+norway,2010,bipolarforeningennorge,mental health care,linkedin.com/company/bipolarforeningennorge,oslo,bipolarforeningen norge,oslo,1-10,bipolarforeningen.no
+norway,2011,teknopilot,public relations and communications,linkedin.com/company/teknopilot,lillehammer,teknopilot,oppland,1-10,teknopilot.no
+norway,2012,vkst-as,accounting,linkedin.com/company/vkst-as,"",vkst as,hordaland,11-50,vkst.no
+norway,2018,relatoas,information technology and services,linkedin.com/company/relatoas,oslo,relato as,oslo,1-10,relato.no
+norway,"",studio-studentfestivalen-i-oslo,non-profit organization management,linkedin.com/company/studio-studentfestivalen-i-oslo,oslo,studio studentfestivalen i oslo,oslo,1-10,studioweb.no
+norway,"",coca-cola-drikker-as,food & beverages,linkedin.com/company/coca-cola-drikker-as,"",coca-cola drikker as,akershus,1001-5000,photocure.no
+norway,2013,cn-fashion-as,wholesale,linkedin.com/company/cn-fashion-as,fana,cn fashion as,hordaland fylke,1-10,cnfashion.no
+norway,1996,rimo-eiendom,real estate,linkedin.com/company/rimo-eiendom,brumunddal,rimo eiendom,hedmark,1-10,rimo-eiendom.no
+norway,1988,scantrol-as,industrial automation,linkedin.com/company/scantrol-as,bergen,scantrol as,hordaland,11-50,scantrol.no
+norway,"",unik-filtersystem-as,business supplies and equipment,linkedin.com/company/unik-filtersystem-as,"",unik filtersystem as,hordaland,1-10,unikwater.com
+norway,2010,nidsenter,government administration,linkedin.com/company/nidsenter,oslo,nasjonalt id-senter,oslo,11-50,nidsenter.no
+norway,2003,less-as,hospital & health care,linkedin.com/company/less-as,kapp,less as,oppland,1-10,less.no
+norway,"",nardo-fotballklubb,performing arts,linkedin.com/company/nardo-fotballklubb,trondheim,nardo fotballklubb,sor-trondelag,11-50,nardofk.no
+norway,1989,intexskandia,apparel & fashion,linkedin.com/company/intexskandia,sandefjord,intexskandia as,vestfold,1-10,intexskandia.no
+norway,"",pewe-entreprenør-as,construction,linkedin.com/company/pewe-entreprenør-as,porsgrunn,pewe entreprenør as,telemark,1-10,pewe.no
+norway,2014,senseway,management consulting,linkedin.com/company/senseway,"",senseway as,akershus,11-50,senseway.no
+norway,1970,wwf-norway,environmental services,linkedin.com/company/wwf-norway,"",wwf-norway,oslo,11-50,wwf.no
+norway,1915,jo-tankers,maritime,linkedin.com/company/jo-tankers,"",jo tankers,"",501-1000,jotankers.com
+norway,1974,lysaker-thorrud-as,construction,linkedin.com/company/lysaker-thorrud-as,mjondalen,lysaker & thorrud as,buskerud,51-200,lystho.com
+norway,1987,invisible-connections-as,construction,linkedin.com/company/invisible-connections-as,"",invisible connections as,more og romsdal,11-50,invisibleconnections.no
+norway,2000,vinje-industri-as,mechanical or industrial engineering,linkedin.com/company/vinje-industri-as,"",vinje industri as,vest-agder,51-200,vinjeindustri.no
+norway,2006,active-loop-television,media production,linkedin.com/company/active-loop-television,"",active loop television as,oslo,1-10,active-loop.com
+norway,2008,danoform,design,linkedin.com/company/danoform,"",danoform,"",1-10,""
+norway,"",a-konsult,architecture & planning,linkedin.com/company/a-konsult,egersund,a-konsult,rogaland,11-50,""
+norway,1899,dagbladet-finnmarken,media production,linkedin.com/company/dagbladet-finnmarken,vadsø,dagbladet finnmarken,finnmark,11-50,""
+norway,2013,olympia-solutions-a-s,real estate,linkedin.com/company/olympia-solutions-a-s,"",olympia solutions,"",1-10,olympiasolutions.no
+norway,2010,mini-ya,music,linkedin.com/company/mini-ya,oslo,miniøya (barnefestivalen as),oslo,1-10,minioya.no
+norway,2014,nautilus-subsea-as,oil & energy,linkedin.com/company/nautilus-subsea-as,lysaker,nautilus subsea as,akershus,1-10,nautilus-subsea.com
+norway,1939,aclimanorway,sporting goods,linkedin.com/company/aclimanorway,"",aclima,buskerud,51-200,aclima.com
+norway,1997,destination-stryn-&-nordfjord,"leisure, travel & tourism",linkedin.com/company/destination-stryn-&-nordfjord,stryn,destination stryn & nordfjord,sogn og fjordane fylke,1-10,nordfjord.no
+norway,"",fitjar-islands,consumer goods,linkedin.com/company/fitjar-islands,fitjar,fitjar islands,hordaland,1-10,fitjarislands.com
+norway,"",bodo-university-college,higher education,linkedin.com/company/bodo-university-college,"",bodø university college,"",201-500,hibo.no
+norway,"",activate-as,retail,linkedin.com/company/activate-as,frogner,activate as,akershus,1-10,spinalis.as
+norway,2006,prosesshuset-as,information technology and services,linkedin.com/company/prosesshuset-as,"",prosesshuset as,"",1-10,prosesshuset.no
+norway,1994,axdata-as,computer software,linkedin.com/company/axdata-as,sandefjord,axdata as,vestfold,11-50,axdata.com
+norway,2014,searcher-geoservice,oil & energy,linkedin.com/company/searcher-geoservice,trondheim,searcher geoservices,sor-trondelag,11-50,searchergeo.com
+norway,"",c-opportunities,professional training & coaching,linkedin.com/company/c-opportunities,"",c opportunities,"",1-10,copportunities.net
+norway,"",grannar,newspapers,linkedin.com/company/grannar,"",grannar,"",11-50,grannar.no
+norway,"",spendlove,events services,linkedin.com/company/spendlove,sogndal,spendlove,sogn og fjordane,201-500,spendlovegroup.com
+norway,"",homely-as,security and investigations,linkedin.com/company/homely-as,"",homely as,oslo,1-10,homely.no
+norway,2016,arkitekt-andorsen,architecture & planning,linkedin.com/company/arkitekt-andorsen,"",bjørg helene design,oslo,1-10,arkitektandorsen.no
+norway,2004,hydraulikkteknikk-as,mechanical or industrial engineering,linkedin.com/company/hydraulikkteknikk-as,hagan,hydraulikkteknikk as,sor-trondelag,1-10,hydraulikkteknikk.no
+norway,"",lødingen-kommune-oppvekst,government administration,linkedin.com/company/lødingen-kommune-oppvekst,lødingen,lødingen kommune oppvekst,nordland,201-500,""
+norway,2013,markise-eksperten-as,consumer goods,linkedin.com/company/markise-eksperten-as,oslo,markise eksperten as,oslo,1-10,markiseeksperten.no
+norway,2005,espressomobile,events services,linkedin.com/company/espressomobile,"",espresso mobile,oslo,1-10,""
+norway,2005,work-as,design,linkedin.com/company/work-as,"",work as,oslo,1-10,work.no
+norway,1982,norges-rugbyforbund,sports,linkedin.com/company/norges-rugbyforbund,oslo,norges rugbyforbund,oslo,1-10,rugby.no
+norway,2010,targovax-as,biotechnology,linkedin.com/company/targovax-as,"",targovax asa,oslo,11-50,targovax.com
+norway,"",nexans-distribusjon-as,telecommunications,linkedin.com/company/nexans-distribusjon-as,oslo,nexans distribusjon as,oslo,1-10,""
+norway,"",safari-film-mari-lunden-nilsen,motion pictures and film,linkedin.com/company/safari-film-mari-lunden-nilsen,trondheim,safari film mari lunden nilsen,sor-trondelag,1-10,""
+norway,2017,lawbotics-as,information technology and services,linkedin.com/company/lawbotics-as,"",lawbotics,oslo,11-50,lawbotics.io
+norway,1946,bate-boligbyggelag,real estate,linkedin.com/company/bate-boligbyggelag,stavanger,bate boligbyggelag,rogaland,51-200,bate.no
+norway,"",hydramarine,mechanical or industrial engineering,linkedin.com/company/hydramarine,"",hydramarine,"",51-200,""
+norway,1985,bosommarland,"leisure, travel & tourism",linkedin.com/company/bosommarland,bo i telemark,bø sommarland as,telemark,201-500,sommarland.no
+norway,"",nts-bygg,construction,linkedin.com/company/nts-bygg,sandefjord,nts bygg,vestfold,11-50,ntsbygg.no
+norway,1999,muniolms,e-learning,linkedin.com/company/muniolms,horten,munio as,vestfold,11-50,munio.no
+norway,1969,nilu,research,linkedin.com/company/nilu,kjeller,nilu – norwegian institute for air research,akershus,51-200,nilu.no
+norway,"",reyes-consulting,"",linkedin.com/company/reyes-consulting,eidsvoll,reyes consulting,akershus,11-50,""
+norway,2018,centre-for-experiential-legal-learning,education management,linkedin.com/company/centre-for-experiential-legal-learning,"",cell: centre for experiential legal learning,oslo,51-200,""
+norway,"",finero,accounting,linkedin.com/company/finero,stavanger,finero,rogaland,11-50,finero.no
+norway,2001,ark-bokhandel,retail,linkedin.com/company/ark-bokhandel,"",ark bokhandel,"",501-1000,ark.no
+norway,"",arendal-vidg-skole,"",linkedin.com/company/arendal-vidg-skole,"",arendal vidg. skole,"",11-50,arendal.vgs.no
+norway,2015,glimty-as,consumer services,linkedin.com/company/glimty-as,oslo,glimty as,oslo,1-10,glimty.com
+norway,2017,iqglobal,internet,linkedin.com/company/iqglobal,oslo,iq global as,oslo,1-10,iq.global
+norway,"",red-gruppen,marketing and advertising,linkedin.com/company/red-gruppen,oslo,red gruppen,oslo,11-50,redgruppen.no
+norway,2003,matiq-as,information technology and services,linkedin.com/company/matiq-as,trondheim,matiq as,sor-trondelag,51-200,matiq.no
+norway,2019,auris-helse,mental health care,linkedin.com/company/auris-helse,"",auris helse,hordaland,11-50,aurishelse.no
+norway,1993,vastveit-elektronikk-as,oil & energy,linkedin.com/company/vastveit-elektronikk-as,"",vastveit elektronikk (vel) as,"",1-10,vel.no
+norway,1979,broward-healthy-start-coalition-inc.,"health, wellness and fitness",linkedin.com/company/broward-healthy-start-coalition-inc.,gullhaug,"kid, inc.",vestfold,51-200,""
+norway,1966,syncrolift,maritime,linkedin.com/company/syncrolift,drobak,syncrolift®,akershus,11-50,syncrolift.com
+norway,2012,skraastad-consulting,computer software,linkedin.com/company/skraastad-consulting,trondheim,overflow,sor-trondelag,1-10,overflow.no
+norway,1998,stige-senteret-as,wholesale,linkedin.com/company/stige-senteret-as,sarpsborg,stige senteret as,ostfold,11-50,stigesenteret.no
+norway,"",wise-online-services,internet,linkedin.com/company/wise-online-services,"",wise online services,"",1-10,wiseonlineservices.com
+norway,"",gaustacom,"leisure, travel & tourism",linkedin.com/company/gaustacom,rjukan,gausta,telemark,11-50,gausta.com
+norway,2010,incognito-inc,information technology and services,linkedin.com/company/incognito-inc,oslo,incognito inc,oslo,1-10,""
+norway,"",zurhaar-&-rubb-as-eiendomsselskap,marketing and advertising,linkedin.com/company/zurhaar-&-rubb-as-eiendomsselskap,"",zurhaar & rubb as eiendomsselskap,"",11-50,zurhaarrubb.no
+norway,2018,ofh-prosjekt,information technology and services,linkedin.com/company/ofh-prosjekt,oslo,ofh prosjekt,oslo,1-10,ofhprosjekt.com
+norway,1963,norsk-forening-for-fjellsprengningsteknikk,construction,linkedin.com/company/norsk-forening-for-fjellsprengningsteknikk,"",norsk forening for fjellsprengningsteknikk,oslo,1-10,nff.no
+norway,1990,cosima-as,computer software,linkedin.com/company/cosima-as,"",cosima as,buskerud,1-10,cosima.biz
+norway,1946,fritz-hansen-toys,wholesale,linkedin.com/company/fritz-hansen-toys,"",fritz hansen toys,hordaland,11-50,fritzhansen.no
+norway,2015,hoot,computer software,linkedin.com/company/hoot,"",hoot,oslo,1-10,hootapp.no
+norway,2014,anglerpilot,recreational facilities and services,linkedin.com/company/anglerpilot,"",anglerpilot,"",1-10,anglerpilot.no
+norway,2016,somedian,marketing and advertising,linkedin.com/company/somedian,stavanger,somedian,rogaland,1-10,somedian.no
+norway,1989,festus-event,events services,linkedin.com/company/festus-event,vettre,festus-event,akershus,1-10,festus.no
+norway,1930,chr--michelsen-institute-cmi,research,linkedin.com/company/chr--michelsen-institute-cmi,"",chr. michelsen institute cmi,hordaland,51-200,cmi.no
+norway,2017,prora-comunicare,public relations and communications,linkedin.com/company/prora-comunicare,trondheim,prora | comunicare ∙ imagine,sor-trondelag,1-10,prora.ro
+norway,"",krippendorf,internet,linkedin.com/company/krippendorf,"",krippendorf,akershus,1-10,""
+norway,"",sorengas-badstue,"health, wellness and fitness",linkedin.com/company/sorengas-badstue,oslo,sørengas badstue- og helårsbadeanstalt,oslo,1-10,sbha.no
+norway,2003,nvft-as,marketing and advertising,linkedin.com/company/nvft-as,oslo,nvft as,oslo,51-200,""
+norway,2019,lifetimeignition,oil & energy,linkedin.com/company/lifetimeignition,"",lifetime ignition as,hordaland,1-10,lifetimeignition.com
+norway,"",salmon-group-inc.,government relations,linkedin.com/company/salmon-group-inc.,bergen,"salmon group, inc.",hordaland,51-200,salmongroupinc.com
+norway,"",itx-norge-as,computer software,linkedin.com/company/itx-norge-as,stokke,itx norge as,sogn og fjordane,11-50,itxnorge.no
+norway,"",t6-company,marketing and advertising,linkedin.com/company/t6-company,"",t6 company,oslo,11-50,t6.company
+norway,2010,ent3r-bergen,education management,linkedin.com/company/ent3r-bergen,trondheim,ent3r bergen,sor-trondelag,201-500,ent3r.no
+norway,2016,møreogromsdalpolitidistrikt,government administration,linkedin.com/company/møreogromsdalpolitidistrikt,"",møre og romsdal politidistrikt,more og romsdal,501-1000,""
+norway,1995,grønn-industri-as,import and export,linkedin.com/company/grønn-industri-as,åros,grønn industri as,buskerud,1-10,gronn-industri.no
+norway,1943,lhlorg,non-profit organization management,linkedin.com/company/lhlorg,oslo,lhl landsforeningen for hjerte og lungesyke,oslo,501-1000,lhl.no
+norway,2010,norron,investment management,linkedin.com/company/norron,egersund,norron,rogaland,11-50,norron.com
+norway,"",lederkompetanse-as,management consulting,linkedin.com/company/lederkompetanse-as,bergen,lederkompetanse as,hordaland,1-10,lederkompetanse.no
+norway,2008,deep-river-as,renewables & environment,linkedin.com/company/deep-river-as,"",deep river as,akershus,1-10,deepriveras.com
+norway,2010,hubii-as,broadcast media,linkedin.com/company/hubii-as,"",hubii as,hordaland,11-50,hubii.com
+norway,2000,bad-music,music,linkedin.com/company/bad-music,bodø,bad music,nordland,1-10,badmusic.tv
+norway,"",oh-entreprenor,construction,linkedin.com/company/oh-entreprenor,"",øster hus entreprenør,rogaland,11-50,oh-entreprenor.no
+norway,2013,jarbtech-solution-group,program development,linkedin.com/company/jarbtech-solution-group,"",jarbtech solution group as,hordaland,11-50,jarbtechsolution.com
+norway,2017,formidlingsspesialisten,"",linkedin.com/company/formidlingsspesialisten,as,formidlingsspesialisten,akershus,1-10,formidlingsspesialisten.no
+norway,2003,et-invest-as,investment management,linkedin.com/company/et-invest-as,sandefjord,et-invest as,vestfold,1-10,et-invest.no
+norway,2018,lappen-as,program development,linkedin.com/company/lappen-as,"",dribe,oslo,1-10,l-appen.com
+norway,2016,heftye-opplevelser,"leisure, travel & tourism",linkedin.com/company/heftye-opplevelser,hyggen,heftye opplevelser,buskerud,1-10,heftyeopplevelser.no
+norway,2001,fisanti-group-as,sporting goods,linkedin.com/company/fisanti-group-as,asker,fisanti group as,akershus,1-10,fisanti.com
+norway,"",turkish-embassy-commercial-section,government administration,linkedin.com/company/turkish-embassy-commercial-section,oslo,turkish embassy commercial section,oslo,1-10,""
+norway,"",hephzibah,"",linkedin.com/company/hephzibah,oslo,hephzibah,oslo,11-50,""
+norway,"",freshup,retail,linkedin.com/company/freshup,hamar,freshup,hedmark,1-10,""
+norway,2018,newspace-market,information technology and services,linkedin.com/company/newspace-market,hurdal,newspace market,akershus,1-10,newspace.market
+norway,2005,norsar-innovation,oil & energy,linkedin.com/company/norsar-innovation,kjeller,norsar innovation as,akershus,11-50,norsarinnovation.com
+norway,"",visit-nordmøre-&-romsdal-as,museums and institutions,linkedin.com/company/visit-nordmøre-&-romsdal-as,"",visit nordmøre & romsdal as,vest-agder,1-10,visitnorway.no
+norway,2018,fokus-kapital,financial services,linkedin.com/company/fokus-kapital,"",fokus kapitalforvaltning as,more og romsdal,1-10,fokuskapital.no
+norway,1959,biobag-international-as,renewables & environment,linkedin.com/company/biobag-international-as,askim,biobag international as,ostfold,1-10,biobagworld.com
+norway,"",speaklab,professional training & coaching,linkedin.com/company/speaklab,"",speaklab,hordaland,1-10,speaklab.no
+norway,"",white-elements,apparel & fashion,linkedin.com/company/white-elements,"",white elements,"",1-10,white-elements.no
+norway,1995,citare,information technology and services,linkedin.com/company/citare,oslo,citare,oslo,11-50,citare.com
+norway,"",csc-norge-as,computer software,linkedin.com/company/csc-norge-as,sandsli,csc norge as,hordaland,11-50,""
+norway,2017,source-as,information technology and services,linkedin.com/company/source-as,trondheim,source as,sor-trondelag,11-50,source.no
+norway,2000,kommunion-inc.,information technology and services,linkedin.com/company/kommunion-inc.,askim,kommunion inc.,ostfold,11-50,kommunion.com
+norway,2009,hypervisjon-as,media production,linkedin.com/company/hypervisjon-as,steinkjer,hypervisjon as,nord-trøndelag,1-10,hypervisjon.no
+norway,"",skagerak-varme-as,utilities,linkedin.com/company/skagerak-varme-as,porsgrunn,skagerak varme as,telemark,11-50,skagerakvarme.no
+norway,2018,smoodsocial,marketing and advertising,linkedin.com/company/smoodsocial,"",smood social,oslo,1-10,smoodsocial.no
+norway,"",alexand-alexander-andfossen,marketing and advertising,linkedin.com/company/alexand-alexander-andfossen,asker,alexand alexander andfossen,akershus,1-10,""
+norway,"",norsk-energigjenvinning-as,renewables & environment,linkedin.com/company/norsk-energigjenvinning-as,"",norsk energigjenvinning as,"",11-50,neg.no
+norway,2004,kongsberg-electronics-as,electrical/electronic manufacturing,linkedin.com/company/kongsberg-electronics-as,"",kongsberg electronics as,"",11-50,kongsberg-electronics.no
+norway,2017,propartners-as,civil engineering,linkedin.com/company/propartners-as,"",propartners as,oslo,1-10,propartners.as
+norway,1993,forvaltningscompagniet-as,commercial real estate,linkedin.com/company/forvaltningscompagniet-as,oslo,forvaltningscompagniet,oslo,51-200,fcas.no
+norway,"",mucha-fiesta,"",linkedin.com/company/mucha-fiesta,"",mucha fiesta,oslo,1-10,""
+norway,"",carter-production,motion pictures and film,linkedin.com/company/carter-production,"",carter production,hordaland,1-10,""
+norway,1917,itgrafisk,printing,linkedin.com/company/itgrafisk,"",it grafisk as,akershus,11-50,itgrafisk.no
+norway,"",oleda,"health, wellness and fitness",linkedin.com/company/oleda,lillestrøm,oleda,akershus,1-10,oleda.com
+norway,2010,labpartner,biotechnology,linkedin.com/company/labpartner,elverum,labpartner,hedmark,1-10,labpartner.dk
+norway,2020,blidtannhelse,medical practice,linkedin.com/company/blidtannhelse,"",blid tannhelse,oslo,1-10,blid.no
+norway,1997,stover-as,information technology and services,linkedin.com/company/stover-as,"",stover as,"",11-50,stover.no
+norway,2016,skyfer-as,design,linkedin.com/company/skyfer-as,oslo,skyfer as,oslo,1-10,skyfer.no
+norway,"",tryg-elektro-as,construction,linkedin.com/company/tryg-elektro-as,hommelvik,tryg elektro as,sor-trondelag,1-10,trygelektro.no
+norway,2019,varangerkrafthydrogen,renewables & environment,linkedin.com/company/varangerkrafthydrogen,vadso,varanger krafthydrogen as,finnmark,1-10,""
+norway,2013,service-og-samferdsel-opplæringskontor-sa,professional training & coaching,linkedin.com/company/service-og-samferdsel-opplæringskontor-sa,fredrikstad,service og samferdsel opplæringskontor sa,ostfold,1-10,sersam.no
+norway,2013,brightport,information technology and services,linkedin.com/company/brightport,oslo,brightport,oslo,1-10,brightport.com
+norway,"",søndre-elektro,information technology and services,linkedin.com/company/søndre-elektro,"",søndre elektro,"",1-10,sondre-elektro.no
+norway,2010,fallen-leaves-interactive,computer games,linkedin.com/company/fallen-leaves-interactive,gjøvik,fallen leaves interactive,oppland,1-10,fallenleaves.no
+norway,"",ryen-kampsportklubb,performing arts,linkedin.com/company/ryen-kampsportklubb,oslo,ryen kampsportklubb,oslo,1-10,""
+norway,2014,scandinavian-brew-as,import and export,linkedin.com/company/scandinavian-brew-as,"",scandinavian brew as,akershus,1-10,scandinavianbrew.com
+norway,2018,first-seed,investment management,linkedin.com/company/first-seed,hamar,first:seed,hedmark,1-10,sparebankstiftelsenhedmark.no
+norway,2018,leveloffshore,oil & energy,linkedin.com/company/leveloffshore,"",level offshore,rogaland,51-200,leveloffshore.no
+norway,2018,appmanno,computer software,linkedin.com/company/appmanno,stavanger,appman,rogaland,1-10,appman.no
+norway,"",din-sko,retail,linkedin.com/company/din-sko,"",din sko,oslo,51-200,dinsko.no
+norway,2016,thejuiceryno,food & beverages,linkedin.com/company/thejuiceryno,oslo,the juicery,oslo,51-200,thejuciery.no
+norway,"",narviksenteret---nordnorsk-stiftelse-for-historieformidling-menneskerettigheter-og-fredsbygging,museums and institutions,linkedin.com/company/narviksenteret---nordnorsk-stiftelse-for-historieformidling-menneskerettigheter-og-fredsbygging,narvik,narvik war and peace centre,nordland,11-50,narviksenteret.no
+norway,2015,ecit-drammen,accounting,linkedin.com/company/ecit-drammen,drammen,bern accounting as,buskerud,11-50,bernaccounting.no
+norway,"",ks-loran,fishery,linkedin.com/company/ks-loran,ålesund,ks loran,more og romsdal,1-10,""
+norway,2009,oslo-medtech,medical devices,linkedin.com/company/oslo-medtech,"",oslo medtech,"",1-10,oslomedtech.no
+norway,"",arterra-as,oil & energy,linkedin.com/company/arterra-as,"",arterra as,"",1-10,arterra.no
+norway,2013,tysk-for-deg,professional training & coaching,linkedin.com/company/tysk-for-deg,"",tysk for deg - undervisning og språktjenester på tysk,"",1-10,tyskfordeg.no
+norway,"",asker-og-bærum-graveservice-as,machinery,linkedin.com/company/asker-og-bærum-graveservice-as,skui,asker og bærum graveservice as,akershus,1-10,abgrave.no
+norway,2007,kompetansebanken-as,human resources,linkedin.com/company/kompetansebanken-as,"",kompetansebanken as,"",51-200,kompetansebanken.as
+norway,"",ringerike-kommune-tekniske-tjenester,government administration,linkedin.com/company/ringerike-kommune-tekniske-tjenester,"",ringerike kommune tekniske tjenester,buskerud,201-500,""
+norway,"",backe-østfold-as,construction,linkedin.com/company/backe-østfold-as,"",backe østfold as,hordaland,51-200,""
+norway,2012,lyse_fiber_as,utilities,linkedin.com/company/lyse_fiber_as,stavanger,lyse fiber as,rogaland,11-50,""
+norway,"",tilhengernor-as,automotive,linkedin.com/company/tilhengernor-as,"",tilhengernor as,"",1-10,tilhengernor.no
+norway,2016,akerbp,oil & energy,linkedin.com/company/akerbp,lysaker,aker bp asa,akershus,1001-5000,akerbp.com
+norway,"",grotesk-reklamebyrå,marketing and advertising,linkedin.com/company/grotesk-reklamebyrå,tønsberg,grotesk reklamebyrå,vestfold,1-10,grotesk.no
+norway,"",coop-orkla-møre-sa,supermarkets,linkedin.com/company/coop-orkla-møre-sa,"",coop orkla møre sa,sor-trondelag,1001-5000,""
+norway,"",helgeland-museum,museums and institutions,linkedin.com/company/helgeland-museum,"",helgeland museum,"",51-200,helgelandmuseum.no
+norway,2012,utviklingspartner-upas-as,management consulting,linkedin.com/company/utviklingspartner-upas-as,oslo,utviklingspartner upas as,oslo,1-10,utviklings-partner.no
+norway,"",alt-installasjon-as,construction,linkedin.com/company/alt-installasjon-as,vale,alt installasjon as,telemark,51-200,altinstallasjon.no
+norway,"",fiskebilen-havsmat-as,food & beverages,linkedin.com/company/fiskebilen-havsmat-as,fjellhamar,fiskebilen havsmat as,akershus,1-10,havsmat.no
+norway,"",skiens-cykkelfabrik,sporting goods,linkedin.com/company/skiens-cykkelfabrik,skien,skiens cykkelfabrik,telemark,1-10,speedcykkel.com
+norway,"",radio-tønsberg,"",linkedin.com/company/radio-tønsberg,"",radio tønsberg,"",11-50,radiotonsberg.no
+norway,2016,mhtech-as,renewables & environment,linkedin.com/company/mhtech-as,moss,mhtech as,ostfold,1-10,mhtech.no
+norway,2011,oslo-hair-&-beauty-as,"health, wellness and fitness",linkedin.com/company/oslo-hair-&-beauty-as,"",oslo hair & beauty as,oslo,11-50,oslohair.no
+norway,1987,berget-as,defense & space,linkedin.com/company/berget-as,notodden,berget as,telemark,51-200,berget.no
+norway,1997,novicell-norge,information technology and services,linkedin.com/company/novicell-norge,oslo,novicell norge,oslo,201-500,novicell.no
+norway,2011,basic-hotel-bergen,hospitality,linkedin.com/company/basic-hotel-bergen,bergen,basic hotel bergen,hordaland,1-10,basichotels.no
+norway,"",industriporter-as,building materials,linkedin.com/company/industriporter-as,jessheim,industriporter as,akershus,1-10,industriporter.as
+norway,"",harry-pepper,restaurants,linkedin.com/company/harry-pepper,stavanger,harry pepper,rogaland,11-50,harry-pepper.no
+norway,"",oslo-dyreklinikk-da,veterinary,linkedin.com/company/oslo-dyreklinikk-da,oslo,oslo dyreklinikk da,oslo,51-200,oslodyreklinikk.no
+norway,2016,sentralen,individual & family services,linkedin.com/company/sentralen,"",sentralen,oslo,11-50,sentralen.no
+norway,2020,eliremg,management consulting,linkedin.com/company/eliremg,"",elire mg,oslo,1-10,elire.no
+norway,1981,barneombudet,government relations,linkedin.com/company/barneombudet,"",barneombudet,oslo,11-50,barneombudet.no
+norway,2013,utstyrsproffen,retail,linkedin.com/company/utstyrsproffen,trondheim,utstyrsproffen,sor-trondelag,1-10,utstyrsproffen.no
+norway,"",fotograf-vegard-giskehaug,photography,linkedin.com/company/fotograf-vegard-giskehaug,skien,fotograf vegard giskehaug,telemark,1-10,vegardgiskehaug.com
+norway,"",atom-elektro-as,construction,linkedin.com/company/atom-elektro-as,"",atom elektro as,oslo,11-50,atomelektro.no
+norway,2016,ellingsen-systems-as,oil & energy,linkedin.com/company/ellingsen-systems-as,"",ellingsen systems as,rogaland,11-50,ellingsensystems.no
+norway,"",worldpower-energy,renewables & environment,linkedin.com/company/worldpower-energy,larvik,worldpower energy,vestfold,1-10,worldpower-energy.co.uk
+norway,1990,gyproc-norge,building materials,linkedin.com/company/gyproc-norge,"",gyproc norge,ostfold,51-200,gyproc.no
+norway,"",verran-kommune,government administration,linkedin.com/company/verran-kommune,malm,verran kommune,nord-trondelag,201-500,verran.kommune.no
+norway,"",sauar-friskole,"",linkedin.com/company/sauar-friskole,"",sauar friskole,"",1-10,sauarfriskole.no
+norway,1997,ikt-orkidé,government administration,linkedin.com/company/ikt-orkidé,kristiansund,ikt orkidé,more og romsdal,11-50,orkideportalen.no
+norway,2003,hemit,information technology and services,linkedin.com/company/hemit,"",helse midt-norge it,"",201-500,hemit.no
+norway,"",solbakken-barnehage,hospital & health care,linkedin.com/company/solbakken-barnehage,spydeberg,solbakken barnehage,ostfold,11-50,""
+norway,2011,lyse_link_as,information technology and services,linkedin.com/company/lyse_link_as,stavanger,lyse link as,rogaland,1-10,""
+norway,2010,ambar-consulting,management consulting,linkedin.com/company/ambar-consulting,"",ambar consulting,"",1-10,ambarconsulting.co.uk
+norway,2016,living-healthier-ideas,"health, wellness and fitness",linkedin.com/company/living-healthier-ideas,stavanger,living healthier ideas,rogaland,1-10,livinghealthierideas.com
+norway,"",itea,information technology and services,linkedin.com/company/itea,trondheim,itea,sor-trondelag,1001-5000,""
+norway,"",hioa,libraries,linkedin.com/company/hioa,"",hioa,oslo,201-500,""
+norway,"",olaf-o.-rukke-as,construction,linkedin.com/company/olaf-o.-rukke-as,nesbyen,olaf o. rukke as,buskerud,1-10,rukke.no
+norway,2018,nfrontventures,venture capital & private equity,linkedin.com/company/nfrontventures,"",nfront ventures,oslo,1-10,nfrontventures.com
+norway,2015,the-bbq-shop-as,retail,linkedin.com/company/the-bbq-shop-as,sandvika,the bbq shop as,akershus,1-10,bbqshop.no
+norway,2018,tekstgarden-forlag,publishing,linkedin.com/company/tekstgarden-forlag,vraliosen,tekstgården forlag as,telemark,1-10,tekstgardenforlag.no
+norway,"",skogseth-multiservice-anna-skogseth-gagnon,"",linkedin.com/company/skogseth-multiservice-anna-skogseth-gagnon,"",skogseth multiservice anna skogseth gagnon,hordaland,1-10,""
+norway,"",sandnes-tomteselskap-kf,construction,linkedin.com/company/sandnes-tomteselskap-kf,"",sandnes tomteselskap kf,rogaland,11-50,sandnes-tomteselskap.no
+norway,1876,fagskolen-i-oslo,higher education,linkedin.com/company/fagskolen-i-oslo,oslo,fagskolen oslo akershus,oslo,51-200,fagskolen.oslo.no
+norway,2010,fast-engineering-ab,construction,linkedin.com/company/fast-engineering-ab,skien,fast engineering ab,telemark,11-50,fasteng.se
+norway,"",digitalsport-as,photography,linkedin.com/company/digitalsport-as,drammen,digitalsport as,buskerud,1-10,""
+norway,"",jacobsen-møbler,wholesale,linkedin.com/company/jacobsen-møbler,egersund,jacobsen møbler,rogaland,1-10,""
+norway,"",haugnes-kompetanse,"",linkedin.com/company/haugnes-kompetanse,"",haugnes kompetanse,"",1-10,haugnes.org
+norway,"",spesialtransport-as,transportation/trucking/railroad,linkedin.com/company/spesialtransport-as,vestby,spesialtransport as,akershus,11-50,spesialtransport.com
+norway,"",guttelus-ans,retail,linkedin.com/company/guttelus-ans,"",guttelus,akershus,1-10,guttelus.no
+norway,2000,psit-software,program development,linkedin.com/company/psit-software,egersund,psit software,rogaland,1-10,prodsys.no
+norway,2009,sandanger-advokatfirma-da,law practice,linkedin.com/company/sandanger-advokatfirma-da,bergen,sandanger advokatfirma da,hordaland,1-10,sandco.no
+norway,2015,elkom-as,electrical/electronic manufacturing,linkedin.com/company/elkom-as,"",elkom as,"",1-10,elkom.as
+norway,"",kallas,"",linkedin.com/company/kallas,bergen,kallas,hordaland,11-50,""
+norway,2004,hillwood-invest-as,investment management,linkedin.com/company/hillwood-invest-as,tertnes,hillwood invest as,hordaland fylke,1-10,""
+norway,"",warren-capital,management consulting,linkedin.com/company/warren-capital,oslo,warren capital,oslo,11-50,""
+norway,2012,idamari,apparel & fashion,linkedin.com/company/idamari,oslo,idamari,oslo,1-10,idamari.com
+norway,"",sanjay-jain,medical practice,linkedin.com/company/sanjay-jain,drammen,sanjay jain,buskerud,11-50,""
+norway,2005,outsmart360,outsourcing/offshoring,linkedin.com/company/outsmart360,oslo,outsmart360,oslo,11-50,outsmart.no
+norway,"",drammen-sv-mmeklubb,retail,linkedin.com/company/drammen-sv-mmeklubb,drammen,drammen svømmeklubb,buskerud,11-50,donnasalazar.com
+norway,"",gudbrandsdal-politidistrikt,law enforcement,linkedin.com/company/gudbrandsdal-politidistrikt,lillehammer,gudbrandsdal politidistrikt,oppland,51-200,""
+norway,2016,argeo-as,civil engineering,linkedin.com/company/argeo-as,asker,argeo as,akershus,11-50,argeo.no
+norway,"",suverent-as,facilities services,linkedin.com/company/suverent-as,stavanger,suverent as,rogaland,1-10,suverent.as
+norway,2020,asker-kommune,government administration,linkedin.com/company/asker-kommune,asker,asker kommune,akershus,5001-10000,asker.kommune.no
+norway,"",bbgym,"health, wellness and fitness",linkedin.com/company/bbgym,bodo,bbgym,nordland,1-10,bbgym.no
+norway,"",norcode-the-norwegian-copyright-development-association,"",linkedin.com/company/norcode-the-norwegian-copyright-development-association,oslo,norcode the norwegian copyright development association,oslo,1-10,norcode.no
+norway,2016,executive-mind,management consulting,linkedin.com/company/executive-mind,"",executive mind,akershus,1-10,executivemind.global
+norway,"",volda-og-ørsta-reinhaldsverk-iks,package/freight delivery,linkedin.com/company/volda-og-ørsta-reinhaldsverk-iks,"",volda og ørsta reinhaldsverk iks,more og romsdal,11-50,""
+norway,"",bjugn-kommune-sentraladministrasjon,government administration,linkedin.com/company/bjugn-kommune-sentraladministrasjon,"",bjugn kommune sentraladministrasjon,sor-trondelag,11-50,""
+norway,"",bergensklinikkene,"",linkedin.com/company/bergensklinikkene,"",bergensklinikkene,"",11-50,bergenclinics.no
+norway,"",det-nasjonale-aldershjem-for-sjømenn-i-stavern,medical practice,linkedin.com/company/det-nasjonale-aldershjem-for-sjømenn-i-stavern,stavern,det nasjonale aldershjem for sjømenn i stavern,vestfold,51-200,""
+norway,2002,fuglefjellet,marketing and advertising,linkedin.com/company/fuglefjellet,"",fuglefjellet,more og romsdal,1-10,fuglefjellet.no
+norway,"",skien-kommunale-pensjonskasse,insurance,linkedin.com/company/skien-kommunale-pensjonskasse,skien,skien kommunale pensjonskasse,telemark,1-10,""
+norway,1924,leth-agencies,maritime,linkedin.com/company/leth-agencies,"",leth agencies,oslo,11-50,lethagencies.com
+norway,1993,blikk-as,media production,linkedin.com/company/blikk-as,"",blikk as,oslo,1-10,blikk.no
+norway,"",leonardo-linjeforening,"",linkedin.com/company/leonardo-linjeforening,trondheim,leonardo linjeforening,sor-trondelag,1-10,""
+norway,2002,halvorsen-tec-as,oil & energy,linkedin.com/company/halvorsen-tec-as,"",halvorsen tec as,rogaland,51-200,halvorsen.no
+norway,"",scryte-entertainment-ronald-mortensen,performing arts,linkedin.com/company/scryte-entertainment-ronald-mortensen,levanger,scryte entertainment ronald mortensen,nord-trøndelag,1-10,""
+norway,"",naturvernforbundet,civic & social organization,linkedin.com/company/naturvernforbundet,stavanger,naturvernforbundet,rogaland,11-50,""
+norway,2014,itraincrm-as,computer software,linkedin.com/company/itraincrm-as,bergen,eziteq as,hordaland,1-10,eziteq.no
+norway,2014,navalis-consulting-as,management consulting,linkedin.com/company/navalis-consulting-as,ålesund,navalis-consulting as,more og romsdal,1-10,navalis-consulting.com
+norway,"",stiftelsen-utstein-pilegrimsgard,civic & social organization,linkedin.com/company/stiftelsen-utstein-pilegrimsgard,"",stiftelsen utstein pilegrimsgard,rogaland,1-10,utsteinpilegrimsgard.no
+norway,"",paracard-as,plastics,linkedin.com/company/paracard-as,"",paracard as,oslo,11-50,paracard.no
+norway,"",accountonit-as,accounting,linkedin.com/company/accountonit-as,"",accountonit as,"",11-50,accountonit.com
+norway,2011,mr-who,graphic design,linkedin.com/company/mr-who,oslo,mr. who,oslo,1-10,mrwho.no
+norway,2014,t-christensen-as,management consulting,linkedin.com/company/t-christensen-as,tønsberg,t christensen as,vestfold,1-10,tchristensen.no
+norway,1989,scuola-d'italiano,education management,linkedin.com/company/scuola-d'italiano,"",scuola d'italiano,oslo,11-50,italia.no
+norway,"",greåker-videregående-skole,"",linkedin.com/company/greåker-videregående-skole,"",greåker videregående skole,"",51-200,greaker.vgs.no
+norway,"",kodabas-as,cosmetics,linkedin.com/company/kodabas-as,"",kodabas as,"",1-10,kodabas.no
+norway,2005,creme-fraiche,apparel & fashion,linkedin.com/company/creme-fraiche,sarpsborg,creme fraiche,ostfold,1-10,cremefraichewear.com
+norway,2006,midtnorsk-filmfond,investment management,linkedin.com/company/midtnorsk-filmfond,lillehammer,filminvest midt-norge as,oppland,1-10,midnorskfilm.no
+norway,2016,hlt-advokatfirma-as,law practice,linkedin.com/company/hlt-advokatfirma-as,"",hlt advokatfirma as,hordaland,1-10,hltlaw.no
+norway,"",philippine-embassy-oslo,government administration,linkedin.com/company/philippine-embassy-oslo,"",philippine embassy oslo,oslo,51-200,""
+norway,2011,chili-mobil-as,telecommunications,linkedin.com/company/chili-mobil-as,"",chili mobil as,hordaland,1-10,""
+norway,2009,johansen-creative-consulting,design,linkedin.com/company/johansen-creative-consulting,as,morning creativity johansen,akershus,1-10,morningcreativity.com
+norway,"",gann-blikk-as,business supplies and equipment,linkedin.com/company/gann-blikk-as,"",gann blikk as,rogaland,1-10,bonzobur.no
+norway,"",rail-x-as,transportation/trucking/railroad,linkedin.com/company/rail-x-as,"",rail-x as,"",11-50,rail-x.no
+norway,2002,minoko-as,mechanical or industrial engineering,linkedin.com/company/minoko-as,"",minoko as,"",1-10,minoko.no
+norway,2014,untoldinsight,marketing and advertising,linkedin.com/company/untoldinsight,oslo,ut: studentbyrå,oslo,1-10,utstudentbyra.no
+norway,2000,start-nmbu,non-profit organization management,linkedin.com/company/start-nmbu,ås,start nmbu,akershus,1-10,""
+norway,"",sortland-kommune,government administration,linkedin.com/company/sortland-kommune,sortland,sortland kommune,nordland,1001-5000,""
+norway,1825,oslo-militære-samfund,defense & space,linkedin.com/company/oslo-militære-samfund,"",oslo militære samfund,oslo,11-50,oslomilsamfund.no
+norway,1997,increo-interactive-creations-as,information technology and services,linkedin.com/company/increo-interactive-creations-as,trondheim,increo interactive creations as,sor-trondelag,11-50,increo.no
+norway,1995,nesbru-trim-&-helse-as,"health, wellness and fitness",linkedin.com/company/nesbru-trim-&-helse-as,nesbru,nesbru trim & helse as,akershus,11-50,""
+norway,"",hs2-norge-as,staffing and recruiting,linkedin.com/company/hs2-norge-as,sarpsborg,hs2 norge as,ostfold,1-10,hs2norge.no
+norway,"",enebakk-avis,publishing,linkedin.com/company/enebakk-avis,"",enebakk avis,akershus,11-50,enebakkavis.no
+norway,2007,network-negotiations-as,real estate,linkedin.com/company/network-negotiations-as,stavanger,network negotiations as,rogaland,1-10,nnas.no
+norway,"",braseth-bil,retail,linkedin.com/company/braseth-bil,"",braseth bil,sor-trondelag,1-10,""
+norway,"",bilglassgruppen-as,automotive,linkedin.com/company/bilglassgruppen-as,skjetten,bilglassgruppen as,akershus,11-50,""
+norway,2016,biltekno-bilgi-teknolojileri,information technology and services,linkedin.com/company/biltekno-bilgi-teknolojileri,oslo,biltekno | bilgi teknolojileri,oslo,1-10,biltekno.com
+norway,2009,simlink-as,telecommunications,linkedin.com/company/simlink-as,"",simlink as,"",1-10,simlink.com
+norway,1964,rissa-kommune,government administration,linkedin.com/company/rissa-kommune,"",rissa kommune,sor-trondelag,501-1000,rissa.kommune.no
+norway,1911,patentstyret,government administration,linkedin.com/company/patentstyret,"",patentstyret,oslo,201-500,patentstyret.no
+norway,2002,rpr-technologies-as,machinery,linkedin.com/company/rpr-technologies-as,skien,rpr technologies as,telemark,1-10,rprtech.com
+norway,"",støwer,architecture & planning,linkedin.com/company/støwer,trondheim,støwer,sor-trondelag,11-50,""
+norway,"",kücükoglu,"",linkedin.com/company/kücükoglu,oslo,kücükoglu,oslo,1-10,""
+norway,2000,lateral-norway,oil & energy,linkedin.com/company/lateral-norway,"",lateral as norway,rogaland,1-10,lateral.no
+norway,2000,shipshave-as,maritime,linkedin.com/company/shipshave-as,stavanger,shipshave as,rogaland,1-10,shipshave.no
+norway,2017,smiltannlegesenter,"health, wellness and fitness",linkedin.com/company/smiltannlegesenter,oslo,smil tannlegesenter,oslo,11-50,smiltannlegesenter.no
+norway,"",kopervik-ship-management-as,"leisure, travel & tourism",linkedin.com/company/kopervik-ship-management-as,kopervik,kopervik ship management as,rogaland,11-50,kopervikshipping.no
+norway,2011,norsoft,information technology and services,linkedin.com/company/norsoft,"",norsoft,"",1-10,norsoft.com.ar
+norway,"",unstad-arctic-surf,hospitality,linkedin.com/company/unstad-arctic-surf,bostad,unstad arctic surf,sor-trondelag,1-10,unstadarcticsurf.com
+norway,2010,tirsdag-morgen,publishing,linkedin.com/company/tirsdag-morgen,"",tirsdag morgen,oslo,1-10,tirsdagmorgen.no
+norway,1986,tibe,marketing and advertising,linkedin.com/company/tibe,molde,tibe,more og romsdal,51-200,tibe.no
+norway,"",inspire-bi-bergen,higher education,linkedin.com/company/inspire-bi-bergen,"",inspire bi bergen,hordaland,11-50,""
+norway,"",mira-ressurssenter-for-innvandrer-og-flyktningkvinner,"",linkedin.com/company/mira-ressurssenter-for-innvandrer-og-flyktningkvinner,oslo,mira ressurssenter for innvandrer og flyktningkvinner,oslo,11-50,""
+norway,1998,eqology,"health, wellness and fitness",linkedin.com/company/eqology,oslo,eqology as,oslo,11-50,eqology.com
+norway,"",columbus-norway,accounting,linkedin.com/company/columbus-norway,oslo,columbus norway,oslo,1-10,""
+norway,1997,christiansen-consulting,management consulting,linkedin.com/company/christiansen-consulting,"",christiansen consulting,"",1-10,christiansen.ee
+norway,2010,østfoldmuseene,museums and institutions,linkedin.com/company/østfoldmuseene,sarpsborg,østfoldmuseene,ostfold,51-200,ostfoldmuseene.no
+norway,1981,aakerholt-steen-&-lund-as,construction,linkedin.com/company/aakerholt-steen-&-lund-as,drammen,lund-gruppen (steen & lund as),buskerud,201-500,steen-lund.no
+norway,2003,wireless-power-&-communication,wireless,linkedin.com/company/wireless-power-&-communication,kristiansand,wireless power & communication,vest-agder,1-10,wpc.no
+norway,"",aurora-tour,"leisure, travel & tourism",linkedin.com/company/aurora-tour,tromso,aurora tour & travels,troms,11-50,auroratour.no
+norway,"",næringsforeningen-i-trondheimsregionen-mid-norway-chamber-of-commerce-and-industry,"",linkedin.com/company/næringsforeningen-i-trondheimsregionen-mid-norway-chamber-of-commerce-and-industry,trondheim,næringsforeningen i trondheimsregionen mid-norway chamber of commerce and industry,sor-trondelag,51-200,""
+norway,"",certego-no,security and investigations,linkedin.com/company/certego-no,"",certego.no,"",11-50,lasgruppen.no
+norway,"",land-trykkeri-ans,printing,linkedin.com/company/land-trykkeri-ans,dokka,land trykkeri ans,oppland,1-10,""
+norway,1999,risco-as,computer software,linkedin.com/company/risco-as,"",risco as,"",1-10,risco.no
+norway,1987,bærum-næringsråd,hospitality,linkedin.com/company/bærum-næringsråd,sandvika,bærum næringsråd,akershus,1-10,bn.no
+norway,"",tromsø-asvo,staffing and recruiting,linkedin.com/company/tromsø-asvo,tromso,tromsø asvo,troms,1-10,tromsoasvo.no
+norway,2018,mosaiqgeo,oil & energy,linkedin.com/company/mosaiqgeo,stavanger,mosaiq as,rogaland,1-10,mosaiqgeo.no
+norway,2014,workplacedevelopers-as,management consulting,linkedin.com/company/workplacedevelopers-as,trondheim,workplacedevelopers as,sor-trondelag,1-10,workplacedevelopers.com
+norway,2008,varde-consulting,management consulting,linkedin.com/company/varde-consulting,"",varde consulting,oslo,11-50,vardeconsulting.no
+norway,1946,grove-knutsen-&-co,construction,linkedin.com/company/grove-knutsen-&-co,skedsmokorset,grove knutsen & co,akershus,11-50,groveknutsen.no
+norway,"",stewart-&-stevenson-ltd,mining & metals,linkedin.com/company/stewart-&-stevenson-ltd,stavanger,stewart & stevenson ltd,rogaland,1-10,""
+norway,2005,waypoint-larvik-as,transportation/trucking/railroad,linkedin.com/company/waypoint-larvik-as,helgeroa,waypoint larvik as,vestfold,11-50,waypointlarvik.no
+norway,"",harald-halvorsen-spedisjon-a-s,"",linkedin.com/company/harald-halvorsen-spedisjon-a-s,"",harald halvorsen spedisjon a/s,"",11-50,halvorsen-spedisjon.no
+norway,"",tvnorge,broadcast media,linkedin.com/company/tvnorge,"",sbd discovery as,"",51-200,tvnorge.no
+norway,2007,teknova,research,linkedin.com/company/teknova,"",teknova,vest-agder,51-200,teknova.no
+norway,"",advokatfirmaet-hesselberg,legal services,linkedin.com/company/advokatfirmaet-hesselberg,larvik,advokatfirmaet hesselberg,vestfold,11-50,advokatfirmaet-hesselberg.no
+norway,"",øst-betongsaging-as,"glass, ceramics & concrete",linkedin.com/company/øst-betongsaging-as,krokstadelva,øst betongsaging as,buskerud,1-10,ost-betongsaging.no
+norway,"",zxy-sport-tracking-as,sports,linkedin.com/company/zxy-sport-tracking-as,trondheim,zxy sport tracking as,sor-trondelag,11-50,zxy.no
+norway,2011,skaperhuset-as,research,linkedin.com/company/skaperhuset-as,nesbru,skaperhuset as,akershus,1-10,skaperhuset.no
+norway,2013,kubik-interiørarkitekter-as,architecture & planning,linkedin.com/company/kubik-interiørarkitekter-as,oslo,kubik interiørarkitekter as,oslo,1-10,kubik.no
+norway,"",reno-vest-bedrift-as,transportation/trucking/railroad,linkedin.com/company/reno-vest-bedrift-as,"",reno-vest bedrift as,"",11-50,reno-vest.no
+norway,"",keskinäinen-vakuutusyhtiö-tapiola,utilities,linkedin.com/company/keskinäinen-vakuutusyhtiö-tapiola,oslo,keskinäinen vakuutusyhtiö tapiola,oslo,1-10,""
+norway,"",john-scott,construction,linkedin.com/company/john-scott,"",john scott,"",1-10,dynamicalview.com
+norway,"",drammens-teater,"",linkedin.com/company/drammens-teater,"",drammens teater,"",1-10,drammensteater.no
+norway,2017,færd,marketing and advertising,linkedin.com/company/færd,tønsberg,færd,vestfold,1-10,fard.no
+norway,2008,momentumarkitekter,architecture & planning,linkedin.com/company/momentumarkitekter,oslo,momentum arkitekter,oslo,11-50,momentumark.no
+norway,2003,telinet-energi,renewables & environment,linkedin.com/company/telinet-energi,lysaker,telinet energi,akershus,11-50,telinet.no
+norway,"",sagene-data-as,information technology and services,linkedin.com/company/sagene-data-as,"",sagene data as,oslo,11-50,sagenedata.no
+norway,2006,deamp-as,building materials,linkedin.com/company/deamp-as,"",deamp as,"",1-10,deamp.com
+norway,2013,unge-pirater,political organization,linkedin.com/company/unge-pirater,kristiansand,unge pirater,vest-agder,1-10,ungepirater.no
+norway,"",xbolig-as,photography,linkedin.com/company/xbolig-as,loddefjord,xbolig as,hordaland,1-10,xbolig.no
+norway,2013,fjellanger-dog-training-academy,professional training & coaching,linkedin.com/company/fjellanger-dog-training-academy,"",fjellanger detection & training academy,hordaland,11-50,""
+norway,1998,protector-ip-consultants-as,legal services,linkedin.com/company/protector-ip-consultants-as,oslo,protector ip consultants as,oslo,11-50,protector.eu
+norway,"",ndh,performing arts,linkedin.com/company/ndh,"",ndh,"",11-50,ndh.no
+norway,2012,trønderenergi-elektro-as,oil & energy,linkedin.com/company/trønderenergi-elektro-as,trondheim,trønderenergi elektro as,sor-trondelag,11-50,""
+norway,"",sørum-elektriske-a-s,law practice,linkedin.com/company/sørum-elektriske-a-s,"",sørum-elektriske a/s,"",11-50,sorum-elektriske.no
+norway,2010,upper-crust,hospitality,linkedin.com/company/upper-crust,gardermoen,upper crust,akershus,1-10,theuppercrust.co.in
+norway,"",aalesundkommune,government administration,linkedin.com/company/aalesundkommune,"",ålesund kommune,more og romsdal,5001-10000,alesund.kommune.no
+norway,2000,kh-designs-inc.,architecture & planning,linkedin.com/company/kh-designs-inc.,oslo,kh designs inc.,oslo,1-10,khdesignsinc.com
+norway,2010,hobbykunst-norge-as,retail,linkedin.com/company/hobbykunst-norge-as,vestby,hobbykunst norge as,akershus,1-10,""
+norway,"",georg-utz-ag,computer software,linkedin.com/company/georg-utz-ag,oslo,georg utz ag,oslo,11-50,""
+norway,2009,promo1-firmagaver,marketing and advertising,linkedin.com/company/promo1-firmagaver,"",promo1 stavanger,rogaland,1-10,promo1.no
+norway,"",harstad-profileringspool,"",linkedin.com/company/harstad-profileringspool,harstad,harstad profileringspool,troms,1-10,pool1.no
+norway,"",salong-wi-to,individual & family services,linkedin.com/company/salong-wi-to,"",salong wi-to,more og romsdal,11-50,""
+norway,"",geitanger-bygg,"",linkedin.com/company/geitanger-bygg,"",geitanger bygg,"",11-50,geitanger-bygg.no
+norway,1985,multitechnic-as,electrical/electronic manufacturing,linkedin.com/company/multitechnic-as,"",multitechnic as,oslo,1-10,multitechnic.no
+norway,"",artvideoexchange,arts and crafts,linkedin.com/company/artvideoexchange,"",artvideoexchange,"",1-10,artvideoexchange.com
+norway,2013,cimple-anyware,information technology and services,linkedin.com/company/cimple-anyware,farsund,cimple anyware,vest-agder,1-10,cimpleanyware.com
+norway,2002,kongsberg-innovasjon,management consulting,linkedin.com/company/kongsberg-innovasjon,kongsberg,kongsberg innovasjon,buskerud,1-10,k-i.no
+norway,2007,café-magenta,food & beverages,linkedin.com/company/café-magenta,"",café magenta,ostfold,11-50,cafemagenta.no
+norway,"",skogstad-hotell,restaurants,linkedin.com/company/skogstad-hotell,hemsedal,skogstad hotell,buskerud,1-10,skogstadhotell.no
+norway,2007,rhea-capital-management-as,financial services,linkedin.com/company/rhea-capital-management-as,"",rhea capital management as,"",1-10,rhea.no
+norway,2018,presset,newspapers,linkedin.com/company/presset,oslo,presset.,oslo,11-50,presset.no
+norway,2008,borg-renhold-as,facilities services,linkedin.com/company/borg-renhold-as,gralum,borg renhold as,østfold,11-50,borgrenhold.no
+norway,"",telemark-røde-kors,hospital & health care,linkedin.com/company/telemark-røde-kors,skien,telemark røde kors,telemark,11-50,""
+norway,"",conocophillips-uk-ltd,"",linkedin.com/company/conocophillips-uk-ltd,stavanger,conocophillips (uk) ltd,rogaland,11-50,""
+norway,1958,villa-skaar,hospital & health care,linkedin.com/company/villa-skaar,sylling,villa skaar,buskerud,201-500,villaskaar.no
+norway,"",schenk-consulting,real estate,linkedin.com/company/schenk-consulting,oslo,schenk consulting,oslo,1-10,""
+norway,1835,sparebank-1-nordvest,banking,linkedin.com/company/sparebank-1-nordvest,kristiansund,sparebank 1 nordvest,more og romsdal,51-200,snv.no
+norway,"",submet-maritime-as,construction,linkedin.com/company/submet-maritime-as,"",submet maritime as,"",11-50,submet.no
+norway,2017,smart-cylinders,industrial automation,linkedin.com/company/smart-cylinders,oslo,smart cylinders,oslo,1-10,smartcylinders.com
+norway,2016,digitelle-as,marketing and advertising,linkedin.com/company/digitelle-as,oslo,digitelle as,oslo,1-10,digitelle.no
+norway,2005,eiendomsprofil,real estate,linkedin.com/company/eiendomsprofil,"",eiendomsprofil as,hordaland,1-10,eiendomsprofil.no
+norway,2008,mb-as,insurance,linkedin.com/company/mb-as,"",marine benefits,hordaland,51-200,marinebenefitsas.com
+norway,"",d&f-group-as,oil & energy,linkedin.com/company/d&f-group-as,"",d&f group as,"",501-1000,""
+norway,2017,mta-group-as,accounting,linkedin.com/company/mta-group-as,"",mta group as,oslo,1-10,mtagroup.no
+norway,1833,sparebank-1-ringerike-hadeland,financial services,linkedin.com/company/sparebank-1-ringerike-hadeland,honefoss,sparebank 1 ringerike hadeland,buskerud,51-200,rhbank.no
+norway,2013,chronos-as,information technology and services,linkedin.com/company/chronos-as,oslo,chronosit,oslo,1-10,chronosit.no
+norway,"",tons-of-rock,recreational facilities and services,linkedin.com/company/tons-of-rock,halden,tons of rock,ostfold,11-50,tonsofrock.no
+norway,1994,sebastian-as,maritime,linkedin.com/company/sebastian-as,ulsteinvik,sebastian as,more og romsdal,1-10,sebastian.no
+norway,1970,scana-skarpenord,industrial automation,linkedin.com/company/scana-skarpenord,rjukan,skarpenord as,telemark,51-200,skarpenord.com
+norway,"",sørum-frivilligsentral,hospital & health care,linkedin.com/company/sørum-frivilligsentral,"",sørum frivilligsentral,"",1-10,""
+norway,2004,folk-as,staffing and recruiting,linkedin.com/company/folk-as,"",folk as / folk varig as,"",51-200,folkas.com
+norway,2012,juho-design,design,linkedin.com/company/juho-design,oslo,juho design,oslo,1-10,juho.co
+norway,"",mobcast-as,information technology and services,linkedin.com/company/mobcast-as,hokksund,mobcast as,buskerud,1-10,mobcast.no
+norway,1924,stiftelsen-elektronikkbransjen,consumer electronics,linkedin.com/company/stiftelsen-elektronikkbransjen,"",stiftelsen elektronikkbransjen,oslo,1-10,elektronikkbransjen.no
+norway,2012,pixelwerk-as,information technology and services,linkedin.com/company/pixelwerk-as,floro,pixelwerk as,sogn og fjordane fylke,1-10,pixelwerk.no
+norway,"",behaviorlab,management consulting,linkedin.com/company/behaviorlab,"",behaviorlab,oslo,1-10,behaviorlab.no
+norway,2016,deskvibe,consumer services,linkedin.com/company/deskvibe,oslo,deskvibe,oslo,1-10,deskvibe.co
+norway,1992,brewery-international-norway-as,import and export,linkedin.com/company/brewery-international-norway-as,"",brewery international norway as,akershus,11-50,brewery.no
+norway,2007,bergenup,public relations and communications,linkedin.com/company/bergenup,"",bergenup,hordaland,1-10,bergenup.no
+norway,2020,havind-as,renewables & environment,linkedin.com/company/havind-as,lysaker,havind as,akershus,11-50,havind.no
+norway,"",caruceleiendom,real estate,linkedin.com/company/caruceleiendom,"",carucel eiendom,oslo,11-50,carucel.no
+norway,"",nibio---norsk-institutt-for-bioøkonomi,veterinary,linkedin.com/company/nibio---norsk-institutt-for-bioøkonomi,"",nibio - norsk institutt for bioøkonomi,akershus,501-1000,""
+norway,2015,siut-ug,building materials,linkedin.com/company/siut-ug,"",siut gmbh,"",1-10,""
+norway,"",forum-for-plan--og-bygningsrett,"",linkedin.com/company/forum-for-plan--og-bygningsrett,oslo,forum for plan- og bygningsrett,oslo,1-10,""
+norway,2007,eyecatch,information technology and services,linkedin.com/company/eyecatch,"",eyecatch,"",1-10,eyecatch.no
+norway,"",stanleys,retail,linkedin.com/company/stanleys,sandnes,stanleys,rogaland,51-200,""
+norway,"",scanaviation-as,airlines/aviation,linkedin.com/company/scanaviation-as,akre,scanaviation as,hordaland,11-50,scanaviation.no
+norway,2015,heimdall-power,electrical/electronic manufacturing,linkedin.com/company/heimdall-power,"",heimdall power,hordaland,1-10,heimdallpower.com
+norway,2010,movr,entertainment,linkedin.com/company/movr,nesbru,movr,akershus,1-10,""
+norway,"",novo-solutions,information technology and services,linkedin.com/company/novo-solutions,lillestrom,novo solutions as,akershus,1-10,novos.no
+norway,2016,safetyguide-as,electrical/electronic manufacturing,linkedin.com/company/safetyguide-as,sofiemyr,safetyguide as,akershus,1-10,safetyguide.no
+norway,2018,accord-industries-as,import and export,linkedin.com/company/accord-industries-as,mjondalen,accord industries as,buskerud,1-10,accordindustries.no
+norway,2007,akofs-offshore,oil & energy,linkedin.com/company/akofs-offshore,"",akofs offshore,oslo,201-500,akofsoffshore.com
+norway,2009,small-shops-development-as,retail,linkedin.com/company/small-shops-development-as,"",small shops development as,"",1-10,smallshops.no
+norway,2009,yachtservices-as,maritime,linkedin.com/company/yachtservices-as,stavanger,yachtservices as,rogaland,1-10,yachtservices.no
+norway,2007,norwegian-control-systems-as,maritime,linkedin.com/company/norwegian-control-systems-as,ålesund,norwegian control systems as,more og romsdal,11-50,norwegiancontrol.com
+norway,2017,kristian-thomassen,marketing and advertising,linkedin.com/company/kristian-thomassen,kristiansand,kristian thomassen,vest-agder,1-10,kristianthomassen.no
+norway,2013,cbh-prosjekt--og-designledelse-as,design,linkedin.com/company/cbh-prosjekt--og-designledelse-as,oslo,cbh prosjekt- og designledelse as,oslo,1-10,designledelse.no
+norway,"",foreningen-for-omplassering-av-dyr-fod,"",linkedin.com/company/foreningen-for-omplassering-av-dyr-fod,oslo,foreningen for omplassering av dyr fod,oslo,11-50,""
+norway,2015,doublethink-as,marketing and advertising,linkedin.com/company/doublethink-as,stavanger,doublethink as,rogaland,1-10,doublethink.no
+norway,2016,deskr,internet,linkedin.com/company/deskr,oslo,deskr,oslo,1-10,deskr.co
+norway,2012,totaleiendom-as,real estate,linkedin.com/company/totaleiendom-as,tromso,totaleiendom as,troms,11-50,totaleiendom.no
+norway,2016,maindeck-as,maritime,linkedin.com/company/maindeck-as,oslo,maindeck,oslo,1-10,maindeck.io
+norway,1987,r8-edge,design,linkedin.com/company/r8-edge,porsgrunn,r8 edge,telemark,11-50,r8edge.no
+norway,2010,eurodent-nord-as,"health, wellness and fitness",linkedin.com/company/eurodent-nord-as,alta,eurodent nord as,finnmark,1-10,""
+norway,1837,kongsvinger-kommune,government administration,linkedin.com/company/kongsvinger-kommune,kongsvinger,kongsvinger kommune,hedmark,1001-5000,kongsvinger.kommune.no
+norway,"",autoin-spotpaint,"",linkedin.com/company/autoin-spotpaint,"",autoin spotpaint,"",1-10,spotpaint.no
+norway,2002,mysen-dataservice,information technology and services,linkedin.com/company/mysen-dataservice,mysen,mysen dataservice,ostfold,1-10,""
+norway,2009,oslo-tribal-bellydance-school,performing arts,linkedin.com/company/oslo-tribal-bellydance-school,oslo,oslo tribal bellydance school,oslo,1-10,otbs.no
+norway,1979,chg-meridian-norway,financial services,linkedin.com/company/chg-meridian-norway,"",chg-meridian norway,oslo,1001-5000,chg-meridian.no
+norway,"",isobarnorge,marketing and advertising,linkedin.com/company/isobarnorge,"",isobar norge,oslo,11-50,isobar.no
+norway,1989,ranso-as,consumer goods,linkedin.com/company/ranso-as,"",ranso as,rogaland,51-200,ranso.no
+norway,2014,portalene-as,marketing and advertising,linkedin.com/company/portalene-as,torp,portalene as,vestfold,1-10,portalene.no
+norway,2008,acta-non-verba-a-s,luxury goods & jewelry,linkedin.com/company/acta-non-verba-a-s,oslo,acta non verba a/s - tesori diamanter,oslo,1-10,tesori.no
+norway,"",tess-vest-as,business supplies and equipment,linkedin.com/company/tess-vest-as,bergen,tess vest as,hordaland,1-10,""
+norway,"",h-&-f-holding,"",linkedin.com/company/h-&-f-holding,sandnes,h & f holding,rogaland,1-10,""
+norway,2009,geomatikk-ikt,information technology and services,linkedin.com/company/geomatikk-ikt,trondheim,geomatikk ikt as,sor-trondelag,51-200,geomatikk-ikt.no
+norway,1878,fana-sparebank,banking,linkedin.com/company/fana-sparebank,"",fana sparebank,hordaland,51-200,fanasparebank.no
+norway,"",promatica-as,computer software,linkedin.com/company/promatica-as,kristiansand,xymphonic systems as,vest-agder,11-50,xymphonic.com

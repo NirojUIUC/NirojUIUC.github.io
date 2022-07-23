@@ -1,0 +1,828 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+sweden,2017,aspen-maskinuthyrning-ab,construction,linkedin.com/company/aspen-maskinuthyrning-ab,goteborg,aspen maskinuthyrning ab,vastra gotaland,1-10,""
+sweden,"",spangenberg-konsultation-ab,management consulting,linkedin.com/company/spangenberg-konsultation-ab,"",spangenberg konsultation ab,stockholm,1-10,spangenberg.se
+sweden,2015,cloud-clarity-ltd,information technology and services,linkedin.com/company/cloud-clarity-ltd,"",cloud clarity ltd,"",1-10,cloud-clarity.co.uk
+sweden,"",advokaterna-drott-trege,law practice,linkedin.com/company/advokaterna-drott-trege,helsingborg,advokaterna drott & trege,skåne,1-10,drottochtrege.se
+sweden,2003,evansmedia,media production,linkedin.com/company/evansmedia,"",evansmedia,stockholm,1-10,evansmedia.se
+sweden,"",glocalnet,telecommunications,linkedin.com/company/glocalnet,"",glocalnet,"",11-50,glocalnet.se
+sweden,2018,salesvoice,telecommunications,linkedin.com/company/salesvoice,varmdo,salesvoice consulting ab,stockholms lan,1-10,salesvoice.se
+sweden,"",gadvise-ab,information technology and services,linkedin.com/company/gadvise-ab,goteborg,gadvise ab,vastra gotaland,1-10,""
+sweden,2006,kalmarsundsregionens-renhållare,renewables & environment,linkedin.com/company/kalmarsundsregionens-renhållare,"",ksrr - kalmarsundsregionens renhållare,kalmar,51-200,ksrr.se
+sweden,2017,stockholm-business-support-ab,international trade and development,linkedin.com/company/stockholm-business-support-ab,"",stockholm business support ab,"",1-10,stockholmbusiness.support
+sweden,2012,vinkollektivet,wine and spirits,linkedin.com/company/vinkollektivet,"",vinkollektivet,"",1-10,vinkollektivet.dk
+sweden,"",j-mtland-h-rjedalen-turism,"leisure, travel & tourism",linkedin.com/company/j-mtland-h-rjedalen-turism,östersund,jämtland härjedalen turism,jaemtland,11-50,jamtland.se
+sweden,"",orsa-kommun,government administration,linkedin.com/company/orsa-kommun,orsa,orsa kommun,dalarna,201-500,orsa.se
+sweden,2004,epooq-business-management,management consulting,linkedin.com/company/epooq-business-management,"",epooq business management,stockholm,1-10,epooq.com
+sweden,2019,rith-m,hospital & health care,linkedin.com/company/rith-m,stockholm,biotel europe,stockholm,1001-5000,biotel.se
+sweden,"",familjecoachen-i-norr,professional training & coaching,linkedin.com/company/familjecoachen-i-norr,"",familjecoachen i norr,"",1-10,mariaklein.se
+sweden,"",vacci,computer software,linkedin.com/company/vacci,"",vacci,stockholm,1-10,vacci.se
+sweden,"",ab-rörpojkarna,"",linkedin.com/company/ab-rörpojkarna,västra frölunda,ab rörpojkarna,vaestra goetaland,11-50,""
+sweden,2015,go-active-travel,"leisure, travel & tourism",linkedin.com/company/go-active-travel,"",go active travel,"",1-10,goactivetravel.se
+sweden,"",volvo-financial-services-ab,legal services,linkedin.com/company/volvo-financial-services-ab,"",volvo financial services ab,"",1-10,""
+sweden,"",flyttspecialisten-i-mälardalen-ab,"",linkedin.com/company/flyttspecialisten-i-mälardalen-ab,hagersten,flyttspecialisten i mälardalen ab,stockholms lan,11-50,""
+sweden,"",apricus,"",linkedin.com/company/apricus,"",apricus,"",11-50,apricus.pro
+sweden,2009,attest-nu-i-sverige-ab,information technology and services,linkedin.com/company/attest-nu-i-sverige-ab,östersund,attest.nu i sverige ab,jaemtland,11-50,attest.nu
+sweden,"",strand-kapitalförvaltning,"",linkedin.com/company/strand-kapitalförvaltning,"",strand kapitalförvaltning,"",11-50,strandkapital.se
+sweden,2015,stagecast,events services,linkedin.com/company/stagecast,stockholm,stagecast ab,stockholm,1-10,stagecast.se
+sweden,"",exposmeter-ab,environmental services,linkedin.com/company/exposmeter-ab,"",exposmeter ab,"",1-10,exposmeter.se
+sweden,"",svenska-trädmästarna-ab,"",linkedin.com/company/svenska-trädmästarna-ab,"",svenska trädmästarna ab,stockholm,11-50,""
+sweden,2003,medam-ab,construction,linkedin.com/company/medam-ab,norsborg,medam ab,stockholm,11-50,medam.se
+sweden,1990,lw-balsta,industrial automation,linkedin.com/company/lw-balsta,edsbyn,lw-balsta,gaevleborg,11-50,lwbalsta.se
+sweden,1999,öretel,telecommunications,linkedin.com/company/öretel,"",öretel,"",11-50,oretel.se
+sweden,"",midama-ekonomi-ab,"",linkedin.com/company/midama-ekonomi-ab,ljusdal,midama ekonomi ab,gavleborgs lan,11-50,""
+sweden,2007,louise-edlund-utbildningar-ab,"health, wellness and fitness",linkedin.com/company/louise-edlund-utbildningar-ab,stockholm,louise edlund utbildningar ab,stockholms lan,1-10,louiseedlund.se
+sweden,"",thunderful-malmö,computer games,linkedin.com/company/thunderful-malmö,"",thunderful malmö,skåne,1-10,thunderfulgames.com
+sweden,2017,dist-sthlm,marketing and advertising,linkedin.com/company/dist-sthlm,"",dist sthlm,stockholm,1-10,diststhlm.com
+sweden,2012,min-f-rskola-sverige-ab,information technology and services,linkedin.com/company/min-f-rskola-sverige-ab,"",min förskola sverige ab,"",1-10,minforskola.se
+sweden,2009,xelmo-ab,information technology and services,linkedin.com/company/xelmo-ab,ase,xelmo ab,vasternorrlands lan,1-10,xelmo.com
+sweden,2016,magenta-akustik-ab,construction,linkedin.com/company/magenta-akustik-ab,stockholm,magenta akustik ab,stockholm,1-10,magentaakustik.se
+sweden,2016,miljoanalys,environmental services,linkedin.com/company/miljoanalys,falun,miljöanalys scandinavia ab,dalarnas lan,11-50,miljoanalys.com
+sweden,1990,mvv-international-ab,mechanical or industrial engineering,linkedin.com/company/mvv-international-ab,vara,mvv,vaestra goetaland,51-200,mvv.se
+sweden,1927,volvo-personbilar-sverige,automotive,linkedin.com/company/volvo-personbilar-sverige,goteborg,volvo car sverige,vastra gotaland,1001-5000,""
+sweden,2015,aim-4-knowledge-ab,professional training & coaching,linkedin.com/company/aim-4-knowledge-ab,"",aim 4 knowledge ab,stockholm,1-10,aim4knowledge.se
+sweden,1906,eio,non-profit organization management,linkedin.com/company/eio,"",elektriska installatörsorganisationen eio,stockholm,51-200,eio.se
+sweden,"",swemedia-ab,marketing and advertising,linkedin.com/company/swemedia-ab,"",swemedia ab,"",51-200,swemedia.se
+sweden,2011,gotime-elektronisk-körjournal,consumer electronics,linkedin.com/company/gotime-elektronisk-körjournal,jonkoping,gotime ab,jonkopings lan,1-10,gotime.se
+sweden,2010,intdesign,internet,linkedin.com/company/intdesign,malmö,intdesign,skåne,1-10,intdesign.se
+sweden,"",tankmobil-ab,"",linkedin.com/company/tankmobil-ab,ystad,tankmobil ab,skåne,11-50,""
+sweden,2012,castellane-future-ideation,staffing and recruiting,linkedin.com/company/castellane-future-ideation,vaxholm,castellane future ideation,stockholm,1-10,castellane.se
+sweden,2008,ab-franska-bukten,real estate,linkedin.com/company/ab-franska-bukten,stockholm,ab franska bukten,stockholm,11-50,franskabukten.se
+sweden,2004,xeeda,management consulting,linkedin.com/company/xeeda,"",xeeda,stockholm,11-50,xeeda.se
+sweden,"",rotationsplast-i-munka-ljungby-ab,"",linkedin.com/company/rotationsplast-i-munka-ljungby-ab,munka ljungby,rotationsplast i munka-ljungby ab,skåne,11-50,""
+sweden,2001,ekerö-utbildning-ab,professional training & coaching,linkedin.com/company/ekerö-utbildning-ab,"",ekerö utbildning ab,"",1-10,ekeroutbildning.se
+sweden,2017,favo,restaurants,linkedin.com/company/favo,boras,favo,vastra gotaland,11-50,favo.se
+sweden,2010,thessén-&-ek-byggentreprenad-ab,construction,linkedin.com/company/thessén-&-ek-byggentreprenad-ab,skogas,thessén & ek byggentreprenad ab,stockholm,11-50,thessen-ek.se
+sweden,2001,fjord-network-ab,telecommunications,linkedin.com/company/fjord-network-ab,"",fjord network ab,"",11-50,fjord.se
+sweden,1921,belysningsbranschen,think tanks,linkedin.com/company/belysningsbranschen,stockholm,belysningsbranschen,stockholm,11-50,belysningsbranschen.se
+sweden,2018,dashingdogs,internet,linkedin.com/company/dashingdogs,kungsbacka,dashing dogs,hallands lan,1-10,dashingdogs.se
+sweden,2010,apotekia-ab,pharmaceuticals,linkedin.com/company/apotekia-ab,hägersten,apotekia ab,stockholm,1-10,""
+sweden,"",pinq-mango-capital-partners,banking,linkedin.com/company/pinq-mango-capital-partners,stockholm,pinq mango capital partners,stockholms lan,11-50,pinkmango.org
+sweden,"",agilon,computer software,linkedin.com/company/agilon,"",agilon,"",1-10,agilon.se
+sweden,1990,camozzi-automation-ab,industrial automation,linkedin.com/company/camozzi-automation-ab,"",camozzi pneumatik ab,skåne,11-50,camozzi.se
+sweden,1896,fordstorehedbergsbil,automotive,linkedin.com/company/fordstorehedbergsbil,"",fordstore hedbergs bil,skåne,51-200,hedbergs.se
+sweden,"",mireille-art-production,fine art,linkedin.com/company/mireille-art-production,lund,mireille art production,skåne,1-10,mireille.nu
+sweden,"",leaders-alliance,education management,linkedin.com/company/leaders-alliance,stockholm,leaders alliance,stockholms lan,11-50,leadersalliance.se
+sweden,2001,travelize-international-ab,computer software,linkedin.com/company/travelize-international-ab,gothenburg,travelize international ab,västra götaland,11-50,travelize.com
+sweden,1995,invest-sweden,government administration,linkedin.com/company/invest-sweden,stockholm,invest sweden,stockholms lan,11-50,""
+sweden,2017,big-blue-charter,maritime,linkedin.com/company/big-blue-charter,"",big blue,stockholm,1-10,bigblue.fun
+sweden,2015,quantus-mechatronics,electrical/electronic manufacturing,linkedin.com/company/quantus-mechatronics,"",quantus mechatronics,"",1-10,quantusmechatronics.com
+sweden,1965,sidsjo-persienn-markis,consumer goods,linkedin.com/company/sidsjo-persienn-markis,sundsvall,sidsjö persienn & markis ab,vasternorrlands lan,1-10,sidsjo.nu
+sweden,"",tsab-i-sollefteå-ab,"",linkedin.com/company/tsab-i-sollefteå-ab,langsele,tsab i sollefteå ab,västernorrland,11-50,""
+sweden,2001,dalafrakt-ab,transportation/trucking/railroad,linkedin.com/company/dalafrakt-ab,leksand,dalafrakt ab,dalarna,201-500,dalafrakt.se
+sweden,2004,ankar-arkitekter-ab,architecture & planning,linkedin.com/company/ankar-arkitekter-ab,"",ankar arkitekter ab,stockholm,1-10,ankar-arkitekter.se
+sweden,"",ekolea-ekologisk-hud-och-hårvård-ab,"",linkedin.com/company/ekolea-ekologisk-hud-och-hårvård-ab,karlstad,ekolea ekologisk hud och hårvård ab,värmland,1-10,""
+sweden,1992,reklambyrån-stt,marketing and advertising,linkedin.com/company/reklambyrån-stt,tranemo,reklambyrån stt,vaestra goetaland,1-10,reklambyranstt.se
+sweden,2015,bryne-ab,mechanical or industrial engineering,linkedin.com/company/bryne-ab,almhult,bryne ab,kronobergs lan,1-10,bryne.se
+sweden,1997,allert-järn-&-bygg,retail,linkedin.com/company/allert-järn-&-bygg,kisa,allert järn & bygg,ostergotlands lan,1-10,allertjarn.se
+sweden,"",tessitura,music,linkedin.com/company/tessitura,"",tessitura,"",1-10,tessitura.se
+sweden,1979,gms-group,education management,linkedin.com/company/gms-group,stockholm,gms group,stockholms lan,51-200,gmsgroup.us.com
+sweden,2011,eqc-group,civil engineering,linkedin.com/company/eqc-group,borlange,eqc group,dalarnas lan,51-200,eqcgroup.se
+sweden,1948,rejmes-bil,automotive,linkedin.com/company/rejmes-bil,halmstad,rejmes bil,halland,51-200,rejmesbil.se
+sweden,1982,almondy-ab,food & beverages,linkedin.com/company/almondy-ab,torslanda,almondy ab,vaestra goetaland,51-200,almondy.com
+sweden,"",skateboard-museum-sweden,"",linkedin.com/company/skateboard-museum-sweden,"",skateboard museum sweden,"",1-10,skateboardmuseum.se
+sweden,1910,centre-party,political organization,linkedin.com/company/centre-party,"",centre party,stockholm,51-200,centerpartiet.se
+sweden,1945,recotech-ab,oil & energy,linkedin.com/company/recotech-ab,arboga,recotech ab,vaestmanland,51-200,recotech.com
+sweden,"",af-ingemansson-ab,civil engineering,linkedin.com/company/af-ingemansson-ab,"",åf-ingemansson ab,"",51-200,""
+sweden,"",windoorscandinavia,building materials,linkedin.com/company/windoorscandinavia,"",windoor sverige ab,skåne,11-50,windoor.se
+sweden,"",jubileumsklinikens-cancerfond,research,linkedin.com/company/jubileumsklinikens-cancerfond,goteborg,jubileumsklinikens cancerfond,vastra gotaland,1-10,jubileumsklinikenscancerfond.se
+sweden,1863,region-vasternorrland,hospital & health care,linkedin.com/company/region-vasternorrland,harnosand,landstinget västernorrland,vasternorrlands lan,5001-10000,lvn.se
+sweden,"",hf-energy-ab,"",linkedin.com/company/hf-energy-ab,norrtalje,hf energy ab,stockholms lan,1-10,""
+sweden,2017,cerbner,mechanical or industrial engineering,linkedin.com/company/cerbner,goteborg,cerbner,vastra gotaland,1-10,""
+sweden,2001,hello-clarice---digital-media,internet,linkedin.com/company/hello-clarice---digital-media,"",hello clarice - digital media,"",1-10,helloclarice.se
+sweden,2018,schoolparrot,online media,linkedin.com/company/schoolparrot,stockholm,schoolparrot,stockholm,1-10,schoolparrot.se
+sweden,1989,webexpress-ab,internet,linkedin.com/company/webexpress-ab,"",tm web express,stockholm,1-10,webexpress.se
+sweden,2012,spectronic-medical-ab,research,linkedin.com/company/spectronic-medical-ab,helsingborg,spectronic medical ab,skåne,1-10,spectronic.se
+sweden,2005,avtramp,public relations and communications,linkedin.com/company/avtramp,jonkoping,avtramp,jonkopings lan,1-10,avtramp.se
+sweden,"",elit-gym-i-skarpnäck-ab,"",linkedin.com/company/elit-gym-i-skarpnäck-ab,skarpnack,elit gym i skarpnäck ab,stockholms lan,11-50,""
+sweden,2010,sundelius-it-ab,information technology and services,linkedin.com/company/sundelius-it-ab,kode,sundelius it ab,vaestra goetaland,1-10,sundeliusit.se
+sweden,2015,tiptapp,consumer services,linkedin.com/company/tiptapp,stockholm,tiptapp,stockholms lan,11-50,tiptapp.co
+sweden,1993,ik-stanstad,sports,linkedin.com/company/ik-stanstad,staffanstorp,ik stanstad,skåne,201-500,stanstad.com
+sweden,"",bilhörnan-i-sandviken-ab,"",linkedin.com/company/bilhörnan-i-sandviken-ab,sandviken,bilhörnan i sandviken ab,gaevleborg,11-50,""
+sweden,"",team-office-skaraborg-ab,information technology and services,linkedin.com/company/team-office-skaraborg-ab,lidköping,team office skaraborg ab,vaestra goetaland,1-10,teamoffice.se
+sweden,2009,m-one,management consulting,linkedin.com/company/m-one,"",m-one,"",1-10,m-one.se
+sweden,2018,projektstugan-stockholm,construction,linkedin.com/company/projektstugan-stockholm,"",projektstugan stockholm,stockholm,1-10,projektstugan.se
+sweden,"",ats-tjänster-ab,"",linkedin.com/company/ats-tjänster-ab,helsingborg,ats tjänster ab,skåne,11-50,""
+sweden,"",pv-nordic-design-&-communication,information technology and services,linkedin.com/company/pv-nordic-design-&-communication,goteborg,pv nordic design & communication,vastra gotaland,1-10,pvnordicdesigns.com
+sweden,2009,jsm-investment-ab,venture capital & private equity,linkedin.com/company/jsm-investment-ab,stockholm,jsm investment ab,stockholms lan,1-10,jsmgruppen.com
+sweden,2003,vector-proboat-ab,maritime,linkedin.com/company/vector-proboat-ab,vallentuna,vector proboat ab,stockholm,1-10,vectormarine.se
+sweden,"",ab-lady-patricia,"",linkedin.com/company/ab-lady-patricia,"",ab lady patricia,stockholm,11-50,""
+sweden,2016,fotografhanswachner,photography,linkedin.com/company/fotografhanswachner,"",fotograf hans wachner,skåne,1-10,fotografwachner.se
+sweden,"",gustibus-wine-&-spirit-academy,wine and spirits,linkedin.com/company/gustibus-wine-&-spirit-academy,"",gustibus wine & spirit academy,"",1-10,gustibus.se
+sweden,2012,proteinbolaget-se,"health, wellness and fitness",linkedin.com/company/proteinbolaget-se,karlskoga,proteinbolaget.se,orebro lan,11-50,proteinbolaget.se
+sweden,1996,montania-system-ab,computer software,linkedin.com/company/montania-system-ab,halmstad,montania system ab,halland,11-50,montania.se
+sweden,2013,modcam-ab,information technology and services,linkedin.com/company/modcam-ab,"",modcam ab,skåne,11-50,modcam.com
+sweden,1905,wa-wallvision-sweden-ab,consumer goods,linkedin.com/company/wa-wallvision-sweden-ab,boras,wa wallvision sweden ab,vastra gotaland,51-200,wallvision.com
+sweden,2016,checkat-ab,accounting,linkedin.com/company/checkat-ab,"",checkat ab,"",1-10,checkat.se
+sweden,2009,dolprop-industries-ab,maritime,linkedin.com/company/dolprop-industries-ab,ekero,dolprop industries ab,stockholms lan,1-10,dolprop.se
+sweden,2008,emsy-engineering-ab,automotive,linkedin.com/company/emsy-engineering-ab,goteborg,emsy engineering ab,vastra gotaland,1-10,emsy.se
+sweden,2011,dagens-deal,internet,linkedin.com/company/dagens-deal,"",dagens deal,örebro,1-10,dagensdeal.nu
+sweden,"",alingsås-bildelar-ab,"",linkedin.com/company/alingsås-bildelar-ab,alingsås,alingsås bildelar ab,vaestra goetaland,11-50,""
+sweden,1979,stål-hyr-group-ab,construction,linkedin.com/company/stål-hyr-group-ab,varberg,stål & hyr group ab,halland,51-200,stalhyrmaskiner.se
+sweden,1994,a-&-s-faleke-ab,management consulting,linkedin.com/company/a-&-s-faleke-ab,"",a & s faleke ab,"",1-10,faleke.se
+sweden,2003,genesta,real estate,linkedin.com/company/genesta,"",genesta,"",11-50,genesta.se
+sweden,2010,retail-trading-house-360,retail,linkedin.com/company/retail-trading-house-360,stockholm,retail trading house 360,stockholms lan,1-10,retailtradinghouse.com
+sweden,2004,testvinnare-i-sverige,internet,linkedin.com/company/testvinnare-i-sverige,"",testvinnare i sverige,"",1-10,testvinnare.se
+sweden,"",quadriga-ab,computer software,linkedin.com/company/quadriga-ab,"",quadriga ab,"",11-50,euroshop.nu
+sweden,"",storköksgruppen-öst-svenska-ab,"",linkedin.com/company/storköksgruppen-öst-svenska-ab,nykoping,storköksgruppen öst svenska ab,sodermanlands lan,1-10,""
+sweden,2003,blixtvik-ab,telecommunications,linkedin.com/company/blixtvik-ab,"",blixtvik ab,uppsala,51-200,blixtvik.se
+sweden,2016,light-of-day-venture-ab,venture capital & private equity,linkedin.com/company/light-of-day-venture-ab,stockholm,light of day venture ab,stockholm,1-10,grufberg.com
+sweden,"",jason-strong-photography,photography,linkedin.com/company/jason-strong-photography,farsta,jason strong photography,stockholm,1-10,jasonstrongphotography.com
+sweden,"",f-retagsakademin-fa-ab,education management,linkedin.com/company/f-retagsakademin-fa-ab,"",företagsakademin fa ab,stockholm,11-50,foretagsakademin.se
+sweden,2013,hq-print-sunne-ab,printing,linkedin.com/company/hq-print-sunne-ab,sunne,hq print sunne ab,vasternorrlands lan,1-10,hqprint.se
+sweden,2015,surfbutik-skåne,sporting goods,linkedin.com/company/surfbutik-skåne,lomma,surfbutik skåne,skåne,1-10,surfbutikskane.se
+sweden,"",internetmedia-kommunikationsbyrå,marketing and advertising,linkedin.com/company/internetmedia-kommunikationsbyrå,jamtland,internetmedia kommunikationsbyrå,vasterbottens lan,1-10,internetmedia.se
+sweden,2006,welander-design,furniture,linkedin.com/company/welander-design,"",welander design,stockholm,1-10,welanderdesign.se
+sweden,2013,esbs---east-sweden-business-school-ab,education management,linkedin.com/company/esbs---east-sweden-business-school-ab,"",esbs - east sweden business school ab,"",1-10,esbs.se
+sweden,1991,copy-office,information technology and services,linkedin.com/company/copy-office,haninge,copy office,stockholm,11-50,copyoffice.se
+sweden,"",cammek-ab,"",linkedin.com/company/cammek-ab,lagan,cammek ab,kronoberg,1-10,""
+sweden,2000,teneco,computer networking,linkedin.com/company/teneco,goteborg,teneco,vastra gotaland,11-50,teneco.se
+sweden,"",attacus-trähus-i-småland-ab,"",linkedin.com/company/attacus-trähus-i-småland-ab,fagelfors,attacus trähus i småland ab,kalmar,51-200,""
+sweden,2010,berga-l-karhus,medical practice,linkedin.com/company/berga-l-karhus,helsingborg,berga läkarhus,skåne,11-50,bergalakarhus.se
+sweden,1897,zfsweden,civic & social organization,linkedin.com/company/zfsweden,stockholm,zionist federation of sweden,stockholm,1-10,zionit.se
+sweden,1973,sms-smart-media-solutions,electrical/electronic manufacturing,linkedin.com/company/sms-smart-media-solutions,nacka,sms smart media solutions,stockholm,11-50,smartmediasolutions.se
+sweden,"",neova-ab,utilities,linkedin.com/company/neova-ab,johanneshov,neova ab,stockholm,51-200,neova.se
+sweden,"",pheronet-ab,biotechnology,linkedin.com/company/pheronet-ab,"",pheronet ab,"",1-10,phero.net
+sweden,2011,konsultkedjan-ab,management consulting,linkedin.com/company/konsultkedjan-ab,"",konsultkedjan ab,skåne,1-10,konsultkedjan.se
+sweden,"",lundbergs-ekonomikontor,"",linkedin.com/company/lundbergs-ekonomikontor,"",lundbergs ekonomikontor,"",1-10,lunek.se
+sweden,2002,bright-dental-lab-ltd,"health, wellness and fitness",linkedin.com/company/bright-dental-lab-ltd,"",bright dental lab ltd,"",201-500,dental-lab-china.com
+sweden,"",united-audio-starlight-ab,entertainment,linkedin.com/company/united-audio-starlight-ab,"",united audio starlight ab,"",11-50,starlight.se
+sweden,2017,nimdistribution,logistics and supply chain,linkedin.com/company/nimdistribution,"",nim distribution,skåne,1001-5000,nimdistribution.se
+sweden,2009,elastic-move,computer networking,linkedin.com/company/elastic-move,lund,elastic mobile scandinavia ab,skåne,11-50,elasticmobile.se
+sweden,1999,thorszelius-ventilation-&-service-ab,construction,linkedin.com/company/thorszelius-ventilation-&-service-ab,"",thorszelius ventilation & service ab,uppsala,11-50,thorszelius.se
+sweden,2005,inlead-cp,construction,linkedin.com/company/inlead-cp,stockholm,magnus byggare ab,stockholms lan,1-10,""
+sweden,2012,eslövs-betonghåltagning-ab,construction,linkedin.com/company/eslövs-betonghåltagning-ab,eslov,eslövs betonghåltagning ab,skane lan,11-50,eslovsbetonghaltagning.se
+sweden,"",främmestadverken-ab,mechanical or industrial engineering,linkedin.com/company/främmestadverken-ab,nossebro,främmestadverken ab,västra götaland,11-50,frvab.se
+sweden,"",aeroseum-ab,"",linkedin.com/company/aeroseum-ab,goteborg,aeroseum ab,vastra gotaland,11-50,""
+sweden,1967,ingenjorsfirma-gosta-hedlund-ab,mechanical or industrial engineering,linkedin.com/company/ingenjorsfirma-gosta-hedlund-ab,"",ingenjörsfirma gösta hedlund ab,stockholm,11-50,ingfahedlund.se
+sweden,"",marta-&-the-dog,management consulting,linkedin.com/company/marta-&-the-dog,"",marta & the dog,"",1-10,martaandthedog.com
+sweden,2014,altor-fund-manager-ab,venture capital & private equity,linkedin.com/company/altor-fund-manager-ab,stockholm,altor fund manager,stockholm,1-10,""
+sweden,2016,ecp-airtech-ab,environmental services,linkedin.com/company/ecp-airtech-ab,varmland,ecp airtech ab,gavleborgs lan,11-50,ecpairtech.se
+sweden,2009,kurppa-hosk,design,linkedin.com/company/kurppa-hosk,as,kurppa hosk,hallands lan,11-50,kurppahosk.com
+sweden,"",bjurfors-naringsliv,real estate,linkedin.com/company/bjurfors-naringsliv,stockholm,bjurfors näringsliv,stockholm,11-50,bjurforsnaringsliv.se
+sweden,"",pete-harry,apparel & fashion,linkedin.com/company/pete-harry,"",pete & harry,stockholm,1-10,peteandharry.com
+sweden,1990,eolusvind,renewables & environment,linkedin.com/company/eolusvind,"",eolus vind ab (publ).,skåne,11-50,""
+sweden,"",ronneby-kommun,government administration,linkedin.com/company/ronneby-kommun,ronneby,ronneby kommun,blekinge,1001-5000,ronneby.se
+sweden,"",q-vision_2,media production,linkedin.com/company/q-vision_2,"",q-vision,"",11-50,q-vision.se
+sweden,"",brandservice-i-småland-ab,"",linkedin.com/company/brandservice-i-småland-ab,nassjo,brandservice i småland ab,jonkopings lan,1-10,""
+sweden,2014,eridem-ab,information technology and services,linkedin.com/company/eridem-ab,"",eridem ab,stockholm,1-10,eridem.se
+sweden,1999,krinova-science-park,non-profit organization management,linkedin.com/company/krinova-science-park,kristianstad,krinova incubator & science park,skåne,11-50,krinova.se
+sweden,"",huddinge-elteknik-ab,"",linkedin.com/company/huddinge-elteknik-ab,huddinge,huddinge elteknik ab,stockholm,11-50,""
+sweden,"",mekanikkonsult-blw,mechanical or industrial engineering,linkedin.com/company/mekanikkonsult-blw,"",mekanikkonsult blw,"",1-10,mekblw.se
+sweden,"",bildungswerk-der-wirtschaft-sachsen-anhalt,individual & family services,linkedin.com/company/bildungswerk-der-wirtschaft-sachsen-anhalt,"",bildungswerk der wirtschaft sachsen-anhalt,"",11-50,""
+sweden,"",miljömatematik,environmental services,linkedin.com/company/miljömatematik,"",miljömatematik malmö ab,skåne,1-10,miljomatematik.se
+sweden,2016,hangry-hb,marketing and advertising,linkedin.com/company/hangry-hb,stockholm,hangry hb,stockholm,1-10,hangry.se
+sweden,1999,nylok-scandinavia-ab,mechanical or industrial engineering,linkedin.com/company/nylok-scandinavia-ab,anderstorp,nylok scandinavia ab,jonkopings lan,1-10,nylok.se
+sweden,2002,community-labs-wednesday-relations,marketing and advertising,linkedin.com/company/community-labs-wednesday-relations,stockholm,wednesday relations ab,stockholms lan,11-50,wednesdayrelations.org
+sweden,2008,strabag-sverige,construction,linkedin.com/company/strabag-sverige,solna,strabag sverige,stockholm,201-500,strabag.se
+sweden,"",mikael-elias-teoretiska-gymnasium,primary/secondary education,linkedin.com/company/mikael-elias-teoretiska-gymnasium,"",mikael elias teoretiska gymnasium,"",51-200,teoretiska.se
+sweden,2012,extreme-audio-recording,media production,linkedin.com/company/extreme-audio-recording,skovde,extreme audio recording,vastra gotaland,1-10,extremeaudiorecording.com
+sweden,2010,ip-ready,telecommunications,linkedin.com/company/ip-ready,sundbyberg,ip ready,stockholm,1-10,ipready.se
+sweden,1965,attacusstomsystem,construction,linkedin.com/company/attacusstomsystem,jamtland,attacus stomsystem,vasterbottens lan,51-200,attacusstomsystem.se
+sweden,"",fastighetsentreprenörerna,real estate,linkedin.com/company/fastighetsentreprenörerna,stockholm,fastighetsentreprenörerna,stockholms lan,1-10,fastighetsentreprenorerna.se
+sweden,2013,henryssonakerlund,management consulting,linkedin.com/company/henryssonakerlund,stockholm,"henrysson, åkerlund & sjöberg ab",stockholm,1-10,henakesjo.se
+sweden,"",swedish-supplements,"health, wellness and fitness",linkedin.com/company/swedish-supplements,gothenburg,swedish supplements,västra götaland,11-50,swedish-supplements.com
+sweden,2016,veconia,construction,linkedin.com/company/veconia,"",veconia,uppsala,1-10,veconia.se
+sweden,2008,stjernberg-automation-ab,industrial automation,linkedin.com/company/stjernberg-automation-ab,ase,stjernberg automation ab,vasternorrlands lan,11-50,""
+sweden,2009,rewind-offshore-ab,environmental services,linkedin.com/company/rewind-offshore-ab,karlstad,rewind offshore ab,värmland,1-10,rewindenergy.se
+sweden,"",lucid-music-ab,music,linkedin.com/company/lucid-music-ab,"",lucid music ab,stockholm,1-10,lucidmusic.se
+sweden,2007,premium-snacks-nordic-ab,food & beverages,linkedin.com/company/premium-snacks-nordic-ab,laholm,premium snacks nordic ab,hallands lan,51-200,premiumsnacksnordic.se
+sweden,"",s5-consulting,pharmaceuticals,linkedin.com/company/s5-consulting,"",s5 consulting,"",1-10,s5consulting.com
+sweden,1977,hogskolan-i-boras,higher education,linkedin.com/company/hogskolan-i-boras,borås,högskolan i borås,vaestra goetaland,1001-5000,hb.se
+sweden,"",multivacsweden,packaging and containers,linkedin.com/company/multivacsweden,lund,multivac sweden,skåne,11-50,multivac.se
+sweden,2018,sigma-enterprise-applications-ab,computer software,linkedin.com/company/sigma-enterprise-applications-ab,"",sigma enterprise applications ab,"",51-200,""
+sweden,"",kommunf-rbundet-v-sternorrland-,education management,linkedin.com/company/kommunf-rbundet-v-sternorrland-,harnosand,kommunförbundet västernorrland/,vasternorrlands lan,11-50,y.komforb.se
+sweden,"",upplandsknekten-ab,real estate,linkedin.com/company/upplandsknekten-ab,"",upplandsknekten ab,"",1-10,upplandsknekten.se
+sweden,2003,void-pointer-ab,program development,linkedin.com/company/void-pointer-ab,helsingborg,void pointer ab,skåne,1-10,voidpointer.se
+sweden,2013,featherway-robotics,industrial automation,linkedin.com/company/featherway-robotics,uppsala,featherway robotics ab,uppsala lan,1-10,featherway.eu
+sweden,1990,progrezzo,media production,linkedin.com/company/progrezzo,"",progrezzo,stockholm,1-10,progrezzo.com
+sweden,2013,pogradajmy,computer games,linkedin.com/company/pogradajmy,malmö,pog(r)adajmy,skåne,11-50,pogradajmy.pl
+sweden,2006,uniq-interaction-nordic-ab,e-learning,linkedin.com/company/uniq-interaction-nordic-ab,landskrona,uniq interaction nordic ab,skåne,1-10,uniqinteraction.se
+sweden,2008,sigmaworklife,information technology and services,linkedin.com/company/sigmaworklife,lund,bool nordic ab,skåne,11-50,bool.se
+sweden,2001,svenska-institutet-för-sorgbearbetning,education management,linkedin.com/company/svenska-institutet-för-sorgbearbetning,"",svenska institutet för sorgbearbetning,stockholm,1-10,sorg.se
+sweden,"",milestones_3,information technology and services,linkedin.com/company/milestones_3,goteborg,milestones,vastra gotaland,1-10,milestones.se
+sweden,"",cabeco-ab,automotive,linkedin.com/company/cabeco-ab,"",cabeco ab,vaestra goetaland,11-50,cabeco.se
+sweden,1997,finnvedens-lastvagnar-ab,automotive,linkedin.com/company/finnvedens-lastvagnar-ab,jonkoping,finnvedens lastvagnar ab,jonkopings lan,201-500,finnvenslast.se
+sweden,2013,northern-spirit,sporting goods,linkedin.com/company/northern-spirit,helsingborg,northern spirit cf,skåne,11-50,shopnorthernspirit.com
+sweden,2005,wenderfalck,public relations and communications,linkedin.com/company/wenderfalck,"",wenderfalck,stockholm,11-50,wenderfalck.com
+sweden,2014,camp-pro,hospital & health care,linkedin.com/company/camp-pro,"",camp pro,skåne,11-50,camppro.se
+sweden,2014,delivery-king-ab,package/freight delivery,linkedin.com/company/delivery-king-ab,alvsjo,delivery king ab,stockholms lan,11-50,deliveryking.se
+sweden,"",prestando-ab,automotive,linkedin.com/company/prestando-ab,"",prestando ab,"",51-200,""
+sweden,"",fastighetskompetens,real estate,linkedin.com/company/fastighetskompetens,västra frölunda,fastighetskompetens,vaestra goetaland,1-10,fastighetskompetens.se
+sweden,2010,nextstore,retail,linkedin.com/company/nextstore,gavle,nextstore,gavleborgs lan,11-50,nextstore.se
+sweden,2016,insiderlog,financial services,linkedin.com/company/insiderlog,"",insiderlog,stockholm,1-10,insiderlog.com
+sweden,2019,neki-sverige-ab,information technology and services,linkedin.com/company/neki-sverige-ab,landskrona,neki sverige ab,skåne,1-10,neki.se
+sweden,2009,sydkustloppet---trelleborgs-halvmara,sports,linkedin.com/company/sydkustloppet---trelleborgs-halvmara,trelleborg,sydkustloppet - trelleborgs halvmara,skåne,1-10,sydkustloppet.se
+sweden,"",helmia-bil-ab,information technology and services,linkedin.com/company/helmia-bil-ab,"",helmia bil ab,"",51-200,""
+sweden,1991,alfta-skogstekniska-utbildning-ab,education management,linkedin.com/company/alfta-skogstekniska-utbildning-ab,"",alfta skogstekniska utbildning ab,"",11-50,skogstekniska.se
+sweden,2016,cobel.se,management consulting,linkedin.com/company/cobel.se,stockholm,cobel sweden ab,stockholms lan,1-10,cobel.se
+sweden,2001,xcerion,information technology and services,linkedin.com/company/xcerion,"",xcerion,"",1-10,xcerion.com
+sweden,"",bridging-business-development-ab,import and export,linkedin.com/company/bridging-business-development-ab,"",bridging business development ab,"",1-10,bbdab.com
+sweden,2008,spa-halmstad,"health, wellness and fitness",linkedin.com/company/spa-halmstad,halmstad,spa halmstad,halland,11-50,spahalmstad.se
+sweden,2019,railify-ab,transportation/trucking/railroad,linkedin.com/company/railify-ab,"",railify,stockholm,11-50,railify.se
+sweden,2013,sound-solution-studio,media production,linkedin.com/company/sound-solution-studio,skovde,sound solution studio,vastra gotaland,1-10,soundsolutionstudio.se
+sweden,2006,lokalisera-ab,real estate,linkedin.com/company/lokalisera-ab,molndal,lokalisera,vastra gotaland,1-10,lokalisera.se
+sweden,"",slc-group-llc,staffing and recruiting,linkedin.com/company/slc-group-llc,"","slc group, llc","",11-50,slcgroupllc.com
+sweden,1975,synlab-medilab-ab,hospital & health care,linkedin.com/company/synlab-medilab-ab,taby,synlab medilab,stockholms lan,51-200,medilab.se
+sweden,"",samefolket,media production,linkedin.com/company/samefolket,arvidsjaur,samefolket,norrbotten,1-10,samefolket.se
+sweden,"",plastema-ab,plastics,linkedin.com/company/plastema-ab,"",plastema ab,"",11-50,""
+sweden,2012,mindit-ltd-,information technology and services,linkedin.com/company/mindit-ltd-,"",mindit ltd.,"",1-10,mindit.bg
+sweden,"",clarionhotelsign,"leisure, travel & tourism",linkedin.com/company/clarionhotelsign,stockholm,clarion hotel sign,stockholm,201-500,""
+sweden,"",nolér-revision-ab,"",linkedin.com/company/nolér-revision-ab,kumla,nolér revision ab,örebro,11-50,""
+sweden,2018,e-signal,railroad manufacture,linkedin.com/company/e-signal,"",e-signal,stockholm,1-10,e-signal.se
+sweden,"",on-your-mark-media-inc.,marketing and advertising,linkedin.com/company/on-your-mark-media-inc.,"",on your mark media inc.,"",1-10,onyourmarkmedia.ca
+sweden,2008,aditya-group,real estate,linkedin.com/company/aditya-group,ornskoldsvik,aditya group,vasternorrlands lan,11-50,adityagroupm.com
+sweden,1959,frivillig-väntjänst,non-profit organization management,linkedin.com/company/frivillig-väntjänst,"",frivillig väntjänst,"",1-10,frivilligvantjanst.se
+sweden,2010,brookfield-underwriting,insurance,linkedin.com/company/brookfield-underwriting,"",brookfield underwriting,stockholm,1-10,brookfield.se
+sweden,"",big-tuna,accounting,linkedin.com/company/big-tuna,malmö,big tuna,skåne,1-10,bigtuna.co.uk
+sweden,2010,letsdeal,marketing and advertising,linkedin.com/company/letsdeal,goteborg,let's deal,vastra gotaland,51-200,letsdeal.se
+sweden,2008,bäccman&berglundswedenab,design,linkedin.com/company/bäccman&berglundswedenab,"",bäccman & berglund sweden ab,stockholm,1-10,bb-sweden.se
+sweden,2019,vassakonsulter,information technology and services,linkedin.com/company/vassakonsulter,stockholm,vassa konsulter,stockholm,1-10,vassakonsulter.se
+sweden,"",russell-&-partners-ab,management consulting,linkedin.com/company/russell-&-partners-ab,"",russell & partners ab,"",1-10,russellandpartners.se
+sweden,1967,plannja-ab,building materials,linkedin.com/company/plannja-ab,jarnforsen,plannja ab,kalmar lan,201-500,plannja.com
+sweden,2003,ides-ab,computer software,linkedin.com/company/ides-ab,linkoping,ides ab,ostergotlands lan,11-50,idesglobal.com
+sweden,"",adl-n-consult-ab,education management,linkedin.com/company/adl-n-consult-ab,"",adlén consult ab,"",1-10,adlen.nu
+sweden,2009,toolab-verktyg-ab,construction,linkedin.com/company/toolab-verktyg-ab,västra frölunda,toolab verktyg ab,vaestra goetaland,11-50,toolab.se
+sweden,2005,miw-rail-technology,transportation/trucking/railroad,linkedin.com/company/miw-rail-technology,"",miw rail technology,stockholm,1-10,miw.se
+sweden,2009,h&m-home,retail,linkedin.com/company/h&m-home,stockholm,h&m home,stockholm,201-500,""
+sweden,"",-re-bergscyklister,non-profit organization management,linkedin.com/company/-re-bergscyklister,åre,åre bergscyklister,jaemtland,1-10,arebergscyklister.se
+sweden,2005,bedow-stockholm,design,linkedin.com/company/bedow-stockholm,stockholm,bedow,stockholms lan,1-10,""
+sweden,2016,handelshuset-hylén-&-olsson,management consulting,linkedin.com/company/handelshuset-hylén-&-olsson,"",handelshuset hylén & olsson,skåne,1-10,handelshusethylen-olsson.se
+sweden,1967,glasögonmäster,retail,linkedin.com/company/glasögonmäster,boras,glasögonmäster,vastra gotaland,1-10,glasogonmaster.se
+sweden,"",so-fetch-software,information technology and services,linkedin.com/company/so-fetch-software,"",so fetch software,"",1-10,sofetchsoftware.com
+sweden,2020,mtrecruit-ab,staffing and recruiting,linkedin.com/company/mtrecruit-ab,askim,mtrecruit ab,vaestra goetaland,1-10,mtrecruit.se
+sweden,2013,wisdom-era-solutions-pvt-ltd,professional training & coaching,linkedin.com/company/wisdom-era-solutions-pvt-ltd,skanninge,oob,kalmar lan,11-50,""
+sweden,"",randstad-sweden-group-ab,"",linkedin.com/company/randstad-sweden-group-ab,"",randstad sweden group ab,stockholm,51-200,""
+sweden,2010,klarmo-ab,market research,linkedin.com/company/klarmo-ab,"",klarmo ab,"",1-10,klarmo.se
+sweden,2001,inferno-se,security and investigations,linkedin.com/company/inferno-se,stockholm,inferno.se,stockholm,11-50,inferno.se
+sweden,2017,speakeracademysweden,performing arts,linkedin.com/company/speakeracademysweden,stockholm,speaker academy sweden,stockholm,1-10,speakeracademy.se
+sweden,"",more-than-love,"",linkedin.com/company/more-than-love,"",more than love,"",11-50,morethanlove.se
+sweden,"",thelins-konditori,food & beverages,linkedin.com/company/thelins-konditori,"",thelins konditori,stockholm,51-200,thelinskonditori.se
+sweden,2014,hemmaodlat,education management,linkedin.com/company/hemmaodlat,"",hemmaodlat,skåne,51-200,hemmaodlat.se
+sweden,"",thellio-ab,information technology and services,linkedin.com/company/thellio-ab,karlskrona,thellio ab,blekinge lan,1-10,thellio.com
+sweden,2013,nordic-construction-welding-ab,mechanical or industrial engineering,linkedin.com/company/nordic-construction-welding-ab,västmanlands län,nordic construction welding ab,vaestmanland,1-10,nordic-construction.se
+sweden,"",city-gross-matkasse-ab,"",linkedin.com/company/city-gross-matkasse-ab,hassleholm,city gross matkasse ab,skane lan,11-50,""
+sweden,2008,business-port-staffanstorp-ab,public relations and communications,linkedin.com/company/business-port-staffanstorp-ab,staffanstorp,business port staffanstorp ab,skåne,1-10,businessport.se
+sweden,2000,rys-jobb-&-rekrytering-ab,staffing and recruiting,linkedin.com/company/rys-jobb-&-rekrytering-ab,taby,rys jobb & rekrytering ab,stockholms lan,1-10,rys.se
+sweden,1955,rottne-industri-ab,automotive,linkedin.com/company/rottne-industri-ab,rottne,rottne industri ab,kronoberg,201-500,rottne.com
+sweden,2012,revealab,information technology and services,linkedin.com/company/revealab,stockholm,reveal,stockholm,1-10,reveal.se
+sweden,1984,condesign,automotive,linkedin.com/company/condesign,backa,condesign,västra götaland,51-200,condesign.se
+sweden,"",musikservice-sweden-ab,"",linkedin.com/company/musikservice-sweden-ab,molndal,musikservice sweden ab,vastra gotaland,11-50,""
+sweden,2019,bdc-byggkonsult-ab,construction,linkedin.com/company/bdc-byggkonsult-ab,jonkoping,bdc byggkonsult ab,jonkopings lan,1-10,bdcbyggkonsult.se
+sweden,2009,a-fair-dinkum-invest-ab,"health, wellness and fitness",linkedin.com/company/a-fair-dinkum-invest-ab,loddekopinge,a fair dinkum invest ab,skane lan,1-10,fairdinkum.se
+sweden,2011,pool-sweden-ab,"health, wellness and fitness",linkedin.com/company/pool-sweden-ab,oland,pool sweden ab,jonkopings lan,1-10,poolsweden.se
+sweden,"",ebv-plåt-ab,"",linkedin.com/company/ebv-plåt-ab,emmaboda,ebv plåt ab,kalmar,11-50,""
+sweden,2000,lensway,retail,linkedin.com/company/lensway,kista,lensway,stockholm,51-200,lensway.se
+sweden,2013,hyper-valley,information technology and services,linkedin.com/company/hyper-valley,"",hyper valley,stockholm,1-10,hypervalley.com
+sweden,1998,ekonomistyrningsverket,government administration,linkedin.com/company/ekonomistyrningsverket,stockholm,ekonomistyrningsverket,stockholms lan,51-200,esv.se
+sweden,"",dkv-h-lsa,insurance,linkedin.com/company/dkv-h-lsa,"",dkv hälsa,"",51-200,dkvhalsa.se
+sweden,2003,maritrain-ab,maritime,linkedin.com/company/maritrain-ab,gothenburg,maritrain ab,västra götaland,1-10,maritrain.com
+sweden,"",bankeryds-plåt-&-vent-ab,"",linkedin.com/company/bankeryds-plåt-&-vent-ab,bankeryd,bankeryds plåt & vent ab,jonkopings lan,11-50,""
+sweden,"",riell,translation and localization,linkedin.com/company/riell,arvika,riell,värmland,11-50,riell.se
+sweden,2011,websecure-sweden-ab,computer & network security,linkedin.com/company/websecure-sweden-ab,helsingborg,websecure sweden ab,skåne,1-10,websecure.se
+sweden,2014,stronger-ab,"health, wellness and fitness",linkedin.com/company/stronger-ab,stockholm,stronger ab,stockholm,11-50,stronger.se
+sweden,2000,tcc-holding-ab,education management,linkedin.com/company/tcc-holding-ab,solna,tcc holding ab,stockholm,11-50,tcc.se
+sweden,2002,luxlucid,design,linkedin.com/company/luxlucid,"",luxlucid ab,"",1-10,luxlucid.com
+sweden,2013,pace-on-earth,"health, wellness and fitness",linkedin.com/company/pace-on-earth,vallentuna,pace on earth,stockholm,1-10,paceonearth.se
+sweden,2006,zeromission-ab,environmental services,linkedin.com/company/zeromission-ab,"",zeromission ab,stockholm,1-10,zeromission.se
+sweden,"",norva24-sverige-ab,facilities services,linkedin.com/company/norva24-sverige-ab,gustavsberg,norva24 sverige ab,stockholm,201-500,norva24.se
+sweden,1990,estetic-umeå,"health, wellness and fitness",linkedin.com/company/estetic-umeå,umeå,estetic umeå ab,vaesterbotten,1-10,estetic.se
+sweden,2008,flyttfabriken-ab,transportation/trucking/railroad,linkedin.com/company/flyttfabriken-ab,stockholm,flyttfabriken ab,stockholms lan,1-10,flyttfabriken.se
+sweden,"",key's-consulting-hb,events services,linkedin.com/company/key's-consulting-hb,"",key's consulting hb,"",1-10,keys.se
+sweden,1999,paradox-interactive,computer games,linkedin.com/company/paradox-interactive,"",paradox interactive,stockholm,201-500,paradoxplaza.com
+sweden,2015,wenngarn-forskola,primary/secondary education,linkedin.com/company/wenngarn-forskola,sigtuna,wenngarn förskola ab,stockholm,1-10,wenngarnforskola.se
+sweden,2016,medotemic-ab,medical devices,linkedin.com/company/medotemic-ab,lund,medotemic ab,skåne,1-10,medotemic.com
+sweden,1998,nnl-technology-ab,computer software,linkedin.com/company/nnl-technology-ab,linkoping,nnl technology ab,ostergotlands lan,1-10,nnl.se
+sweden,"",tp-förskolor-ab,"",linkedin.com/company/tp-förskolor-ab,taby,tp förskolor ab,stockholms lan,201-500,""
+sweden,2012,toxicology-knowledge-team-sweden-ab,pharmaceuticals,linkedin.com/company/toxicology-knowledge-team-sweden-ab,sodertalje,toxicology knowledge team sweden ab,stockholms lan,1-10,tktsweden.com
+sweden,1991,tutman,marketing and advertising,linkedin.com/company/tutman,goteborg,tutman,vastra gotaland,1-10,tutman.se
+sweden,2017,we-app-developers,information technology and services,linkedin.com/company/we-app-developers,"",we'app developers,"",1-10,weappdevelopers.com
+sweden,"",kruuse-svenska-ab,"",linkedin.com/company/kruuse-svenska-ab,"",kruuse svenska ab,uppsala,11-50,""
+sweden,"",c.o.m,public relations and communications,linkedin.com/company/c.o.m,"",c.o.m,"",1-10,carolineofmalmo.se
+sweden,2011,soleilsweden,information technology and services,linkedin.com/company/soleilsweden,karlstad,soleil it,värmland,11-50,soleilit.se
+sweden,1974,cactus-uniview-ab,utilities,linkedin.com/company/cactus-uniview-ab,molndal,cactus utilities ab,vastra gotaland,11-50,cactusuniview.se
+sweden,2014,southbridge-development-consulting,international trade and development,linkedin.com/company/southbridge-development-consulting,"",southbridge development consulting,"",1-10,southbridgedc.se
+sweden,2002,f-rhandlingskonsult-mats-lidgren-ab,management consulting,linkedin.com/company/f-rhandlingskonsult-mats-lidgren-ab,malmö,förhandlingskonsult mats lidgren ab,skåne,1-10,forhandlingskonsult.se
+sweden,"",one-nordic-konsult-ab,"",linkedin.com/company/one-nordic-konsult-ab,"",one nordic konsult ab,kalmar,11-50,""
+sweden,2017,nobu,financial services,linkedin.com/company/nobu,"",nobu,"",1-10,nobu.se
+sweden,2013,apartment5,internet,linkedin.com/company/apartment5,"",apartment5,stockholm,1-10,apartment5.se
+sweden,2012,n-rcon-eventbyr-ab,events services,linkedin.com/company/n-rcon-eventbyr-ab,"",närcon eventbyrå ab,"",11-50,""
+sweden,1958,telos-telemontage-ab,telecommunications,linkedin.com/company/telos-telemontage-ab,orebro,telos telemontage ab,orebro lan,11-50,telos-telemontage.se
+sweden,"",soft-solutions-partner-sweden-ab,"",linkedin.com/company/soft-solutions-partner-sweden-ab,"",soft solutions partner sweden ab,vaestmanland,1-10,""
+sweden,"",tifmalmo,non-profit organization management,linkedin.com/company/tifmalmo,"",tif,skåne,11-50,tifmalmo.se
+sweden,"",x-cons,marketing and advertising,linkedin.com/company/x-cons,"",x-cons,"",11-50,x-cons.se
+sweden,2015,kompetensutveckla-se,human resources,linkedin.com/company/kompetensutveckla-se,sundsvall,kompetensutveckla.se,västernorrland,1-10,kompetensutveckla.se
+sweden,2016,weareallears,internet,linkedin.com/company/weareallears,stockholm,signal signal,stockholm,11-50,signalsignal.se
+sweden,"",better-business-international-co,education management,linkedin.com/company/better-business-international-co,"",bbi communication,stockholm,11-50,bbi.se
+sweden,"",pse-parts,"",linkedin.com/company/pse-parts,"",pse parts,"",1-10,pseparts.com
+sweden,2012,eckerström-lönetjänst-ab,human resources,linkedin.com/company/eckerström-lönetjänst-ab,hono,eckerström lönetjänst ab,vastra gotaland,1-10,lonetjanst.se
+sweden,"",sht-städservice-ab,"",linkedin.com/company/sht-städservice-ab,"",sht städservice ab,vaestra goetaland,11-50,""
+sweden,2015,macati-consulting-ab,management consulting,linkedin.com/company/macati-consulting-ab,taby,macati consulting ab,stockholm,1-10,macaticonsulting.se
+sweden,2008,ne-solutions-ab,internet,linkedin.com/company/ne-solutions-ab,goteborg,ne solutions ab,vastra gotaland,1-10,nesolutions.se
+sweden,1996,telesteps,business supplies and equipment,linkedin.com/company/telesteps,tranas,telesteps,jonkopings lan,11-50,telesteps.com
+sweden,1980,cnc-plåt,mechanical or industrial engineering,linkedin.com/company/cnc-plåt,vastervik,cnc plåt,kalmar lan,51-200,cncplat.se
+sweden,"",franklin-fastigheter-ab,"",linkedin.com/company/franklin-fastigheter-ab,lycksele,franklin fastigheter ab,vaesterbotten,11-50,""
+sweden,"",samuelssons-måleri,"",linkedin.com/company/samuelssons-måleri,"",samuelssons måleri,"",11-50,samuelssonsmaleri.se
+sweden,"",kamlin-kommunikation-ab,media production,linkedin.com/company/kamlin-kommunikation-ab,"",kamlin kommunikation ab,"",1-10,""
+sweden,1825,hoganas-borgestad,building materials,linkedin.com/company/hoganas-borgestad,bjuv,höganäs bjuf ab,skåne,201-500,hoganasbjuf.com
+sweden,2014,revibe-energy,information technology and services,linkedin.com/company/revibe-energy,"",revibe energy,"",1-10,revibeenergy.com
+sweden,"",supper-stockholm-ab,"",linkedin.com/company/supper-stockholm-ab,"",supper stockholm ab,stockholm,11-50,""
+sweden,2014,wisegate-ab,oil & energy,linkedin.com/company/wisegate-ab,"",wisegate ab,skåne,11-50,wisegate.se
+sweden,2019,ps-occasion,marketing and advertising,linkedin.com/company/ps-occasion,stockholm,ps occasion,stockholm,51-200,psoccasion.se
+sweden,2006,nockeby-parkett-ab,building materials,linkedin.com/company/nockeby-parkett-ab,nacka,nockeby parkett ab,stockholm,11-50,nocekbyparkett.se
+sweden,2012,urban-om,"health, wellness and fitness",linkedin.com/company/urban-om,stockholm,urban om,stockholm,1-10,urbanom.se
+sweden,2019,nordicadhero,marketing and advertising,linkedin.com/company/nordicadhero,"",nordic ad hero ab,skåne,1-10,nordicadhero.se
+sweden,"",glassbolaget-d&s-nsv-ab,"",linkedin.com/company/glassbolaget-d&s-nsv-ab,orebro,glassbolaget d&s nsv ab,orebro lan,11-50,""
+sweden,2013,hl-interactive,program development,linkedin.com/company/hl-interactive,a,hl interactive,vastra gotaland,1-10,hlinteractive.se
+sweden,"",kamic-light-&-safety-marelco,"",linkedin.com/company/kamic-light-&-safety-marelco,"",kamic light & safety / marelco,"",1-10,marelco.se
+sweden,1948,nomo-kullager-ab,international trade and development,linkedin.com/company/nomo-kullager-ab,täby,nomo group,stockholm,51-200,nomo.se
+sweden,2005,db-tak-ab,construction,linkedin.com/company/db-tak-ab,sundbyberg,db tak & entreprenad ab,stockholm,11-50,dbtak.se
+sweden,2008,uclarity-ab,information technology and services,linkedin.com/company/uclarity-ab,"",uclarity ab,stockholm,11-50,uclarity.com
+sweden,2012,actigate,internet,linkedin.com/company/actigate,"",actigate,stockholm,1-10,actigate.com
+sweden,2016,profileagency,events services,linkedin.com/company/profileagency,stockholm,profile agency,stockholm,1-10,profileagency.se
+sweden,1971,eskilstuna-kommun,government administration,linkedin.com/company/eskilstuna-kommun,eskilstuna,eskilstuna kommun,soedermanland,5001-10000,eskilstuna.se
+sweden,2007,mpeinternational,chemicals,linkedin.com/company/mpeinternational,gavle,mpe international ab,gavleborgs lan,1-10,mpei.eu
+sweden,2015,digital-portfolio-control,information technology and services,linkedin.com/company/digital-portfolio-control,"",digital portfolio control (dpc),stockholm,1-10,digitalportfoliocontrol.se
+sweden,2007,martin-edstr-m-studios,photography,linkedin.com/company/martin-edstr-m-studios,stockholm,martin edström photography,stockholm,1-10,martinedstrom.com
+sweden,1973,nolek-ab,mechanical or industrial engineering,linkedin.com/company/nolek-ab,norsborg,"nolek - leak testing, leak detection and proof testing",stockholm,51-200,nolek.com
+sweden,2002,centrum-för-rättvisa,law practice,linkedin.com/company/centrum-för-rättvisa,"",centrum för rättvisa,stockholm,1-10,centrumforrattvisa.se
+sweden,1997,massiveentertainment,computer games,linkedin.com/company/massiveentertainment,malmö,massive entertainment - a ubisoft studio,skåne,501-1000,massive.se
+sweden,2016,minervakompetens,government administration,linkedin.com/company/minervakompetens,"",ugglegård,"",11-50,ugglegard.se
+sweden,2008,responda-ab,outsourcing/offshoring,linkedin.com/company/responda-ab,danderyd,responda ab,stockholm,51-200,responda.se
+sweden,2008,vindbruk-halland-ab,renewables & environment,linkedin.com/company/vindbruk-halland-ab,"",vindbruk halland ab,"",1-10,""
+sweden,2004,tännäskröket,"leisure, travel & tourism",linkedin.com/company/tännäskröket,tannas,tännäskröket,jamtlands lan,1-10,tannaskroket.se
+sweden,"",pingstkyrkan,"",linkedin.com/company/pingstkyrkan,"",pingstkyrkan,"",51-200,pingst.se
+sweden,1912,rydells-f-rs-ljning-ab,retail,linkedin.com/company/rydells-f-rs-ljning-ab,vallentuna,rydells försäljning ab,stockholm,201-500,rydells.se
+sweden,2010,bi-capability-management-ab,computer software,linkedin.com/company/bi-capability-management-ab,"",bi capability management ab,"",1-10,bicm.se
+sweden,2014,platanus-produktion,media production,linkedin.com/company/platanus-produktion,vasastaden,platanus produktion ab,stockholms lan,1-10,platanusproduktion.com
+sweden,2017,findson,internet,linkedin.com/company/findson,jonkoping,findson,jonkopings lan,1-10,findson.se
+sweden,"",awapatent-ab,"",linkedin.com/company/awapatent-ab,"",awapatent ab,skåne,201-500,""
+sweden,2015,clarion-hotel-&-congress-malmö-live,hospitality,linkedin.com/company/clarion-hotel-&-congress-malmö-live,"",clarion hotel & congress malmö live,skåne,51-200,clarionlive.se
+sweden,2008,doneit-konsult,computer & network security,linkedin.com/company/doneit-konsult,"",doneit konsult,"",1-10,doneitkonsult.se
+sweden,2012,chambressweden,apparel & fashion,linkedin.com/company/chambressweden,"",chambres sweden,stockholm,1-10,chambres.se
+sweden,"",anygraaf-ab,graphic design,linkedin.com/company/anygraaf-ab,"",anygraaf ab,"",1-10,anygraaf.se
+sweden,1979,nimbus-communication-ab,marketing and advertising,linkedin.com/company/nimbus-communication-ab,stockholm,nimbus communication,stockholm,1-10,nimbuscom.se
+sweden,"",tage-rejmes-i-linköping-bil-ab,"",linkedin.com/company/tage-rejmes-i-linköping-bil-ab,norrkoping,tage rejmes i linköping bil ab,ostergotlands lan,51-200,""
+sweden,2015,q-clinical-research-consulting,pharmaceuticals,linkedin.com/company/q-clinical-research-consulting,hällestad,q clinical research consulting,östergötland,1-10,qcrc.se
+sweden,2017,bredbandsval.se,telecommunications,linkedin.com/company/bredbandsval.se,"",bredbandsval.se,stockholm,1-10,bredbandsval.se
+sweden,1935,havoline-kemi-ab,chemicals,linkedin.com/company/havoline-kemi-ab,taby,havoline kemi ab,stockholms lan,11-50,havoline.se
+sweden,"",rebelsport.se,sporting goods,linkedin.com/company/rebelsport.se,"",rebelsport.se,"",1-10,rebelsport.se
+sweden,2009,basement-lan,computer games,linkedin.com/company/basement-lan,lund,basement lan,skåne,11-50,basementlan.se
+sweden,"",lessebo-bruk,paper & forest products,linkedin.com/company/lessebo-bruk,"",lessebo bruk,"",11-50,""
+sweden,2015,wahlmans-interiör,retail,linkedin.com/company/wahlmans-interiör,kista,wahlmans interiör,stockholm,1-10,wahlmansinterior.com
+sweden,2019,predictit-talent,staffing and recruiting,linkedin.com/company/predictit-talent,stockholm,predictit talent,stockholm,1-10,predictittalent.com
+sweden,2000,mercedes-benz-malmo,automotive,linkedin.com/company/mercedes-benz-malmo,"",mercedes-benz malmö,skåne,201-500,mercedes-benz-malmo.se
+sweden,"",berglunds-promotion-sweden,furniture,linkedin.com/company/berglunds-promotion-sweden,"",berglunds promotion sweden,"",201-500,berglundsweden.se
+sweden,2001,smartinfo_2,information technology and services,linkedin.com/company/smartinfo_2,bromma,smartinfo sweden ab,stockholm,11-50,smartinfo.se
+sweden,2005,sisp---swedish-incubators-&-science-parks,international trade and development,linkedin.com/company/sisp---swedish-incubators-&-science-parks,stockholm,sisp - swedish incubators & science parks,stockholms lan,501-1000,sisp.se
+sweden,"",ytbehandlingsteknik-i-näsum-ab,"",linkedin.com/company/ytbehandlingsteknik-i-näsum-ab,nasum,ytbehandlingsteknik i näsum ab,skane lan,51-200,""
+sweden,1969,ekokem-ab,environmental services,linkedin.com/company/ekokem-ab,orebro,ekokem ab,orebro lan,51-200,""
+sweden,1848,halsinglandssparbank,banking,linkedin.com/company/halsinglandssparbank,matfors,hälsinglands sparbank,vasternorrlands lan,51-200,halsinglandssparbank.se
+sweden,"",caszilla-ab,management consulting,linkedin.com/company/caszilla-ab,"",caszilla ab,"",1-10,caszilla.com
+sweden,"",lundqvist-m&v,"",linkedin.com/company/lundqvist-m&v,"",lundqvist m&v,"",1-10,lundqvist.se
+sweden,2011,app-nc,broadcast media,linkedin.com/company/app-nc,halmstad,app !nc,halland,1-10,appsolutamente.com
+sweden,1990,levande-interiör-sverige-ab,facilities services,linkedin.com/company/levande-interiör-sverige-ab,"",levande interiör sverige ab,"",11-50,levandeinterior.se
+sweden,"",mediaplaneringisverigeab,marketing and advertising,linkedin.com/company/mediaplaneringisverigeab,umea,mediaplanering i sverige ab,vasterbottens lan,1-10,mediaplanering.se
+sweden,"",grappolini-matsal-&-bar-ab,"",linkedin.com/company/grappolini-matsal-&-bar-ab,"",grappolini matsal & bar ab,stockholm,11-50,""
+sweden,"",elgon,"",linkedin.com/company/elgon,"",elgon,"",11-50,""
+sweden,1996,beier-psykiatri-ab,mental health care,linkedin.com/company/beier-psykiatri-ab,timmernabben,beier psykiatri ab,kalmar,1-10,beierpsykiatri.se
+sweden,2016,startupsweden,government administration,linkedin.com/company/startupsweden,sodermalm,startup sweden,vasternorrlands lan,1-10,startupsweden.com
+sweden,2006,f-retagsplatsen,computer software,linkedin.com/company/f-retagsplatsen,"",företagsplatsen,stockholm,1-10,foretagsplatsen.se
+sweden,2005,riverpoint-ab,information technology and services,linkedin.com/company/riverpoint-ab,"",riverpoint ab,"",1-10,riverpoint.se
+sweden,2007,signa-ab,telecommunications,linkedin.com/company/signa-ab,"",signa ab,stockholm,1-10,signagroup.com
+sweden,1970,systecon-sweden,logistics and supply chain,linkedin.com/company/systecon-sweden,"",systecon sweden,stockholm,11-50,""
+sweden,2017,beansincup,food & beverages,linkedin.com/company/beansincup,solna,beans in cup,stockholms lan,51-200,beansincup.se
+sweden,1981,mitsubishi-motors-sverige,automotive,linkedin.com/company/mitsubishi-motors-sverige,upplands vasby,mitsubishi motors sverige,stockholm,11-50,mmss.se
+sweden,"",sstb-swedish-software-testing-board,computer software,linkedin.com/company/sstb-swedish-software-testing-board,"","sstb, swedish software testing board","",1-10,sstb.se
+sweden,2011,tipser,information technology and services,linkedin.com/company/tipser,stockholm,tipser,stockholm,51-200,tipser.co
+sweden,2015,novanex,management consulting,linkedin.com/company/novanex,vaxjo,novanex,kronoberg,1-10,novanex.co
+sweden,1910,kungligamaskinsektionenths,non-profit organization management,linkedin.com/company/kungligamaskinsektionenths,"","kungliga maskinsektionen, ths",stockholm,11-50,maskinsektionen.se
+sweden,"",cotral-lab-sverige,import and export,linkedin.com/company/cotral-lab-sverige,"",cotral lab sverige,"",1-10,cotral.se
+sweden,"",arel-data-ab,"",linkedin.com/company/arel-data-ab,solna,arel-data ab,stockholm,11-50,""
+sweden,"",four-fm-ab,facilities services,linkedin.com/company/four-fm-ab,alvsjo,four fm ab,stockholm,11-50,fourfm.com
+sweden,"",siljagruppen-arbetshälsan,"",linkedin.com/company/siljagruppen-arbetshälsan,"",siljagruppen arbetshälsan,"",1-10,siljagruppen.se
+sweden,1937,karolinska-university-hospital,hospital & health care,linkedin.com/company/karolinska-university-hospital,solna,karolinska university hospital,stockholm,10001+,karolinska.se
+sweden,2017,spark-group-ab,management consulting,linkedin.com/company/spark-group-ab,stockholm,spark group ab,stockholms lan,11-50,sparkgroup.se
+sweden,2018,projektutsikter,civil engineering,linkedin.com/company/projektutsikter,goteborg,projektutsikter,vastra gotaland,1-10,projektutsikter.se
+sweden,2013,xave,computer software,linkedin.com/company/xave,borås,xavé,vaestra goetaland,11-50,xave.se
+sweden,"",lulebo-ab,real estate,linkedin.com/company/lulebo-ab,"",lulebo ab,"",11-50,lulebo.se
+sweden,2006,inze-psykoterapi-&-konsulting,human resources,linkedin.com/company/inze-psykoterapi-&-konsulting,"",inze psykoterapi & konsulting,"",1-10,inze.nu
+sweden,2010,inre-styrka-ab,performing arts,linkedin.com/company/inre-styrka-ab,sigtuna,inre styrka ab,stockholms lan,1-10,inrestyrka.se
+sweden,"",skoj,events services,linkedin.com/company/skoj,"",skoj,"",1-10,skojevent.se
+sweden,2015,dogfish-consulting-ab,information technology and services,linkedin.com/company/dogfish-consulting-ab,"",dogfish communication ab,"",1-10,dogfish-consulting.se
+sweden,2009,skolcoacherna,education management,linkedin.com/company/skolcoacherna,"",skolcoacherna,stockholm,1-10,skolcoacherna.se
+sweden,2008,oncotargeting-ab,pharmaceuticals,linkedin.com/company/oncotargeting-ab,"",ontarget chemistry,uppsala,11-50,ontargetchemistry.com
+sweden,2013,emotra-ab,medical devices,linkedin.com/company/emotra-ab,savedalen,emotra ab,vastra gotaland,1-10,emotra.se
+sweden,2017,plåt-utemiljö-i-skåne-ab,construction,linkedin.com/company/plåt-utemiljö-i-skåne-ab,jonstorp,plåt & utemiljö i skåne ab,skåne,1-10,plat-utemiljo.se
+sweden,"",fraktkedjan-väst-anläggning-ab,"",linkedin.com/company/fraktkedjan-väst-anläggning-ab,molnlycke,fraktkedjan väst anläggning ab,vastra gotaland,11-50,""
+sweden,1957,arjo,medical devices,linkedin.com/company/arjo,"",arjo,"",1001-5000,""
+sweden,2016,matteknik-stockholm,construction,linkedin.com/company/matteknik-stockholm,"",mätteknik stockholm ab,stockholm,1-10,matteknik-stockholm.se
+sweden,"",orab,"",linkedin.com/company/orab,"",orab,"",11-50,orab-ab.se
+sweden,2007,xmreality,information technology and services,linkedin.com/company/xmreality,ase,xmreality ab,vasternorrlands lan,11-50,xmreality.com
+sweden,1981,beijer-electronics,industrial automation,linkedin.com/company/beijer-electronics,"",beijer electronics,skåne,501-1000,beijerelectronics.com
+sweden,1977,bufab,mechanical or industrial engineering,linkedin.com/company/bufab,"",bufab,"",1001-5000,bufab.com
+sweden,2013,marigold-consultants-ab,marketing and advertising,linkedin.com/company/marigold-consultants-ab,kista,marigold consultants ab,stockholm,1-10,marigoldconsultants.com
+sweden,2012,emporio-nordic-deli-ab,food & beverages,linkedin.com/company/emporio-nordic-deli-ab,"",emporio nordic deli ab,"",1-10,emporio.se
+sweden,"",trilogik-konsult-ab,logistics and supply chain,linkedin.com/company/trilogik-konsult-ab,"",trilogik konsult ab,"",1-10,""
+sweden,"",vendtec-ab,information technology and services,linkedin.com/company/vendtec-ab,taby,vendtec ab,stockholms lan,1-10,vendtec.se
+sweden,1998,inyan,management consulting,linkedin.com/company/inyan,"",inyan - meaingful conversations,uppsala,1-10,inyan.se
+sweden,"",omnivalor,luxury goods & jewelry,linkedin.com/company/omnivalor,"",omnivalor,"",11-50,omnivalor.com
+sweden,1987,betania-organisationsmedicin-ab,"health, wellness and fitness",linkedin.com/company/betania-organisationsmedicin-ab,"",betania organisationsmedicin ab,stockholm,11-50,betania.se
+sweden,2007,techta-ab,information technology and services,linkedin.com/company/techta-ab,stockholm,techta ab,stockholm,11-50,techta.se
+sweden,"",nimab-entreprenad-ab,"",linkedin.com/company/nimab-entreprenad-ab,sjobo,nimab entreprenad ab,vastmanlands lan,51-200,""
+sweden,2013,lunis,internet,linkedin.com/company/lunis,sjomarken,lunis,västra götaland,1-10,lunis.co
+sweden,2012,legal-edge-advisors,legal services,linkedin.com/company/legal-edge-advisors,helsingborg,legal edge ab,skåne,1-10,legaledge.se
+sweden,"",props-utility-solutions-ab,computer software,linkedin.com/company/props-utility-solutions-ab,"",props utility solutions,"",11-50,props.se
+sweden,2010,kronobergshus-ab,real estate,linkedin.com/company/kronobergshus-ab,vaxjo,kronobergshus ab,kronoberg,11-50,kronobergshus.se
+sweden,1998,maingate,telecommunications,linkedin.com/company/maingate,karlskrona,maingate,blekinge,11-50,maingatesolutions.com
+sweden,2003,moll-wenden-advokatbyra,law practice,linkedin.com/company/moll-wenden-advokatbyra,"",moll wendén advokatbyrå,skåne,11-50,mollwenden.com
+sweden,1984,hs-ad-nordic,marketing and advertising,linkedin.com/company/hs-ad-nordic,kista,hs ad nordic,stockholm,1-10,""
+sweden,"",mecdon-i-laxå-ab,"",linkedin.com/company/mecdon-i-laxå-ab,laxa,mecdon i laxå ab,örebro,11-50,""
+sweden,2003,oresund-heavy-industries-ab,shipbuilding,linkedin.com/company/oresund-heavy-industries-ab,landskrona,oresund heavy industries and oresund drydocks ab,skåne,51-200,ohiab.eu
+sweden,2016,medify-ab,information technology and services,linkedin.com/company/medify-ab,stockholm,medify ab,stockholm,1-10,medify.life
+sweden,"",chalmers-studentk-rs-restaurang-ab,food & beverages,linkedin.com/company/chalmers-studentk-rs-restaurang-ab,"",chalmers studentkårs restaurang ab,"",11-50,""
+sweden,2015,chicelite,luxury goods & jewelry,linkedin.com/company/chicelite,gothenburg,chicelite ab,västra götaland,1-10,""
+sweden,1982,narconon-eslöv,"health, wellness and fitness",linkedin.com/company/narconon-eslöv,"",narconon eslöv,skåne,11-50,narconon-eslov.com
+sweden,2017,mindforce-game-lab,"health, wellness and fitness",linkedin.com/company/mindforce-game-lab,"",mindforce game lab,"",1-10,mindforcegamelab.com
+sweden,2011,hittahem-se,real estate,linkedin.com/company/hittahem-se,"",hittahem.se,skåne,11-50,hittahem.se
+sweden,2007,testhuset,human resources,linkedin.com/company/testhuset,karlstad,testhuset,värmland,11-50,testhuset.com
+sweden,1995,magic-house-sweden,food production,linkedin.com/company/magic-house-sweden,valdemarsvik,magic house sweden,östergötland,1-10,drinkmagic.se
+sweden,2008,accelytic,information technology and services,linkedin.com/company/accelytic,kista,accelytic ab,stockholm,1-10,accelytic.se
+sweden,2017,stellacura,human resources,linkedin.com/company/stellacura,stockholm,stellacura ab,stockholms lan,1-10,stellacura.se
+sweden,"",fieldrobotix,airlines/aviation,linkedin.com/company/fieldrobotix,"",fieldrobotix,norrbotten,1-10,fieldrobotix.com
+sweden,2009,myeco-ab---e-bikes-made-in-eu,transportation/trucking/railroad,linkedin.com/company/myeco-ab---e-bikes-made-in-eu,ase,myeco ab - e-bikes made in eu,vasternorrlands lan,1-10,myeco.se
+sweden,2010,dear-friends,marketing and advertising,linkedin.com/company/dear-friends,goteborg,dearfriends,vastra gotaland,11-50,dearfriends.se
+sweden,2000,formpartner-ab,information technology and services,linkedin.com/company/formpartner-ab,"",formpartner ab,stockholm,1-10,formpartner.se
+sweden,2007,fastdev-ab,information technology and services,linkedin.com/company/fastdev-ab,ase,fastdev ab,vasternorrlands lan,51-200,fastdev.se
+sweden,"",dibo-produktionspartner-ab,"",linkedin.com/company/dibo-produktionspartner-ab,katrineholm,dibo produktionspartner ab,soedermanland,11-50,""
+sweden,"",mora-kommun,government administration,linkedin.com/company/mora-kommun,mora,mora kommun,dalarna,1001-5000,mora.se
+sweden,1959,westins.-westins-mekaniska,mechanical or industrial engineering,linkedin.com/company/westins.-westins-mekaniska,"",westins. westins mekaniska,stockholm,1-10,westins.se
+sweden,2004,energiretur-i-umeå-ab,construction,linkedin.com/company/energiretur-i-umeå-ab,umea,energiretur i umeå ab,vasterbottens lan,11-50,energiretur.se
+sweden,"",medartuum-ab,pharmaceuticals,linkedin.com/company/medartuum-ab,"",medartuum ab,"",11-50,medartuum.se
+sweden,"",krawaller,information technology and services,linkedin.com/company/krawaller,"",krawaller,"",1-10,krawaller.se
+sweden,2014,lindeberg-platt-&-golvavjämning-ab,construction,linkedin.com/company/lindeberg-platt-&-golvavjämning-ab,akersberga,lindeberg platt & golvavjämning,stockholms lan,11-50,lpog.se
+sweden,"",conpipe-scandinavia-ab,mechanical or industrial engineering,linkedin.com/company/conpipe-scandinavia-ab,"",conpipe scandinavia ab,"",1-10,conpipe.se
+sweden,2008,obenetwork,information technology and services,linkedin.com/company/obenetwork,hagersten,obenetwork ab,stockholms lan,1-10,obenetwork.com
+sweden,1984,lan-assistans-ab,information technology and services,linkedin.com/company/lan-assistans-ab,norrkoping,lan assistans ab,ostergotlands lan,11-50,lanassistans.se
+sweden,2005,merchworld-ab,retail,linkedin.com/company/merchworld-ab,"",merchworld ab,"",11-50,merchworld.se
+sweden,2014,wiphe-widov-pharmaceutical-engineering,pharmaceuticals,linkedin.com/company/wiphe-widov-pharmaceutical-engineering,jonstorp,"wiphe, widov pharmaceutical engineering ab",skåne,1-10,wiphe.se
+sweden,2007,tjaneski.com,design,linkedin.com/company/tjaneski.com,stockholm,tjaneski.com,stockholms lan,1-10,tjaneski.com
+sweden,1958,stockholms-studentbostäder-sssb,real estate,linkedin.com/company/stockholms-studentbostäder-sssb,"","stockholms studentbostäder, sssb",stockholm,51-200,sssb.se
+sweden,"",plzar-consulting,human resources,linkedin.com/company/plzar-consulting,"",plzar consulting - people partner,uppsala,1-10,plzar.com
+sweden,2011,retail-academics-research-institute,market research,linkedin.com/company/retail-academics-research-institute,stockholm,retail academics research institute,stockholm,11-50,retailacademics.com
+sweden,2017,lmcommunication,management consulting,linkedin.com/company/lmcommunication,orebro,lm communication,orebro lan,1-10,lmcommunication.se
+sweden,1989,handels-börsgrupp,financial services,linkedin.com/company/handels-börsgrupp,goteborg,handels börsgrupp,vastra gotaland,1-10,""
+sweden,2012,octobit-ab,information technology and services,linkedin.com/company/octobit-ab,"",octobit ab,stockholm,1-10,octobit.se
+sweden,1991,eladministration-turesson-&-olsson-ab,management consulting,linkedin.com/company/eladministration-turesson-&-olsson-ab,"",eladministration turesson & olsson ab,skåne,1-10,eladministration.se
+sweden,1985,miljögårdenhb,wholesale,linkedin.com/company/miljögårdenhb,svedala,miljögården hb,skåne,11-50,miljogarden.com
+sweden,1988,compugroup-medical-lab-ab,information technology and services,linkedin.com/company/compugroup-medical-lab-ab,borlange,compugroup medical lab ab,dalarnas lan,51-200,compugroupmedical.se
+sweden,1992,united-power-reklambyr-,marketing and advertising,linkedin.com/company/united-power-reklambyr-,falun,united power se,dalarna,1-10,unitedpower.se
+sweden,2019,capacify,staffing and recruiting,linkedin.com/company/capacify,stockholm,capacify,stockholm,1-10,capacify.se
+sweden,2001,hast-utveckling-ab,management consulting,linkedin.com/company/hast-utveckling-ab,gothenburg,hast utveckling ab,västra götaland,1-10,hastutveckling.se
+sweden,1963,markslöjd-ab,electrical/electronic manufacturing,linkedin.com/company/markslöjd-ab,skene,markslöjd ab,vastra gotaland,51-200,""
+sweden,1870,dalslands-sparbank,banking,linkedin.com/company/dalslands-sparbank,mellerud,dalslands sparbank,vastra gotaland,51-200,dalsbank.se
+sweden,1997,sahlgrenska-science-park,medical devices,linkedin.com/company/sahlgrenska-science-park,"",sahlgrenska science park,"",11-50,sahlgrenskasciencepark.se
+sweden,2013,hummingbird-advertising,marketing and advertising,linkedin.com/company/hummingbird-advertising,"",hummingbird advertising,"",1-10,hummingbirdadvertising.com.au
+sweden,1997,bevaknings-assistans-stockholm-ab,security and investigations,linkedin.com/company/bevaknings-assistans-stockholm-ab,"",bevaknings assistans stockholm ab,stockholm,11-50,bevakningsassistans.se
+sweden,"",nytida-kasper-kollo-ab,"",linkedin.com/company/nytida-kasper-kollo-ab,lund,nytida kasper kollo ab,skåne,11-50,""
+sweden,2014,thehumbleco.,retail,linkedin.com/company/thehumbleco.,"",the humble co.,stockholm,11-50,thehumble.co
+sweden,1936,borås-bil-lastvagnar,automotive,linkedin.com/company/borås-bil-lastvagnar,boras,borås bil lastvagnar ab,vastra gotaland,51-200,""
+sweden,"",skellefteå-industriställningar-ab,"",linkedin.com/company/skellefteå-industriställningar-ab,burea,skellefteå industriställningar ab,vasterbottens lan,11-50,""
+sweden,"",vt-&-consulting,information technology and services,linkedin.com/company/vt-&-consulting,"",vt & consulting,"",1-10,vt-consulting.se
+sweden,"",overcom-svenska-ab,"",linkedin.com/company/overcom-svenska-ab,akersberga,overcom svenska ab,stockholms lan,11-50,""
+sweden,1998,ikivo,computer software,linkedin.com/company/ikivo,bromma,ikivo,stockholm,51-200,ikivo.com
+sweden,2009,protalent-ab,human resources,linkedin.com/company/protalent-ab,trollhättan,protalent ab,vaestra goetaland,1-10,protalent.se
+sweden,2008,svea-fönster-ab,construction,linkedin.com/company/svea-fönster-ab,upplands vasby,svea fönster ab,stockholm,11-50,sveafonster.se
+sweden,2001,dm-tak-ab,construction,linkedin.com/company/dm-tak-ab,"",dm tak ab,"",11-50,dmtak.com
+sweden,"",svenska-moderådet-ab,"",linkedin.com/company/svenska-moderådet-ab,"",svenska moderådet ab,stockholm,1-10,""
+sweden,"",southwestcornerab,biotechnology,linkedin.com/company/southwestcornerab,"",southwest corner ab,uppsala,1-10,southwestcorner.se
+sweden,1988,conservator-ab,construction,linkedin.com/company/conservator-ab,kalmar,conservator,kalmar,1-10,conservator.se
+sweden,"",budid,financial services,linkedin.com/company/budid,"",budid,uppsala,11-50,budid.se
+sweden,2008,vaimo,information technology and services,linkedin.com/company/vaimo,stockholm,vaimo,stockholms lan,201-500,vaimo.com
+sweden,1995,skånes-dansteater,performing arts,linkedin.com/company/skånes-dansteater,"",skånes dansteater,"",11-50,skanesdansteater.se
+sweden,2012,kfsyd,real estate,linkedin.com/company/kfsyd,"",kommersiella fastigheter region syd,skåne,1-10,""
+sweden,2007,sterner-stenhus-fasad-ab,construction,linkedin.com/company/sterner-stenhus-fasad-ab,"",sterner stenhus fasad ab,stockholm,11-50,sternerstenhusfasad.se
+sweden,2010,2035-ab,information technology and services,linkedin.com/company/2035-ab,sundbyberg,2035 ab,stockholm,1-10,2035.se
+sweden,1975,skandinavisk-kommunalteknik-ab,civil engineering,linkedin.com/company/skandinavisk-kommunalteknik-ab,taby,skandinavisk kommunalteknik ab,stockholms lan,11-50,kommunalteknik.se
+sweden,2009,green-in,renewables & environment,linkedin.com/company/green-in,"",green in,"",1-10,ahorroenergiahoy.com.mx
+sweden,"",hallands-hamnar-ab,logistics and supply chain,linkedin.com/company/hallands-hamnar-ab,halmstad,hallands hamnar ab,halland,51-200,portofhalland.se
+sweden,"",bright-circle-consulting,information technology and services,linkedin.com/company/bright-circle-consulting,"",bright circle consulting,"",11-50,bright-circle.com
+sweden,"",prima-barn--och-vuxenpsykiatri-stockholm-ab,"",linkedin.com/company/prima-barn--och-vuxenpsykiatri-stockholm-ab,"",prima barn- och vuxenpsykiatri stockholm ab,stockholm,501-1000,""
+sweden,"",björsons-måleri,"",linkedin.com/company/björsons-måleri,"",björsons måleri,"",11-50,bjorsons.se
+sweden,"",usehigher,staffing and recruiting,linkedin.com/company/usehigher,"",higher,stockholm,1-10,uhigher.se
+sweden,1983,aviator-robotics-ab,aviation & aerospace,linkedin.com/company/aviator-robotics-ab,vallentuna,aviator robotics ab,stockholm,1-10,nordicdino.com
+sweden,"",mobyson,telecommunications,linkedin.com/company/mobyson,"",mobyson,"",1-10,""
+sweden,"",knowit-systems-development-göteborg-ab,information technology and services,linkedin.com/company/knowit-systems-development-göteborg-ab,goteborg,knowit systems development göteborg ab,vastra gotaland,51-200,""
+sweden,2019,xr-tech,entertainment,linkedin.com/company/xr-tech,"",xr tech,stockholm,1-10,xr-tech.se
+sweden,2004,amec-second-opinion,hospital & health care,linkedin.com/company/amec-second-opinion,lund,amec second opinion,skåne,1-10,amec.se
+sweden,2004,active-wellness,"health, wellness and fitness",linkedin.com/company/active-wellness,"",active wellness,"",11-50,activewellness.se
+sweden,2010,hyrcenter,construction,linkedin.com/company/hyrcenter,orebro,hyrcenter nerike ab,orebro lan,11-50,hyrcenter.org
+sweden,2014,xbt-provider,financial services,linkedin.com/company/xbt-provider,"",xbt provider,stockholm,1-10,xbtprovider.com
+sweden,2016,susidex,environmental services,linkedin.com/company/susidex,stockholm,susidex,stockholm,1-10,susidex.com
+sweden,1986,imf-föreningen,non-profit organization management,linkedin.com/company/imf-föreningen,"",imf-föreningen,vaestmanland,1-10,imf-foreningen.se
+sweden,2013,exaktit-sverige-ab,information technology and services,linkedin.com/company/exaktit-sverige-ab,lund,exaktit sverige ab,skåne,1-10,exaktit.se
+sweden,1862,cloetta,consumer goods,linkedin.com/company/cloetta,"",cloetta,stockholm,1001-5000,cloetta.com
+sweden,2007,listan-ab,internet,linkedin.com/company/listan-ab,goteborg,listan ab,vastra gotaland,1-10,listan.se
+sweden,2020,novaprojektbyrå,construction,linkedin.com/company/novaprojektbyrå,umea,novaprojektbyrå,vasterbottens lan,1-10,novaprojektbyra.se
+sweden,2014,ion-game-design,computer games,linkedin.com/company/ion-game-design,stockholm,ion game design,stockholm,11-50,iongamedesign.com
+sweden,1917,ab-gavleg-rdarna,real estate,linkedin.com/company/ab-gavleg-rdarna,gavle,ab gavlegårdarna,gavleborgs lan,51-200,gavlegardarna.se
+sweden,"",arne-lorentzon-ab,"",linkedin.com/company/arne-lorentzon-ab,skovde,arne lorentzon ab,vastra gotaland,11-50,""
+sweden,2003,scharc-group-ab,architecture & planning,linkedin.com/company/scharc-group-ab,"",scharc group,stockholm,11-50,scharc.com
+sweden,1954,camp-scandinavia-ab,hospital & health care,linkedin.com/company/camp-scandinavia-ab,"",camp scandinavia ab,"",51-200,camp.se
+sweden,2008,roi-rekrytering,staffing and recruiting,linkedin.com/company/roi-rekrytering,malmö,roi rekrytering,skåne,11-50,roirekrytering.se
+sweden,2003,iftg-sverige-ab,mechanical or industrial engineering,linkedin.com/company/iftg-sverige-ab,molnlycke,iftg sverige ab,vastra gotaland,1-10,iftg.se
+sweden,"",iab-inredningar-ab,furniture,linkedin.com/company/iab-inredningar-ab,rydaholm,iab inredningar ab,jonkopings lan,11-50,iabab.se
+sweden,2006,boukefaloseasternconsulting,international affairs,linkedin.com/company/boukefaloseasternconsulting,stockholm,boukefalos eastern consulting,stockholm,1-10,boukefaloseastern.com
+sweden,1984,pqr-international-group,civil engineering,linkedin.com/company/pqr-international-group,nacka,pqr international group,stockholm,51-200,pqr.se
+sweden,2012,senior-it-executive-in-sweden,information technology and services,linkedin.com/company/senior-it-executive-in-sweden,"",senior it executive limited (uk and sweden),"",1-10,senioritexecutive.com
+sweden,1963,job-group,environmental services,linkedin.com/company/job-group,kinna,job group,vastra gotaland,201-500,jobgroup.se
+sweden,1992,tourgolf-scandinavia-ab,information services,linkedin.com/company/tourgolf-scandinavia-ab,vastervik,mapping industries,kalmar lan,1-10,mappingindustries.com
+sweden,2016,djursholm-country-club-ab,hospitality,linkedin.com/company/djursholm-country-club-ab,djursholm,djursholm country club at villa pauli,stockholm,11-50,djursholmcountryclub.com
+sweden,1997,regi-ab,management consulting,linkedin.com/company/regi-ab,stockholm,regi research & strategi,stockholms lan,11-50,regi.se
+sweden,2012,aptitud,information technology and services,linkedin.com/company/aptitud,"",aptitud,"",11-50,aptitud.se
+sweden,1928,volvo-trucks,automotive,linkedin.com/company/volvo-trucks,ase,volvo trucks,vasternorrlands lan,10001+,volvotrucks.com
+sweden,"",norfrig-sverige-ab,"",linkedin.com/company/norfrig-sverige-ab,tomelilla,norfrig sverige ab,skåne,11-50,""
+sweden,"",vigour-sibyllegatan-19,"health, wellness and fitness",linkedin.com/company/vigour-sibyllegatan-19,"",vigour sibyllegatan 19,stockholm,1-10,""
+sweden,"",hälsomedicinskt-center-i-hjärup-ab,"",linkedin.com/company/hälsomedicinskt-center-i-hjärup-ab,hjarup,hälsomedicinskt center i hjärup ab,skane lan,51-200,""
+sweden,1922,comforthögbergsrör,construction,linkedin.com/company/comforthögbergsrör,"",comfort högbergs rör,"",51-200,hogbergs.se
+sweden,1920,tidningen-lundag-rd,newspapers,linkedin.com/company/tidningen-lundag-rd,lund,tidningen lundagård,skåne,51-200,lundagard.se
+sweden,2012,dynatech-automotive-ab,automotive,linkedin.com/company/dynatech-automotive-ab,"",dynatech automotive ab,vaestra goetaland,1-10,dynatech.se
+sweden,2012,lindqvistbrand,security and investigations,linkedin.com/company/lindqvistbrand,ockelbo,lindqvist brand & säkerhet ab,gaevleborg,1-10,lindqvistbrand.se
+sweden,1992,select-collection-limited,"leisure, travel & tourism",linkedin.com/company/select-collection-limited,"",select collection ab,stockholm,11-50,selectcollection.com
+sweden,"",wittenstein-sverige,industrial automation,linkedin.com/company/wittenstein-sverige,lomma,wittenstein sverige,skane lan,1-10,wittenstein.se
+sweden,1927,korpen-malmö-if,sports,linkedin.com/company/korpen-malmö-if,"",korpen malmö if,skåne,1-10,korpenmalmoif.se
+sweden,2017,lavery-sthlm,graphic design,linkedin.com/company/lavery-sthlm,"",lavery sthlm,stockholm,1-10,laverysthlm.com
+sweden,2014,pwr-on-ab,business supplies and equipment,linkedin.com/company/pwr-on-ab,"",pwr on ab,stockholm,1-10,pwron.se
+sweden,2013,clearpoint-ab,information technology and services,linkedin.com/company/clearpoint-ab,"",clearpoint ab,"",11-50,clearpoint.se
+sweden,2018,uapehealth,"health, wellness and fitness",linkedin.com/company/uapehealth,"",uape health,skåne,1-10,uapehealth.com
+sweden,2014,tomorrowtoday_se,management consulting,linkedin.com/company/tomorrowtoday_se,lund,tomorrowtoday_se,skåne,1-10,tomorrowtoday.se
+sweden,2014,krypis-by-sweden,retail,linkedin.com/company/krypis-by-sweden,"",krypis by sweden,stockholm,1-10,krypis.se
+sweden,2009,pharma-search-&-advice,management consulting,linkedin.com/company/pharma-search-&-advice,ase,pharma search & advice,vasternorrlands lan,1-10,pharmasearch.se
+sweden,"",f-rsvarsmuseum-boden,museums and institutions,linkedin.com/company/f-rsvarsmuseum-boden,"",försvarsmuseum boden,"",1-10,forsvarsmuseum.se
+sweden,1986,delermaleri,construction,linkedin.com/company/delermaleri,"",delér måleri ab,stockholm,51-200,deler.se
+sweden,2005,centrumkliniken,hospital & health care,linkedin.com/company/centrumkliniken,stockholm,centrumkliniken,stockholm,1-10,centrumkliniken.se
+sweden,2013,c3-konsult-ab,defense & space,linkedin.com/company/c3-konsult-ab,"",c3 konsult ab,stockholm,11-50,c3k.se
+sweden,2009,amcap-group,automotive,linkedin.com/company/amcap-group,taby,amcap group,stockholm,11-50,amcapgroup.se
+sweden,2012,epage,online media,linkedin.com/company/epage,gävle,epage,gaevleborg,1-10,epage.se
+sweden,"",nordic-marine-insurance,insurance,linkedin.com/company/nordic-marine-insurance,"",nordic marine insurance,stockholm,11-50,nmip.se
+sweden,"",kiviks-bygg-ab,"",linkedin.com/company/kiviks-bygg-ab,kivik,kiviks bygg ab,skane lan,11-50,""
+sweden,"",proteam-process-&-cleantech-ab,"",linkedin.com/company/proteam-process-&-cleantech-ab,kolmarden,proteam process & cleantech ab,östergötland,11-50,""
+sweden,2007,swoosh-ab,real estate,linkedin.com/company/swoosh-ab,umea,swoosh ab,vasterbottens lan,51-200,swooshsverige.se
+sweden,"",kennel-cegali,"",linkedin.com/company/kennel-cegali,"",kennel cegali,"",1-10,cegali.se
+sweden,1988,anders-bard-träprodukter-ab,packaging and containers,linkedin.com/company/anders-bard-träprodukter-ab,jönköpings län,anders bard träprodukter ab,jönköping,11-50,abtab.se
+sweden,2010,fotografiska-international,entertainment,linkedin.com/company/fotografiska-international,"",fotografiska international,stockholm,11-50,""
+sweden,2002,delta-projects,internet,linkedin.com/company/delta-projects,stockholm,delta projects,stockholm,51-200,deltaprojects.com
+sweden,2016,jensa-consulting,entertainment,linkedin.com/company/jensa-consulting,stockholm,jensa consulting,stockholms lan,1-10,jensa.consulting
+sweden,2001,cad-resurs-ab,electrical/electronic manufacturing,linkedin.com/company/cad-resurs-ab,linkoping,cad-resurs ab,ostergotlands lan,1-10,cad-resurs.se
+sweden,"",foretagarna-nacka-varmdo,civic & social organization,linkedin.com/company/foretagarna-nacka-varmdo,nacka,företagarna nacka värmdö,stockholms lan,1-10,""
+sweden,2011,koordium-consulting-ab,information technology and services,linkedin.com/company/koordium-consulting-ab,"",koordium consulting ab,"",1-10,koordium.se
+sweden,"",scandinavian-sync,music,linkedin.com/company/scandinavian-sync,"",scandinavian sync,stockholm,1-10,scandinaviansync.com
+sweden,"",sunaru-ab,"",linkedin.com/company/sunaru-ab,taby,sunaru ab,stockholms lan,11-50,""
+sweden,1995,pahlsonsdaylight,media production,linkedin.com/company/pahlsonsdaylight,"",påhlsons daylight ab,stockholm,11-50,pahlsonsdaylight.com
+sweden,2020,salutiva,management consulting,linkedin.com/company/salutiva,karlshamn,salutiva,blekinge,1-10,salutiva.se
+sweden,1994,teknik-kontor-servrar-i-örebro-ab,information technology and services,linkedin.com/company/teknik-kontor-servrar-i-örebro-ab,orebro,teknik kontor servrar i örebro ab,orebro lan,1-10,tksdata.se
+sweden,2017,tannerstad-films,motion pictures and film,linkedin.com/company/tannerstad-films,orebro,tannerstad films,orebro lan,1-10,""
+sweden,2012,ftiab,environmental services,linkedin.com/company/ftiab,solna,förpacknings- och tidningsinsamlingen,stockholm,51-200,""
+sweden,"",nilali-ab,international affairs,linkedin.com/company/nilali-ab,gothenburg,nilali ab,västra götaland,1-10,""
+sweden,1973,gösab-sotning,individual & family services,linkedin.com/company/gösab-sotning,västra götalands län,gösab sotning,vaestra goetaland,11-50,gosab.se
+sweden,"",glasma,"",linkedin.com/company/glasma,"",glasma,"",1-10,glasma.se
+sweden,2003,john-egan-farley-design,marketing and advertising,linkedin.com/company/john-egan-farley-design,"",jf digital,stockholm,1-10,""
+sweden,2016,eko-miljöpartner-ab,renewables & environment,linkedin.com/company/eko-miljöpartner-ab,"",eko miljöpartner ab,"",1-10,ekomiljo.com
+sweden,2007,novasell-ab,professional training & coaching,linkedin.com/company/novasell-ab,"",novasell ab,"",1-10,novasell.se
+sweden,"",giv-akt-skåne-ab,"",linkedin.com/company/giv-akt-skåne-ab,"",giv akt skåne ab,skåne,11-50,""
+sweden,2013,steny-ab,building materials,linkedin.com/company/steny-ab,lund,steny ab,skåne,51-200,steny.se
+sweden,"",odi-pharma,pharmaceuticals,linkedin.com/company/odi-pharma,"",odi pharma,stockholm,1-10,odipharma.com
+sweden,"",bohmans-däck-i-norrköping-ab,"",linkedin.com/company/bohmans-däck-i-norrköping-ab,norrkoping,bohmans däck i norrköping ab,ostergotlands lan,1-10,""
+sweden,2009,fondiasverige,law practice,linkedin.com/company/fondiasverige,göteborg,jansson & norin,vaestra goetaland,51-200,janssonnorin.se
+sweden,"",neonom-ab,"",linkedin.com/company/neonom-ab,nora,neonom ab,gavleborgs lan,11-50,""
+sweden,2017,asfaltigbg,facilities services,linkedin.com/company/asfaltigbg,goteborg,asfalt i gbg ab,vastra gotaland,11-50,asfaltigbg.se
+sweden,"",stockholms-sjötrafik-ab,maritime,linkedin.com/company/stockholms-sjötrafik-ab,stockholm,stockholms sjötrafik ab,stockholm,11-50,""
+sweden,2010,glimworks,computer software,linkedin.com/company/glimworks,lund,glimworks,skåne,1-10,glimworks.se
+sweden,1962,m-ssrestauranger-ab,food & beverages,linkedin.com/company/m-ssrestauranger-ab,"",mässrestauranger ab,"",51-200,massrestauranger.se
+sweden,"",l'occitane-nordic-ab,"",linkedin.com/company/l'occitane-nordic-ab,"",l'occitane nordic ab,stockholm,11-50,""
+sweden,1999,globaltrader,import and export,linkedin.com/company/globaltrader,helsingborg,gtg global trader group,skåne,1-10,globaltrader.se
+sweden,2016,29k,"health, wellness and fitness",linkedin.com/company/29k,"","",stockholm,1-10,29k.org
+sweden,1973,landskapslaget-se,architecture & planning,linkedin.com/company/landskapslaget-se,"",landskapslaget ab,"",51-200,""
+sweden,1865,fmmattsson-moragroup,mechanical or industrial engineering,linkedin.com/company/fmmattsson-moragroup,mora,fm mattsson mora group,dalarna,501-1000,fmm-mora.com
+sweden,2005,testfakta-group,consumer goods,linkedin.com/company/testfakta-group,"",testfakta research nordic ab,stockholm,11-50,testfakta.com
+sweden,2017,softcall-ab,telecommunications,linkedin.com/company/softcall-ab,varmland,softcall ab,gavleborgs lan,1-10,""
+sweden,"",vilén-&-associates-ab,management consulting,linkedin.com/company/vilén-&-associates-ab,stockholm,vilén & associates ab,stockholm,1-10,""
+sweden,"",swema-ab,"",linkedin.com/company/swema-ab,farsta,swema ab,stockholm,11-50,""
+sweden,2016,kost-i-norr,"health, wellness and fitness",linkedin.com/company/kost-i-norr,gammelstad,kost i norr,norrbotten,1-10,kostinorr.se
+sweden,2018,webicient-team,information technology and services,linkedin.com/company/webicient-team,"",webicient ab,stockholm,1-10,webicient.com
+sweden,2013,bun-bun-truck,restaurants,linkedin.com/company/bun-bun-truck,"",bun bun,stockholm,1-10,bunbun.se
+sweden,2004,lifepod-by-cross,hospital & health care,linkedin.com/company/lifepod-by-cross,lund,lifepod by cross,skåne,11-50,cross-solutions.com
+sweden,2016,jonsson-&-lindeblad-advokatbyrå,law practice,linkedin.com/company/jonsson-&-lindeblad-advokatbyrå,helsingborg,jonsson & lindeblad advokatbyrå,skåne,1-10,jonssonlindeblad.se
+sweden,"",veddesta-distribution-ab,logistics and supply chain,linkedin.com/company/veddesta-distribution-ab,"",veddesta distribution ab,"",11-50,veddesta-distribution.se
+sweden,2014,paralox-ab,construction,linkedin.com/company/paralox-ab,sundsvall,paralox ab,västernorrland,11-50,paralox.se
+sweden,"",fidelis-ekonomi-ab,"",linkedin.com/company/fidelis-ekonomi-ab,spanga,fidelis ekonomi ab,uppsala lan,11-50,""
+sweden,"",current-apps-stockholm,computer software,linkedin.com/company/current-apps-stockholm,"",current apps stockholm,"",1-10,currentapps.se
+sweden,2018,kappex-ab,retail,linkedin.com/company/kappex-ab,stockholm,kappex ab,stockholm,1-10,kappex.se
+sweden,2014,addema-ab,plastics,linkedin.com/company/addema-ab,jönköping,addema ab,jönköping,1-10,addema.se
+sweden,1997,idesign-ab,design,linkedin.com/company/idesign-ab,"",idesign ab,stockholm,1-10,idesign.se
+sweden,2008,f-rgfabrikens-kaf-,restaurants,linkedin.com/company/f-rgfabrikens-kaf-,stockholm,färgfabrikens kafé,stockholms lan,11-50,fargfabrikenskafe.se
+sweden,2005,fasadautomatik-ab,construction,linkedin.com/company/fasadautomatik-ab,bromma,fasadautomatik ab,stockholm,1-10,fasadautomatik.se
+sweden,2016,bøthofus,information technology and services,linkedin.com/company/bøthofus,stockholm,bøthofus,stockholm,1-10,""
+sweden,2017,stockholmiplawreview,legal services,linkedin.com/company/stockholmiplawreview,stockholm,stockholm intellectual property law review,stockholm,1-10,stockholmiplawreview.com
+sweden,2019,lova-change-ab,management consulting,linkedin.com/company/lova-change-ab,"",lova change ab,stockholm,1-10,lovachange.se
+sweden,1999,genovis,biotechnology,linkedin.com/company/genovis,ase,genovis ab,vasternorrlands lan,11-50,genovis.com
+sweden,"",svea,law practice,linkedin.com/company/svea,"",svea hovrätt,"",51-200,svea.se
+sweden,2006,cliente,management consulting,linkedin.com/company/cliente,"",cliente,stockholm,11-50,cliente.se
+sweden,"",netto-marknad-sverige-ab,"",linkedin.com/company/netto-marknad-sverige-ab,falkenberg,netto marknad sverige ab,halland,1001-5000,""
+sweden,2017,newnezz,management consulting,linkedin.com/company/newnezz,stockholm,newnezz,stockholm,1-10,newnezz.com
+sweden,"",derome-hus-ab,"",linkedin.com/company/derome-hus-ab,varberg,derome hus ab,halland,51-200,""
+sweden,2011,measol-miljö-energi-ansvar-sverige-ab,environmental services,linkedin.com/company/measol-miljö-energi-ansvar-sverige-ab,tumba,measol | miljö & energi ansvar sverige ab,stockholm,1-10,measol.se
+sweden,2014,sec-datacom-sverige,computer & network security,linkedin.com/company/sec-datacom-sverige,solna,sec datacom ab,stockholm,11-50,secdatacom.se
+sweden,1999,adstream-ab,marketing and advertising,linkedin.com/company/adstream-ab,"",adstream ab,"",1-10,adstream.se
+sweden,2017,restaurangaktuen,restaurants,linkedin.com/company/restaurangaktuen,nacka,restaurangakuten,stockholm,51-200,restaurangakuten.com
+sweden,1991,specialresor-unlimited-ab,"leisure, travel & tourism",linkedin.com/company/specialresor-unlimited-ab,karlstad,specialresor unlimited ab,värmland,11-50,special-resor.se
+sweden,2003,säkra-larm-i-sverige-ab,security and investigations,linkedin.com/company/säkra-larm-i-sverige-ab,molndal,säkra larm i sverige ab,vastra gotaland,51-200,sakralarm.se
+sweden,2011,inspirepro,information technology and services,linkedin.com/company/inspirepro,"",inspirepro,uppsala,11-50,inspirepro.eu
+sweden,1969,leissner-data-ab,telecommunications,linkedin.com/company/leissner-data-ab,"",leissner data ab,"",11-50,""
+sweden,2011,papacreative-ab,marketing and advertising,linkedin.com/company/papacreative-ab,"",papacreative ab,"",1-10,papacreative.com
+sweden,"",tdri-robotics,industrial automation,linkedin.com/company/tdri-robotics,"",tdri robotics,stockholm,1-10,tdri.se
+sweden,"",bsm-wreckers-ab,"",linkedin.com/company/bsm-wreckers-ab,hofors,bsm wreckers ab,gävleborg,1-10,""
+sweden,1999,erikshjälpen-second-hand-butiker,non-profit organization management,linkedin.com/company/erikshjälpen-second-hand-butiker,huskvarna,erikshjälpen second hand butiker,jönköping,51-200,erikshjalpen.se
+sweden,2017,global-wealth-investment-group,investment banking,linkedin.com/company/global-wealth-investment-group,huddinge,global wealth investment group,stockholm,1-10,globalwealthinvestmentgroup.com
+sweden,2005,direct-it-ltd,information technology and services,linkedin.com/company/direct-it-ltd,partille,direct it ltd,vaestra goetaland,1-10,directitltd.co.uk
+sweden,"",ports-of-stockholm,maritime,linkedin.com/company/ports-of-stockholm,stockholm,ports of stockholm,stockholm,51-200,stockholmshamnar.se
+sweden,2012,pixney,internet,linkedin.com/company/pixney,ostersund,pixney,jamtlands lan,1-10,pixney.com
+sweden,"",hjärnskadeförbundet-hjärnkraft,"",linkedin.com/company/hjärnskadeförbundet-hjärnkraft,"",hjärnskadeförbundet hjärnkraft,"",11-50,hjarnkraft.se
+sweden,2004,a-b-andersson,information technology and services,linkedin.com/company/a-b-andersson,"",a.b. andersson,"",1-10,abandersson.com
+sweden,2014,utvecklarbolaget,information technology and services,linkedin.com/company/utvecklarbolaget,"",utvecklarbolaget,stockholm,11-50,utvecklarbolaget.se
+sweden,"",levigo,information technology and services,linkedin.com/company/levigo,stockholm,levigo,stockholms lan,1-10,levigo.se
+sweden,"",isy-informationssystem-ab,"",linkedin.com/company/isy-informationssystem-ab,halmstad,isy informationssystem ab,halland,11-50,""
+sweden,2019,optivia-ab,civil engineering,linkedin.com/company/optivia-ab,uddevalla,optivia ab,vastra gotaland,1-10,optivia.se
+sweden,"",östersundshem,real estate,linkedin.com/company/östersundshem,jamtland,östersundshem,vasterbottens lan,51-200,ostersundshem.se
+sweden,2020,ybotx-ab,sporting goods,linkedin.com/company/ybotx-ab,"",ybotx ab,stockholm,1-10,ybotx.se
+sweden,2002,rt-labs,computer software,linkedin.com/company/rt-labs,goteborg,rt-labs,vastra gotaland,11-50,rt-labs.com
+sweden,"",tesia-ab,staffing and recruiting,linkedin.com/company/tesia-ab,"",tesia ab,"",1-10,tesia.se
+sweden,"",sme-d,defense & space,linkedin.com/company/sme-d,"","sme-d, the swedish association of small and medium size enterprises in defense and security","",1-10,sme-d.se
+sweden,1993,kunskapscompaniet,professional training & coaching,linkedin.com/company/kunskapscompaniet,eskilstuna,kunskapscompaniet,soedermanland,51-200,kunskapscompaniet.se
+sweden,2010,b3-innovation-ab,information technology and services,linkedin.com/company/b3-innovation-ab,"",b3 innovation ab,stockholm,11-50,b3innovation.se
+sweden,"",oscs,information technology and services,linkedin.com/company/oscs,"",oscs,"",11-50,oscs.se
+sweden,"",videoteket-i-luleå-ab,"",linkedin.com/company/videoteket-i-luleå-ab,skelleftea,videoteket i luleå ab,vasterbottens lan,11-50,""
+sweden,2008,climacare-ab,construction,linkedin.com/company/climacare-ab,västra frölunda,climacare ab,vaestra goetaland,11-50,climacare.se
+sweden,2001,24mas,telecommunications,linkedin.com/company/24mas,nacka,24mas,stockholm,51-200,24mas.com
+sweden,2010,tetiko,human resources,linkedin.com/company/tetiko,varberg,tetiko,halland,11-50,tetiko.se
+sweden,2017,sharpguy-digital-media,information technology and services,linkedin.com/company/sharpguy-digital-media,stockholm,sharpguy digital & media,stockholms lan,1-10,sharpguy.se
+sweden,1974,vellinge-kommun,government administration,linkedin.com/company/vellinge-kommun,vellinge,vellinge kommun,skåne,1001-5000,vellinge.se
+sweden,2014,analyst-group,financial services,linkedin.com/company/analyst-group,"",analyst group,stockholm,11-50,analystgroup.se
+sweden,2010,veroveli,information technology and services,linkedin.com/company/veroveli,"",veroveli,stockholm,11-50,veroveli.se
+sweden,2015,strong-mom-app,"health, wellness and fitness",linkedin.com/company/strong-mom-app,"",strongmom app,skåne,1-10,strongmomapp.com
+sweden,"",ab-gense,"",linkedin.com/company/ab-gense,eskilstuna,ab gense,soedermanland,11-50,""
+sweden,2004,stockholm-business-region,government administration,linkedin.com/company/stockholm-business-region,"",stockholm business region,stockholm,51-200,""
+sweden,2003,hc-business-software,computer software,linkedin.com/company/hc-business-software,"",hc business software,"",1-10,hcbs.se
+sweden,2003,swedtech-diving-ab,education management,linkedin.com/company/swedtech-diving-ab,"",swedtech diving ab,"",1-10,swedtechdiving.com
+sweden,2008,canbe-ab,management consulting,linkedin.com/company/canbe-ab,stockholm,canbe interim management ab,stockholms lan,1-10,canbe.se
+sweden,1981,lundwall-architects,architecture & planning,linkedin.com/company/lundwall-architects,gothenburg,lundwall architects,västra götaland,1-10,lwa.se
+sweden,"",peacock-advertising,marketing and advertising,linkedin.com/company/peacock-advertising,"",peacock advertising,"",11-50,peacock.se
+sweden,"",ab-enkopings-bilkompani,automotive,linkedin.com/company/ab-enkopings-bilkompani,"",ab enkopings bilkompani,"",11-50,enkopings-bilkompani.se
+sweden,1999,scandfibre,logistics and supply chain,linkedin.com/company/scandfibre,orebro,scandfibre logistics ab,orebro lan,11-50,scandfibre.se
+sweden,"",stiern-consulting,civil engineering,linkedin.com/company/stiern-consulting,"",stiern consulting,"",1-10,uppsala.com
+sweden,"",misa-kompetens-ab,education management,linkedin.com/company/misa-kompetens-ab,solna,misa kompetens ab,stockholm,1-10,misakompetens.se
+sweden,2001,salientpoint-ab,computer software,linkedin.com/company/salientpoint-ab,stockholm,salientpoint ab,stockholm,1-10,salientpoint.com
+sweden,2007,valueguard-index-sweden,real estate,linkedin.com/company/valueguard-index-sweden,"",valueguard index sweden,uppsala,11-50,valueguard.se
+sweden,1973,swereco-rehab-ab,"health, wellness and fitness",linkedin.com/company/swereco-rehab-ab,"",swereco rehab ab,stockholm,1-10,""
+sweden,2002,headlong-development-ab,information technology and services,linkedin.com/company/headlong-development-ab,"",headlong development ab,"",1-10,headlong.se
+sweden,"",vetrigroup,construction,linkedin.com/company/vetrigroup,laholm,vetri,halland,51-200,vetri.se
+sweden,"",aveso-ab,computer software,linkedin.com/company/aveso-ab,linkoping,aveso ab,ostergotlands lan,1-10,aveso.se
+sweden,2001,svenskroranalys,utilities,linkedin.com/company/svenskroranalys,"",svensk röranalys ab,stockholm,51-200,roranalys.se
+sweden,1999,x-scape-infomedia-ab,information technology and services,linkedin.com/company/x-scape-infomedia-ab,stockholm,x-scape infomedia ab,stockholm,11-50,x-scape.se
+sweden,2017,cykelpoolen,environmental services,linkedin.com/company/cykelpoolen,jonkoping,cykelpoolen sverige ab,jonkopings lan,1-10,cykelpoolen.se
+sweden,2003,sjoliv,construction,linkedin.com/company/sjoliv,"",sjöliv ab,stockholm,11-50,""
+sweden,2011,apprexo,computer software,linkedin.com/company/apprexo,uppsala,apprexo,uppsala,1-10,apprexo.se
+sweden,"",allied-service-partners-ab,real estate,linkedin.com/company/allied-service-partners-ab,"",allied service partners ab,"",1-10,aspab.se
+sweden,1982,resecity,"leisure, travel & tourism",linkedin.com/company/resecity,"",resecity,"",1-10,""
+sweden,1998,consentio-ledarskap-ab,higher education,linkedin.com/company/consentio-ledarskap-ab,orebro,consentio ledarskap ab,orebro lan,11-50,ledarskap.se
+sweden,"",azool,"",linkedin.com/company/azool,"",azool,"",1-10,azool.se
+sweden,"",ryns-skovaruhus-ab,retail,linkedin.com/company/ryns-skovaruhus-ab,"",ryns skovaruhus ab,"",11-50,ryns.se
+sweden,1999,axichem,biotechnology,linkedin.com/company/axichem,"",axichem,skåne,1-10,axichem.com
+sweden,"",birth,online media,linkedin.com/company/birth,"",birth,"",1-10,birth.se
+sweden,1996,iene,non-profit organization management,linkedin.com/company/iene,linkoping,iene - infra eco network europe (official page),ostergotlands lan,1-10,iene.info
+sweden,2012,team-jamec,marketing and advertising,linkedin.com/company/team-jamec,"",team jamec,"",1-10,teamjamec.se
+sweden,2008,skogsberg&smart-ltd,luxury goods & jewelry,linkedin.com/company/skogsberg&smart-ltd,"",skogsberg&smart,"",1-10,skogsbergsmart.com
+sweden,2014,no-plan-b-education,professional training & coaching,linkedin.com/company/no-plan-b-education,skellefteå,no plan b education,vaesterbotten,1-10,noplanb.se
+sweden,2014,gr8it-sundsvall-ab,management consulting,linkedin.com/company/gr8it-sundsvall-ab,"",gr8it sundsvall ab,"",1-10,gr8it.se
+sweden,2008,biofuel-express,oil & energy,linkedin.com/company/biofuel-express,landskrona,biofuel express,skåne,11-50,biofuel-express.com
+sweden,2012,fitnessbolaget-scandinavia-ab,sporting goods,linkedin.com/company/fitnessbolaget-scandinavia-ab,"",fitnessbolaget scandinavia ab,"",1-10,fitnessbolaget.com
+sweden,2000,sporrongeriksson,accounting,linkedin.com/company/sporrongeriksson,kalmar,sporrong & eriksson revisionsbyrå ab,kalmar,11-50,sporrongeriksson.se
+sweden,1997,nethouse,information technology and services,linkedin.com/company/nethouse,orebro,nethouse,orebro lan,51-200,nethouse.se
+sweden,"",attofflaw,law practice,linkedin.com/company/attofflaw,"",advokatfirman attoff law ab,"",1-10,attofflaw.se
+sweden,"",ab-lipac-liftar,"",linkedin.com/company/ab-lipac-liftar,bromma,ab lipac liftar,stockholm,11-50,""
+sweden,"",rejlers-energitjänster-ab,"",linkedin.com/company/rejlers-energitjänster-ab,motala,rejlers energitjänster ab,östergötland,11-50,""
+sweden,1999,acorn-reklam-&-design,graphic design,linkedin.com/company/acorn-reklam-&-design,"",acorn reklam & design,stockholm,1-10,acornreklam.se
+sweden,2011,permian-administration-ab,financial services,linkedin.com/company/permian-administration-ab,"",permian administration ab,stockholm,1-10,permian.se
+sweden,2016,widriksson-consulting-ab,information technology and services,linkedin.com/company/widriksson-consulting-ab,smaland,widriksson consulting ab,jamtlands lan,1-10,widriksson.se
+sweden,2017,381-entreprenad-ab,construction,linkedin.com/company/381-entreprenad-ab,"",381 bygg,stockholm,11-50,381bygg.com
+sweden,1850,hallandsposten,newspapers,linkedin.com/company/hallandsposten,halmstad,hallandsposten,halland,51-200,hallandsposten.se
+sweden,1988,boverket,government administration,linkedin.com/company/boverket,karlskrona,boverket,blekinge,201-500,boverket.se
+sweden,2006,projektledarbyran,civil engineering,linkedin.com/company/projektledarbyran,falun,projektledarbyrån,dalarnas lan,11-50,projektledarbyran.se
+sweden,"",creacon-hkab,construction,linkedin.com/company/creacon-hkab,halmstad,creacon-hkab,halland,51-200,creaconhkab.se
+sweden,1993,runnzell-ab,wholesale,linkedin.com/company/runnzell-ab,uttran,runnzell ab,stockholm,1-10,runnzell.se
+sweden,"",strabag-brvz-ab,"",linkedin.com/company/strabag-brvz-ab,kumla,strabag brvz ab,örebro,11-50,""
+sweden,2012,drakstadens-omsorg-ab,individual & family services,linkedin.com/company/drakstadens-omsorg-ab,sundsvall,drakstadens omsorg ab,vasternorrlands lan,1-10,drakstadensomsorg.se
+sweden,"",pd-bevakning-ab,"",linkedin.com/company/pd-bevakning-ab,ostersund,pd bevakning ab,jamtlands lan,11-50,""
+sweden,1922,teknologisk-institut-ab-sverige,professional training & coaching,linkedin.com/company/teknologisk-institut-ab-sverige,goteborg,teknologisk institut ab sverige,vastra gotaland,51-200,teknologiskinstitut.se
+sweden,2019,tekona-ab,civil engineering,linkedin.com/company/tekona-ab,kungsbacka,tekona ab,halland,1-10,tekona.se
+sweden,"",the-packaging-arena-business-association,packaging and containers,linkedin.com/company/the-packaging-arena-business-association,"",packaging arena business association,"",1-10,packagingarena.com
+sweden,2014,silka-law-ab,legal services,linkedin.com/company/silka-law-ab,"",silka law ab,stockholm,1-10,silkalaw.com
+sweden,2012,art-of-veda,fine art,linkedin.com/company/art-of-veda,ekerö,art of veda,stockholm,1-10,artofveda.com
+sweden,2018,international-conference-sales,events services,linkedin.com/company/international-conference-sales,uppsala,international conference sales,uppsala lan,11-50,conferencesales.eu
+sweden,1952,hedareds-sand-&-betong-ab,construction,linkedin.com/company/hedareds-sand-&-betong-ab,hedared,hedareds sand & betong,västra götaland,51-200,heda.se
+sweden,"",hyrpoolen-ab,construction,linkedin.com/company/hyrpoolen-ab,lindome,hyrpoolen ab,vastra gotaland,1-10,hyrpoolenab.se
+sweden,1990,svensk-linjebesiktning-ab,information technology and services,linkedin.com/company/svensk-linjebesiktning-ab,solleftea,svensk linjebesiktning ab,vasternorrlands lan,11-50,linjebesiktning.se
+sweden,2019,by-tareq-taylor,retail,linkedin.com/company/by-tareq-taylor,lomma,by tareq taylor,skåne,1-10,""
+sweden,"",juristernas-företagskonsult-ab,"",linkedin.com/company/juristernas-företagskonsult-ab,"",juristernas företagskonsult ab,stockholm,1-10,""
+sweden,2002,great-works,marketing and advertising,linkedin.com/company/great-works,"",great works,stockholm,51-200,greatworks.com
+sweden,"",konfektyrfabriken-aroma-ab,"",linkedin.com/company/konfektyrfabriken-aroma-ab,torshalla,konfektyrfabriken aroma ab,sodermanlands lan,11-50,""
+sweden,2016,harvest-moon-ab,design,linkedin.com/company/harvest-moon-ab,skondal,harvest moon ab,stockholm,1-10,""
+sweden,2009,performing-pictures,media production,linkedin.com/company/performing-pictures,"",performing pictures,"",1-10,performingpictures.se
+sweden,1987,newbody-ab,non-profit organization management,linkedin.com/company/newbody-ab,vastra frolunda,newbody ab,vastra gotaland,11-50,newbody.se
+sweden,2015,renvitend-ab,management consulting,linkedin.com/company/renvitend-ab,"",renvitend ab,"",1-10,renvitend.se
+sweden,2010,wecloud-ab,information technology and services,linkedin.com/company/wecloud-ab,"",wecloud ab,skåne,11-50,wecloud.se
+sweden,2013,inclusive-business-sweden,international trade and development,linkedin.com/company/inclusive-business-sweden,göteborg,inclusive business sweden,vaestra goetaland,1-10,inclusivebusiness.se
+sweden,"",lyxell-consulting-hb,management consulting,linkedin.com/company/lyxell-consulting-hb,onsala,lyxell consulting hb,halland,1-10,""
+sweden,2013,lardell-sweden-ab,electrical/electronic manufacturing,linkedin.com/company/lardell-sweden-ab,"",lardell sweden ab,"",1-10,lardellsweden.se
+sweden,"",täby-badmintonhall-ab,"",linkedin.com/company/täby-badmintonhall-ab,taby,täby badmintonhall ab,stockholms lan,1-10,""
+sweden,"",infoping,information technology and services,linkedin.com/company/infoping,uppsala,infoping,uppsala,1-10,infoping.se
+sweden,2020,inner-nature,writing and editing,linkedin.com/company/inner-nature,gustavsberg,inner nature,stockholm,1-10,innernature.se
+sweden,1965,dandent,business supplies and equipment,linkedin.com/company/dandent,taby,dandent ab,stockholm,11-50,dandent.se
+sweden,1992,bergdahls-ab,electrical/electronic manufacturing,linkedin.com/company/bergdahls-ab,linkoping,bergdahls ab,ostergotlands lan,11-50,bergdahls.com
+sweden,"",cefalo-ab,computer software,linkedin.com/company/cefalo-ab,"",cefalo ab,stockholm,11-50,""
+sweden,1993,cowi-projektbyrån-ab,construction,linkedin.com/company/cowi-projektbyrån-ab,"",cowi projektbyrån ab,stockholm,51-200,""
+sweden,"",ica-kvantum-lidingö,retail,linkedin.com/company/ica-kvantum-lidingö,"",ica kvantum lidingö,stockholm,51-200,""
+sweden,"",cdt---centre-for-distance-spanning-technology,information technology and services,linkedin.com/company/cdt---centre-for-distance-spanning-technology,lulea,cdt - centre for distance-spanning technology,norrbottens lan,11-50,""
+sweden,"",streamcode,online media,linkedin.com/company/streamcode,boras,streamcode sweden ab,vastra gotaland,1-10,streamcode.se
+sweden,"",norfolkline-ab,logistics and supply chain,linkedin.com/company/norfolkline-ab,"",norfolkline ab,"",11-50,""
+sweden,1960,k-&-r-carlbergs-i-göteborg-ab,civil engineering,linkedin.com/company/k-&-r-carlbergs-i-göteborg-ab,goteborg,carlbergs i göteborg ab,vastra gotaland,51-200,carlbergs.se
+sweden,2010,checkbiz-ab,information services,linkedin.com/company/checkbiz-ab,molndal,checkbiz ab,vastra gotaland,11-50,checkbiz.se
+sweden,2015,communicating-things,consumer electronics,linkedin.com/company/communicating-things,"",communicating things,"",1-10,communicatingthings.com
+sweden,"",akademin-valand-göteborgs-universitet,museums and institutions,linkedin.com/company/akademin-valand-göteborgs-universitet,"",akademin valand göteborgs universitet,"",11-50,""
+sweden,1992,pacsystem,packaging and containers,linkedin.com/company/pacsystem,helsingborg,pacsystem,skåne,11-50,pacsystem.se
+sweden,2017,9vbsverige,mental health care,linkedin.com/company/9vbsverige,"",9vb sverige ab,skåne,11-50,9vb.se
+sweden,2013,moradi-partners,management consulting,linkedin.com/company/moradi-partners,stockholm,moradi partners,stockholms lan,1-10,moradipartners.com
+sweden,2014,pagescoop-digital-media-pvt-ltd,construction,linkedin.com/company/pagescoop-digital-media-pvt-ltd,"",pagescoop soch ab,stockholm,11-50,sochab.com
+sweden,2006,agapi-boating-ab,shipbuilding,linkedin.com/company/agapi-boating-ab,"",agapi boating ab,"",11-50,""
+sweden,1906,eonsverige,oil & energy,linkedin.com/company/eonsverige,"",e.on sverige,skåne,1001-5000,eon.se
+sweden,2016,vacca,retail,linkedin.com/company/vacca,"",vacca,stockholm,1-10,""
+sweden,"",the-sahlgrenska-academy,"health, wellness and fitness",linkedin.com/company/the-sahlgrenska-academy,"",the sahlgrenska academy,"",11-50,""
+sweden,2020,xalestechlab,internet,linkedin.com/company/xalestechlab,"",xales,stockholm,1-10,xales.io
+sweden,2006,ravnbo-design,graphic design,linkedin.com/company/ravnbo-design,karlskrona,ravnbo design,blekinge,1-10,ravnbo.com
+sweden,2018,agile-thinking-ab,management consulting,linkedin.com/company/agile-thinking-ab,linkoping,agile thinking ab,ostergotlands lan,1-10,agilethinking.se
+sweden,1955,höglunds-bil-ab,automotive,linkedin.com/company/höglunds-bil-ab,norrtalje,höglunds bil,stockholms lan,11-50,hoglundsbil.se
+sweden,"",otera-ratel-ab,construction,linkedin.com/company/otera-ratel-ab,"",otera ratel ab,"",11-50,otera.se
+sweden,2017,becktorwennstrom,marketing and advertising,linkedin.com/company/becktorwennstrom,lund,becktor & wennström,skåne,1-10,becktorwennstrom.com
+sweden,"",agido-management-consulting-ab,management consulting,linkedin.com/company/agido-management-consulting-ab,stockholm,agido management consulting ab,stockholms lan,1-10,agidomanagement.se
+sweden,1862,kalix-kommun,government administration,linkedin.com/company/kalix-kommun,kalix,kalix kommun,norrbotten,1001-5000,kalix.se
+sweden,1968,ingemar-johansson-ingenjörsbyrå,civil engineering,linkedin.com/company/ingemar-johansson-ingenjörsbyrå,"",ingemar johansson ingenjörsbyrå,"",11-50,ijohansson.se
+sweden,2008,construera-sverige-ab,construction,linkedin.com/company/construera-sverige-ab,tullinge,construera sverige ab,stockholm,11-50,construera.se
+sweden,"",infiniti-medical-ab,medical devices,linkedin.com/company/infiniti-medical-ab,"",infiniti medical ab,"",11-50,infiniti.se
+sweden,1960,svegro,food production,linkedin.com/company/svegro,"",svegro,"",51-200,svegro.se
+sweden,2010,maminza-ab,law practice,linkedin.com/company/maminza-ab,"",maminza ab,"",1-10,maminza.com
+sweden,2009,hitwd-ab,online media,linkedin.com/company/hitwd-ab,fargelanda,hitwd ab,vastra gotaland,1-10,hitwd.se
+sweden,1999,conferator,education management,linkedin.com/company/conferator,"",conferator,"",11-50,conferator.se
+sweden,2013,abba-the-museum,museums and institutions,linkedin.com/company/abba-the-museum,stockholm,abba the museum,stockholm,11-50,abbathemusum.com
+sweden,2002,salescoachingtoday,professional training & coaching,linkedin.com/company/salescoachingtoday,"",sales coching today,skåne,1-10,salescoaching.today
+sweden,2007,heart-of-stones,music,linkedin.com/company/heart-of-stones,stockholm,heart of stones,stockholms lan,1-10,heartofstones.com
+sweden,2012,brath-ab,information services,linkedin.com/company/brath-ab,ornskoldsvik,brath ab,vasternorrlands lan,11-50,brath.se
+sweden,1947,stockholms-stads-bostadsf-rmedling-ab,real estate,linkedin.com/company/stockholms-stads-bostadsf-rmedling-ab,stockholm,bostadsförmedlingen i stockholm ab,stockholms lan,51-200,""
+sweden,2014,axesslab,internet,linkedin.com/company/axesslab,"",axess lab,stockholm,1-10,axesslab.com
+sweden,1995,dermanord-svensk-hudv-rd-ab,cosmetics,linkedin.com/company/dermanord-svensk-hudv-rd-ab,kungsbacka,dermanord-svensk hudvård ab,halland,11-50,dermanord.se
+sweden,"",webbyravistrom-webb-ab,internet,linkedin.com/company/webbyravistrom-webb-ab,skovde,webbyrå viström ab,vastra gotaland,1-10,vistromwebb.se
+sweden,2017,jaa-projektledning,construction,linkedin.com/company/jaa-projektledning,lomma,jaa projektledning,skåne,1-10,jaaprojektledning.se
+sweden,1876,hagabadet,"leisure, travel & tourism",linkedin.com/company/hagabadet,"",hagabadet city spa,"",51-200,hagabadet.se
+sweden,"",pemasund-ab,construction,linkedin.com/company/pemasund-ab,"",pemasund ab,skåne,11-50,pemasund.se
+sweden,"",malung-sälens-gymnasieskola,higher education,linkedin.com/company/malung-sälens-gymnasieskola,malung,malung-sälens gymnasieskola,dalarna,51-200,""
+sweden,2012,stenbeck-info,human resources,linkedin.com/company/stenbeck-info,alvsjo,stenbeck info,stockholm,1-10,stenbeck.info
+sweden,2020,grow-media-ab,marketing and advertising,linkedin.com/company/grow-media-ab,sodertalje,grw media ab,stockholms lan,1-10,grwmedia.se
+sweden,"",topph-lsa-bonnier-tidskrifter,media production,linkedin.com/company/topph-lsa-bonnier-tidskrifter,"","topphälsa, bonnier tidskrifter",stockholm,201-500,topphalsa.se
+sweden,2002,klason-consulting,management consulting,linkedin.com/company/klason-consulting,"",klason consulting,stockholm,1-10,klasonconsulting.com
+sweden,2011,cyberduck-interactive,information technology and services,linkedin.com/company/cyberduck-interactive,"",cyberduck interactive,skåne,1-10,eborninteractive.se
+sweden,2004,laika-consulting,public relations and communications,linkedin.com/company/laika-consulting,"",laika consulting ab,stockholm,11-50,laika.se
+sweden,1979,exactalogistics,logistics and supply chain,linkedin.com/company/exactalogistics,hallstavik,exacta,stockholm,11-50,exacta.se
+sweden,2012,rehaboteket,hospital & health care,linkedin.com/company/rehaboteket,"",rehaboteket,"",1-10,rehaboteket.se
+sweden,2010,hypernode,information technology and services,linkedin.com/company/hypernode,"",hypernode ab,vaestmanland,1-10,hypernode.se
+sweden,"",per-capita-ab,online media,linkedin.com/company/per-capita-ab,goteborg,per capita ab,vastra gotaland,1-10,dental24.se
+sweden,"",advokatfirman-marlaw,law practice,linkedin.com/company/advokatfirman-marlaw,"",advokatfirman marlaw,stockholm,11-50,marlaw.se
+sweden,2015,wisest-ab,computer software,linkedin.com/company/wisest-ab,jonkoping,wisest ab,jonkopings lan,11-50,wisest.se
+sweden,2005,it-advokaterna,law practice,linkedin.com/company/it-advokaterna,"",it-advokaterna (it-lawyers),stockholm,1-10,itadvokaterna.se
+sweden,2015,rootstock-nordic-ab,information technology and services,linkedin.com/company/rootstock-nordic-ab,sollentuna,rootstock nordic ab,stockholm,1-10,rootstocknordic.se
+sweden,"",blossoms-photography,photography,linkedin.com/company/blossoms-photography,"",blossoms photography,"",1-10,blossoms.se
+sweden,2007,ub-t-ab,information technology and services,linkedin.com/company/ub-t-ab,viken,ubåt ab,orebro lan,1-10,ubatab.se
+sweden,1997,pulsanalys-ab,program development,linkedin.com/company/pulsanalys-ab,stockholm,pulsanalys ab,stockholm,1-10,pulsanalys.se
+sweden,"",sau,research,linkedin.com/company/sau,ase,sau,vasternorrlands lan,11-50,sau.se
+sweden,"",interwheel-sweden-ab,automotive,linkedin.com/company/interwheel-sweden-ab,karlstad,interwheel sweden ab,värmland,11-50,interwheel.se
+sweden,2003,möblera,furniture,linkedin.com/company/möblera,agnesberg,möblera,västra götaland,11-50,möblera.com
+sweden,1987,validus-engineering,mechanical or industrial engineering,linkedin.com/company/validus-engineering,staffanstorp,validus engineering,skåne,11-50,valeng.com
+sweden,"",mnconsulting-ab,building materials,linkedin.com/company/mnconsulting-ab,"",mnconsulting ab,"",11-50,mnconsulting.se
+sweden,2005,forweb,internet,linkedin.com/company/forweb,"",forweb,"",1-10,forweb.se
+sweden,"",tälje-borr-&-såg-ab,"",linkedin.com/company/tälje-borr-&-såg-ab,sodertalje,tälje borr & såg ab,stockholms lan,1-10,""
+sweden,2014,ebicube-ab,railroad manufacture,linkedin.com/company/ebicube-ab,alvsjo,ebcube ab,stockholm,1-10,ebicube.se
+sweden,1996,ergosafeab,"glass, ceramics & concrete",linkedin.com/company/ergosafeab,halmstad,ergosafe ab,halland,11-50,ergosafe.se
+sweden,2008,stocom-ab,management consulting,linkedin.com/company/stocom-ab,stockholm,stocom ab,stockholm,1-10,stocom.se
+sweden,1937,konjunkturinstitutet,government administration,linkedin.com/company/konjunkturinstitutet,"",konjunkturinstitutet,stockholm,51-200,konj.se
+sweden,1998,ullman-dynamics,maritime,linkedin.com/company/ullman-dynamics,gothenburg,ullman dynamics,västra götaland,11-50,ullmandynamics.com
+sweden,1910,kommunal,political organization,linkedin.com/company/kommunal,"",kommunal,stockholm,501-1000,kommunal.se
+sweden,2008,brandsgateway,wholesale,linkedin.com/company/brandsgateway,bankeryd,brandsgateway,jonkopings lan,11-50,brandsgateway.com
+sweden,2016,stories-of-apparel-creation,retail,linkedin.com/company/stories-of-apparel-creation,"",stories of apparel creation,"",1-10,soacstore.com
+sweden,"",observit-ab,accounting,linkedin.com/company/observit-ab,sundsvall,observit ab,vasternorrlands lan,1-10,observit.se
