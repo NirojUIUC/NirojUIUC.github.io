@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+<svg width="460" height="400" id="example3"></svg>
+<script>
+// ==== LEFT ====== //
+const annotations = [
+  {
+    note: {
+      label: "Here is the annotation label",
+      title: "Annotation title"
+    },
+    connector: {
+      end: "dot",        // Can be none, or arrow or dot
+      type: "line",      // ?? don't know what it does
+      lineType : "vertical",    // ?? don't know what it does
+      endScale: 10     // dot size
+    },
+    color: ["grey"],
+    x: 40,
+    y: 160,
+    dy: 70,
+    dx: 70
+  }
+]
+
+// Add annotation to the chart
+const makeAnnotations = d3.annotation()
+  .annotations(annotations)
+d3.select("#example3")
+  .append("g")
+  .call(makeAnnotations)
+
+
+// ==== RIGHT ====== //
+const annotationsRight = [
+  {
+    note: {
+      label: "Here is the annotation label",
+      title: "Annotation title"
+    },
+    connector: {
+      end: "arrow",        // none, or arrow or dot
+      type: "curve",       // Line or curve
+      points: 3,           // Number of break in the curve
+      lineType : "horizontal"
+    },
+    color: ["purple"],
+    x: 250,
+    y: 160,
+    dy: 70,
+    dx: 70
+  }
+]
+
+// Add annotation to the chart
+const makeAnnotationsRight = d3.annotation()
+  .annotations(annotationsRight)
+d3.select("#example3")
+  .append("g")
+  .call(makeAnnotationsRight)
+
+
+// ==== CHANGE STYLE ATTRIBUTE ====== //
+d3.select("#example3").selectAll(".connector")
+  .attr('stroke', "blue")
+  .style("stroke-dasharray", ("3, 3"))
+d3.select("#example3").selectAll(".connector-end")
+  .attr('stroke', "blue")
+  .attr('fill', "blue")
+
+</script>
+
+</body>
+</html>

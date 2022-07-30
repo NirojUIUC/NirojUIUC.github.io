@@ -1,0 +1,202 @@
+founded,industry,count
+2022,mining & metals,1
+2021,hospitality,11
+2021,information technology and services,5
+2021,education management,4
+2021,marketing and advertising,4
+2021,management consulting,4
+2020,information technology and services,6521
+2020,marketing and advertising,5515
+2020,management consulting,3041
+2020,computer software,2958
+2020,internet,2278
+2019,information technology and services,12997
+2019,marketing and advertising,10014
+2019,computer software,5540
+2019,management consulting,5128
+2019,financial services,4457
+2018,information technology and services,18740
+2018,marketing and advertising,15043
+2018,computer software,8275
+2018,management consulting,7650
+2018,financial services,6731
+2017,information technology and services,25397
+2017,marketing and advertising,22445
+2017,computer software,11721
+2017,management consulting,11357
+2017,financial services,8806
+2016,information technology and services,26170
+2016,marketing and advertising,22738
+2016,management consulting,11780
+2016,computer software,11254
+2016,internet,9665
+2015,information technology and services,25760
+2015,marketing and advertising,21543
+2015,management consulting,11488
+2015,computer software,10692
+2015,internet,10662
+2014,information technology and services,23745
+2014,marketing and advertising,19244
+2014,management consulting,10420
+2014,computer software,9692
+2014,internet,9661
+2013,information technology and services,21138
+2013,marketing and advertising,16945
+2013,management consulting,9455
+2013,internet,8734
+2013,computer software,8290
+2012,information technology and services,20102
+2012,marketing and advertising,16111
+2012,internet,8709
+2012,management consulting,8539
+2012,computer software,7640
+2011,information technology and services,17785
+2011,marketing and advertising,13960
+2011,internet,7873
+2011,management consulting,7537
+2011,computer software,6450
+2010,information technology and services,19327
+2010,marketing and advertising,15094
+2010,management consulting,8178
+2010,internet,7759
+2010,computer software,6508
+2009,information technology and services,16113
+2009,marketing and advertising,12086
+2009,management consulting,7307
+2009,internet,6372
+2009,computer software,5315
+2008,information technology and services,13320
+2008,marketing and advertising,9421
+2008,management consulting,5730
+2008,construction,4999
+2008,internet,4899
+2007,information technology and services,11542
+2007,marketing and advertising,7682
+2007,construction,4872
+2007,management consulting,4848
+2007,internet,3996
+2006,information technology and services,10125
+2006,marketing and advertising,6522
+2006,construction,4446
+2006,management consulting,4165
+2006,real estate,3559
+2005,information technology and services,9535
+2005,marketing and advertising,5911
+2005,construction,4480
+2005,management consulting,3955
+2005,real estate,3455
+2004,information technology and services,8478
+2004,marketing and advertising,5110
+2004,construction,3933
+2004,management consulting,3570
+2004,real estate,2855
+2003,information technology and services,7872
+2003,marketing and advertising,4666
+2003,construction,3602
+2003,management consulting,3240
+2003,computer software,2656
+2002,information technology and services,7076
+2002,marketing and advertising,4005
+2002,construction,3097
+2002,management consulting,3001
+2002,computer software,2355
+2001,information technology and services,7409
+2001,marketing and advertising,4371
+2001,construction,3192
+2001,management consulting,2887
+2001,computer software,2647
+2000,information technology and services,7410
+2000,marketing and advertising,3945
+2000,construction,3451
+2000,management consulting,2727
+2000,computer software,2649
+1999,information technology and services,6305
+1999,marketing and advertising,3505
+1999,construction,2917
+1999,computer software,2440
+1999,internet,2033
+1998,information technology and services,5262
+1998,construction,2816
+1998,marketing and advertising,2716
+1998,computer software,1939
+1998,management consulting,1830
+1997,information technology and services,4434
+1997,construction,2614
+1997,marketing and advertising,2322
+1997,computer software,1630
+1997,management consulting,1580
+1996,information technology and services,4275
+1996,construction,2619
+1996,marketing and advertising,2317
+1996,computer software,1537
+1996,management consulting,1480
+1995,information technology and services,3546
+1995,construction,2699
+1995,marketing and advertising,2044
+1995,real estate,1396
+1995,financial services,1318
+1994,information technology and services,2950
+1994,construction,2497
+1994,marketing and advertising,1723
+1994,financial services,1244
+1994,management consulting,1232
+1993,information technology and services,2433
+1993,construction,2300
+1993,marketing and advertising,1502
+1993,real estate,1080
+1993,computer software,1047
+1992,information technology and services,2438
+1992,construction,2387
+1992,marketing and advertising,1478
+1992,mechanical or industrial engineering,1090
+1992,computer software,1065
+1991,construction,2188
+1991,information technology and services,2168
+1991,marketing and advertising,1341
+1991,real estate,1030
+1991,mechanical or industrial engineering,978
+1990,construction,2354
+1990,information technology and services,1880
+1990,marketing and advertising,1190
+1990,real estate,1111
+1990,mechanical or industrial engineering,1003
+1989,construction,2459
+1989,information technology and services,1892
+1989,marketing and advertising,1239
+1989,real estate,1084
+1989,mechanical or industrial engineering,981
+1988,construction,2005
+1988,information technology and services,1367
+1988,real estate,865
+1988,marketing and advertising,838
+1988,mechanical or industrial engineering,820
+1987,construction,2062
+1987,information technology and services,1377
+1987,marketing and advertising,935
+1987,real estate,852
+1987,financial services,789
+1986,construction,2054
+1986,information technology and services,1256
+1986,marketing and advertising,855
+1986,real estate,849
+1986,mechanical or industrial engineering,837
+1985,construction,2041
+1985,information technology and services,1085
+1985,marketing and advertising,884
+1985,real estate,863
+1985,mechanical or industrial engineering,859
+1984,construction,1842
+1984,information technology and services,923
+1984,non-profit organization management,758
+1984,mechanical or industrial engineering,715
+1984,marketing and advertising,691
+1983,construction,1631
+1983,information technology and services,809
+1983,non-profit organization management,732
+1983,real estate,660
+1983,mechanical or industrial engineering,616
+1982,construction,1511
+1982,non-profit organization management,692
+1982,information technology and services,670
+1982,mechanical or industrial engineering,647
+1982,automotive,568
