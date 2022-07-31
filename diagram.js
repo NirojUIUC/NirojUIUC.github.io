@@ -108,7 +108,7 @@ const svg = d3.select("#summary_bars")
 
 var industry_cat_data = `<tr><th>Company Size</th><th>Category</th><th>Count</th></tr>`
 industry_cat_data += await
-  d3.csv("data/company_size_world.csv/part-00000-39189e2b-5e01-48f6-a9bd-76ed492c578c-c000.csv",
+  d3.csv("https://nirojuiuc.github.io/data/company_size_world.csv/part-00000-39189e2b-5e01-48f6-a9bd-76ed492c578c-c000.csv",
   d=> {
     switch(d.size) {
      case "10001+":
@@ -169,18 +169,23 @@ var radius=150
 //var pie = d3.pie().value(d.count);
 var arc = d3.arc().innerRadius(0).outerRadius(radius);
 
-var pie_data = fic.filter( d=> d.founded == 2001).sort((a,b) =>
+//var yearSelected = d3.select("#years").html(this.value);
+var yearSelected = +document.getElementById("years").value;
+console.log("yearSelected: "+yearSelected)
+
+var pie_data = fic.filter( d=> d.founded == yearSelected).sort((a,b) =>
     d3.descending(+a.count,+b.count)).filter((d,i) => i<=4 )
 
-var top_5_industry = pie_data.map(d => d.in)
-console.log(pie_data);
+var top_5_industry = pie_data.map(d => d.industry.toUpperCase())
+console.log("top_5_industry");
+console.log(top_5_industry);
 
 var tots = d3.sum(pie_data, d=> d.count);
 pie_data = pie_data.map(d =>  {d.share = d.count/tots*100; return d;} )
 
 var color_band = d3.scaleOrdinal()
   .domain(pie_data)
-   .range(['pink','yellow','lightgreen','cyan','lightblue']);
+   .range(d3.schemeDark2);
 
 var pie = d3.pie();
 var share = pie_data.map(d => d.share);
@@ -191,8 +196,8 @@ var label = d3.arc()
 
 var pie_svg = d3.select('#per_yr_pie')
 .append('g')
-.attr("transform","translate("+150+","+150+")")
-.selectAll()
+.attr("transform","translate("+170+","+150+")")
+.selectAll("path")
 .data(pie(share))
 .enter();
 
@@ -200,7 +205,7 @@ pie_svg.append('path')
 .attr('d',arc)
 .attr('fill', (d,i) => color_band(i));
 
-pie_grp = ['A', 'B', 'C', 'A', 'D']
+pie_grp = ['A', 'B', 'C', 'D', 'E']
 var arcOver = d3.arc()
     .innerRadius(0)
     .outerRadius(150 + 10);
@@ -230,59 +235,62 @@ var arcs = pie_svg.selectAll("g.slice")
 
 var arc = d3.arc().outerRadius(radius).innerRadius(0)
 
-pie_svg.append("text")
+pie_svg
+.selectAll('path')
+.attr("stroke", "white")
+.style("stroke-width", "3px")
+.style("opacity", 1);
+
+pie_svg
+.append("text")
 .attr("transform", d=> "translate(" + label.centroid(d) + ")")
 .text( (d,i) => pie_grp[i]+' : '+d3.format(".0f")(share[i])+'%')//pie_data[i].industry)
 .style("text-anchor", "middle")
 .style("font-size", 15)
-.on("mouseover", function(d) {
-         var endAngle = d.endAngle + 0.2;
-         var startAngle = d.startAngle - 0.2;
-         var arcOver = d3.arc().innerRadius(0)
-                       .outerRadius(radius + 9).endAngle(endAngle).startAngle(startAngle);
-        console.log("Mouse Over")
-        d3.select('#per_yr_pie')
-           .attr("stroke","white")
-           .transition()
-           .duration(1000)
-           .attr("d", arcOver)
-           .attr("stroke-width",6);
-    })
-    .on("mouseleave", function(d) {
-            d3.select('#per_yr_pie').transition()
-               .attr("d", arc)
-               .attr("endAngle", d.endAngle)
-               .attr("startAngle", d.startAngle)
-               .attr("stroke","none");
-        });
+.attr("color", 'white')
+.style('fill', '#FFFFFF');
 
 
-//stacked_plot
-//const color1 = ["lightgreen", "lightblue"];
-//// Create SVG and padding for the chart
-//const svg1 = d3
-//  .select("#stacked_plot")
-//  .append("svg")
-//  .attr("height", 300)
-//  .attr("width1", 600);
-//
-//const strokeWidth = 1.5;
-//const margin1 = { top: 0, bottom: 20, left: 30, right: 20 };
-//const chart = svg1.append("g").attr("transform", `translate(${margin1.left},0)`);
-//const width1 = +svg1.attr("width") - margin1.left - margin1.right - strokeWidth * 2;
-//const height1 = +svg1.attr("height") - margin1.top - margin1.bottom;
-//const height1 = +svg1.attr("height") - margin1.top - margin1.bottom;
-//const grp = chart
-//  .append("g")
-//  .attr("transform", `translate(-${margin1.left - strokeWidth},-${margin1.top})`);
-//
-//// Create stack
-//console.log("pie_data");
-//console.log(pie_data);
-//const industries_selected_raw = pie_data.map(d => d.industry);
-//const industries_selected = pie_data.map(d => d.industry.toUpperCase());
-//console.log("industries_selected_raw");
-//console.log(industries_selected_raw);
+//pie_data
+var ySeg = d3.scaleBand().domain(top_5_industry).range([0,4])
+
+d3.select("#segment_bar")
+.selectAll()
+.data(pie_grp)
+.enter()
+.append("rect")
+.attr('width', 20)
+.attr('height',20)
+.attr('x', 0)
+.attr('y', (d,i) => 50*i+50)
+.attr('fill', (d,i) => color_band(i));
+
+//font-weight="bold"
+d3.select("#segment_bar")
+.selectAll()
+.data(pie_grp)
+.enter()
+.append("text")
+.text( d => d)
+.attr('x', 8)
+.attr('y', (d,i) => 50*i+50+10)
+.attr("dy", ".35em")
+.style("font-size", 8)
+.style("font-weight", 'bold')
+.style("text-anchor", "middle")
+.attr("color", 'white')
+.style('fill', '#FFFFFF');
+
+d3.select("#segment_bar")
+.selectAll()
+.data(top_5_industry)
+.enter()
+.append("text")
+.text( d => d)
+.attr('x', 22)
+.attr('y', (d,i) => 50*i+50+10)
+.attr("dy", ".35em")
+.style("font-size", 8);
 
 
 var all_indstry_data = await d3.csv("data/company_founded_industry_top10.csv/part-00000-a2ef1f5b-bba1-4790-9913-3c1dcd520da6-c000.csv",
@@ -687,5 +695,11 @@ scr_svg.append('g')
 //d3.annotation().annotations(annotations);
 //
 //evt.currentTarget.className = " active";
+
+function takeActionByYear() {
+  var yearSelected = +document.getElementById("years").value;
+
+  }
+
 
 }

@@ -9,6 +9,15 @@ body {
 .one-third-img {
  width:33%;
 }
+
+.center-image{
+  width: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 /* Style the header */
 header {
   background-color: #89cdd3;
@@ -112,6 +121,17 @@ th {
   background-color: #f1f1f1;
 }
 
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: pink;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 /* Style the buttons inside the tab */
 .tab button {
   background-color: inherit;
@@ -165,4 +185,18 @@ option {
 #stacked_plot {
   text-align: center;
   margin-top: 40px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
 }

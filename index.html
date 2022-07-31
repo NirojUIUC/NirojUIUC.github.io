@@ -21,25 +21,25 @@
 <header>
     <h3>Companies & Beyond. A journey across the globe!!</h3>
 </header>
-<!--<div class="tab">-->
-<!--  <button class="tablinks" onclick="init(event)">Synopsis</button>-->
-<!--  <button class="tablinks" onclick="openCity(event, 'Details')">Paris</button>-->
-<!--</div>-->
-<!--<div id="London" class="tabcontent">-->
-<!--  <h3>London</h3>-->
-<!--  <p>London is the capital city of England.</p>-->
-<!--</div>-->
 
-<!--<div id="Paris" class="tabcontent">-->
-<!--  <h3>Paris</h3>-->
-<!--  <p>Paris is the capital of France.</p>-->
-<!--</div>-->
+<!--Ref: https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp-->
+<button id="button1" class="button;" onclick="changeScence('scene1')">Toggle Country Wise Summary Section</button>
+<script>
+function changeScence(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+<div>
 
-<!--<div id="Tokyo" class="tabcontent">-->
-<!--  <h3>Tokyo</h3>-->
-<!--  <p>Tokyo is the capital of Japan.</p>-->
-<!--</div>-->
+</div>
+<div id="scene1" style="display: block;">
 <section>
+
     <!--  <nav>-->
     <!--    <ul>-->
     <!--      <li><a href="#">London</a></li>-->
@@ -75,48 +75,53 @@
 
     </article>
     <div id="summary_bars">
-        <h4 class="blink_me" style="color:navy;text-align:center">Total company counts Vs Countries</h4>
+        <h4 style="color:navy;text-align:center">Total company counts Vs Countries</h4>
     </div>
 </section>
-
 <footer>
     <p></p>
 </footer>
+</div>
+
+<button id="button2" class="button" onclick="changeScence('scene2')">Toggle Total Industry wise Scene</button>
+<div id="scene2">
 <section>
-    <article style="color:navy;">
-        <h1>About company details:</h1>
-        <b>About the data:</b> <a href="https://docs.peopledatalabs.com/docs/free-company-dataset">Free company dataset
-        link</a>
-        <p>In this technology era, a lot of industries boomed and spreaded all over the world. Since social networking
-            site LinkdIn started on the year-2002, many companies registered themself on the new platfrom
-        </p>
-        <p>
-        </p>
-        <p>
-            On right side there top 10 countries having most companies are plotted. You can hover
-            on each bar to find the exact company count for the country
-        </p>
-    </article>
     <article style="color:navy;" height="300px">
-        <div class="blink_me"><h4 style="color:navy;text-align:center">Industry Category Vs Count</h4></div>
+        <div><h4 style="color:navy;text-align:center">Industry Category Vs Count</h4></div>
         <table style="background-color: #C1E1C1;" id="industry_cat" style="width:100%"></table>
     </article>
+        <form>
+            <label for="years" class="blink_me" style="color:navy;text-align:center">Choose a year:</label>
+            <select name="years" id="years" onchange="takeActionByYear()">
+                <option>2019</option>
+            </select>
+        </form>
+    </article style="color:navy;" height="300px">
+        <h4 style="color:navy;text-align:center">Industry</h4>
+        <div >
+            <svg id="per_yr_pie"  width=320 height=300></svg>
+            <svg id="segment_bar" width=201 height=300></svg>
+        </div>
+
 </section>
+    <footer>
+    <p></p>
+</footer>
+</div>
+
+<button id="button3" class="button" onclick="changeScence('scene3')">Toggle Industrial Covid Impact Scene</button>
+<div id="scene3">
+    <section>
+        <div id="scatter_plot"></div>
+    </section>
+ </div>
+<button id="button0" class="button;"
+        onclick="changeScence('scene1');changeScence('scene2');changeScence('scene3')">
+    Toggle Full Page View
+</button>
 <footer>
     <p></p>
 </footer>
-    <section>
-        <form>
-            <label for="years" class="blink_me" style="color:navy;text-align:center">Choose a year:</label>
-            <select name="years" id="years">
-                <option>2022</option>
-            </select>
-        </form>
-        <h4 style="color:navy;text-align:center">Industry</h4>
-        <svg id="per_yr_pie" width=300 height=300></svg>
-    </section>
-
-    <section><div id="scatter_plot"></div></section>
 </body>
 </html>
 
