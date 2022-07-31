@@ -19,16 +19,30 @@
     <header>
         <h3>Companies & Beyond. A journey across the globe!!</h3>
     </header>
-
+    <input type="button" onclick="fullScreen()" id="button0" value="Full Page View"><br>
     <!--Ref: https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp-->
-    <button id="button1" class="button;" onclick="changeScence('scene1')">Toggle Country Wise Summary Section</button>
+    <button id="button1" class="button;" onclick="changeScence('scene1','block');changeScence('scene2', 'none');changeScence('scene3', 'none')">
+        Toggle Country Wise Summary Section</button>
+    <button id="button2" class="button" onclick="changeScence('scene2','block');changeScence('scene1', 'none');changeScence('scene3', 'none')">Toggle Total Industry wise Scene</button>
+    <button id="button3" class="button" onclick="changeScence('scene3','block');changeScence('scene1', 'none');changeScence('scene2', 'none')">Toggle Industrial Covid Impact Scene</button>
     <script>
-        function changeScence(id) {
+        function fullScreen() {
+                changeScence('scene1', "block");
+                changeScence('scene2', "block");
+                changeScence('scene3', "block");
+        }
+
+        function changeScence(id, force) {
             var x = document.getElementById(id);
-            if (x.style.display === "none") {
-                x.style.display = "block";
-            } else {
-                x.style.display = "none";
+            if (force) {
+                x.style.display = force;
+            }
+            else {
+                if (x.style.display === "none") {
+                    x.style.display = "block";
+                } else {
+                    x.style.display = "none";
+                }
             }
         }
     </script>
@@ -37,14 +51,6 @@
     </div>
     <div id="scene1" style="display: block;">
         <section>
-
-            <!--  <nav>-->
-            <!--    <ul>-->
-            <!--      <li><a href="#">London</a></li>-->
-            <!--      <li><a href="#">Paris</a></li>-->
-            <!--      <li><a href="#">Tokyo</a></li>-->
-            <!--    </ul>-->
-            <!--  </nav>-->
             <div class="one-third-img" style="font-size:10px">
                 <img src="img/robert-stump-bwpgwJesFhw-unsplash.jpeg" style="width:100%;height: 389px"><br><br>
                 Photo by <a
@@ -74,23 +80,22 @@
                 </p>
 
             </article>
-            <div>
-                <!-- <label for="country">Filter by countries:</label>
+            <!-- <label for="country">Filter by countries:</label>
                 <select name="countries" id="countries" multiple>
                     <option value="all">ALL</option>
                 </select>
                 <input type="submit" value="Submit">
             </div> -->
-                <div id="summary_bars">
-                    <h4 style="color:navy;text-align:center">Total company counts Vs Countries</h4>
-                </div>
+            <div id="summary_bars">
+                <h4 style="color:navy;text-align:center">Total company counts Vs Countries</h4>
+            </div>
         </section>
         <footer>
             <p></p>
         </footer>
     </div>
 
-    <button id="button2" class="button" onclick="changeScence('scene2')">Toggle Total Industry wise Scene</button>
+
     <div id="scene2">
         <section>
             <article style="color:navy;" height="300px">
@@ -118,7 +123,7 @@
         </footer>
     </div>
 
-    <button id="button3" class="button" onclick="changeScence('scene3')">Toggle Industrial Covid Impact Scene</button>
+
     <div id="scene3">
         <section>
             <script>
@@ -146,16 +151,12 @@
                     Submit
                 </button>
             </form>
-            <div id="scatter_plot"></div>
+            <div id="scatter_plot" style="height:400;width:80%"></div>
         </section>
     </div>
     <footer>
         <p></p>
     </footer>
-    <button id="button0" class="button;"
-      onclick="changeScence('scene1');changeScence('scene2');changeScence('scene3')">
-        Toggle Full Page View
-    </button>
 </body>
 
 </html>

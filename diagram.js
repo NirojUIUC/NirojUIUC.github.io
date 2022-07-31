@@ -327,7 +327,7 @@ async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected
     const scr_svg = d3.select("#scatter_plot")
         .append("svg")
         .attr("width", width + 100)
-        .attr("height", height + 235)
+        .attr("height", height + 100)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -379,16 +379,14 @@ async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected
         .on("mouseover", function (event, d) {
             console.log(`Year: ${d.founded}
             Year: ${d.industry.toUpperCase()}
-            Total Companies: ${d.count}
-`);
+            Total Companies: ${d.count}`);
             tooltip.style("opacity", 1)
                 .style("left", (event.pageX) + "px")
                 .style("top", (event.pageY) + "px")
                 .style("stroke-width", 4)
                 .html(`Year: ${d.founded}<br>
                        Year: ${d.industry.toUpperCase()}<br>
-                       Total Companies: ${d.count}<br>
-       `)
+                       Total Companies: ${d.count}<br>`)
                 .style("stroke", "black")
                 .style("opacity", 1);
         })
