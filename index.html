@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src='https://d3js.org/d3.v7.min.js'></script>
     <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
-    <!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js"-->
-    <!--            integrity="sha512-iBAeBWWWFb8HqSBcrqcz98iIpuVH1la39dEYHtyQ/pGpeCQTQVvLJOWAuhv2Q7JSHp9k7hWA7sGxU3hHJe+tFg=="-->
-    <!--            crossorigin="anonymous" referrerpolicy="no-referrer"></script>-->
     <script src='diagram.js'></script>
     <script src="details.js"></script>
 
@@ -18,110 +16,146 @@
 </head>
 
 <body id="defaultOpen" onload='init(event)'>
-<header>
-    <h3>Companies & Beyond. A journey across the globe!!</h3>
-</header>
+    <header>
+        <h3>Companies & Beyond. A journey across the globe!!</h3>
+    </header>
 
-<!--Ref: https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp-->
-<button id="button1" class="button;" onclick="changeScence('scene1')">Toggle Country Wise Summary Section</button>
-<script>
-function changeScence(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
-<div>
+    <!--Ref: https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp-->
+    <button id="button1" class="button;" onclick="changeScence('scene1')">Toggle Country Wise Summary Section</button>
+    <script>
+        function changeScence(id) {
+            var x = document.getElementById(id);
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+    </script>
+    <div>
 
-</div>
-<div id="scene1" style="display: block;">
-<section>
-
-    <!--  <nav>-->
-    <!--    <ul>-->
-    <!--      <li><a href="#">London</a></li>-->
-    <!--      <li><a href="#">Paris</a></li>-->
-    <!--      <li><a href="#">Tokyo</a></li>-->
-    <!--    </ul>-->
-    <!--  </nav>-->
-    <div class="one-third-img" style="font-size:10px">
-        <img src="img/robert-stump-bwpgwJesFhw-unsplash.jpeg" style="width:100%;height: 389px"><br><br>
-        Photo by <a
-            href="https://unsplash.com/@stumpie10?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robert
-        Stump</a> on <a
-            href="https://unsplash.com/s/photos/companies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     </div>
-    <article style="color:navy;">
-        <h1>About company details:</h1>
-        <b>About the data:</b> <a href="https://docs.peopledatalabs.com/docs/free-company-dataset">Free company dataset
-        link</a>
-        <p>In this technology era, a lot of industries boomed and spreaded all over the world. Since social networking
-            site LinkdIn started on the year-2002, many companies registered themself on the new platfrom
-        </p>
-        <p>
-            We will analyze & study around ~9.7M public data from Linkdin dataset and try to explore for below
-            questions:
-        <li>What are the top 10 countries having most companies?</li>
-        <li>What are total sizes of companies around the globe in three category small, medium & large?</li>
-        <li>And many mores ...!!</li>
-        </p>
-        <p>
-            On right side there top 10 countries having most companies are plotted. You can hover
-            on each bar to find the exact company count for the country
-        </p>
+    <div id="scene1" style="display: block;">
+        <section>
 
-    </article>
-    <div id="summary_bars">
-        <h4 style="color:navy;text-align:center">Total company counts Vs Countries</h4>
+            <!--  <nav>-->
+            <!--    <ul>-->
+            <!--      <li><a href="#">London</a></li>-->
+            <!--      <li><a href="#">Paris</a></li>-->
+            <!--      <li><a href="#">Tokyo</a></li>-->
+            <!--    </ul>-->
+            <!--  </nav>-->
+            <div class="one-third-img" style="font-size:10px">
+                <img src="img/robert-stump-bwpgwJesFhw-unsplash.jpeg" style="width:100%;height: 389px"><br><br>
+                Photo by <a
+                    href="https://unsplash.com/@stumpie10?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robert
+                    Stump</a> on <a
+                    href="https://unsplash.com/s/photos/companies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+            </div>
+            <article style="color:navy;">
+                <h1>About company details:</h1>
+                <b>About the data:</b> <a href="https://docs.peopledatalabs.com/docs/free-company-dataset">Free company
+                    dataset
+                    link</a>
+                <p>In this technology era, a lot of industries boomed and spreaded all over the world. Since social
+                    networking
+                    site LinkdIn started on the year-2002, many companies registered themself on the new platfrom
+                </p>
+                <p>
+                    We will analyze & study around ~9.7M public data from Linkdin dataset and try to explore for below
+                    questions:
+                    <li>What are the top 10 countries having most companies?</li>
+                    <li>What are total sizes of companies around the globe in three category small, medium & large?</li>
+                    <li>And many mores ...!!</li>
+                </p>
+                <p>
+                    On right side there top 10 countries having most companies are plotted. You can hover
+                    on each bar to find the exact company count for the country
+                </p>
+
+            </article>
+            <div>
+                <!-- <label for="country">Filter by countries:</label>
+                <select name="countries" id="countries" multiple>
+                    <option value="all">ALL</option>
+                </select>
+                <input type="submit" value="Submit">
+            </div> -->
+                <div id="summary_bars">
+                    <h4 style="color:navy;text-align:center">Total company counts Vs Countries</h4>
+                </div>
+        </section>
+        <footer>
+            <p></p>
+        </footer>
     </div>
-</section>
-<footer>
-    <p></p>
-</footer>
-</div>
 
-<button id="button2" class="button" onclick="changeScence('scene2')">Toggle Total Industry wise Scene</button>
-<div id="scene2">
-<section>
-    <article style="color:navy;" height="300px">
-        <div><h4 style="color:navy;text-align:center">Industry Category Vs Count</h4></div>
-        <table style="background-color: #C1E1C1;" id="industry_cat" style="width:100%"></table>
-    </article>
-        <form>
-            <label for="years" class="blink_me" style="color:navy;text-align:center">Choose a year:</label>
-            <select name="years" id="years" onchange="takeActionByYear()">
-                <option>2019</option>
-            </select>
-        </form>
-    </article style="color:navy;" height="300px">
-        <h4 style="color:navy;text-align:center">Industry</h4>
-        <div >
-            <svg id="per_yr_pie"  width=320 height=300></svg>
-            <svg id="segment_bar" width=201 height=300></svg>
-        </div>
+    <button id="button2" class="button" onclick="changeScence('scene2')">Toggle Total Industry wise Scene</button>
+    <div id="scene2">
+        <section>
+            <article style="color:navy;" height="300px">
+                <div>
+                    <h4 style="color:navy;text-align:center">Industry Category Vs Count</h4>
+                </div>
+                <table style="background-color: #C1E1C1;" id="industry_cat" style="width:100%"></table>
+            </article>
+            <form>
+                <label for="years" class="blink_me" style="color:navy;text-align:center">Choose a year:</label>
+                <select name="years" id="years" onchange="createPieDigramForIndustryTypes()">
+                    <option>2019</option>
+                </select>
+            </form>
+            </article style="color:navy;" height="300px">
+            <h4 style="color:navy;text-align:center">Industry</h4>
+            <div>
+                <svg id="per_yr_pie" width=320 height=300></svg>
+                <svg id="segment_bar" width=201 height=300></svg>
+            </div>
 
-</section>
+        </section>
+        <footer>
+            <p></p>
+        </footer>
+    </div>
+
+    <button id="button3" class="button" onclick="changeScence('scene3')">Toggle Industrial Covid Impact Scene</button>
+    <div id="scene3">
+        <section>
+            <script>
+                function drawScatterPlot() {
+                    const form = document.querySelector("#scatterForm");
+                    const startYearSelected = +form.elements["start_yr"].value;
+                    const endYearSelected = +form.elements["end_yr"].value;
+                    const sector = form.elements["sector"].value;
+                    createScatterPlotForYearsTreds(startYearSelected, endYearSelected, sector);
+                }
+            </script>
+            <form action="javascript:drawScatterPlot()" id="scatterForm">
+                <label for="start_yr" style="color:navy;text-align:center">Choose year range:</label>
+                <select name="start_yr" id="start_yr">
+                    <option>1980</option>
+                </select>
+                <select name="end_yr" id="end_yr">
+                    <option>2022</option>
+                </select>
+                <label for="sector" style="color:navy;text-align:center">Choose industry type:</label>
+                <select name="sector" id="sector">
+                    <option>INFORMATION TECHNOLOGY AND SERVICES</option>
+                </select><br>
+                <button type="submit">
+                    Submit
+                </button>
+            </form>
+            <div id="scatter_plot"></div>
+        </section>
+    </div>
     <footer>
-    <p></p>
-</footer>
-</div>
-
-<button id="button3" class="button" onclick="changeScence('scene3')">Toggle Industrial Covid Impact Scene</button>
-<div id="scene3">
-    <section>
-        <div id="scatter_plot"></div>
-    </section>
- </div>
-<button id="button0" class="button;"
-        onclick="changeScence('scene1');changeScence('scene2');changeScence('scene3')">
-    Toggle Full Page View
-</button>
-<footer>
-    <p></p>
-</footer>
+        <p></p>
+    </footer>
+    <button id="button0" class="button;"
+      onclick="changeScence('scene1');changeScence('scene2');changeScence('scene3')">
+        Toggle Full Page View
+    </button>
 </body>
-</html>
 
+</html>
