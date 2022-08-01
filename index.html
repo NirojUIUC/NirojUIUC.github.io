@@ -140,18 +140,18 @@
         </footer>
     </div>
 
-
+    <script>
+        function drawScatterPlot() {
+            const form = document.querySelector("#scatterForm");
+            const startYearSelected = +form.elements["start_yr"].value;
+            const endYearSelected = +form.elements["end_yr"].value;
+            const sector = form.elements["sector"].value;
+            createScatterPlotForYearsTreds(startYearSelected, endYearSelected, sector);
+        }
+    </script>
+    
     <div id="scene3">
         <section>
-            <script>
-                function drawScatterPlot() {
-                    const form = document.querySelector("#scatterForm");
-                    const startYearSelected = +form.elements["start_yr"].value;
-                    const endYearSelected = +form.elements["end_yr"].value;
-                    const sector = form.elements["sector"].value;
-                    createScatterPlotForYearsTreds(startYearSelected, endYearSelected, sector);
-                }
-            </script>
             <form action="javascript:drawScatterPlot()" id="scatterForm">
                 <label for="start_yr" style="color:navy;text-align:center">Choose year range:</label>
                 <select name="start_yr" id="start_yr">
@@ -168,8 +168,7 @@
                     Submit
                 </button>
             </form>
-            <div id="scatter_plot" style="height:400;width:50%"></div>
-            <!-- <article class="scene3" style="color:navy;">Hi Hw are yoiu</article> -->
+            <div><svg id="scatter_plot" style="height:800;width:100%"></svg></div>
         </section>
     </div>
     <footer>

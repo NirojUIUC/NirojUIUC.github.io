@@ -5,6 +5,7 @@ async function init(evt) {
     await createPieDigramForIndustryTypes();
     await createScatterPlotForYearsTreds(1982, 2020);
     await annotationDetails();
+    await annotationDetailsScatterPlot();
 }
 
 async function createTop15CountryWiseSummaryBars() {
@@ -348,7 +349,6 @@ async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected
         height = 700 - margin.top - margin.bottom;
 
     const scr_svg = d3.select("#scatter_plot")
-        .append("svg")
         .attr("width", width + 100)
         .attr("height", height + 100)
         .append("g")
@@ -490,5 +490,92 @@ async function annotationDetails() {
 
 
 async function annotationDetailsScatterPlot() {
+
+    const covidEraImpt = [
+        {
+            note: {
+                label: "New Business decilned Severly!!",
+                title: "Covid impact",
+                wrap: 350,  // try something smaller to see text split in several lines
+                padding: 10   // More = text lower
+
+            },
+            color: ["#cc0000"],
+            x: 1139,
+            y: 500,
+            dy: 100,
+            dx: 100,
+            subject: { radius: 100, radiusPadding: 20 },
+            type: d3.annotationCalloutCircle,
+            connector: { end: "arrow" }
+        },];
+
+    const anntCovidEraImpt = d3.annotation()
+        .annotations(covidEraImpt);
+
+    d3.select("#scatter_plot")
+        .append("g")
+        .attr("class", "annotation-group")
+        .call(anntCovidEraImpt);
+
+
+    const techEra = [
+        {
+            note: {
+                label: "Industry driven due to advance computer technology",
+                title: "Tech Boom!!",
+                wrap: 350,  // try something smaller to see text split in several lines
+                padding: 10   // More = text lower
+
+            },
+            color: ["#cc0000"],
+            x: 800,
+            y: 500,
+            dy: -100,
+            dx: -200,
+            className: "show-bg",
+        },];
+
+    const anntTechEra = d3.annotation()
+        .annotations(techEra);
+
+    d3.select("#scatter_plot")
+        .append("g")
+        .attr("class", "annotation-group")
+        .call(anntTechEra);
+
+    const scatterAnnotation = [
+        {
+            note: {
+                label: "Due to covid we see there's steep decline on new startup. "
+                       +"On average the trends increases from commodity hardware/construction "
+                       +"to compute based technology driven industry!",
+
+                title: "Industry-wise Trends",
+                wrap: 350,  // try something smaller to see text split in several lines
+                padding: 10   // More = text lower
+
+            },
+            color: ["#cc0000"],
+            x: 100,
+            y: 100,
+            dy: 0,
+            dx: 0
+        },];
+
+    const makescatterAnnotation = d3.annotation()
+        .annotations(scatterAnnotation);
+
+    d3.select("#scatter_plot")
+        .append("g")
+        .attr("class", "annotation-group")
+        .call(makescatterAnnotation);
+
+
+
+
+
+
+    // <circle cx="774.5263157894738" cy="540.5126098586168" r="5" style="fill: rgb(148, 103, 189);"></circle>
 
 }
