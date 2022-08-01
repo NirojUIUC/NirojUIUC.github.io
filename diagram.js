@@ -145,6 +145,7 @@ async function addYearsOptions() {
         d3.descending(+a.tot, +b.tot))
 
     let yr_options = [...new Set(fic.map(d => +(d.founded ? d.founded : 0)))];
+    let sctr_options = [...new Set(fic.map(d => d.industry))];
 
     d3.select("#years")
         .selectAll("option")
@@ -169,6 +170,14 @@ async function addYearsOptions() {
         .append("option")
         .text(d => d)
         .attr("value", d => d);
+
+        d3.select("#sector")
+        .selectAll("option")
+        .data(sctr_options)
+        .enter()
+        .append("option")
+        .text(d => d.toUpperCase())
+        .attr("value", d => d.toUpperCase());
 
 
 }
@@ -301,7 +310,7 @@ async function createPieDigramForIndustryTypes() {
     <option>INFORMATION TECHNOLOGY AND SERVICES</option>
 </select> */}
 
-async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected, sector) {
+async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected, sector="Top 5 Sectors") {
 
     if (startYearSelected >= endYearSelected) {
         alert(`Error: Wrong Range of year Selected:
@@ -316,8 +325,13 @@ async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected
             d.industry = d.industry.toUpperCase();
             return d;
         });
+    if(sector == "Top 5 Sectors"){
+    all_indstry_data = all_indstry_data.filter(d => (+d.founded >= startYearSelected 
+        && +d.founded <= endYearSelected))}
+    else{
+        all_indstry_data = all_indstry_data.filter(d => (+d.founded >= startYearSelected 
+            && +d.founded <= endYearSelected && d.industry == sector))}
 
-    all_indstry_data = all_indstry_data.filter(d => (+d.founded >= startYearSelected && +d.founded <= endYearSelected))
 
     const margin = { top: 35, right: 30, bottom: 0, left: 38 },
         width = 1200 - margin.left - margin.right,
@@ -461,5 +475,10 @@ async function annotationDetails() {
             .append("g")
             .attr("class", "annotation-group")
             .call(makeAnnotationsBarzilIndia);
+
+}
+
+
+async function annotationDetails() {
 
 }
