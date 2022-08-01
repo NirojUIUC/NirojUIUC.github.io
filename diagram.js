@@ -79,6 +79,8 @@ async function createTop15CountryWiseSummaryBars() {
         .attr("height", y.bandwidth())
         .attr("fill", (d, i) => color(i))
         .on("mouseover", function (event, d) {
+            // console.log(`Country: ${d.country.toUpperCase()}
+            // Total Companies: ${d.tot}`)
             tooltip.style("opacity", 1)
                 .style("left", (event.pageX) + "px")
                 .style("top", (event.pageY) + "px")
