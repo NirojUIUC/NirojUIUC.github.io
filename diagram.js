@@ -3,7 +3,8 @@ async function init(evt) {
     await createIndustryCategoryTable();
     await addYearsOptions();
     await createPieDigramForIndustryTypes();
-    await createScatterPlotForYearsTreds(1982,2020);
+    await createScatterPlotForYearsTreds(1982, 2020);
+    await annotationDetails();
 }
 
 async function createTop15CountryWiseSummaryBars() {
@@ -12,15 +13,14 @@ async function createTop15CountryWiseSummaryBars() {
         d3.descending(+a.tot, +b.tot)).filter((d, i) => i <= 15)
 
     const margin = { top: 20, right: 30, bottom: 40, left: 120 },
-        width = 460 - margin.left - margin.right,
+        width = 500 - margin.left - margin.right,
         height = 400 - margin.top - margin.bottom;
 
     total_comp = all_cntry_list.map((d, i) => +d.tot);
     max_total = d3.max(total_comp);
 
     var color = d3.scaleOrdinal(d3.schemeCategory10);
-    const svg = d3.select("#summary_bars")
-        .append("svg")
+    const svg = d3.select("#horizontal-bars")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
@@ -140,7 +140,7 @@ async function addYearsOptions() {
         year = +(d.founded ? d.founded : 0)
         return (year >= 1980 && year <= 2022);
     });
-    
+
     fic = fic.sort((a, b) =>
         d3.descending(+a.tot, +b.tot))
 
@@ -176,7 +176,7 @@ async function addYearsOptions() {
 async function createPieDigramForIndustryTypes() {
     var founded_industry_companies = "data/company_founded_industry_companies.csv/part-00000-9532f76e-79e3-4b46-b126-a7f65bd2e6ca-c000.csv";
     var fic = await d3.csv(founded_industry_companies);
-    
+
     var radius = 150
     //var pie = d3.pie().value(d.count);
     var arc = d3.arc().innerRadius(0).outerRadius(radius);
@@ -303,12 +303,11 @@ async function createPieDigramForIndustryTypes() {
 
 async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected, sector) {
 
-    if (startYearSelected >= endYearSelected)
-    {
+    if (startYearSelected >= endYearSelected) {
         alert(`Error: Wrong Range of year Selected:
         1st Year: ${startYearSelected}, 2nd Year: ${endYearSelected}
         1st Year must be smaller than 2nd year!`);
-        return(0);
+        return (0);
     }
     d3.select("#scatter_plot").selectAll("*").remove();
 
@@ -319,7 +318,7 @@ async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected
         });
 
     all_indstry_data = all_indstry_data.filter(d => (+d.founded >= startYearSelected && +d.founded <= endYearSelected))
-    
+
     const margin = { top: 35, right: 30, bottom: 0, left: 38 },
         width = 1200 - margin.left - margin.right,
         height = 700 - margin.top - margin.bottom;
@@ -403,4 +402,64 @@ async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected
         .attr("cy", d => scrY(+d.count))
         .attr("r", d => Math.max(5, d.count / 1000))
         .style("fill", (d, i) => scrColor(d.industry));
+}
+
+
+async function annotationDetails() {
+    const annotationsBars = [
+        {
+            note: {
+                label: "Mostly Tech Companies. Yet to register",
+                title: "China Linkedin",
+                wrap: 200,  // try something smaller to see text split in several lines
+                padding: 10   // More = text lower
+
+            },
+            color: ["#cc0000"],
+            x: 130,
+            y: 239.06172+10,
+            dy: -20,
+            dx: 130,
+            subject: { radius: 50, radiusPadding: 90 },
+            type: d3.annotationCalloutElbow,
+    connector: { end: "arrow" }
+        },];
+
+    const makeAnnotationsBars = d3.annotation()
+        .annotations(annotationsBars);
+
+    d3.select("#horizontal-bars")
+        .append("g")
+        .attr("class", "annotation-group")
+        .call(makeAnnotationsBars);
+
+
+        //<rect x="0" y="46.17283950617283" width="36.80921645346788" height="16.790123456790123" fill="#2ca02c"></rect>
+        const AnnotationsBarzilIndia = [
+            {
+                note: {
+                    label: "India/Brazil/France",
+                    title: "Similar Economy",
+                    wrap: 350,  // try something smaller to see text split in several lines
+                    padding: 10   // More = text lower
+    
+                },
+                color: ["#cc0000"],
+                x: 140,
+                y: 70,
+                dy: 0,
+                dx: 100,
+                subject: { radius: 20, radiusPadding: 20 },
+                type: d3.annotationCalloutCircle,
+        connector: { end: "arrow" }
+            },];
+    
+        const makeAnnotationsBarzilIndia = d3.annotation()
+            .annotations(AnnotationsBarzilIndia);
+    
+        d3.select("#horizontal-bars")
+            .append("g")
+            .attr("class", "annotation-group")
+            .call(makeAnnotationsBarzilIndia);
+
 }
