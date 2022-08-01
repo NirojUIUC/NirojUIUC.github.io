@@ -489,6 +489,6 @@ async function annotationDetails() {
 }
 
 
-async function annotationDetails() {
+async function annotationDetailsScatterPlot() {
 
 }
