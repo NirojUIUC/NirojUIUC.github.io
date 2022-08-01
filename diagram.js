@@ -171,15 +171,6 @@ async function addYearsOptions() {
         .text(d => d)
         .attr("value", d => d);
 
-        d3.select("#sector")
-        .selectAll("option")
-        .data(sctr_options)
-        .enter()
-        .append("option")
-        .text(d => d.toUpperCase())
-        .attr("value", d => d.toUpperCase());
-
-
 }
 
 async function createPieDigramForIndustryTypes() {
@@ -199,6 +190,14 @@ async function createPieDigramForIndustryTypes() {
         d3.descending(+a.count, +b.count)).filter((d, i) => i <= 4)
 
     var top_5_industry = pie_data.map(d => d.industry.toUpperCase())
+
+    d3.select("#sector")
+        .selectAll("option")
+        .data(top_5_industry)
+        .enter()
+        .append("option")
+        .text(d => d)
+        .attr("value", d => d);
 
     var tots = d3.sum(pie_data, d => d.count);
     pie_data = pie_data.map(d => { d.share = d.count / tots * 100; return d; })
@@ -296,6 +295,15 @@ async function createPieDigramForIndustryTypes() {
         .attr("dy", ".35em")
         .style("font-size", 8);
 
+
+    d3.select("#sector")
+        .selectAll("option")
+        .data(top_5_industry)
+        .enter()
+        .append("option")
+        .text(d => d)
+        .attr("value", d => d);
+
 }
 
 {/* <label for="start_yr" style="color:navy;text-align:center">Choose year range:</label>
@@ -310,7 +318,7 @@ async function createPieDigramForIndustryTypes() {
     <option>INFORMATION TECHNOLOGY AND SERVICES</option>
 </select> */}
 
-async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected, sector="Top 5 Sectors") {
+async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected, sector = "Top 5 Sectors") {
 
     if (startYearSelected >= endYearSelected) {
         alert(`Error: Wrong Range of year Selected:
@@ -325,12 +333,14 @@ async function createScatterPlotForYearsTreds(startYearSelected, endYearSelected
             d.industry = d.industry.toUpperCase();
             return d;
         });
-    if(sector == "Top 5 Sectors"){
-    all_indstry_data = all_indstry_data.filter(d => (+d.founded >= startYearSelected 
-        && +d.founded <= endYearSelected))}
-    else{
-        all_indstry_data = all_indstry_data.filter(d => (+d.founded >= startYearSelected 
-            && +d.founded <= endYearSelected && d.industry == sector))}
+    if (sector == "Top 5 Sectors") {
+        all_indstry_data = all_indstry_data.filter(d => (+d.founded >= startYearSelected
+            && +d.founded <= endYearSelected))
+    }
+    else {
+        all_indstry_data = all_indstry_data.filter(d => (+d.founded >= startYearSelected
+            && +d.founded <= endYearSelected && d.industry == sector))
+    }
 
 
     const margin = { top: 35, right: 30, bottom: 0, left: 38 },
@@ -431,12 +441,12 @@ async function annotationDetails() {
             },
             color: ["#cc0000"],
             x: 130,
-            y: 239.06172+10,
+            y: 239.06172 + 10,
             dy: -20,
             dx: 130,
             subject: { radius: 50, radiusPadding: 90 },
             type: d3.annotationCalloutElbow,
-    connector: { end: "arrow" }
+            connector: { end: "arrow" }
         },];
 
     const makeAnnotationsBars = d3.annotation()
@@ -448,33 +458,33 @@ async function annotationDetails() {
         .call(makeAnnotationsBars);
 
 
-        //<rect x="0" y="46.17283950617283" width="36.80921645346788" height="16.790123456790123" fill="#2ca02c"></rect>
-        const AnnotationsBarzilIndia = [
-            {
-                note: {
-                    label: "India/Brazil/France",
-                    title: "Similar Economy",
-                    wrap: 350,  // try something smaller to see text split in several lines
-                    padding: 10   // More = text lower
-    
-                },
-                color: ["#cc0000"],
-                x: 140,
-                y: 70,
-                dy: 0,
-                dx: 100,
-                subject: { radius: 20, radiusPadding: 20 },
-                type: d3.annotationCalloutCircle,
-        connector: { end: "arrow" }
-            },];
-    
-        const makeAnnotationsBarzilIndia = d3.annotation()
-            .annotations(AnnotationsBarzilIndia);
-    
-        d3.select("#horizontal-bars")
-            .append("g")
-            .attr("class", "annotation-group")
-            .call(makeAnnotationsBarzilIndia);
+    //<rect x="0" y="46.17283950617283" width="36.80921645346788" height="16.790123456790123" fill="#2ca02c"></rect>
+    const AnnotationsBarzilIndia = [
+        {
+            note: {
+                label: "India/Brazil/France",
+                title: "Similar Economy",
+                wrap: 350,  // try something smaller to see text split in several lines
+                padding: 10   // More = text lower
+
+            },
+            color: ["#cc0000"],
+            x: 140,
+            y: 70,
+            dy: 0,
+            dx: 100,
+            subject: { radius: 20, radiusPadding: 20 },
+            type: d3.annotationCalloutCircle,
+            connector: { end: "arrow" }
+        },];
+
+    const makeAnnotationsBarzilIndia = d3.annotation()
+        .annotations(AnnotationsBarzilIndia);
+
+    d3.select("#horizontal-bars")
+        .append("g")
+        .attr("class", "annotation-group")
+        .call(makeAnnotationsBarzilIndia);
 
 }
 
